@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FX678 Economic Calendar//https://gitee.com/obeya//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:美国-Key
+X-WR-CALDESC:财经日历 (美国-Key)
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260617T203000
+DTEND;TZID=Asia/Shanghai:20260617T203000
+LOCATION:美国
+SUMMARY:📊 美国5月零售销售月率(%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.5 | 预测: 0.5 | 公布: 0.9\n-- 美国5月核心零售销售月率(%) ★★★: 前值: 0.7 | 预测: 0.5 | 公布: 0.8\n-- 美国5月核心零售销售(亿美元): 前值: 6178.56 | 预测: - | 公布: 6234.44\n-- 美国5月零售销售(亿美元): 前值: 7570.85 | 预测: - | 公布: 7637.05\n-- 美国5月零售销售年率(%) ★★★: 前值: 4.87 | 预测: - | 公布: 6.88\n-- 美国5月剔除汽车及汽油零售额月率-季调后(%): 前值: 0.5 | 预测: - | 公布: 0.5\n-- 美国5月关联GDP的零售额控制组月率-季调后(%) ★★★: 前值: 0.5 | 预测: 0.4 | 公布: 0.7
+UID:fx678-20260617-2def34eb
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国5月零售销售月率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260618T020000
+DTEND;TZID=Asia/Shanghai:20260618T020000
+SUMMARY:📰 美联储FOMC公布利率决议和经济预期摘要。
+DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n美联储FOMC公布利率决议和经济预期摘要。
+UID:fx678-20260618-3d0f9d21
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 美联储FOMC公布利率决议和经济预期摘要。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260619
+LOCATION:纽交所
+SUMMARY:🏖️ 六月节，休市一日。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n六月节，休市一日。
+UID:fx678-20260619-04a3e38e
+CATEGORIES:国际假期预告
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:🏖️ 六月节，休市一日。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260619
+LOCATION:芝商所（CME）
+SUMMARY:🏖️ 六月节，旗下贵金属、美国原油、外汇、股指、美债期货合约交易提前于北京时间20日01:00结束。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n六月节，旗下贵金属、美国原油、外汇、股指、美债期货合约交易提前于北京时间20日01:00结束。
+UID:fx678-20260619-1df7389a
+CATEGORIES:国际假期预告
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:🏖️ 六月节，旗下贵金属、美国原油、外汇、股指、美债期货合约交易提前于北京时间20日01:00结束。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260619
+LOCATION:洲际交易所（ICE）
+SUMMARY:🏖️ 六月节，旗下布伦特原油期货合约交易提前于北京时间20日01:30结束。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n六月节，旗下布伦特原油期货合约交易提前于北京时间20日01:30结束。
+UID:fx678-20260619-49c1dc67
+CATEGORIES:国际假期预告
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:🏖️ 六月节，旗下布伦特原油期货合约交易提前于北京时间20日01:30结束。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260625T203000
+DTEND;TZID=Asia/Shanghai:20260625T203000
+LOCATION:美国
+SUMMARY:📊 美国第一季度终值实际GDP年化季率终值(%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: -\n-- 美国第一季度企业获利年化季率修正值(%): 前值: -0.4 | 预测: - | 公布: -\n-- 美国第一季度终值GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: - | 公布: -\n-- 美国第一季度终值核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: - | 公布: -\n-- 美国第一季度终值消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 美国第一季度终值年化实际GDP终值(亿美元): 前值:  | 预测: - | 公布: -\n-- 美国第一季度终值最终销售年化季率终值(%): 前值: 1.5 | 预测: - | 公布: -\n-- 美国第一季度终值PCE物价指数年化季率终值(%): 前值: 4.5 | 预测: - | 公布: -\n-- 美国第一季度终值GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
+UID:fx678-20260625-0c5db32e
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国第一季度终值实际GDP年化季率终值(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260626T034000
+DTEND;TZID=Asia/Shanghai:20260626T034000
+SUMMARY:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
+DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nFOMC永久票委、纽约联储主席威廉姆斯发表讲话。
+UID:fx678-20260626-6d1ff5d6
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260626T063000
+DTEND;TZID=Asia/Shanghai:20260626T063000
+SUMMARY:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
+DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
+UID:fx678-20260626-32f57f57
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260626T233000
+DTEND;TZID=Asia/Shanghai:20260626T233000
+SUMMARY:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
+DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
+UID:fx678-20260626-28466c5b
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T203000
+DTEND;TZID=Asia/Shanghai:20260702T203000
+LOCATION:美国
+SUMMARY:📊 美国6月非农就业人口变动季调后(万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: - | 公布: -\n-- 美国6月平均每小时工资月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国6月平均每周工时(小时): 前值: 34.3 | 预测: - | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: - | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: - | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: - | 公布: -\n-- 美国6月U6失业率(%): 前值: 8.1 | 预测: - | 公布: -\n-- 美国6月政府部门岗位变动(万人): 前值: 5.2 | 预测: - | 公布: -
+UID:fx678-20260702-610ce270
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国6月非农就业人口变动季调后(万)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
