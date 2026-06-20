@@ -14,9 +14,9 @@
 
 > **美国_Key.ics**仅包含*假期*、*CPI*、*PPI*、*FOMC*、*GDP*、*非农*
 
-- 中国：`https://raw.githubusercontent.com/obeya/calendar/main/中国.ics`
-- 美国：`https://raw.githubusercontent.com/obeya/calendar/main/美国_Key.ics`
-- 美国：`https://raw.githubusercontent.com/obeya/calendar/main/美国_High.ics`
+- 中国：`https://raw.githubusercontent.com/obeya/calendar/main/CN.ics`
+- 美国：`https://raw.githubusercontent.com/obeya/calendar/main/US_KEY.ics`
+- 美国：`https://raw.githubusercontent.com/obeya/calendar/main/US_HIGH.ics`
 
 
 ## 如何订阅

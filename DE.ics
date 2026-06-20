@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FX678 Economic Calendar//https://gitee.com/obeya//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:德国
+X-WR-CALDESC:财经日历 (德国)
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260619T140000
+DTEND;TZID=Asia/Shanghai:20260619T140000
+LOCATION:德国
+SUMMARY:📊 德国5月PPI年率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.7 | 预测: 2.5 | 公布: 2.2\n-- 德国5月PPI月率(%): 前值: 1.2 | 预测: 0.7 | 公布: 0.3
+UID:fx678-20260619-3ce8b8c8
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国5月PPI年率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260623T120000
+DTEND;TZID=Asia/Shanghai:20260623T120000
+LOCATION:德国
+SUMMARY:📊 德国5月新车登记年率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 4.5 | 预测: - | 公布: -\n-- 德国5月新车登记月率(%): 前值: 2.7 | 预测: - | 公布: -\n-- 欧盟5月新车登记年率(%): 前值: 4.2 | 预测: - | 公布: -\n-- 欧盟5月新车登记数量(辆): 前值: 972314 | 预测: - | 公布: -\n-- 欧盟5月新车登记月率(%): 前值: 5.1 | 预测: - | 公布: -
+UID:fx678-20260623-4dfb9cd8
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国5月新车登记年率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260623T153000
+DTEND;TZID=Asia/Shanghai:20260623T153000
+LOCATION:德国
+SUMMARY:📊 德国6月初值SPGI制造业PMI初值
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 50.1 | 预测: 50.5 | 公布: -
+UID:fx678-20260623-1730f0b1
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月初值SPGI制造业PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260623T153000
+DTEND;TZID=Asia/Shanghai:20260623T153000
+LOCATION:德国
+SUMMARY:📊 德国6月初值SPGI服务业PMI初值
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.1 | 预测: 49 | 公布: -\n-- 德国6月初值SPGI综合PMI初值: 前值: 48.8 | 预测: 49.9 | 公布: -
+UID:fx678-20260623-7b45f0c9
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月初值SPGI服务业PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260624T160000
+DTEND;TZID=Asia/Shanghai:20260624T160000
+LOCATION:德国
+SUMMARY:📊 德国6月IFO商业景气指数
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 84.9 | 预测: 85.6 | 公布: -\n-- 德国6月IFO商业现况指数: 前值: 86.1 | 预测: 86.4 | 公布: -\n-- 德国6月IFO商业预期指数: 前值: 83.8 | 预测: 85 | 公布: -
+UID:fx678-20260624-55ee26a4
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月IFO商业景气指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260625T140000
+DTEND;TZID=Asia/Shanghai:20260625T140000
+LOCATION:德国
+SUMMARY:📊 德国7月Gfk消费者信心指数
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.8 | 预测: -27.5 | 公布: -
+UID:fx678-20260625-4c46460d
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国7月Gfk消费者信心指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260625T160000
+DTEND;TZID=Asia/Shanghai:20260625T160000
+SUMMARY:📰 欧洲央行公布经济公报。
+DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★★\n欧洲央行公布经济公报。
+UID:fx678-20260625-571536b1
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 欧洲央行公布经济公报。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T140000
+DTEND;TZID=Asia/Shanghai:20260630T140000
+LOCATION:德国
+SUMMARY:📊 德国进口物价月环比进口物价指数月率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.2 | 预测: - | 公布: -\n-- 德国进口物价月环比进口物价指数年率(%): 前值: 5.3 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数年率(%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数月率(%): 前值: 0.8 | 预测: - | 公布: -
+UID:fx678-20260630-3f0cf0da
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国进口物价月环比进口物价指数月率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T140000
+DTEND;TZID=Asia/Shanghai:20260630T140000
+LOCATION:德国
+SUMMARY:📊 德国实际零售销售月环比实际零售销售月率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.3 | 预测: - | 公布: -\n-- 德国实际零售销售月环比实际零售销售年率(%) ★★★: 前值: -0.3 | 预测: - | 公布: -
+UID:fx678-20260630-7c5c9172
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国实际零售销售月环比实际零售销售月率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T155500
+DTEND;TZID=Asia/Shanghai:20260630T155500
+LOCATION:德国
+SUMMARY:📊 德国6月季调后失业率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.3 | 预测: - | 公布: -\n-- 德国6月季调后失业人数变动(万人) ★★★: 前值: -1.2 | 预测: - | 公布: -\n-- 德国6月未季调失业总人数(万人): 前值: 29.5 | 预测: - | 公布: -\n-- 德国6月季调后失业总人数(万人): 前值: 298.7 | 预测: - | 公布: -
+UID:fx678-20260630-3da4cba6
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月季调后失业率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T160000
+DTEND;TZID=Asia/Shanghai:20260630T160000
+LOCATION:德国
+SUMMARY:📊 德国6月BB勃兰登堡州CPI月率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.1 | 预测: - | 公布: -\n-- 德国6月SN萨克森州CPI年率(%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国6月BY巴伐利亚州CPI年率(%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国6月BB勃兰登堡州CPI年率(%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国6月BW巴登符腾堡州CPI月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 德国6月BW巴登符腾堡州CPI年率(%): 前值: 2.4 | 预测: - | 公布: -\n-- 德国6月BY巴伐利亚州CPI月率(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月HE黑森州CPI月率(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月HE黑森州CPI年率(%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国6月SN萨克森州CPI月率(%): 前值: -0.1 | 预测: - | 公布: -
+UID:fx678-20260630-015ea2b8
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月BB勃兰登堡州CPI月率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T160000
+DTEND;TZID=Asia/Shanghai:20260630T160000
+LOCATION:德国
+SUMMARY:📊 德国6月NW北莱茵威斯特法伦州CPI年率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.4 | 预测: - | 公布: -
+UID:fx678-20260630-00847800
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月NW北莱茵威斯特法伦州CPI年率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260630T200000
+DTEND;TZID=Asia/Shanghai:20260630T200000
+LOCATION:德国
+SUMMARY:📊 德国6月初值CPI年率初值(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值调和CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值调和CPI年率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260630-744d91cf
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月初值CPI年率初值(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T155500
+DTEND;TZID=Asia/Shanghai:20260701T155500
+LOCATION:德国
+SUMMARY:📊 德国6月终值SPGI制造业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260701-093af00a
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月终值SPGI制造业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260703T155500
+DTEND;TZID=Asia/Shanghai:20260703T155500
+LOCATION:德国
+SUMMARY:📊 德国6月终值SPGI服务业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值:  | 预测: - | 公布: -\n-- 德国6月终值SPGI综合PMI终值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260703-7f12235e
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月终值SPGI服务业PMI终值
+END:VALARM
+END:VEVENT
+END:VCALENDAR
