@@ -12,7 +12,7 @@
 
 ## 订阅链接
 
-> 美国_Key.ics仅包含假期、CPI、PPI、FOMC、GDP、非农
+> **美国_Key.ics**仅包含*假期*、*CPI*、*PPI*、*FOMC*、*GDP*、*非农*
 
 - 中国：`https://raw.githubusercontent.com/obeya/calendar/main/中国.ics`
 - 美国：`https://raw.githubusercontent.com/obeya/calendar/main/美国_Key.ics`
