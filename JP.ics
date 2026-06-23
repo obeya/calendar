@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260623T083000
 LOCATION:日本
 SUMMARY:📊 日本6月初值Jibun制造业PMI初值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.5 | 预测: - | 公布: 54.9\n-- 日本6月初值Jibun服务业PMI初值: 前值: 50 | 预测: - | 公布: 51.8\n-- 日本6月初值Jibun综合PMI初值: 前值: 51.1 | 预测: - | 公布: 52.5
-UID:fx678-20260623-138f6f04
+UID:fx678-20260623-63ae9a34
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -35,7 +35,7 @@ DTEND;TZID=Asia/Shanghai:20260624T075000
 LOCATION:日本
 SUMMARY:📊 日本5月企业服务价格指数年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3 | 预测: - | 公布: -\n-- 日本5月企业服务价格指数月率(%): 前值: 0.5 | 预测: - | 公布: -
-UID:fx678-20260624-6a582dbf
+UID:fx678-20260624-2624a0e0
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -49,7 +49,7 @@ DTEND;TZID=Asia/Shanghai:20260624T130000
 LOCATION:日本
 SUMMARY:📊 日本5月超市销售年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 1.1 | 预测: - | 公布: -
-UID:fx678-20260624-448d09bb
+UID:fx678-20260624-5e524faf
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -62,7 +62,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T075000
 DTEND;TZID=Asia/Shanghai:20260624T075000
 SUMMARY:📰 日本央行公布6月货币政策会议审议委员意见摘要。
 DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★★\n日本央行公布6月货币政策会议审议委员意见摘要。
-UID:fx678-20260624-716d1e9e
+UID:fx678-20260624-17ebd04d
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -75,7 +75,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T144000
 DTEND;TZID=Asia/Shanghai:20260624T144000
 SUMMARY:📰 日本央行副行长冰见野良三发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★\n日本央行副行长冰见野良三发表讲话。
-UID:fx678-20260624-72b01d39
+UID:fx678-20260624-2db0e741
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -89,7 +89,7 @@ DTEND;TZID=Asia/Shanghai:20260625T075000
 LOCATION:日本
 SUMMARY:📊 日本截至6月20日当周买进外国债券(亿日元)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3826 | 预测: - | 公布: -\n-- 日本截至6月20日当周买进外国股票(亿日元): 前值: -4183 | 预测: - | 公布: -\n-- 日本截至6月20日当周外资买进日债(亿日元): 前值: -5310 | 预测: - | 公布: -\n-- 日本截至6月20日当周外资买进日股(亿日元): 前值: -7851 | 预测: - | 公布: -
-UID:fx678-20260625-49243b80
+UID:fx678-20260625-0a7dae0b
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -103,7 +103,7 @@ DTEND;TZID=Asia/Shanghai:20260625T130000
 LOCATION:日本
 SUMMARY:📊 日本4月修正值领先指标读数变动修正值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: - | 公布: -\n-- 日本4月修正值同步指标修正值: 前值: 117.9 | 预测: - | 公布: -\n-- 日本4月修正值领先指标修正值: 前值: 115.9 | 预测: - | 公布: -\n-- 日本4月修正值同步指标读数变动修正值: 前值: 1.1 | 预测: - | 公布: -
-UID:fx678-20260625-25825190
+UID:fx678-20260625-1e028092
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -116,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T040000
 DTEND;TZID=Asia/Shanghai:20260625T040000
 SUMMARY:📰 日本央行行长植田和男出席国际货币基金组织(IMF)举办的一个央行讲座活动。
 DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★★\n日本央行行长植田和男出席国际货币基金组织(IMF)举办的一个央行讲座活动。
-UID:fx678-20260625-6534bccb
+UID:fx678-20260625-440bae80
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -129,7 +129,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T090000
 DTEND;TZID=Asia/Shanghai:20260625T090000
 SUMMARY:📰 日本央行审议委员田村直树发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★\n日本央行审议委员田村直树发表讲话。
-UID:fx678-20260625-52b97c08
+UID:fx678-20260625-2b400c4c
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -143,7 +143,7 @@ DTEND;TZID=Asia/Shanghai:20260626T073000
 LOCATION:日本
 SUMMARY:📊 日本6月东京CPI年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.4 | 预测: 1.6 | 公布: -\n-- 日本6月东京核心CPI年率(%): 前值: 1.3 | 预测: 1.6 | 公布: -\n-- 日本6月东京核心-核心CPI年率(%): 前值: 1.6 | 预测: - | 公布: -\n-- 日本6月东京CPI月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本6月不含食品与能源的东京CPI月率(%): 前值: 0 | 预测: - | 公布: -\n-- 日本6月不含食品与能源的东京CPI年率(%): 前值: 0.7 | 预测: - | 公布: -
-UID:fx678-20260626-2ec311fc
+UID:fx678-20260626-7c0252a7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -157,7 +157,7 @@ DTEND;TZID=Asia/Shanghai:20260629T075000
 LOCATION:日本
 SUMMARY:📊 日本5月大型零售企业销售额年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2 | 预测: - | 公布: -
-UID:fx678-20260629-0b7cf6e6
+UID:fx678-20260629-0b09b519
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -171,7 +171,7 @@ DTEND;TZID=Asia/Shanghai:20260630T073000
 LOCATION:日本
 SUMMARY:📊 日本5月失业率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: - | 公布: -\n-- 日本5月求才求职比: 前值: 1.18 | 预测: - | 公布: -
-UID:fx678-20260630-4ec78c88
+UID:fx678-20260630-61abf152
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -185,7 +185,7 @@ DTEND;TZID=Asia/Shanghai:20260630T075000
 LOCATION:日本
 SUMMARY:📊 日本工业生产一个月预估值工业生产未来1个月月率预估(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 5.1 | 预测: - | 公布: -\n-- 日本工业生产一个月预估值工业生产未来2个月月率预估(%): 前值: -0.4 | 预测: - | 公布: -
-UID:fx678-20260630-0c08bdbc
+UID:fx678-20260630-3b5d273d
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -199,7 +199,7 @@ DTEND;TZID=Asia/Shanghai:20260630T123000
 LOCATION:日本
 SUMMARY:📊 日本5月METI原油进口年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -65.7 | 预测: - | 公布: -\n-- 日本5月METI总油品销售年率(%): 前值: -11.3 | 预测: - | 公布: -\n-- 日本5月METI汽油销售年率(%): 前值: -2.6 | 预测: - | 公布: -\n-- 日本5月METI煤油销售年率(%): 前值: -13.3 | 预测: - | 公布: -
-UID:fx678-20260630-4bdfd40c
+UID:fx678-20260630-03d9b97b
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -213,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20260630T130000
 LOCATION:日本
 SUMMARY:📊 日本5月新屋开工年率-未季调(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11.36 | 预测: - | 公布: -\n-- 日本5月营建订单年率(%): 前值: -32.3 | 预测: - | 公布: -\n-- 日本5月新屋开工单月总数-未季调(万户): 前值: 6.26 | 预测: - | 公布: -\n-- 日本5月新屋开工年化总数-季调后(万户): 前值: 72.4 | 预测: - | 公布: -
-UID:fx678-20260630-6251896f
+UID:fx678-20260630-6add0463
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -227,7 +227,7 @@ DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本6月外汇储备(亿美元)(0701-0707)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 13059 | 预测: - | 公布: -
-UID:fx678-20260701-71f0d2c0
+UID:fx678-20260701-3bb82e8f
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -241,7 +241,7 @@ DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本5月初值未季调工业产出年率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2 | 预测: - | 公布: -
-UID:fx678-20260701-48f7a73f
+UID:fx678-20260701-5f0a5922
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -255,7 +255,7 @@ DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本第二季度央行短观大型制造业指数
 DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 17 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业资本支出(%) ★★★: 前值: 3.3 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业指数: 前值: 7 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业景气展望 ★★★: 前值: 14 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型企业资本支出预估(%): 前值: -8.1 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业景气展望: 前值: 4 | 预测: - | 公布: -
-UID:fx678-20260701-54b36e99
+UID:fx678-20260701-7a1de91b
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -269,7 +269,7 @@ DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本第二季度央行短观大型非制造业指数
 DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 36 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业指数: 前值: 16 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型非制造业景气展望 ★★★: 前值: 29 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业景气展望: 前值: 8 | 预测: - | 公布: -
-UID:fx678-20260701-521ca8e8
+UID:fx678-20260701-628f77a7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -283,7 +283,7 @@ DTEND;TZID=Asia/Shanghai:20260701T083000
 LOCATION:日本
 SUMMARY:📊 日本6月终值Jibun制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本6月终值Jibun服务业PMI终值: 前值:  | 预测: - | 公布: -\n-- 日本6月终值Jibun综合PMI终值: 前值:  | 预测: - | 公布: -
-UID:fx678-20260701-6bf53770
+UID:fx678-20260701-10e50eda
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -297,7 +297,7 @@ DTEND;TZID=Asia/Shanghai:20260701T110000
 LOCATION:日本
 SUMMARY:📊 日本截至6月27日当周PAJ商业原油库存变动(万千升)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ汽油库存变动-GAS(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ石脑油库存变动-NAP(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ煤油库存变动-KER(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ精炼厂平均开工率(%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260701-694d7138
+UID:fx678-20260701-719bd51d
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -311,7 +311,7 @@ DTEND;TZID=Asia/Shanghai:20260701T130000
 LOCATION:日本
 SUMMARY:📊 日本6月家庭消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.6 | 预测: - | 公布: -
-UID:fx678-20260701-5a04eee0
+UID:fx678-20260701-0d7ccc5e
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -325,7 +325,7 @@ DTEND;TZID=Asia/Shanghai:20260702T075000
 LOCATION:日本
 SUMMARY:📊 日本截至6月27日当周买进外国债券(亿日元)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周买进外国股票(亿日元): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周外资买进日债(亿日元): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周外资买进日股(亿日元): 前值:  | 预测: - | 公布: -
-UID:fx678-20260702-24168220
+UID:fx678-20260702-60ffdac3
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -339,7 +339,7 @@ DTEND;TZID=Asia/Shanghai:20260702T075000
 LOCATION:日本
 SUMMARY:📊 日本6月基础货币年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -12.2 | 预测: - | 公布: -\n-- 日本6月基础货币额(万亿日元): 前值: 571.88 | 预测: - | 公布: -
-UID:fx678-20260702-4b2715df
+UID:fx678-20260702-749989e2
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -353,7 +353,7 @@ DTEND;TZID=Asia/Shanghai:20260703T083000
 LOCATION:日本
 SUMMARY:📊 日本Jibun服务业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
-UID:fx678-20260703-2ea59240
+UID:fx678-20260703-000ce120
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -367,7 +367,7 @@ DTEND;TZID=Asia/Shanghai:20260703T083000
 LOCATION:日本
 SUMMARY:📊 日本Jibun综合PMI终值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
-UID:fx678-20260703-62ebb9b3
+UID:fx678-20260703-70d84797
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -381,7 +381,7 @@ DTEND;TZID=Asia/Shanghai:20260707T073000
 LOCATION:日本
 SUMMARY:📊 日本5月所有家庭支出年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -0.5 | 预测: - | 公布: -\n-- 日本5月所有家庭支出月率(%): 前值: 1.6 | 预测: - | 公布: -
-UID:fx678-20260707-28aace76
+UID:fx678-20260707-33bb2a58
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -395,7 +395,7 @@ DTEND;TZID=Asia/Shanghai:20260707T073000
 LOCATION:日本
 SUMMARY:📊 日本5月劳动现金收入年率(%)
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.5 | 预测: - | 公布: -\n-- 日本5月加班工资年率(%): 前值: 4.2 | 预测: - | 公布: -\n-- 日本5月实际薪资收入年率(%): 前值: 1.9 | 预测: - | 公布: -
-UID:fx678-20260707-0dbff110
+UID:fx678-20260707-546cd2c8
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -409,7 +409,7 @@ DTEND;TZID=Asia/Shanghai:20260707T130000
 LOCATION:日本
 SUMMARY:📊 日本5月领先指标读数变动初值
 DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本5月同步指标读数变动初值: 前值:  | 预测: - | 公布: -\n-- 日本5月同步指标初值: 前值:  | 预测: - | 公布: -\n-- 日本5月领先指标初值: 前值:  | 预测: - | 公布: -
-UID:fx678-20260707-49c6e45b
+UID:fx678-20260707-78d20f11
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M

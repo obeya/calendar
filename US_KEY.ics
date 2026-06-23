@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260623T201500
 LOCATION:美国
 SUMMARY:📊 美国截至6月6日当周ADP就业周度发布变动(万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.55 | 预测: - | 公布: -
-UID:fx678-20260623-41a5bf89
+UID:fx678-20260623-3ef54278
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -35,7 +35,7 @@ DTEND;TZID=Asia/Shanghai:20260623T220000
 LOCATION:美国
 SUMMARY:📊 美国6月里士满联储制造业指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 13 | 预测: - | 公布: -\n-- 美国6月里士满联储制造业装船指数: 前值: 16 | 预测: - | 公布: -\n-- 美国6月里士满联储制造业新订单指数: 前值: 17 | 预测: - | 公布: -\n-- 美国6月里士满联储制造业就业指数: 前值: 3 | 预测: - | 公布: -
-UID:fx678-20260623-3ee2858b
+UID:fx678-20260623-1a90fc93
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -49,7 +49,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国5月实际个人消费支出月率(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.1 | 预测: - | 公布: -
-UID:fx678-20260625-6d08ffcb
+UID:fx678-20260625-73207cf6
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -63,7 +63,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国第一季度终值实际GDP年化季率终值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: -\n-- 美国第一季度企业获利年化季率修正值(%): 前值: -0.4 | 预测: - | 公布: -\n-- 美国第一季度终值GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -\n-- 美国第一季度终值核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: 4.4 | 公布: -\n-- 美国第一季度终值消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 美国第一季度终值年化实际GDP终值(亿美元): 前值:  | 预测: - | 公布: -\n-- 美国第一季度终值最终销售年化季率终值(%): 前值: 1.5 | 预测: - | 公布: -\n-- 美国第一季度终值PCE物价指数年化季率终值(%): 前值: 4.5 | 预测: - | 公布: -\n-- 美国第一季度终值GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260625-5f6ef352
+UID:fx678-20260625-2fefe9fa
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -77,7 +77,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月20日当周初请失业金人数(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 22.6 | 预测: 22.5 | 公布: -\n-- 美国截至6月13日当周续请失业金人数(万) ★★★: 前值: 181 | 预测: 180 | 公布: -\n-- 美国截至6月20日当周初请失业金人数四周均值(万): 前值: 22.33 | 预测: - | 公布: -
-UID:fx678-20260625-7dcade79
+UID:fx678-20260625-2809f5e4
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -91,7 +91,7 @@ DTEND;TZID=Asia/Shanghai:20260626T220000
 LOCATION:美国
 SUMMARY:📊 美国6月初值密歇根大学消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50.3 | 公布: -\n-- 美国6月初值密歇根大学消费者预期终值: 前值: 49.3 | 预测: - | 公布: -\n-- 美国6月初值密歇根大学经济现况终值: 前值: 48.4 | 预测: - | 公布: -\n-- 美国6月初值密歇根大学1年期通胀率预期终值(%): 前值: 4.6 | 预测: - | 公布: -\n-- 美国6月初值密歇根大学5年期通胀率预期终值(%): 前值: 3.4 | 预测: - | 公布: -
-UID:fx678-20260626-1e9d9eb2
+UID:fx678-20260626-652eb0b2
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -104,7 +104,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T034000
 DTEND;TZID=Asia/Shanghai:20260626T034000
 SUMMARY:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nFOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-UID:fx678-20260626-55ea8b0b
+UID:fx678-20260626-4efe4e78
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -117,7 +117,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T063000
 DTEND;TZID=Asia/Shanghai:20260626T063000
 SUMMARY:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-UID:fx678-20260626-033abb55
+UID:fx678-20260626-035c37ee
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -130,7 +130,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T233000
 DTEND;TZID=Asia/Shanghai:20260626T233000
 SUMMARY:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-UID:fx678-20260626-36db6ab3
+UID:fx678-20260626-515645cc
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -144,7 +144,7 @@ DTEND;TZID=Asia/Shanghai:20260629T223000
 LOCATION:美国
 SUMMARY:📊 美国6月达拉斯联储制造业活动指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.4 | 预测: - | 公布: -\n-- 美国6月达拉斯联储制造业产出指数: 前值: 9.4 | 预测: - | 公布: -\n-- 美国6月达拉斯联储制造业装船指数: 前值: 7.4 | 预测: - | 公布: -\n-- 美国6月达拉斯联储制造业原材料支付价格指数: 前值: 42.7 | 预测: - | 公布: -\n-- 美国6月达拉斯联储制成品价格指数: 前值: 18.9 | 预测: - | 公布: -\n-- 美国6月达拉斯联储制造业就业指数: 前值: 0.2 | 预测: - | 公布: -\n-- 美国6月达拉斯联储新订单指数: 前值: 6.4 | 预测: - | 公布: -
-UID:fx678-20260629-6bac3f31
+UID:fx678-20260629-6c2b83c8
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -158,7 +158,7 @@ DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国6月谘商会消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: - | 公布: -\n-- 美国	 6月谘商会消费者预期指数: 前值: 74.4 | 预测: - | 公布: -\n-- 美国6月谘商会消费者现况指数: 前值: 121.2 | 预测: - | 公布: -
-UID:fx678-20260630-68a91166
+UID:fx678-20260630-57d85c7c
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -172,7 +172,7 @@ DTEND;TZID=Asia/Shanghai:20260701T201500
 LOCATION:美国
 SUMMARY:📊 美国6月ADP就业人数变动(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: - | 公布: -
-UID:fx678-20260701-544b7435
+UID:fx678-20260701-794a693b
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -186,7 +186,7 @@ DTEND;TZID=Asia/Shanghai:20260701T220000
 LOCATION:美国
 SUMMARY:📊 美国6月ISM制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: - | 公布: -\n-- 美国6月ISM制造业物价支付指数: 前值: 82.1 | 预测: - | 公布: -\n-- 美国6月ISM制造业产出指数: 前值: 54.3 | 预测: - | 公布: -\n-- 美国6月ISM制造业就业指数: 前值: 48.6 | 预测: - | 公布: -\n-- 美国6月ISM制造业库存指数: 前值: 49.9 | 预测: - | 公布: -\n-- 美国6月ISM制造业新订单指数: 前值: 56.8 | 预测: - | 公布: -
-UID:fx678-20260701-2100d80d
+UID:fx678-20260701-63c0808d
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -200,7 +200,7 @@ DTEND;TZID=Asia/Shanghai:20260702T203000
 LOCATION:美国
 SUMMARY:📊 美国6月非农就业人口变动季调后(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: - | 公布: -\n-- 美国6月平均每小时工资月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国6月平均每周工时(小时): 前值: 34.3 | 预测: - | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: - | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: - | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: - | 公布: -\n-- 美国6月U6失业率(%): 前值: 8.1 | 预测: - | 公布: -\n-- 美国6月政府部门岗位变动(万人): 前值: 5.2 | 预测: - | 公布: -
-UID:fx678-20260702-2b41f1e6
+UID:fx678-20260702-485cdfb7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -214,7 +214,7 @@ DTEND;TZID=Asia/Shanghai:20260702T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月27日当周初请失业金人数(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国截至6月21日当周续请失业金人数(万) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国截至6月27日当周初请失业金人数四周均值(万): 前值:  | 预测: - | 公布: -
-UID:fx678-20260702-44a23f2b
+UID:fx678-20260702-4866a0fe
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -228,7 +228,7 @@ DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
 SUMMARY:📊 美国6月谘商会就业趋势指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 107.01 | 预测: - | 公布: -
-UID:fx678-20260706-0abf89c3
+UID:fx678-20260706-6ad36416
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -242,7 +242,7 @@ DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
 SUMMARY:📊 美国6月ISM非制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: - | 公布: -\n-- 美国6月ISM非制造业新订单指数: 前值: 57.3 | 预测: - | 公布: -\n-- 美国6月ISM非制造业供应商交付指数: 前值: 55.2 | 预测: - | 公布: -\n-- 美国6月ISM非制造业库存指数: 前值: 62.5 | 预测: - | 公布: -\n-- 美国6月ISM非制造业就业指数: 前值: 47.9 | 预测: - | 公布: -\n-- 美国6月ISM非制造业投入物价指数: 前值: 71.3 | 预测: - | 公布: -\n-- 美国6月ISM非制造业PMI分项-企业活动指数: 前值: 57.7 | 预测: - | 公布: -
-UID:fx678-20260706-1e8de8c3
+UID:fx678-20260706-64e9f747
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -256,7 +256,7 @@ DTEND;TZID=Asia/Shanghai:20260707T201500
 LOCATION:美国
 SUMMARY:📊 美国截至6月20日当周ADP就业周度发布变动(万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260707-6a0d32c9
+UID:fx678-20260707-0207eba5
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -270,7 +270,7 @@ DTEND;TZID=Asia/Shanghai:20260707T221000
 LOCATION:美国
 SUMMARY:📊 美国7月RCM/TIPP消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 42.5 | 预测: - | 公布: -\n-- 美国7月RCM/TIPP六个月经济乐观指数: 前值: 37.1 | 预测: - | 公布: -
-UID:fx678-20260707-0d201a43
+UID:fx678-20260707-0e77bb4e
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
