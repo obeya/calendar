@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260623T201500
 LOCATION:美国
 SUMMARY:📊 美国截至6月6日当周ADP就业周度发布变动(万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.55 | 预测: - | 公布: -
-UID:fx678-20260623-104a9503
+UID:fx678-20260623-1fbf6638
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -35,7 +35,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国第一季度终值实际GDP年化季率终值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: -\n-- 美国第一季度终值GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -\n-- 美国第一季度终值核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: 4.4 | 公布: -\n-- 美国第一季度终值消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 美国第一季度终值GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260625-08f35b41
+UID:fx678-20260625-346c9717
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -49,7 +49,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月20日当周初请失业金人数(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 22.6 | 预测: 22.5 | 公布: -\n-- 美国截至6月13日当周续请失业金人数(万) ★★★: 前值: 181 | 预测: 180 | 公布: -
-UID:fx678-20260625-30ca381e
+UID:fx678-20260625-18ec6b15
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -63,7 +63,7 @@ DTEND;TZID=Asia/Shanghai:20260626T220000
 LOCATION:美国
 SUMMARY:📊 美国6月初值密歇根大学消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50.3 | 公布: -
-UID:fx678-20260626-25094a6a
+UID:fx678-20260626-48c70275
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -76,7 +76,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T034000
 DTEND;TZID=Asia/Shanghai:20260626T034000
 SUMMARY:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nFOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-UID:fx678-20260626-21f8018c
+UID:fx678-20260626-5e8e8c0f
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -89,7 +89,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T063000
 DTEND;TZID=Asia/Shanghai:20260626T063000
 SUMMARY:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-UID:fx678-20260626-7122fdbf
+UID:fx678-20260626-7cc8380a
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -102,7 +102,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T233000
 DTEND;TZID=Asia/Shanghai:20260626T233000
 SUMMARY:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-UID:fx678-20260626-6d42eab3
+UID:fx678-20260626-4c9eff38
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -116,7 +116,7 @@ DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国6月谘商会消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: - | 公布: -
-UID:fx678-20260630-2686e0f7
+UID:fx678-20260630-2caba1d5
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
