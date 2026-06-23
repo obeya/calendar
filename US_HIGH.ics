@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260622T210000
 DTEND;TZID=Asia/Shanghai:20260622T210000
 SUMMARY:📰 美联储理事沃勒在有关美元国际角色的会议上致欢迎词。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n美联储理事沃勒在有关美元国际角色的会议上致欢迎词。
-UID:fx678-20260622-56729126
+UID:fx678-20260622-6733258b
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -34,7 +34,7 @@ DTEND;TZID=Asia/Shanghai:20260623T063000
 LOCATION:美国
 SUMMARY:📊 美国6月22日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1020.49 | 预测: - | 公布: 1022.2\n-- 美国6月22日iShares白银持仓-每日更新(吨) ★★★: 前值: 14939.09 | 预测: - | 公布: 15023.49\n-- 美国6月22日iShares黄金持仓-每日更新(吨) ★★★: 前值: 472.1 | 预测: - | 公布: 470.35
-UID:fx678-20260623-18cdf465
+UID:fx678-20260623-1df7b8e8
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -48,7 +48,7 @@ DTEND;TZID=Asia/Shanghai:20260623T063000
 LOCATION:美国
 SUMMARY:📊 美国6月18日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 279987.69 | 预测: - | 公布: 279883.2
-UID:fx678-20260623-6e6773a0
+UID:fx678-20260623-3dabb532
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -62,7 +62,7 @@ DTEND;TZID=Asia/Shanghai:20260623T201500
 LOCATION:美国
 SUMMARY:📊 美国截至6月6日当周ADP就业周度发布变动(万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.55 | 预测: - | 公布: -
-UID:fx678-20260623-6a0c0997
+UID:fx678-20260623-104a9503
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -76,7 +76,7 @@ DTEND;TZID=Asia/Shanghai:20260623T214500
 LOCATION:美国
 SUMMARY:📊 美国6月终值SPGI制造业PMI初值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.1 | 预测: 54.8 | 公布: -
-UID:fx678-20260623-36efbda6
+UID:fx678-20260623-22f07824
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -89,7 +89,7 @@ DTSTART;TZID=Asia/Shanghai:20260623T023000
 DTEND;TZID=Asia/Shanghai:20260623T023000
 SUMMARY:📰 NYMEX纽约原油7月期货受移仓换月影响，6月23日2:30完成场内最后交易，凌晨5:00完成电子盘最后交易，请留意交易场所到期换月公告控制风险。此外，部分交易平台美油合约到期时间通常较NYMEX官方提前一天，请多加留意。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nNYMEX纽约原油7月期货受移仓换月影响，6月23日2:30完成场内最后交易，凌晨5:00完成电子盘最后交易，请留意交易场所到期换月公告控制风险。此外，部分交易平台美油合约到期时间通常较NYMEX官方提前一天，请多加留意。
-UID:fx678-20260623-5aa0db88
+UID:fx678-20260623-2875d3c8
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -102,7 +102,7 @@ DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260623
 SUMMARY:📰 MSCI公布年度市场分类评审结果，韩国有望进入发达市场观察名单。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nMSCI公布年度市场分类评审结果，韩国有望进入发达市场观察名单。
-UID:fx678-20260623-64a083cd
+UID:fx678-20260623-32b79572
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT12H
@@ -116,7 +116,7 @@ DTEND;TZID=Asia/Shanghai:20260624T043000
 LOCATION:美国
 SUMMARY:📊 美国截至6月19日当周API原油库存变动(万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -833 | 预测: - | 公布: -\n-- 美国截至6月19日当周API汽油库存变动(万桶) ★★★: 前值: 247.9 | 预测: - | 公布: -
-UID:fx678-20260624-1260bb1a
+UID:fx678-20260624-67f47aa3
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -130,7 +130,7 @@ DTEND;TZID=Asia/Shanghai:20260624T063000
 LOCATION:美国
 SUMMARY:📊 美国6月23日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月23日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月23日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260624-194bef27
+UID:fx678-20260624-24e47695
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -144,7 +144,7 @@ DTEND;TZID=Asia/Shanghai:20260624T063000
 LOCATION:美国
 SUMMARY:📊 美国6月22日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260624-36d0841c
+UID:fx678-20260624-4c5a4cf4
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -158,7 +158,7 @@ DTEND;TZID=Asia/Shanghai:20260624T200000
 LOCATION:美国
 SUMMARY:📊 美国6月营建许可月率修正值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.7 | 预测: - | 公布: -\n-- 美国6月营建许可年化总数修正值(万户) ★★★: 前值: 141.3 | 预测: - | 公布: -
-UID:fx678-20260624-7cd1950d
+UID:fx678-20260624-15e959aa
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -172,7 +172,7 @@ DTEND;TZID=Asia/Shanghai:20260624T203000
 LOCATION:美国
 SUMMARY:📊 美国第一季度经常帐(亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -1907 | 预测: -2175 | 公布: -
-UID:fx678-20260624-25e1bc13
+UID:fx678-20260624-5bbc4cdc
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -186,7 +186,7 @@ DTEND;TZID=Asia/Shanghai:20260624T220000
 LOCATION:美国
 SUMMARY:📊 美国5月季调后新屋销售年化总数(万户)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.2 | 预测: 63.5 | 公布: -
-UID:fx678-20260624-7b3e8508
+UID:fx678-20260624-1903ad45
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -200,7 +200,7 @@ DTEND;TZID=Asia/Shanghai:20260624T223000
 LOCATION:美国
 SUMMARY:📊 美国截至6月19日当周EIA原油库存变动(万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -826.3 | 预测: - | 公布: -\n-- 美国截至6月19日当周EIA汽油库存变动(万桶) ★★★: 前值: -90.6 | 预测: - | 公布: -\n-- 美国截至6月19日当周EIA精炼油库存变动(万桶) ★★★: 前值: 95.1 | 预测: - | 公布: -\n-- 美国截至6月19日当周EIA俄克拉荷马州-库欣原油库存(万桶) ★★★: 前值: -160.6 | 预测: - | 公布: -\n-- 美国截至6月19日当周EIA每周原油进口变动(万桶) ★★★: 前值: -24.1 | 预测: - | 公布: -
-UID:fx678-20260624-56b6923d
+UID:fx678-20260624-2a44b35e
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -214,7 +214,7 @@ DTEND;TZID=Asia/Shanghai:20260625T063000
 LOCATION:美国
 SUMMARY:📊 美国6月24日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月24日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月24日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260625-479a6683
+UID:fx678-20260625-47ca0faa
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -228,7 +228,7 @@ DTEND;TZID=Asia/Shanghai:20260625T063000
 LOCATION:美国
 SUMMARY:📊 美国6月23日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260625-46178e7f
+UID:fx678-20260625-61a91a76
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -242,7 +242,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国5月PCE物价指数年率(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: 4 | 公布: -\n-- 美国5月核心PCE物价指数年率(%) ★★★: 前值: 3.3 | 预测: 3.4 | 公布: -
-UID:fx678-20260625-70bae6ef
+UID:fx678-20260625-4aa328a0
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -256,7 +256,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国第一季度终值实际GDP年化季率终值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: -\n-- 美国第一季度终值GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -\n-- 美国第一季度终值核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: 4.4 | 公布: -\n-- 美国第一季度终值消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 美国第一季度终值GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260625-046353d6
+UID:fx678-20260625-08f35b41
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -270,7 +270,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国4月初值耐用品订单月率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 8 | 预测: -4.3 | 公布: -
-UID:fx678-20260625-7b29e6c5
+UID:fx678-20260625-39153395
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -284,7 +284,7 @@ DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月20日当周初请失业金人数(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 22.6 | 预测: 22.5 | 公布: -\n-- 美国截至6月13日当周续请失业金人数(万) ★★★: 前值: 181 | 预测: 180 | 公布: -
-UID:fx678-20260625-6b637618
+UID:fx678-20260625-30ca381e
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -297,7 +297,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T010000
 DTEND;TZID=Asia/Shanghai:20260625T010000
 SUMMARY:📰 英伟达举行年度股东大会。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n英伟达举行年度股东大会。
-UID:fx678-20260625-34bd29b7
+UID:fx678-20260625-104d94e8
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -310,7 +310,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T040000
 DTEND;TZID=Asia/Shanghai:20260625T040000
 SUMMARY:📰 美联储公布年度银行压力测试结果。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n美联储公布年度银行压力测试结果。
-UID:fx678-20260625-5e313ce2
+UID:fx678-20260625-243429ec
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -323,7 +323,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T043000
 DTEND;TZID=Asia/Shanghai:20260625T043000
 SUMMARY:📰 美光科技举行2026财年第三季度财报电话会。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n美光科技举行2026财年第三季度财报电话会。
-UID:fx678-20260625-445cd5b4
+UID:fx678-20260625-0fa0fc40
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -337,7 +337,7 @@ DTEND;TZID=Asia/Shanghai:20260626T043000
 LOCATION:美国
 SUMMARY:📊 美国截至6月24日美联储资产负债表(万亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.74 | 预测: - | 公布: -
-UID:fx678-20260626-2333a8db
+UID:fx678-20260626-0d7a03f4
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -351,7 +351,7 @@ DTEND;TZID=Asia/Shanghai:20260626T063000
 LOCATION:美国
 SUMMARY:📊 美国6月25日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月25日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月25日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260626-6c6d0462
+UID:fx678-20260626-4a1258e1
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -365,7 +365,7 @@ DTEND;TZID=Asia/Shanghai:20260626T063000
 LOCATION:美国
 SUMMARY:📊 美国6月24日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260626-76d0e017
+UID:fx678-20260626-7c01e614
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -379,7 +379,7 @@ DTEND;TZID=Asia/Shanghai:20260626T203000
 LOCATION:美国
 SUMMARY:📊 美国5月初值批发库存月率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.6 | 预测: - | 公布: -
-UID:fx678-20260626-621b31db
+UID:fx678-20260626-000f6a0f
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -393,7 +393,7 @@ DTEND;TZID=Asia/Shanghai:20260626T220000
 LOCATION:美国
 SUMMARY:📊 美国6月初值密歇根大学消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50.3 | 公布: -
-UID:fx678-20260626-6f1f2792
+UID:fx678-20260626-25094a6a
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -406,7 +406,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T034000
 DTEND;TZID=Asia/Shanghai:20260626T034000
 SUMMARY:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nFOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-UID:fx678-20260626-6741c625
+UID:fx678-20260626-21f8018c
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -419,7 +419,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T063000
 DTEND;TZID=Asia/Shanghai:20260626T063000
 SUMMARY:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-UID:fx678-20260626-5a66138b
+UID:fx678-20260626-7122fdbf
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -432,7 +432,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T233000
 DTEND;TZID=Asia/Shanghai:20260626T233000
 SUMMARY:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-UID:fx678-20260626-01268e0b
+UID:fx678-20260626-6d42eab3
 CATEGORIES:财经大事件
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -446,7 +446,7 @@ DTEND;TZID=Asia/Shanghai:20260627T010000
 LOCATION:美国
 SUMMARY:📊 美国截至6月26日当周全美钻井总数(口)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 563 | 预测: - | 公布: -\n-- 美国截至6月26日当周石油钻井总数(口) ★★★: 前值: 433 | 预测: - | 公布: -
-UID:fx678-20260627-7d0ee1d5
+UID:fx678-20260627-7facd731
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -460,7 +460,7 @@ DTEND;TZID=Asia/Shanghai:20260627T063000
 LOCATION:美国
 SUMMARY:📊 美国6月26日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月26日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月26日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260627-0552b9ba
+UID:fx678-20260627-1054980e
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -474,7 +474,7 @@ DTEND;TZID=Asia/Shanghai:20260627T063000
 LOCATION:美国
 SUMMARY:📊 美国6月25日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260627-53cfb7bf
+UID:fx678-20260627-6d270cec
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -488,7 +488,7 @@ DTEND;TZID=Asia/Shanghai:20260630T063000
 LOCATION:美国
 SUMMARY:📊 美国6月29日SPDR黄金持仓-每日更新(吨)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月29日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月29日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260630-7980c9bf
+UID:fx678-20260630-6d9ad2a0
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -502,7 +502,7 @@ DTEND;TZID=Asia/Shanghai:20260630T063000
 LOCATION:美国
 SUMMARY:📊 美国6月26日COMEX黄金库存-每日更新(百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260630-52cde1f7
+UID:fx678-20260630-7f8991a7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -516,7 +516,7 @@ DTEND;TZID=Asia/Shanghai:20260630T214500
 LOCATION:美国
 SUMMARY:📊 美国6月芝加哥PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.7 | 预测: - | 公布: -
-UID:fx678-20260630-20885019
+UID:fx678-20260630-089d3c77
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -530,7 +530,7 @@ DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国6月谘商会消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: - | 公布: -
-UID:fx678-20260630-045d9288
+UID:fx678-20260630-2686e0f7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -544,7 +544,7 @@ DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国5月JOLTs职位空缺(万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 761.8 | 预测: - | 公布: -
-UID:fx678-20260630-4facda40
+UID:fx678-20260630-366706be
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
