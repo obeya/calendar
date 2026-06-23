@@ -34,7 +34,7 @@ DTSTART;TZID=Asia/Shanghai:20260623T153000
 DTEND;TZID=Asia/Shanghai:20260623T153000
 LOCATION:德国
 SUMMARY:📊 德国6月初值SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 50.1 | 预测: 50.4 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 50.1 | 预测: 50.4 | 公布: 50
 UID:fx678-20260623-4c1734be
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -48,7 +48,7 @@ DTSTART;TZID=Asia/Shanghai:20260623T153000
 DTEND;TZID=Asia/Shanghai:20260623T153000
 LOCATION:德国
 SUMMARY:📊 德国6月初值SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.1 | 预测: 49 | 公布: -\n-- 德国6月初值SPGI综合PMI初值: 前值: 48.8 | 预测: 49.6 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.1 | 预测: 49 | 公布: 46.8\n-- 德国6月初值SPGI综合PMI初值: 前值: 48.8 | 预测: 49.6 | 公布: 48
 UID:fx678-20260623-59ccbc0e
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -62,7 +62,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T160000
 DTEND;TZID=Asia/Shanghai:20260624T160000
 LOCATION:德国
 SUMMARY:📊 德国6月IFO商业景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 84.9 | 预测: 85.6 | 公布: -\n-- 德国6月IFO商业现况指数: 前值: 86.1 | 预测: 86.4 | 公布: -\n-- 德国6月IFO商业预期指数: 前值: 83.8 | 预测: 85 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 84.9 | 预测: 85.6 | 公布: -\n-- 德国6月IFO商业现况指数: 前值: 86.1 | 预测: 86.3 | 公布: -\n-- 德国6月IFO商业预期指数: 前值: 83.8 | 预测: 85.1 | 公布: -
 UID:fx678-20260624-476a07c7
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -186,13 +186,27 @@ DTSTART;TZID=Asia/Shanghai:20260630T200000
 DTEND;TZID=Asia/Shanghai:20260630T200000
 LOCATION:德国
 SUMMARY:📊 德国6月初值CPI年率初值(%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值调和CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值调和CPI年率初值(%): 前值:  | 预测: - | 公布: -\n-- 德国6月初值未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月初值调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月初值调和CPI年率初值(%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国6月初值未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
 UID:fx678-20260630-70078113
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月初值CPI年率初值(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T155500
+DTEND;TZID=Asia/Shanghai:20260701T155500
+LOCATION:德国
+SUMMARY:📊 德国6月终值SPGI制造业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260701-23e2242e
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 德国6月终值SPGI制造业PMI终值
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -221,4 +221,102 @@ ACTION:DISPLAY
 DESCRIPTION:📊 日本5月新屋开工年率-未季调(%)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T075000
+DTEND;TZID=Asia/Shanghai:20260701T075000
+LOCATION:日本
+SUMMARY:📊 日本6月外汇储备(亿美元)(0701-0707)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 13059 | 预测: - | 公布: -
+UID:fx678-20260701-6b2c6346
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本6月外汇储备(亿美元)(0701-0707)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T075000
+DTEND;TZID=Asia/Shanghai:20260701T075000
+LOCATION:日本
+SUMMARY:📊 日本5月初值未季调工业产出年率初值(%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2 | 预测: - | 公布: -
+UID:fx678-20260701-41b1d586
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本5月初值未季调工业产出年率初值(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T075000
+DTEND;TZID=Asia/Shanghai:20260701T075000
+LOCATION:日本
+SUMMARY:📊 日本第二季度央行短观大型制造业指数
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 17 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业资本支出(%) ★★★: 前值: 3.3 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业指数: 前值: 7 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业景气展望 ★★★: 前值: 14 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型企业资本支出预估(%): 前值: -8.1 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业景气展望: 前值: 4 | 预测: - | 公布: -
+UID:fx678-20260701-77f59f81
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本第二季度央行短观大型制造业指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T075000
+DTEND;TZID=Asia/Shanghai:20260701T075000
+LOCATION:日本
+SUMMARY:📊 日本第二季度央行短观大型非制造业指数
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 36 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业指数: 前值: 16 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型非制造业景气展望 ★★★: 前值: 29 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业景气展望: 前值: 8 | 预测: - | 公布: -
+UID:fx678-20260701-20b97e31
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本第二季度央行短观大型非制造业指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T083000
+DTEND;TZID=Asia/Shanghai:20260701T083000
+LOCATION:日本
+SUMMARY:📊 日本6月终值Jibun制造业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本6月终值Jibun服务业PMI终值: 前值:  | 预测: - | 公布: -\n-- 日本6月终值Jibun综合PMI终值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260701-488341ae
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本6月终值Jibun制造业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260701T110000
+LOCATION:日本
+SUMMARY:📊 日本截至6月27日当周PAJ商业原油库存变动(万千升)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ汽油库存变动-GAS(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ石脑油库存变动-NAP(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ煤油库存变动-KER(万千升): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周PAJ精炼厂平均开工率(%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260701-64d157c7
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本截至6月27日当周PAJ商业原油库存变动(万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260701T130000
+DTEND;TZID=Asia/Shanghai:20260701T130000
+LOCATION:日本
+SUMMARY:📊 日本6月家庭消费者信心指数
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.6 | 预测: - | 公布: -
+UID:fx678-20260701-363e407e
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本6月家庭消费者信心指数
+END:VALARM
+END:VEVENT
 END:VCALENDAR
