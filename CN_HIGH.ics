@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FX678 Economic Calendar//https://gitee.com/obeya//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:中国
-X-WR-CALDESC:财经日历 (中国)
+X-WR-CALNAME:中国-High
+X-WR-CALDESC:财经日历 (中国-High)
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -34,7 +34,7 @@ DTSTART;TZID=Asia/Shanghai:20260622T151000
 DTEND;TZID=Asia/Shanghai:20260622T151000
 LOCATION:中国
 SUMMARY:📊 中国6月22日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -24 | 预测: - | 公布: -6\n-- 中国6月22日上期所每日仓单变动-白银(千克): 前值: 16803 | 预测: - | 公布: 7945\n-- 中国6月22日上期所每日仓单变动-燃料油(吨): 前值: 0 | 预测: - | 公布: 0\n-- 中国6月22日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -24 | 预测: - | 公布: -6\n-- 中国6月22日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260622-44532831
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -58,60 +58,6 @@ DESCRIPTION:📊 中国6月22日上期所每日仓单变动-铜(吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T160000
-DTEND;TZID=Asia/Shanghai:20260622T160000
-LOCATION:中国
-SUMMARY:📊 中国5月实际外商直接投资年率CNY-年初至今(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -10.3 | 预测: - | 公布: -8.6
-UID:fx678-20260622-79224c91
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 中国5月实际外商直接投资年率CNY-年初至今(%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260622
-SUMMARY:📰 第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★\n第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。
-UID:fx678-20260622-29812dc0
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260622
-SUMMARY:📰 第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。 假期
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★★\n第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。 假期
-UID:fx678-20260622-7a22aee2
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 第四届链博会于6月22日至6月26日在北京中国国际展览中心顺义馆举办。 假期
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T140800
-DTEND;TZID=Asia/Shanghai:20260623T140800
-LOCATION:中国
-SUMMARY:📊 中国1-5月全国发电装机容量-年初至今(万千瓦)(0623-0628不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 398547 | 预测: - | 公布: -\n-- 中国1-5月全国发电装机容量年率-年初至今(%): 前值: 14.2 | 预测: - | 公布: -\n-- 中国1-5月发电装机容量之水核风太阳能-年初至今(万千瓦): 前值: 242968 | 预测: - | 公布: -
-UID:fx678-20260623-4b10acee
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 中国1-5月全国发电装机容量-年初至今(万千瓦)(0623-0628不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260623T144000
 DTEND;TZID=Asia/Shanghai:20260623T144000
 LOCATION:中国
@@ -130,7 +76,7 @@ DTSTART;TZID=Asia/Shanghai:20260623T151000
 DTEND;TZID=Asia/Shanghai:20260623T151000
 LOCATION:中国
 SUMMARY:📊 中国6月23日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -6 | 预测: - | 公布: -\n-- 中国6月23日上期所每日仓单变动-白银(千克): 前值: 7945 | 预测: - | 公布: -\n-- 中国6月23日上期所每日仓单变动-燃料油(吨): 前值: 0 | 预测: - | 公布: -\n-- 中国6月23日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -6 | 预测: - | 公布: -\n-- 中国6月23日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: -
 UID:fx678-20260623-621eed02
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -184,7 +130,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T151000
 DTEND;TZID=Asia/Shanghai:20260624T151000
 LOCATION:中国
 SUMMARY:📊 中国6月24日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月24日上期所每日仓单变动-白银(千克): 前值:  | 预测: - | 公布: -\n-- 中国6月24日上期所每日仓单变动-燃料油(吨): 前值:  | 预测: - | 公布: -\n-- 中国6月24日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月24日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
 UID:fx678-20260624-3665abbc
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -208,19 +154,6 @@ DESCRIPTION:📊 中国6月24日上期所每日仓单变动-铜(吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T100000
-DTEND;TZID=Asia/Shanghai:20260624T100000
-SUMMARY:📰 国务院台湾事务办公室举行新闻发布会。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★\n国务院台湾事务办公室举行新闻发布会。
-UID:fx678-20260624-214412d5
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📰 国务院台湾事务办公室举行新闻发布会。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260624
 SUMMARY:📰 2026上海世界移动通信大会举行，至6月26日。
@@ -238,7 +171,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T151000
 DTEND;TZID=Asia/Shanghai:20260625T151000
 LOCATION:中国
 SUMMARY:📊 中国6月25日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-白银(千克): 前值:  | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-燃料油(吨): 前值:  | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
 UID:fx678-20260625-7bc42339
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -266,7 +199,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T151000
 DTEND;TZID=Asia/Shanghai:20260626T151000
 LOCATION:中国
 SUMMARY:📊 中国6月26日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月26日上期所每日仓单变动-白银(千克): 前值:  | 预测: - | 公布: -\n-- 中国6月26日上期所每日仓单变动-燃料油(吨): 前值:  | 预测: - | 公布: -\n-- 中国6月26日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月26日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
 UID:fx678-20260626-314d33b1
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -290,24 +223,11 @@ DESCRIPTION:📊 中国6月26日上期所每日仓单变动-铜(吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260626
-SUMMARY:📰 2026中国（深圳）集成电路峰会召开。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★\n2026中国（深圳）集成电路峰会召开。
-UID:fx678-20260626-61070d4e
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 2026中国（深圳）集成电路峰会召开。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260627T093000
 DTEND;TZID=Asia/Shanghai:20260627T093000
 LOCATION:中国
 SUMMARY:📊 中国5月规模以上工业企业利润年率-年初至今(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 18.2 | 预测: - | 公布: -\n-- 中国5月规模以上工业企业利润金额-年初至今(亿元): 前值: 24358.4 | 预测: - | 公布: -\n-- 中国5月规模以上工业企业利润年率-单月(%) ★★★: 前值: 24.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 18.2 | 预测: - | 公布: -\n-- 中国5月规模以上工业企业利润年率-单月(%) ★★★: 前值: 24.7 | 预测: - | 公布: -
 UID:fx678-20260627-5cea440d
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -321,7 +241,7 @@ DTSTART;TZID=Asia/Shanghai:20260629T151000
 DTEND;TZID=Asia/Shanghai:20260629T151000
 LOCATION:中国
 SUMMARY:📊 中国6月29日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月29日上期所每日仓单变动-白银(千克): 前值:  | 预测: - | 公布: -\n-- 中国6月29日上期所每日仓单变动-燃料油(吨): 前值:  | 预测: - | 公布: -\n-- 中国6月29日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月29日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
 UID:fx678-20260629-4fcf8272
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -349,7 +269,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T093000
 DTEND;TZID=Asia/Shanghai:20260630T093000
 LOCATION:中国
 SUMMARY:📊 中国6月官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50 | 预测: - | 公布: -\n-- 中国6月官方非制造业PMI: 前值: 50.1 | 预测: - | 公布: -\n-- 中国6月官方综合PMI: 前值: 50.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50 | 预测: - | 公布: -
 UID:fx678-20260630-3eb456ae
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -363,7 +283,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T151000
 DTEND;TZID=Asia/Shanghai:20260630T151000
 LOCATION:中国
 SUMMARY:📊 中国6月30日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月30日上期所每日仓单变动-白银(千克): 前值:  | 预测: - | 公布: -\n-- 中国6月30日上期所每日仓单变动-燃料油(吨): 前值:  | 预测: - | 公布: -\n-- 中国6月30日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月30日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
 UID:fx678-20260630-7b520147
 CATEGORIES:财经数据
 BEGIN:VALARM
