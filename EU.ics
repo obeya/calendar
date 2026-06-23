@@ -16,40 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T160000
-DTEND;TZID=Asia/Shanghai:20260618T160000
-LOCATION:欧元区
-SUMMARY:📊 欧元区4月未季调经常帐(亿欧元)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 241 | 预测: - | 公布: 149\n-- 欧元区4月季调后经常帐(亿欧元): 前值: 149 | 预测: - | 公布: 157
-UID:fx678-20260618-20670a91
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 欧元区4月未季调经常帐(亿欧元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T170000
-DTEND;TZID=Asia/Shanghai:20260618T170000
-LOCATION:欧元区
-SUMMARY:📊 欧元区4月建筑业产出月率(%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.8 | 预测: - | 公布: 0.6\n-- 欧元区4月建筑业产出年率(%): 前值: -1.2 | 预测: - | 公布: 0.9
-UID:fx678-20260618-0f50b5df
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 欧元区4月建筑业产出月率(%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260622T220000
 DTEND;TZID=Asia/Shanghai:20260622T220000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -19 | 预测: -17.5 | 公布: -
-UID:fx678-20260622-6cfa92b8
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -19 | 预测: -17.5 | 公布: -17.7
+UID:fx678-20260622-3b77346f
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -63,7 +35,7 @@ DTEND;TZID=Asia/Shanghai:20260623T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值SPGI制造业PMI初值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.6 | 预测: 51.6 | 公布: -
-UID:fx678-20260623-0ab92734
+UID:fx678-20260623-43c0cd97
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -76,8 +48,8 @@ DTSTART;TZID=Asia/Shanghai:20260623T160000
 DTEND;TZID=Asia/Shanghai:20260623T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值SPGI综合PMI初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 48.5 | 预测: 49.1 | 公布: -\n-- 欧元区6月初值SPGI服务业PMI初值: 前值: 47.7 | 预测: 48.5 | 公布: -
-UID:fx678-20260623-16402cde
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 48.5 | 预测: 49.1 | 公布: -\n-- 欧元区6月初值SPGI服务业PMI初值: 前值: 47.7 | 预测: 48.6 | 公布: -
+UID:fx678-20260623-30502da3
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -86,12 +58,25 @@ DESCRIPTION:📊 欧元区6月初值SPGI综合PMI初值
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260625T180000
+DTEND;TZID=Asia/Shanghai:20260625T180000
+SUMMARY:📰 欧洲央行首席经济学家连恩发表讲话。
+DESCRIPTION:📰 财经事件\n区域: 欧元区\n重要性: ★★\n欧洲央行首席经济学家连恩发表讲话。
+UID:fx678-20260625-1918daf5
+CATEGORIES:财经大事件
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📰 欧洲央行首席经济学家连恩发表讲话。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260629T160000
 DTEND;TZID=Asia/Shanghai:20260629T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月季调后货币供应M3年率(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.7 | 预测: - | 公布: -\n-- 欧元区5月三个月货币供应M3年率(%): 前值: 2.7 | 预测: - | 公布: -\n-- 欧元区5月M3广义货币季调后(亿欧元): 前值: 174339.11 | 预测: - | 公布: -
-UID:fx678-20260629-4edc93a1
+UID:fx678-20260629-3aba27ca
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -105,7 +90,7 @@ DTEND;TZID=Asia/Shanghai:20260629T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月对非金融企业贷款年率-季调后(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 3.4 | 预测: - | 公布: -\n-- 欧元区5月家庭贷款年率(%): 前值: 3 | 预测: - | 公布: -
-UID:fx678-20260629-0b6923c5
+UID:fx678-20260629-608b61bf
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -119,7 +104,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月企业景气指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.26 | 预测: - | 公布: -
-UID:fx678-20260629-51b08f3d
+UID:fx678-20260629-5e54ccc3
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -133,7 +118,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月经济景气指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 93.5 | 预测: - | 公布: -\n-- 欧元区6月工业景气指数 ★★★: 前值: -8 | 预测: - | 公布: -\n-- 欧元区6月服务业景气指数: 前值: 2.2 | 预测: - | 公布: -
-UID:fx678-20260629-55ddd4d7
+UID:fx678-20260629-057dd0ee
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -147,7 +132,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260629-14730ede
+UID:fx678-20260629-52acf9d7
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -161,7 +146,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月季调后消费者通胀预期指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 40.5 | 预测: - | 公布: -\n-- 欧元区6月季调后生产者通胀预期指数: 前值: 27.4 | 预测: - | 公布: -
-UID:fx678-20260629-28c7fdde
+UID:fx678-20260629-0b700888
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -175,7 +160,7 @@ DTEND;TZID=Asia/Shanghai:20260701T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月终值SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260701-7d075236
+UID:fx678-20260701-1a7b0224
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -189,7 +174,7 @@ DTEND;TZID=Asia/Shanghai:20260701T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值调和CPI年率-未季调初值(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 欧元区6月初值核心调和CPI年率-未季调初值(%) ★★★: 前值:  | 预测: - | 公布: -\n-- 欧元区6月初值调和CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 欧元区6月初值核心调和CPI月率初值(%): 前值:  | 预测: - | 公布: -\n-- 欧元区6月初值未季调CPI读数初值: 前值:  | 预测: - | 公布: -
-UID:fx678-20260701-1bb1e1c9
+UID:fx678-20260701-0ac68b0c
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -203,7 +188,7 @@ DTEND;TZID=Asia/Shanghai:20260701T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值扣除食品能源烟酒的调和CPI年率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -
-UID:fx678-20260701-06ac484c
+UID:fx678-20260701-63088d50
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -217,7 +202,7 @@ DTEND;TZID=Asia/Shanghai:20260702T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月失业率(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 6.3 | 预测: - | 公布: -
-UID:fx678-20260702-1c0d36e2
+UID:fx678-20260702-0313cf81
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -231,12 +216,68 @@ DTEND;TZID=Asia/Shanghai:20260703T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月终值SPGI综合PMI终值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -\n-- 欧元区6月终值SPGI服务业PMI终值: 前值:  | 预测: - | 公布: -
-UID:fx678-20260703-6007ad1d
+UID:fx678-20260703-51bb9e93
 CATEGORIES:财经数据
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 欧元区6月终值SPGI综合PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260706T153000
+DTEND;TZID=Asia/Shanghai:20260706T153000
+LOCATION:欧元区
+SUMMARY:📊 欧元区6月SPGI建筑业PMI
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 43.7 | 预测: - | 公布: -
+UID:fx678-20260706-1171a3f7
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 欧元区6月SPGI建筑业PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260706T163000
+DTEND;TZID=Asia/Shanghai:20260706T163000
+LOCATION:欧元区
+SUMMARY:📊 欧元区6月Sentix投资者信心指数
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -13.4 | 预测: - | 公布: -
+UID:fx678-20260706-330eba51
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 欧元区6月Sentix投资者信心指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260706T170000
+DTEND;TZID=Asia/Shanghai:20260706T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区6月PPI年率(%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 4.9 | 预测: - | 公布: -\n-- 欧元区6月PPI月率(%): 前值: 0.6 | 预测: - | 公布: -
+UID:fx678-20260706-2c418643
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 欧元区6月PPI年率(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260706T170000
+DTEND;TZID=Asia/Shanghai:20260706T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区6月零售销售月率(%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.4 | 预测: - | 公布: -\n-- 欧元区6月零售销售年率(%) ★★★: 前值: 1 | 预测: - | 公布: -
+UID:fx678-20260706-3035acd5
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 欧元区6月零售销售月率(%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
