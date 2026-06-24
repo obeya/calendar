@@ -16,25 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T083000
-DTEND;TZID=Asia/Shanghai:20260623T083000
-LOCATION:日本
-SUMMARY:📊 日本6月初值Jibun制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.5 | 预测: - | 公布: 54.9\n-- 日本6月初值Jibun服务业PMI初值: 前值: 50 | 预测: - | 公布: 51.8\n-- 日本6月初值Jibun综合PMI初值: 前值: 51.1 | 预测: - | 公布: 52.5
-UID:fx678-20260623-321be107
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 日本6月初值Jibun制造业PMI初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260624T075000
 DTEND;TZID=Asia/Shanghai:20260624T075000
 LOCATION:日本
 SUMMARY:📊 日本5月企业服务价格指数年率(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3 | 预测: - | 公布: -\n-- 日本5月企业服务价格指数月率(%): 前值: 0.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3 | 预测: - | 公布: 3.3\n-- 日本5月企业服务价格指数月率(%): 前值: 0.5 | 预测: - | 公布: 0
 UID:fx678-20260624-3c9ad1ec
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -48,7 +34,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T130000
 DTEND;TZID=Asia/Shanghai:20260624T130000
 LOCATION:日本
 SUMMARY:📊 日本5月超市销售年率(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 1.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 1.1 | 预测: - | 公布: 2.9
 UID:fx678-20260624-40451251
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -254,7 +240,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T075000
 DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本第二季度央行短观大型制造业指数
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 17 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业资本支出(%) ★★★: 前值: 3.3 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业指数: 前值: 7 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型制造业景气展望 ★★★: 前值: 14 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型企业资本支出预估(%): 前值: -8.1 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型制造业景气展望: 前值: 4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 17 | 预测: 16 | 公布: -\n-- 日本第二季度央行短观大型制造业资本支出(%) ★★★: 前值: 3.3 | 预测: 10.5 | 公布: -\n-- 日本第二季度央行短观小型制造业指数: 前值: 7 | 预测: 4 | 公布: -\n-- 日本第二季度央行短观大型制造业景气展望 ★★★: 前值: 14 | 预测: 13 | 公布: -\n-- 日本第二季度央行短观小型企业资本支出预估(%): 前值: -8.1 | 预测: -4.5 | 公布: -\n-- 日本第二季度央行短观小型制造业景气展望: 前值: 4 | 预测: 1 | 公布: -
 UID:fx678-20260701-77f59f81
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -268,7 +254,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T075000
 DTEND;TZID=Asia/Shanghai:20260701T075000
 LOCATION:日本
 SUMMARY:📊 日本第二季度央行短观大型非制造业指数
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 36 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业指数: 前值: 16 | 预测: - | 公布: -\n-- 日本第二季度央行短观大型非制造业景气展望 ★★★: 前值: 29 | 预测: - | 公布: -\n-- 日本第二季度央行短观小型非制造业景气展望: 前值: 8 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 36 | 预测: 35 | 公布: -\n-- 日本第二季度央行短观小型非制造业指数: 前值: 16 | 预测: 14 | 公布: -\n-- 日本第二季度央行短观大型非制造业景气展望 ★★★: 前值: 29 | 预测: 30 | 公布: -\n-- 日本第二季度央行短观小型非制造业景气展望: 前值: 8 | 预测: 9 | 公布: -
 UID:fx678-20260701-20b97e31
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -317,6 +303,34 @@ BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 日本6月家庭消费者信心指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T075000
+DTEND;TZID=Asia/Shanghai:20260702T075000
+LOCATION:日本
+SUMMARY:📊 日本截至6月27日当周买进外国债券(亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周买进外国股票(亿日元): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周外资买进日债(亿日元): 前值:  | 预测: - | 公布: -\n-- 日本截至6月27日当周外资买进日股(亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260702-056c5ae0
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本截至6月27日当周买进外国债券(亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T075000
+DTEND;TZID=Asia/Shanghai:20260702T075000
+LOCATION:日本
+SUMMARY:📊 日本6月基础货币年率(%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -12.2 | 预测: - | 公布: -\n-- 日本6月基础货币额(万亿日元): 前值: 571.88 | 预测: - | 公布: -
+UID:fx678-20260702-3d9408b7
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 日本6月基础货币年率(%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

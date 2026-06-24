@@ -7,19 +7,20 @@
 
 - 📅 提供重要财经数据、国际假期预告、财经大事件 
 - ⏰ 数据发布前10分钟提醒
-- ⌛ 15天内财经数据
+- ⌛ 7天内财经数据
 
 
 ## 订阅链接
 
-> **美国_Key.ics**仅包含*假期*、*CPI*、*PPI*、*FOMC*、*GDP*、*非农*
+> **US_KEY.ics**仅包含*假期*、*CPI*、*PPI*、*FOMC*、*GDP*、*非农*
 
 - 中国：`https://raw.githubusercontent.com/obeya/calendar/main/CN.ics`
+- 中国：`https://raw.githubusercontent.com/obeya/calendar/main/CN_HIGH.ics`
 - 美国：`https://raw.githubusercontent.com/obeya/calendar/main/US_KEY.ics`
 - 美国：`https://raw.githubusercontent.com/obeya/calendar/main/US_HIGH.ics`
 
 
-## 如何订阅
+## 如何订阅，举例：
 
 ### Apple 日历
 1. 在 iPhone 上打开"设置"

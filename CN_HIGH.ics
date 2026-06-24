@@ -16,79 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T151000
-DTEND;TZID=Asia/Shanghai:20260623T151000
-LOCATION:中国
-SUMMARY:📊 中国6月23日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -6 | 预测: - | 公布: 0\n-- 中国6月23日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260623-24826e0f
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 中国6月23日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T151000
-DTEND;TZID=Asia/Shanghai:20260623T151000
-LOCATION:中国
-SUMMARY:📊 中国6月23日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -5044 | 预测: - | 公布: -2769
-UID:fx678-20260623-559f213e
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 中国6月23日上期所每日仓单变动-铜(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260623
-SUMMARY:📰 第十七届夏季达沃斯论坛于6月23日至25日在大连举办。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★★★\n第十七届夏季达沃斯论坛于6月23日至25日在大连举办。
-UID:fx678-20260623-720af736
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 第十七届夏季达沃斯论坛于6月23日至25日在大连举办。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260623
-SUMMARY:📰 2026年火山引擎原动力大会举行，至6月24日。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★★★\n2026年火山引擎原动力大会举行，至6月24日。
-UID:fx678-20260623-0b79376a
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 2026年火山引擎原动力大会举行，至6月24日。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T144000
-DTEND;TZID=Asia/Shanghai:20260624T144000
-LOCATION:中国
-SUMMARY:📊 中国5月全社会用电量年率-每月(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -\n-- 中国5月全社会用电量-每月(亿千瓦时) ★★★: 前值: 8205 | 预测: - | 公布: -
-UID:fx678-20260624-15d0e2f6
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 中国5月全社会用电量年率-每月(%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260624T151000
 DTEND;TZID=Asia/Shanghai:20260624T151000
 LOCATION:中国
 SUMMARY:📊 中国6月24日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: -\n-- 中国6月24日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 9\n-- 中国6月24日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260624-56427043
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -102,7 +34,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T151000
 DTEND;TZID=Asia/Shanghai:20260624T151000
 LOCATION:中国
 SUMMARY:📊 中国6月24日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -2769 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -2769 | 预测: - | 公布: -137
 UID:fx678-20260624-121449a8
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -125,11 +57,25 @@ DESCRIPTION:📰 2026上海世界移动通信大会举行，至6月26日。
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260625T144000
+DTEND;TZID=Asia/Shanghai:20260625T144000
+LOCATION:中国
+SUMMARY:📊 中国5月全社会用电量年率-每月(%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -\n-- 中国5月全社会用电量-每月(亿千瓦时) ★★★: 前值: 8205 | 预测: - | 公布: -
+UID:fx678-20260625-15d0e2f6
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 中国5月全社会用电量年率-每月(%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260625T151000
 DTEND;TZID=Asia/Shanghai:20260625T151000
 LOCATION:中国
 SUMMARY:📊 中国6月25日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 9 | 预测: - | 公布: -\n-- 中国6月25日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: -
 UID:fx678-20260625-61729540
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -143,7 +89,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T151000
 DTEND;TZID=Asia/Shanghai:20260625T151000
 LOCATION:中国
 SUMMARY:📊 中国6月25日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -137 | 预测: - | 公布: -
 UID:fx678-20260625-4a12b237
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -304,6 +250,34 @@ BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 中国7月1日上期所每日仓单变动-铜(吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T151000
+DTEND;TZID=Asia/Shanghai:20260702T151000
+LOCATION:中国
+SUMMARY:📊 中国7月2日上期所每日仓单变动-黄金(千克)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月2日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260702-6965c1d3
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 中国7月2日上期所每日仓单变动-黄金(千克)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T151000
+DTEND;TZID=Asia/Shanghai:20260702T151000
+LOCATION:中国
+SUMMARY:📊 中国7月2日上期所每日仓单变动-铜(吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260702-1ec6e452
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 中国7月2日上期所每日仓单变动-铜(吨)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -16,88 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T063000
-DTEND;TZID=Asia/Shanghai:20260623T063000
-LOCATION:美国
-SUMMARY:📊 美国6月22日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1020.49 | 预测: - | 公布: 1022.2\n-- 美国6月22日iShares白银持仓-每日更新(吨) ★★★: 前值: 14939.09 | 预测: - | 公布: 15023.49\n-- 美国6月22日iShares黄金持仓-每日更新(吨) ★★★: 前值: 472.1 | 预测: - | 公布: 470.35
-UID:fx678-20260623-5ba79a01
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 美国6月22日SPDR黄金持仓-每日更新(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T063000
-DTEND;TZID=Asia/Shanghai:20260623T063000
-LOCATION:美国
-SUMMARY:📊 美国6月18日COMEX黄金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 279987.69 | 预测: - | 公布: 279883.2
-UID:fx678-20260623-4367ab88
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 美国6月18日COMEX黄金库存-每日更新(百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T201500
-DTEND;TZID=Asia/Shanghai:20260623T201500
-LOCATION:美国
-SUMMARY:📊 美国截至6月6日当周ADP就业周度发布变动(万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.55 | 预测: - | 公布: 3.08
-UID:fx678-20260623-1fbf6638
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 美国截至6月6日当周ADP就业周度发布变动(万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T214500
-DTEND;TZID=Asia/Shanghai:20260623T214500
-LOCATION:美国
-SUMMARY:📊 美国6月终值SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.1 | 预测: 54.8 | 公布: 55.7
-UID:fx678-20260623-56cc3c0b
-CATEGORIES:财经数据
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📊 美国6月终值SPGI制造业PMI初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T023000
-DTEND;TZID=Asia/Shanghai:20260623T023000
-SUMMARY:📰 NYMEX纽约原油7月期货受移仓换月影响，6月23日2:30完成场内最后交易，凌晨5:00完成电子盘最后交易，请留意交易场所到期换月公告控制风险。此外，部分交易平台美油合约到期时间通常较NYMEX官方提前一天，请多加留意。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nNYMEX纽约原油7月期货受移仓换月影响，6月23日2:30完成场内最后交易，凌晨5:00完成电子盘最后交易，请留意交易场所到期换月公告控制风险。此外，部分交易平台美油合约到期时间通常较NYMEX官方提前一天，请多加留意。
-UID:fx678-20260623-5c748d25
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:📰 NYMEX纽约原油7月期货受移仓换月影响，6月23日2:30完成场内最后交易，凌晨5:00完成电子盘最后交易，请留意交易场所到期换月公告控制风险。此外，部分交易平台美油合约到期时间通常较NYMEX官方提前一天，请多加留意。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260623
-SUMMARY:📰 MSCI公布年度市场分类评审结果，韩国有望进入发达市场观察名单。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nMSCI公布年度市场分类评审结果，韩国有望进入发达市场观察名单。
-UID:fx678-20260623-683c5d18
-CATEGORIES:财经大事件
-BEGIN:VALARM
-TRIGGER:-PT12H
-ACTION:DISPLAY
-DESCRIPTION:📰 MSCI公布年度市场分类评审结果，韩国有望进入发达市场观察名单。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260624T043000
 DTEND;TZID=Asia/Shanghai:20260624T043000
 LOCATION:美国
@@ -116,7 +34,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T063000
 DTEND;TZID=Asia/Shanghai:20260624T063000
 LOCATION:美国
 SUMMARY:📊 美国6月23日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1022.2 | 预测: - | 公布: -\n-- 美国6月23日iShares白银持仓-每日更新(吨) ★★★: 前值: 15023.49 | 预测: - | 公布: -\n-- 美国6月23日iShares黄金持仓-每日更新(吨) ★★★: 前值: 470.35 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1022.2 | 预测: - | 公布: 1017.64\n-- 美国6月23日iShares白银持仓-每日更新(吨) ★★★: 前值: 15023.49 | 预测: - | 公布: 14941.91\n-- 美国6月23日iShares黄金持仓-每日更新(吨) ★★★: 前值: 470.35 | 预测: - | 公布: 469.65
 UID:fx678-20260624-2bad140e
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -144,7 +62,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T200000
 DTEND;TZID=Asia/Shanghai:20260624T200000
 LOCATION:美国
 SUMMARY:📊 美国6月营建许可月率修正值(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.7 | 预测: - | 公布: -\n-- 美国6月营建许可年化总数修正值(万户) ★★★: 前值: 141.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.7 | 预测: - | 公布: -0.9\n-- 美国6月营建许可年化总数修正值(万户) ★★★: 前值: 141.3 | 预测: - | 公布: 141
 UID:fx678-20260624-1ad7a1c0
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -158,7 +76,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T203000
 DTEND;TZID=Asia/Shanghai:20260624T203000
 LOCATION:美国
 SUMMARY:📊 美国第一季度经常帐(亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -1907 | 预测: -2150 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -1907 | 预测: -2150 | 公布: -2268
 UID:fx678-20260624-65ff2314
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -172,7 +90,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T220000
 DTEND;TZID=Asia/Shanghai:20260624T220000
 LOCATION:美国
 SUMMARY:📊 美国5月季调后新屋销售年化总数(万户)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.2 | 预测: 63.9 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.2 | 预测: 63.9 | 公布: 58
 UID:fx678-20260624-2de40842
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -186,7 +104,7 @@ DTSTART;TZID=Asia/Shanghai:20260624T223000
 DTEND;TZID=Asia/Shanghai:20260624T223000
 LOCATION:美国
 SUMMARY:📊 美国截至6月19日当周EIA原油库存变动(万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -826.3 | 预测: -499.5 | 公布: -\n-- 美国截至6月19日当周EIA汽油库存变动(万桶) ★★★: 前值: -90.6 | 预测: -35 | 公布: -\n-- 美国截至6月19日当周EIA精炼油库存变动(万桶) ★★★: 前值: 95.1 | 预测: -38 | 公布: -\n-- 美国截至6月19日当周EIA俄克拉荷马州-库欣原油库存(万桶) ★★★: 前值: -160.6 | 预测: - | 公布: -\n-- 美国截至6月19日当周EIA每周原油进口变动(万桶) ★★★: 前值: -24.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -826.3 | 预测: -446.1 | 公布: -608.8\n-- 美国截至6月19日当周EIA汽油库存变动(万桶) ★★★: 前值: -90.6 | 预测: -57.8 | 公布: 206.4\n-- 美国截至6月19日当周EIA精炼油库存变动(万桶) ★★★: 前值: 95.1 | 预测: -50.5 | 公布: 306.4\n-- 美国截至6月19日当周EIA俄克拉荷马州-库欣原油库存(万桶) ★★★: 前值: -160.6 | 预测: - | 公布: -107.7\n-- 美国截至6月19日当周EIA每周原油进口变动(万桶) ★★★: 前值: -24.1 | 预测: - | 公布: 9.4
 UID:fx678-20260624-03411f3d
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -200,7 +118,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T063000
 DTEND;TZID=Asia/Shanghai:20260625T063000
 LOCATION:美国
 SUMMARY:📊 美国6月24日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月24日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月24日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1017.64 | 预测: - | 公布: 1013.36\n-- 美国6月24日iShares白银持仓-每日更新(吨) ★★★: 前值: 14941.91 | 预测: - | 公布: -\n-- 美国6月24日iShares黄金持仓-每日更新(吨) ★★★: 前值: 469.65 | 预测: - | 公布: -
 UID:fx678-20260625-08193262
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -214,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T063000
 DTEND;TZID=Asia/Shanghai:20260625T063000
 LOCATION:美国
 SUMMARY:📊 美国6月23日COMEX黄金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 278826.27 | 预测: - | 公布: 278099.02
 UID:fx678-20260625-5a0e83fe
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -379,7 +297,7 @@ DTSTART;TZID=Asia/Shanghai:20260626T220000
 DTEND;TZID=Asia/Shanghai:20260626T220000
 LOCATION:美国
 SUMMARY:📊 美国6月初值密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50 | 公布: -
 UID:fx678-20260626-48c70275
 CATEGORIES:财经数据
 BEGIN:VALARM
@@ -649,6 +567,76 @@ BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 美国截至6月26日当周EIA原油库存变动(万桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T063000
+DTEND;TZID=Asia/Shanghai:20260702T063000
+LOCATION:美国
+SUMMARY:📊 美国7月1日SPDR黄金持仓-每日更新(吨)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国7月1日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国7月1日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260702-2200913f
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国7月1日SPDR黄金持仓-每日更新(吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T063000
+DTEND;TZID=Asia/Shanghai:20260702T063000
+LOCATION:美国
+SUMMARY:📊 美国6月30日COMEX黄金库存-每日更新(百盎司)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260702-70f787e4
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国6月30日COMEX黄金库存-每日更新(百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T203000
+DTEND;TZID=Asia/Shanghai:20260702T203000
+LOCATION:美国
+SUMMARY:📊 美国6月非农就业人口变动季调后(万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: - | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: - | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: - | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: - | 公布: -
+UID:fx678-20260702-3da2c9f4
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国6月非农就业人口变动季调后(万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T203000
+DTEND;TZID=Asia/Shanghai:20260702T203000
+LOCATION:美国
+SUMMARY:📊 美国截至6月27日当周初请失业金人数(万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国截至6月21日当周续请失业金人数(万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260702-52251db9
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国截至6月27日当周初请失业金人数(万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260702T220000
+DTEND;TZID=Asia/Shanghai:20260702T220000
+LOCATION:美国
+SUMMARY:📊 美国工厂订单月环比工厂订单月率(%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: -
+UID:fx678-20260702-27f98d9a
+CATEGORIES:财经数据
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:📊 美国工厂订单月环比工厂订单月率(%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
