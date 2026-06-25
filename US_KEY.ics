@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T203000
 DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国5月PCE物价指数年率(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: 4.1 | 公布: -\n-- 美国5月核心PCE物价指数年率(%) ★★★: 前值: 3.3 | 预测: 3.4 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: 4.1 | 公布: 4.1\n-- 美国5月核心PCE物价指数年率(%) ★★★: 前值: 3.3 | 预测: 3.4 | 公布: 3.4
 UID:fx678-20260625-364f2ad7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -35,16 +35,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260625T203000
 DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
-SUMMARY:📊 美国第一季度终值实际GDP年化季率终值(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: -\n-- 美国第一季度终值GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -\n-- 美国第一季度终值核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: 4.4 | 公布: -\n-- 美国第一季度终值消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 美国第一季度终值GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260625-238bd3bb
+SUMMARY:📊 美国第一季度实际GDP年化季率终值(%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.6 | 预测: 1.6 | 公布: 2.1\n-- 美国第一季度GDP价格指数季率终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.6\n-- 美国第一季度核心PCE物价指数年化季率终值(%) ★★★: 前值: 4.4 | 预测: 4.4 | 公布: 4.4\n-- 美国第一季度消费者支出年化季率终值(%) ★★★: 前值: 1.4 | 预测: - | 公布: 0.5\n-- 美国第一季度GDP隐性平减指数季率-季调后终值(%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.6
+UID:fx678-20260625-1db60932
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国第一季度终值实际GDP年化季率终值(%)
+DESCRIPTION:📊 美国第一季度实际GDP年化季率终值(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T203000
 DTEND;TZID=Asia/Shanghai:20260625T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月20日当周初请失业金人数(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 22.6 | 预测: 22.5 | 公布: -\n-- 美国截至6月13日当周续请失业金人数(万) ★★★: 前值: 181 | 预测: 180 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 22.6 | 预测: 22.5 | 公布: 21.5\n-- 美国截至6月13日当周续请失业金人数(万) ★★★: 前值: 181 | 预测: 180 | 公布: 182.1
 UID:fx678-20260625-1a801a82
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -67,16 +67,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260626T220000
 DTEND;TZID=Asia/Shanghai:20260626T220000
 LOCATION:美国
-SUMMARY:📊 美国6月初值密歇根大学消费者信心指数终值
+SUMMARY:📊 美国6月密歇根大学消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50 | 公布: -
-UID:fx678-20260626-0789f576
+UID:fx678-20260626-70c0f2c4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月初值密歇根大学消费者信心指数终值
+DESCRIPTION:📊 美国6月密歇根大学消费者信心指数终值
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -217,6 +217,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国截至6月27日当周初请失业金人数(万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+LOCATION:纽交所
+SUMMARY:🏖️ 美国独⽴纪念⽇假期，休市一日。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独⽴纪念⽇假期，休市一日。
+UID:fx678-20260703-3c9db5f8
+CATEGORIES:国际假期预告
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20260703T090000
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:🏖️ 美国独⽴纪念⽇假期，休市一日。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+LOCATION:芝商所
+SUMMARY:🏖️ 美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
+UID:fx678-20260703-69a749e3
+CATEGORIES:国际假期预告
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20260703T090000
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:🏖️ 美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+LOCATION:洲际交易所
+SUMMARY:🏖️ 美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
+DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
+UID:fx678-20260703-025928d6
+CATEGORIES:国际假期预告
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20260703T090000
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:🏖️ 美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
 END:VALARM
 END:VEVENT
 END:VCALENDAR

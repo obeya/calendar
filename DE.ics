@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T160000
-DTEND;TZID=Asia/Shanghai:20260624T160000
-LOCATION:德国
-SUMMARY:📊 德国6月IFO商业景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 84.9 | 预测: 85.6 | 公布: 85.6\n-- 德国6月IFO商业现况指数: 前值: 86.1 | 预测: 86.3 | 公布: 87\n-- 德国6月IFO商业预期指数: 前值: 83.8 | 预测: 85.1 | 公布: 84.1
-UID:fx678-20260624-75e79dc8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国6月IFO商业景气指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260625T140000
 DTEND;TZID=Asia/Shanghai:20260625T140000
 LOCATION:德国
@@ -111,32 +95,32 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260630T140000
 DTEND;TZID=Asia/Shanghai:20260630T140000
 LOCATION:德国
-SUMMARY:📊 德国进口物价月环比进口物价指数月率(%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.2 | 预测: - | 公布: -\n-- 德国进口物价月环比进口物价指数年率(%): 前值: 5.3 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数年率(%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数月率(%): 前值: 0.8 | 预测: - | 公布: -
-UID:fx678-20260630-46b2b5a2
+SUMMARY:📊 德国6月进口物价指数月率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.2 | 预测: - | 公布: -\n-- 德国6月进口物价指数年率(%): 前值: 5.3 | 预测: - | 公布: -\n-- 德国6月出口物价指数年率(%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国6月出口物价指数月率(%): 前值: 0.8 | 预测: - | 公布: -
+UID:fx678-20260630-5375dc86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国进口物价月环比进口物价指数月率(%)
+DESCRIPTION:📊 德国6月进口物价指数月率(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260630T140000
 DTEND;TZID=Asia/Shanghai:20260630T140000
 LOCATION:德国
-SUMMARY:📊 德国实际零售销售月环比实际零售销售月率(%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.3 | 预测: - | 公布: -\n-- 德国实际零售销售月环比实际零售销售年率(%) ★★★: 前值: -0.3 | 预测: - | 公布: -
-UID:fx678-20260630-2b588fa7
+SUMMARY:📊 德国6月实际零售销售月率(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.3 | 预测: - | 公布: -\n-- 德国6月实际零售销售年率(%) ★★★: 前值: -0.3 | 预测: - | 公布: -
+UID:fx678-20260630-1cec2c17
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国实际零售销售月环比实际零售销售月率(%)
+DESCRIPTION:📊 德国6月实际零售销售月率(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -191,16 +175,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260630T200000
 DTEND;TZID=Asia/Shanghai:20260630T200000
 LOCATION:德国
-SUMMARY:📊 德国6月初值CPI年率初值(%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月初值调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月初值调和CPI年率初值(%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国6月初值未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
-UID:fx678-20260630-4805699e
+SUMMARY:📊 德国6月CPI年率初值(%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月调和CPI年率初值(%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国6月未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
+UID:fx678-20260630-0a0dc32b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国6月初值CPI年率初值(%)
+DESCRIPTION:📊 德国6月CPI年率初值(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -217,6 +201,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国6月终值SPGI制造业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260703T155500
+DTEND;TZID=Asia/Shanghai:20260703T155500
+LOCATION:德国
+SUMMARY:📊 德国6月SPGI服务业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 46.8 | 预测: - | 公布: -\n-- 德国6月SPGI综合PMI终值: 前值: 48 | 预测: - | 公布: -
+UID:fx678-20260703-4428a24e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国6月SPGI服务业PMI终值
 END:VALARM
 END:VEVENT
 END:VCALENDAR
