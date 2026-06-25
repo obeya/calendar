@@ -21,10 +21,11 @@ DTEND;TZID=Asia/Shanghai:20260624T160000
 LOCATION:德国
 SUMMARY:📊 德国6月IFO商业景气指数
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 84.9 | 预测: 85.6 | 公布: 85.6\n-- 德国6月IFO商业现况指数: 前值: 86.1 | 预测: 86.3 | 公布: 87\n-- 德国6月IFO商业预期指数: 前值: 83.8 | 预测: 85.1 | 公布: 84.1
-UID:fx678-20260624-476a07c7
+UID:fx678-20260624-33e26102
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月IFO商业景气指数
 END:VALARM
@@ -34,11 +35,12 @@ DTSTART;TZID=Asia/Shanghai:20260625T140000
 DTEND;TZID=Asia/Shanghai:20260625T140000
 LOCATION:德国
 SUMMARY:📊 德国7月Gfk消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.8 | 预测: -27.6 | 公布: -
-UID:fx678-20260625-4a630c40
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.8 | 预测: -27.6 | 公布: -29.2
+UID:fx678-20260625-670b6d20
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国7月Gfk消费者信心指数
 END:VALARM
@@ -48,10 +50,11 @@ DTSTART;TZID=Asia/Shanghai:20260625T160000
 DTEND;TZID=Asia/Shanghai:20260625T160000
 SUMMARY:📰 欧洲央行公布经济公报。
 DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★★\n欧洲央行公布经济公报。
-UID:fx678-20260625-4eaaad29
+UID:fx678-20260625-6b47ac36
 CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📰 欧洲央行公布经济公报。
 END:VALARM
@@ -61,10 +64,11 @@ DTSTART;TZID=Asia/Shanghai:20260625T200000
 DTEND;TZID=Asia/Shanghai:20260625T200000
 SUMMARY:📰 欧洲央行执委奇波洛内发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★\n欧洲央行执委奇波洛内发表讲话。
-UID:fx678-20260625-2544928f
+UID:fx678-20260625-5b16dbbc
 CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📰 欧洲央行执委奇波洛内发表讲话。
 END:VALARM
@@ -74,10 +78,11 @@ DTSTART;TZID=Asia/Shanghai:20260626T214500
 DTEND;TZID=Asia/Shanghai:20260626T214500
 SUMMARY:📰 欧洲央行执委施纳贝尔发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★\n欧洲央行执委施纳贝尔发表讲话。
-UID:fx678-20260626-1a88dec7
+UID:fx678-20260626-449a5fe3
 CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📰 欧洲央行执委施纳贝尔发表讲话。
 END:VALARM
@@ -87,10 +92,11 @@ DTSTART;TZID=Asia/Shanghai:20260627T214500
 DTEND;TZID=Asia/Shanghai:20260627T214500
 SUMMARY:📰 欧洲央行执委施纳贝尔发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★\n欧洲央行执委施纳贝尔发表讲话。
-UID:fx678-20260627-1a88dec7
+UID:fx678-20260627-449a5fe3
 CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📰 欧洲央行执委施纳贝尔发表讲话。
 END:VALARM
@@ -101,10 +107,11 @@ DTEND;TZID=Asia/Shanghai:20260630T140000
 LOCATION:德国
 SUMMARY:📊 德国进口物价月环比进口物价指数月率(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.2 | 预测: - | 公布: -\n-- 德国进口物价月环比进口物价指数年率(%): 前值: 5.3 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数年率(%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国进口物价月环比出口物价指数月率(%): 前值: 0.8 | 预测: - | 公布: -
-UID:fx678-20260630-39bb3f2b
+UID:fx678-20260630-13c6e067
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国进口物价月环比进口物价指数月率(%)
 END:VALARM
@@ -115,10 +122,11 @@ DTEND;TZID=Asia/Shanghai:20260630T140000
 LOCATION:德国
 SUMMARY:📊 德国实际零售销售月环比实际零售销售月率(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.3 | 预测: - | 公布: -\n-- 德国实际零售销售月环比实际零售销售年率(%) ★★★: 前值: -0.3 | 预测: - | 公布: -
-UID:fx678-20260630-59b97e8c
+UID:fx678-20260630-79aec641
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国实际零售销售月环比实际零售销售月率(%)
 END:VALARM
@@ -129,10 +137,11 @@ DTEND;TZID=Asia/Shanghai:20260630T155500
 LOCATION:德国
 SUMMARY:📊 德国6月季调后失业率(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.3 | 预测: - | 公布: -\n-- 德国6月季调后失业人数变动(万人) ★★★: 前值: -1.2 | 预测: - | 公布: -\n-- 德国6月未季调失业总人数(万人): 前值: 29.5 | 预测: - | 公布: -\n-- 德国6月季调后失业总人数(万人): 前值: 298.7 | 预测: - | 公布: -
-UID:fx678-20260630-0b75aa04
+UID:fx678-20260630-70e1a569
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月季调后失业率(%)
 END:VALARM
@@ -143,10 +152,11 @@ DTEND;TZID=Asia/Shanghai:20260630T160000
 LOCATION:德国
 SUMMARY:📊 德国6月BB勃兰登堡州CPI月率(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.1 | 预测: - | 公布: -\n-- 德国6月SN萨克森州CPI年率(%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国6月BY巴伐利亚州CPI年率(%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国6月BB勃兰登堡州CPI年率(%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国6月BW巴登符腾堡州CPI月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 德国6月BW巴登符腾堡州CPI年率(%): 前值: 2.4 | 预测: - | 公布: -\n-- 德国6月BY巴伐利亚州CPI月率(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月HE黑森州CPI月率(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月HE黑森州CPI年率(%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国6月SN萨克森州CPI月率(%): 前值: -0.1 | 预测: - | 公布: -
-UID:fx678-20260630-4e119149
+UID:fx678-20260630-7974f56f
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月BB勃兰登堡州CPI月率(%)
 END:VALARM
@@ -157,10 +167,11 @@ DTEND;TZID=Asia/Shanghai:20260630T160000
 LOCATION:德国
 SUMMARY:📊 德国6月NW北莱茵威斯特法伦州CPI年率(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.4 | 预测: - | 公布: -
-UID:fx678-20260630-2168edba
+UID:fx678-20260630-5f72a750
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月NW北莱茵威斯特法伦州CPI年率(%)
 END:VALARM
@@ -171,10 +182,11 @@ DTEND;TZID=Asia/Shanghai:20260630T200000
 LOCATION:德国
 SUMMARY:📊 德国6月初值CPI年率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月初值调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月初值调和CPI年率初值(%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国6月初值未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
-UID:fx678-20260630-70078113
+UID:fx678-20260630-20321f9a
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月初值CPI年率初值(%)
 END:VALARM
@@ -185,10 +197,11 @@ DTEND;TZID=Asia/Shanghai:20260701T155500
 LOCATION:德国
 SUMMARY:📊 德国6月终值SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260701-23e2242e
+UID:fx678-20260701-59138e0c
 CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
-TRIGGER:-PT10M
+TRIGGER;RELATED=START:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:📊 德国6月终值SPGI制造业PMI终值
 END:VALARM
