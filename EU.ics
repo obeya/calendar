@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260625T180000
 DTEND;TZID=Asia/Shanghai:20260625T180000
 SUMMARY:📰 欧洲央行首席经济学家连恩发表讲话。
 DESCRIPTION:📰 财经事件\n区域: 欧元区\n重要性: ★★\n欧洲央行首席经济学家连恩发表讲话。
-UID:fx678-20260625-6993c2d9
+UID:fx678-20260625-06b75fc7
 CATEGORIES:财经大事件
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,7 +36,7 @@ DTEND;TZID=Asia/Shanghai:20260629T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月季调后货币供应M3年率(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.7 | 预测: - | 公布: -\n-- 欧元区5月三个月货币供应M3年率(%): 前值: 2.7 | 预测: - | 公布: -\n-- 欧元区5月M3广义货币季调后(亿欧元): 前值: 174339.11 | 预测: - | 公布: -
-UID:fx678-20260629-76b784fc
+UID:fx678-20260629-5061d278
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,7 +52,7 @@ DTEND;TZID=Asia/Shanghai:20260629T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月对非金融企业贷款年率-季调后(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 3.4 | 预测: - | 公布: -\n-- 欧元区5月家庭贷款年率(%): 前值: 3 | 预测: - | 公布: -
-UID:fx678-20260629-6a14b151
+UID:fx678-20260629-21fde197
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,7 +68,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月企业景气指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.26 | 预测: - | 公布: -
-UID:fx678-20260629-58ced6a2
+UID:fx678-20260629-717694ea
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,7 +84,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月经济景气指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 93.5 | 预测: - | 公布: -\n-- 欧元区6月工业景气指数 ★★★: 前值: -8 | 预测: - | 公布: -\n-- 欧元区6月服务业景气指数: 前值: 2.2 | 预测: - | 公布: -
-UID:fx678-20260629-31ccbeee
+UID:fx678-20260629-30e732d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -100,7 +100,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -17.7 | 预测: - | 公布: -
-UID:fx678-20260629-1a3a6f05
+UID:fx678-20260629-0f99a4e9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -116,7 +116,7 @@ DTEND;TZID=Asia/Shanghai:20260629T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月季调后消费者通胀预期指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 40.5 | 预测: - | 公布: -\n-- 欧元区6月季调后生产者通胀预期指数: 前值: 27.4 | 预测: - | 公布: -
-UID:fx678-20260629-09552b9d
+UID:fx678-20260629-237d0f52
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -132,7 +132,7 @@ DTEND;TZID=Asia/Shanghai:20260701T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月终值SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.3 | 预测: - | 公布: -
-UID:fx678-20260701-5541a2c0
+UID:fx678-20260701-4427c3ac
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -148,7 +148,7 @@ DTEND;TZID=Asia/Shanghai:20260701T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值调和CPI年率-未季调初值(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.2 | 预测: - | 公布: -\n-- 欧元区6月初值核心调和CPI年率-未季调初值(%) ★★★: 前值: 2.3 | 预测: - | 公布: -\n-- 欧元区6月初值调和CPI月率初值(%): 前值: 0.1 | 预测: - | 公布: -\n-- 欧元区6月初值核心调和CPI月率初值(%): 前值: 0.3 | 预测: - | 公布: -\n-- 欧元区6月初值未季调CPI读数初值: 前值: 103.15 | 预测: - | 公布: -
-UID:fx678-20260701-25d6bf78
+UID:fx678-20260701-5252b8bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -164,7 +164,7 @@ DTEND;TZID=Asia/Shanghai:20260701T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月初值扣除食品能源烟酒的调和CPI年率初值(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 2.6 | 预测: - | 公布: -
-UID:fx678-20260701-2bcc1ebb
+UID:fx678-20260701-66be4e72
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -180,7 +180,7 @@ DTEND;TZID=Asia/Shanghai:20260702T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区5月失业率(%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 6.3 | 预测: - | 公布: -
-UID:fx678-20260702-2c7ea345
+UID:fx678-20260702-25724e1f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
