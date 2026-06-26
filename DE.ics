@@ -16,52 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T140000
-DTEND;TZID=Asia/Shanghai:20260625T140000
-LOCATION:德国
-SUMMARY:📊 德国7月Gfk消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.8 | 预测: -27.6 | 公布: -29.2
-UID:fx678-20260625-1c535cbc
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国7月Gfk消费者信心指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T160000
-DTEND;TZID=Asia/Shanghai:20260625T160000
-SUMMARY:📰 欧洲央行公布经济公报。
-DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★★\n欧洲央行公布经济公报。
-UID:fx678-20260625-5bc8d3a8
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 欧洲央行公布经济公报。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T200000
-DTEND;TZID=Asia/Shanghai:20260625T200000
-SUMMARY:📰 欧洲央行执委奇波洛内发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 德国\n重要性: ★★\n欧洲央行执委奇波洛内发表讲话。
-UID:fx678-20260625-0bce3e7b
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 欧洲央行执委奇波洛内发表讲话。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260626T214500
 DTEND;TZID=Asia/Shanghai:20260626T214500
 SUMMARY:📰 欧洲央行执委施纳贝尔发表讲话。
@@ -176,7 +130,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T200000
 DTEND;TZID=Asia/Shanghai:20260630T200000
 LOCATION:德国
 SUMMARY:📊 德国6月CPI年率初值(%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: - | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月调和CPI年率初值(%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国6月未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.6 | 预测: 2.7 | 公布: -\n-- 德国CPI初值月环比CPI月率初值(%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国6月调和CPI月率初值(%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国6月调和CPI年率初值(%): 前值: 2.7 | 预测: 2.9 | 公布: -\n-- 德国6月未季调CPI读数初值: 前值: 125 | 预测: - | 公布: -
 UID:fx678-20260630-0a0dc32b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

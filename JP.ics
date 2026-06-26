@@ -16,73 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T075000
-DTEND;TZID=Asia/Shanghai:20260625T075000
-LOCATION:日本
-SUMMARY:📊 日本截至6月20日当周买进外国债券(亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3826 | 预测: - | 公布: 1997\n-- 日本截至6月20日当周买进外国股票(亿日元): 前值: -4183 | 预测: - | 公布: 4268\n-- 日本截至6月20日当周外资买进日债(亿日元): 前值: -5310 | 预测: - | 公布: -10573\n-- 日本截至6月20日当周外资买进日股(亿日元): 前值: -7851 | 预测: - | 公布: 4794
-UID:fx678-20260625-401183c1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本截至6月20日当周买进外国债券(亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T130000
-DTEND;TZID=Asia/Shanghai:20260625T130000
-LOCATION:日本
-SUMMARY:📊 日本4月领先指标读数变动修正值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: - | 公布: 0.7\n-- 日本4月同步指标修正值: 前值: 117.9 | 预测: - | 公布: 118.1\n-- 日本4月领先指标修正值: 前值: 115.9 | 预测: - | 公布: 116.1\n-- 日本4月同步指标读数变动修正值: 前值: 1.1 | 预测: - | 公布: 1.3
-UID:fx678-20260625-21773ec5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本4月领先指标读数变动修正值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T040000
-DTEND;TZID=Asia/Shanghai:20260625T040000
-SUMMARY:📰 日本央行行长植田和男出席国际货币基金组织(IMF)举办的一个央行讲座活动。
-DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★★\n日本央行行长植田和男出席国际货币基金组织(IMF)举办的一个央行讲座活动。
-UID:fx678-20260625-2db32cb3
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 日本央行行长植田和男出席国际货币基金组织(IMF)举办的一个央行讲座活动。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T090000
-DTEND;TZID=Asia/Shanghai:20260625T090000
-SUMMARY:📰 日本央行审议委员田村直树发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 日本\n重要性: ★★\n日本央行审议委员田村直树发表讲话。
-UID:fx678-20260625-6585c8d3
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 日本央行审议委员田村直树发表讲话。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260626T073000
 DTEND;TZID=Asia/Shanghai:20260626T073000
 LOCATION:日本
 SUMMARY:📊 日本6月东京CPI年率(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.4 | 预测: 1.6 | 公布: -\n-- 日本6月东京核心CPI年率(%): 前值: 1.3 | 预测: 1.6 | 公布: -\n-- 日本6月东京核心-核心CPI年率(%): 前值: 1.6 | 预测: - | 公布: -\n-- 日本6月东京CPI月率(%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本6月不含食品与能源的东京CPI月率(%): 前值: 0 | 预测: - | 公布: -\n-- 日本6月不含食品与能源的东京CPI年率(%): 前值: 0.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.4 | 预测: 1.6 | 公布: 1.7\n-- 日本6月东京核心CPI年率(%): 前值: 1.3 | 预测: 1.6 | 公布: 1.6\n-- 日本6月东京核心-核心CPI年率(%): 前值: 1.6 | 预测: - | 公布: 1.9\n-- 日本6月东京CPI月率(%): 前值: 0.3 | 预测: - | 公布: 0.3\n-- 日本6月不含食品与能源的东京CPI月率(%): 前值: 0 | 预测: - | 公布: 0.4\n-- 日本6月不含食品与能源的东京CPI年率(%): 前值: 0.7 | 预测: - | 公布: 1.9
 UID:fx678-20260626-47adb058
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -98,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260629T075000
 DTEND;TZID=Asia/Shanghai:20260629T075000
 LOCATION:日本
 SUMMARY:📊 日本5月未季调零售销售年率(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.1 | 预测: - | 公布: -\n-- 日本5月大型零售企业销售额年率(%): 前值: 2 | 预测: - | 公布: -\n-- 日本5月零售销售(万亿日元): 前值: 13.21 | 预测: - | 公布: -\n-- 日本5月季调后零售销售月率(%): 前值: 1.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.1 | 预测: 3.2 | 公布: -\n-- 日本5月大型零售企业销售额年率(%): 前值: 2 | 预测: - | 公布: -\n-- 日本5月零售销售(万亿日元): 前值: 13.21 | 预测: - | 公布: -\n-- 日本5月季调后零售销售月率(%): 前值: 1.3 | 预测: -0.6 | 公布: -
 UID:fx678-20260629-2aaecdf0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -114,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T073000
 DTEND;TZID=Asia/Shanghai:20260630T073000
 LOCATION:日本
 SUMMARY:📊 日本5月失业率(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: - | 公布: -\n-- 日本5月求才求职比: 前值: 1.18 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: 2.5 | 公布: -\n-- 日本5月求才求职比: 前值: 1.18 | 预测: 1.18 | 公布: -
 UID:fx678-20260630-3e6f2bc3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -146,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T075000
 DTEND;TZID=Asia/Shanghai:20260630T075000
 LOCATION:日本
 SUMMARY:📊 日本5月季调后工业产出月率初值(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: - | 公布: -\n-- 日本5月未季调工业产出年率初值(%): 前值: 2 | 预测: - | 公布: -\n-- 日本5月库存月率初值(%): 前值: -0.3 | 预测: - | 公布: -\n-- 日本5月库存装船比月率初值(%): 前值: -0.9 | 预测: - | 公布: -\n-- 日本5月装船月率初值(%): 前值: 1.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: 1.1 | 公布: -\n-- 日本5月未季调工业产出年率初值(%): 前值: 2 | 预测: - | 公布: -\n-- 日本5月库存月率初值(%): 前值: -0.3 | 预测: - | 公布: -\n-- 日本5月库存装船比月率初值(%): 前值: -0.9 | 预测: - | 公布: -\n-- 日本5月装船月率初值(%): 前值: 1.3 | 预测: - | 公布: -
 UID:fx678-20260630-79a4c484
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -178,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T130000
 DTEND;TZID=Asia/Shanghai:20260630T130000
 LOCATION:日本
 SUMMARY:📊 日本5月新屋开工年率-未季调(%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11.36 | 预测: - | 公布: -\n-- 日本5月营建订单年率(%): 前值: -32.3 | 预测: - | 公布: -\n-- 日本5月新屋开工单月总数-未季调(万户): 前值: 6.26 | 预测: - | 公布: -\n-- 日本5月新屋开工年化总数-季调后(万户): 前值: 72.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11.36 | 预测: 31.8 | 公布: -\n-- 日本5月营建订单年率(%): 前值: -32.3 | 预测: - | 公布: -\n-- 日本5月新屋开工单月总数-未季调(万户): 前值: 6.26 | 预测: - | 公布: -\n-- 日本5月新屋开工年化总数-季调后(万户): 前值: 72.4 | 预测: - | 公布: -
 UID:fx678-20260630-26c366b2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -274,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T130000
 DTEND;TZID=Asia/Shanghai:20260701T130000
 LOCATION:日本
 SUMMARY:📊 日本6月家庭消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.6 | 预测: 34.1 | 公布: -
 UID:fx678-20260701-42932434
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

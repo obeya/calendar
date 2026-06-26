@@ -16,18 +16,19 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T180000
-DTEND;TZID=Asia/Shanghai:20260625T180000
-SUMMARY:📰 欧洲央行首席经济学家连恩发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 欧元区\n重要性: ★★\n欧洲央行首席经济学家连恩发表讲话。
-UID:fx678-20260625-06b75fc7
-CATEGORIES:财经大事件
+DTSTART;TZID=Asia/Shanghai:20260626T160000
+DTEND;TZID=Asia/Shanghai:20260626T160000
+LOCATION:欧元区
+SUMMARY:📊 欧元区5月欧洲央行1年期CPI预期(%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 4 | 预测: 3.9 | 公布: 3.5\n-- 欧元区5月欧洲央行3年期CPI预期(%) ★★★: 前值: 2.9 | 预测: 2.8 | 公布: 2.9
+UID:fx678-20260626-50b3ccdf
+CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 欧洲央行首席经济学家连恩发表讲话。
+DESCRIPTION:📊 欧元区5月欧洲央行1年期CPI预期(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T160000
 DTEND;TZID=Asia/Shanghai:20260701T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月SPGI制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.3 | 预测: 51.3 | 公布: -
 UID:fx678-20260701-3d2a5d41
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -147,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T170000
 DTEND;TZID=Asia/Shanghai:20260701T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区6月调和CPI年率-未季调初值(%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.2 | 预测: - | 公布: -\n-- 欧元区6月核心调和CPI年率-未季调初值(%) ★★★: 前值: 2.3 | 预测: - | 公布: -\n-- 欧元区6月调和CPI月率初值(%): 前值: 0.1 | 预测: - | 公布: -\n-- 欧元区6月核心调和CPI月率初值(%): 前值: 0.3 | 预测: - | 公布: -\n-- 欧元区6月未季调CPI读数初值: 前值: 103.15 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.2 | 预测: 3.1 | 公布: -\n-- 欧元区6月核心调和CPI年率-未季调初值(%) ★★★: 前值: 2.3 | 预测: - | 公布: -\n-- 欧元区6月调和CPI月率初值(%): 前值: 0.1 | 预测: - | 公布: -\n-- 欧元区6月核心调和CPI月率初值(%): 前值: 0.3 | 预测: - | 公布: -\n-- 欧元区6月未季调CPI读数初值: 前值: 103.15 | 预测: - | 公布: -
 UID:fx678-20260701-65629c0f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -204,6 +205,21 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 欧元区6月SPGI综合PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260703T160000
+DTEND;TZID=Asia/Shanghai:20260703T160000
+SUMMARY:📰 欧洲央行行长拉加德发表讲话。
+DESCRIPTION:📰 财经事件\n区域: 欧元区\n重要性: ★★★\n欧洲央行行长拉加德发表讲话。
+UID:fx678-20260703-1a3461ba
+CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📰 欧洲央行行长拉加德发表讲话。
 END:VALARM
 END:VEVENT
 END:VCALENDAR
