@@ -16,211 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T010000
-DTEND;TZID=Asia/Shanghai:20260626T010000
-LOCATION:美国
-SUMMARY:📊 美国6月25日7年期国债竞拍-总金额(亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 440 | 预测: - | 公布: 440\n-- 美国6月25日7年期国债竞拍-高收益率(%): 前值: 4.29 | 预测: - | 公布: 4.26\n-- 美国6月25日7年期国债竞拍-投标倍数(倍): 前值: 2.52 | 预测: - | 公布: 2.5\n-- 美国6月25日7年期国债竞拍-高配置百分比(%): 前值: 71.23 | 预测: - | 公布: 36.22
-UID:fx678-20260626-1da23e12
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月25日7年期国债竞拍-总金额(亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T043000
-DTEND;TZID=Asia/Shanghai:20260626T043000
-LOCATION:美国
-SUMMARY:📊 美国截至6月24日美联储资产负债表(万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.74 | 预测: - | 公布: 6.74
-UID:fx678-20260626-7d982ce0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国截至6月24日美联储资产负债表(万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T043000
-DTEND;TZID=Asia/Shanghai:20260626T043000
-LOCATION:美国
-SUMMARY:📊 美国截至6月20日当周外国央行持有美国国债(亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -21.18 | 预测: - | 公布: 56.56
-UID:fx678-20260626-78cb9474
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国截至6月20日当周外国央行持有美国国债(亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T063000
-DTEND;TZID=Asia/Shanghai:20260626T063000
-LOCATION:美国
-SUMMARY:📊 美国6月25日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1013.36 | 预测: - | 公布: 1007.08\n-- 美国6月25日SPDR黄金持仓变动-每日(吨): 前值: -4.28 | 预测: - | 公布: -6.28\n-- 美国6月25日iShares白银持仓变动-每日(吨): 前值: -23.91 | 预测: - | 公布: 73.13\n-- 美国6月25日iShares黄金持仓变动-每日(吨): 前值: -0.35 | 预测: - | 公布: -2.87\n-- 美国6月25日iShares白银持仓-每日更新(吨) ★★★: 前值: 14918 | 预测: - | 公布: 14991.13\n-- 美国6月25日iShares黄金持仓-每日更新(吨) ★★★: 前值: 469.3 | 预测: - | 公布: 466.43
-UID:fx678-20260626-16d20b16
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月25日SPDR黄金持仓-每日更新(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T063000
-DTEND;TZID=Asia/Shanghai:20260626T063000
-LOCATION:美国
-SUMMARY:📊 美国6月24日COMEX黄金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 278099.02 | 预测: - | 公布: 278098.69\n-- 美国6月24日COMEX黄金库存变动-每日(百盎司): 前值: -727.25 | 预测: - | 公布: -0.32\n-- 美国6月24日COMEX白银库存-每日更新(百盎司): 前值: 3227921.2 | 预测: - | 公布: 3233949.36\n-- 美国6月24日COMEX白银库存变动-每日(百盎司): 前值: -300.35 | 预测: - | 公布: 6028.15
-UID:fx678-20260626-5b2f55d1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月24日COMEX黄金库存-每日更新(百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T063000
-DTEND;TZID=Asia/Shanghai:20260626T063000
-LOCATION:美国
-SUMMARY:📊 美国6月24日NYMEX铂金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 4090.09 | 预测: - | 公布: 4090.09\n-- 美国6月24日NYMEX铂金库存变动-每日(百盎司): 前值: -35.61 | 预测: - | 公布: 0\n-- 美国6月24日NYMEX钯金库存-每日更新(百盎司): 前值: 2549.45 | 预测: - | 公布: 2549.45\n-- 美国6月24日NYMEX钯金库存变动-每日(百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260626-662b7d4e
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月24日NYMEX铂金库存-每日更新(百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T203000
-DTEND;TZID=Asia/Shanghai:20260626T203000
-LOCATION:美国
-SUMMARY:📊 美国5月商品贸易帐初值(亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -830.1 | 预测: -850 | 公布: -1058
-UID:fx678-20260626-5c9a5ad8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国5月商品贸易帐初值(亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T203000
-DTEND;TZID=Asia/Shanghai:20260626T203000
-LOCATION:美国
-SUMMARY:📊 美国5月批发库存月率初值(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.6 | 预测: - | 公布: 0.3
-UID:fx678-20260626-2f801850
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国5月批发库存月率初值(%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T203000
-DTEND;TZID=Asia/Shanghai:20260626T203000
-LOCATION:美国
-SUMMARY:📊 美国4月零售库存季调后月率-不含汽车修正值(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.6 | 预测: - | 公布: 0.4
-UID:fx678-20260626-2bcbc44d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国4月零售库存季调后月率-不含汽车修正值(%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T220000
-DTEND;TZID=Asia/Shanghai:20260626T220000
-LOCATION:美国
-SUMMARY:📊 美国6月密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 48.9 | 预测: 50 | 公布: 49.5\n-- 美国6月密歇根大学消费者预期终值: 前值: 49.3 | 预测: 49.5 | 公布: 50.7\n-- 美国6月密歇根大学经济现况终值: 前值: 48.4 | 预测: 48.8 | 公布: 47.7\n-- 美国6月密歇根大学1年期通胀率预期终值(%): 前值: 4.6 | 预测: 4.6 | 公布: 4.6\n-- 美国6月密歇根大学5年期通胀率预期终值(%): 前值: 3.4 | 预测: 3.3 | 公布: 3.3
-UID:fx678-20260626-70c0f2c4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月密歇根大学消费者信心指数终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T034000
-DTEND;TZID=Asia/Shanghai:20260626T034000
-SUMMARY:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\nFOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-UID:fx678-20260626-5ca3b4a7
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 FOMC永久票委、纽约联储主席威廉姆斯发表讲话。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T063000
-DTEND;TZID=Asia/Shanghai:20260626T063000
-SUMMARY:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-UID:fx678-20260626-2b667805
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T233000
-DTEND;TZID=Asia/Shanghai:20260626T233000
-SUMMARY:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-UID:fx678-20260626-3876ca20
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 2026年FOMC票委、明尼阿波利斯联储主席卡什卡利发表讲话。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260627T010000
 DTEND;TZID=Asia/Shanghai:20260627T010000
 LOCATION:美国
@@ -241,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260627T063000
 DTEND;TZID=Asia/Shanghai:20260627T063000
 LOCATION:美国
 SUMMARY:📊 美国6月26日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1007.08 | 预测: - | 公布: -\n-- 美国6月26日SPDR黄金持仓变动-每日(吨): 前值: -6.28 | 预测: - | 公布: -\n-- 美国6月26日iShares白银持仓变动-每日(吨): 前值: 73.13 | 预测: - | 公布: -\n-- 美国6月26日iShares黄金持仓变动-每日(吨): 前值: -2.87 | 预测: - | 公布: -\n-- 美国6月26日iShares白银持仓-每日更新(吨) ★★★: 前值: 14991.13 | 预测: - | 公布: -\n-- 美国6月26日iShares黄金持仓-每日更新(吨) ★★★: 前值: 466.43 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1007.08 | 预测: - | 公布: 1005.08\n-- 美国6月26日SPDR黄金持仓变动-每日(吨): 前值: -6.28 | 预测: - | 公布: -2\n-- 美国6月26日iShares白银持仓变动-每日(吨): 前值: 73.13 | 预测: - | 公布: -43.59\n-- 美国6月26日iShares黄金持仓变动-每日(吨): 前值: -2.87 | 预测: - | 公布: 0.12\n-- 美国6月26日iShares白银持仓-每日更新(吨) ★★★: 前值: 14991.13 | 预测: - | 公布: 14947.54\n-- 美国6月26日iShares黄金持仓-每日更新(吨) ★★★: 前值: 466.43 | 预测: - | 公布: 465.55
 UID:fx678-20260627-5900c87c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -257,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260627T063000
 DTEND;TZID=Asia/Shanghai:20260627T063000
 LOCATION:美国
 SUMMARY:📊 美国6月25日COMEX黄金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 278098.69 | 预测: - | 公布: -\n-- 美国6月25日COMEX黄金库存变动-每日(百盎司): 前值: -0.32 | 预测: - | 公布: -\n-- 美国6月25日COMEX白银库存-每日更新(百盎司): 前值: 3233949.36 | 预测: - | 公布: -\n-- 美国6月25日COMEX白银库存变动-每日(百盎司): 前值: 6028.15 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 278098.69 | 预测: - | 公布: 276773.73\n-- 美国6月25日COMEX黄金库存变动-每日(百盎司): 前值: -0.32 | 预测: - | 公布: -1324.97\n-- 美国6月25日COMEX白银库存-每日更新(百盎司): 前值: 3233949.36 | 预测: - | 公布: 3233930.08\n-- 美国6月25日COMEX白银库存变动-每日(百盎司): 前值: 6028.15 | 预测: - | 公布: -19.06
 UID:fx678-20260627-2843828c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -273,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260627T063000
 DTEND;TZID=Asia/Shanghai:20260627T063000
 LOCATION:美国
 SUMMARY:📊 美国6月25日NYMEX铂金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 4090.09 | 预测: - | 公布: -\n-- 美国6月25日NYMEX铂金库存变动-每日(百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国6月25日NYMEX钯金库存-每日更新(百盎司): 前值: 2549.45 | 预测: - | 公布: -\n-- 美国6月25日NYMEX钯金库存变动-每日(百盎司): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 4090.09 | 预测: - | 公布: 4090.09\n-- 美国6月25日NYMEX铂金库存变动-每日(百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国6月25日NYMEX钯金库存-每日更新(百盎司): 前值: 2549.45 | 预测: - | 公布: 2363.25\n-- 美国6月25日NYMEX钯金库存变动-每日(百盎司): 前值: 0 | 预测: - | 公布: -186.2
 UID:fx678-20260627-0151fdcb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T151000
-DTEND;TZID=Asia/Shanghai:20260626T151000
-LOCATION:中国
-SUMMARY:📊 中国6月26日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 6\n-- 中国6月26日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260626-265078e9
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月26日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T151000
-DTEND;TZID=Asia/Shanghai:20260626T151000
-LOCATION:中国
-SUMMARY:📊 中国6月26日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 122 | 预测: - | 公布: -537
-UID:fx678-20260626-26cef192
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月26日上期所每日仓单变动-铜(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260627T093000
 DTEND;TZID=Asia/Shanghai:20260627T093000
 LOCATION:中国
 SUMMARY:📊 中国5月规模以上工业企业利润年率-年初至今(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 18.2 | 预测: - | 公布: -\n-- 中国5月规模以上工业企业利润年率-单月(%) ★★★: 前值: 24.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 18.2 | 预测: - | 公布: 18.8\n-- 中国5月规模以上工业企业利润年率-单月(%) ★★★: 前值: 24.7 | 预测: - | 公布: 21.1
 UID:fx678-20260627-1e9f4d7f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -64,12 +32,12 @@ DESCRIPTION:📊 中国5月规模以上工业企业利润年率-年初至今(%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T144000
-DTEND;TZID=Asia/Shanghai:20260627T144000
+DTSTART;TZID=Asia/Shanghai:20260628T144000
+DTEND;TZID=Asia/Shanghai:20260628T144000
 LOCATION:中国
 SUMMARY:📊 中国5月全社会用电量年率-每月(%)(不定时）
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -\n-- 中国5月全社会用电量-每月(亿千瓦时) ★★★: 前值: 8205 | 预测: - | 公布: -
-UID:fx678-20260627-60a96ddb
+UID:fx678-20260628-60a96ddb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
