@@ -35,7 +35,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T063000
 DTEND;TZID=Asia/Shanghai:20260630T063000
 LOCATION:美国
 SUMMARY:📊 美国6月29日SPDR黄金持仓-每日更新(吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国6月29日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国6月29日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.08 | 预测: - | 公布: -\n-- 美国6月29日iShares白银持仓-每日更新(吨) ★★★: 前值: 14947.54 | 预测: - | 公布: -\n-- 美国6月29日iShares黄金持仓-每日更新(吨) ★★★: 前值: 465.55 | 预测: - | 公布: -
 UID:fx678-20260630-42cac8fe
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -51,7 +51,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T063000
 DTEND;TZID=Asia/Shanghai:20260630T063000
 LOCATION:美国
 SUMMARY:📊 美国6月26日COMEX黄金库存-每日更新(百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 276773.73 | 预测: - | 公布: 276768.91
 UID:fx678-20260630-5c6ae694
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -67,7 +67,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T214500
 DTEND;TZID=Asia/Shanghai:20260630T214500
 LOCATION:美国
 SUMMARY:📊 美国6月芝加哥PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.7 | 预测: 58.1 | 公布: -
 UID:fx678-20260630-6b72d0ba
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -83,7 +83,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T220000
 DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国6月谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: 94.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: 94.7 | 公布: -
 UID:fx678-20260630-507d47d1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -99,7 +99,7 @@ DTSTART;TZID=Asia/Shanghai:20260630T220000
 DTEND;TZID=Asia/Shanghai:20260630T220000
 LOCATION:美国
 SUMMARY:📊 美国5月JOLTs职位空缺(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 761.8 | 预测: 736 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 761.8 | 预测: 730 | 公布: -
 UID:fx678-20260630-426523ce
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -179,7 +179,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T201500
 DTEND;TZID=Asia/Shanghai:20260701T201500
 LOCATION:美国
 SUMMARY:📊 美国6月ADP就业人数变动(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: 11 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: 11.3 | 公布: -
 UID:fx678-20260701-4a6f2fba
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -211,7 +211,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T220000
 DTEND;TZID=Asia/Shanghai:20260701T220000
 LOCATION:美国
 SUMMARY:📊 美国6月ISM制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 53.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54 | 公布: -
 UID:fx678-20260701-79c828f1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -275,7 +275,7 @@ DTSTART;TZID=Asia/Shanghai:20260702T203000
 DTEND;TZID=Asia/Shanghai:20260702T203000
 LOCATION:美国
 SUMMARY:📊 美国6月非农就业人口变动季调后(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: 13 | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: 3.5 | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: - | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: - | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: 4.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: 11 | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: 3.5 | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: 11.5 | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: - | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: 4.3 | 公布: -
 UID:fx678-20260702-4bdd7584
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -291,7 +291,7 @@ DTSTART;TZID=Asia/Shanghai:20260702T203000
 DTEND;TZID=Asia/Shanghai:20260702T203000
 LOCATION:美国
 SUMMARY:📊 美国截至6月27日当周初请失业金人数(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: - | 公布: -\n-- 美国截至6月21日当周续请失业金人数(万) ★★★: 前值: 182.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 22 | 公布: -\n-- 美国截至6月21日当周续请失业金人数(万) ★★★: 前值: 182.1 | 预测: - | 公布: -
 UID:fx678-20260702-577e86ea
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -323,7 +323,7 @@ DTSTART;TZID=Asia/Shanghai:20260702T220000
 DTEND;TZID=Asia/Shanghai:20260702T220000
 LOCATION:美国
 SUMMARY:📊 美国5月工厂订单月率(%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.8 | 预测: -2.1 | 公布: -
 UID:fx678-20260702-032723a2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -435,7 +435,7 @@ DTSTART;TZID=Asia/Shanghai:20260704T010000
 DTEND;TZID=Asia/Shanghai:20260704T010000
 LOCATION:美国
 SUMMARY:📊 美国截至7月3日当周全美钻井总数(口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国截至7月3日当周石油钻井总数(口) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 573 | 预测: - | 公布: -\n-- 美国截至7月3日当周石油钻井总数(口) ★★★: 前值: 440 | 预测: - | 公布: -
 UID:fx678-20260704-65ef505a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -463,6 +463,21 @@ DESCRIPTION:📊 美国7月2日COMEX黄金库存-每日更新(百盎司)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260704
+SUMMARY:📰 美国总统特朗普发表主题演讲。
+DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n美国总统特朗普发表主题演讲。
+UID:fx678-20260704-615a8974
+CATEGORIES:财经大事件
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20260704T090000
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📰 美国总统特朗普发表主题演讲。
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260706T220000
 DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
@@ -476,6 +491,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国6月ISM非制造业PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260707T063000
+DTEND;TZID=Asia/Shanghai:20260707T063000
+LOCATION:美国
+SUMMARY:📊 美国7月6日SPDR黄金持仓-每日更新(吨)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国7月6日iShares白银持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国7月6日iShares黄金持仓-每日更新(吨) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260707-7a17313f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国7月6日SPDR黄金持仓-每日更新(吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260707T201500
+DTEND;TZID=Asia/Shanghai:20260707T201500
+LOCATION:美国
+SUMMARY:📊 美国截至6月20日当周ADP就业周度发布变动(万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.08 | 预测: - | 公布: -
+UID:fx678-20260707-2c794133
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国截至6月20日当周ADP就业周度发布变动(万人)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260707T203000
+DTEND;TZID=Asia/Shanghai:20260707T203000
+LOCATION:美国
+SUMMARY:📊 美国6月贸易帐(亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -559 | 预测: - | 公布: -
+UID:fx678-20260707-104a9366
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国6月贸易帐(亿美元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
