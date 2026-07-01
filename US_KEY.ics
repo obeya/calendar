@@ -16,42 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260630T220000
-DTEND;TZID=Asia/Shanghai:20260630T220000
-LOCATION:美国
-SUMMARY:📊 美国6月谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 93.1 | 预测: 94.8 | 公布: 91.2
-UID:fx678-20260630-507d47d1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月谘商会消费者信心指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260630T224000
-DTEND;TZID=Asia/Shanghai:20260630T224000
-SUMMARY:📰 2026年FOMC票委、克利夫兰联储主席哈玛克参加CBNC电视节目。
-DESCRIPTION:📰 财经事件\n区域: 美国\n重要性: ★★★\n2026年FOMC票委、克利夫兰联储主席哈玛克参加CBNC电视节目。
-UID:fx678-20260630-66b00736
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 2026年FOMC票委、克利夫兰联储主席哈玛克参加CBNC电视节目。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260701T201500
 DTEND;TZID=Asia/Shanghai:20260701T201500
 LOCATION:美国
 SUMMARY:📊 美国6月ADP就业人数变动(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: 11.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: 11.8 | 公布: 9.8
 UID:fx678-20260701-4a6f2fba
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -67,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260701T220000
 DTEND;TZID=Asia/Shanghai:20260701T220000
 LOCATION:美国
 SUMMARY:📊 美国6月ISM制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54 | 公布: 53.3
 UID:fx678-20260701-79c828f1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -83,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260702T203000
 DTEND;TZID=Asia/Shanghai:20260702T203000
 LOCATION:美国
 SUMMARY:📊 美国6月非农就业人口变动季调后(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: 11 | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: 3.5 | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: 11.3 | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: 0.3 | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: 4.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: 11 | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: 3.5 | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: 11 | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: 61.8 | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: 0.3 | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: 4.3 | 公布: -
 UID:fx678-20260702-4bdd7584
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -163,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260706T220000
 DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
 SUMMARY:📊 美国6月ISM非制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: 54.1 | 公布: -
 UID:fx678-20260706-287230fe
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -204,6 +173,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国7月IPSOS主要消费者情绪指数PCSI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260709T203000
+DTEND;TZID=Asia/Shanghai:20260709T203000
+LOCATION:美国
+SUMMARY:📊 美国截至7月4日当周初请失业金人数(万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国截至7月4日当周续请失业金人数(万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260709-734ccb14
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国截至7月4日当周初请失业金人数(万)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
