@@ -16,179 +16,51 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260701T201500
-DTEND;TZID=Asia/Shanghai:20260701T201500
-LOCATION:美国
-SUMMARY:📊 美国6月ADP就业人数变动(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 12.2 | 预测: 11.8 | 公布: 9.8
-UID:fx678-20260701-4a6f2fba
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月ADP就业人数变动(万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260701T220000
-DTEND;TZID=Asia/Shanghai:20260701T220000
-LOCATION:美国
-SUMMARY:📊 美国6月ISM制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54 | 公布: 53.3
-UID:fx678-20260701-79c828f1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月ISM制造业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T203000
-DTEND;TZID=Asia/Shanghai:20260702T203000
-LOCATION:美国
-SUMMARY:📊 美国6月非农就业人口变动季调后(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 17.2 | 预测: 11 | 公布: -\n-- 美国6月平均每小时工资年率(%) ★★★: 前值: 3.4 | 预测: 3.5 | 公布: -\n-- 美国6月私营企业非农就业人数变动(万) ★★★: 前值: 12 | 预测: 11 | 公布: -\n-- 美国6月劳动参与率(%) ★★★: 前值: 61.8 | 预测: 61.8 | 公布: -\n-- 美国6月制造业就业人口变动季调后(万) ★★★: 前值: 0.7 | 预测: 0.3 | 公布: -\n-- 美国6月失业率(%) ★★★: 前值: 4.3 | 预测: 4.3 | 公布: -
-UID:fx678-20260702-4bdd7584
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月非农就业人口变动季调后(万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T203000
-DTEND;TZID=Asia/Shanghai:20260702T203000
-LOCATION:美国
-SUMMARY:📊 美国截至6月27日当周初请失业金人数(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 22 | 公布: -\n-- 美国截至6月21日当周续请失业金人数(万) ★★★: 前值: 182.1 | 预测: 181 | 公布: -
-UID:fx678-20260702-577e86ea
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国截至6月27日当周初请失业金人数(万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260703
-LOCATION:纽交所
-SUMMARY:🏖️ 美国独⽴纪念⽇假期，休市一日。
-DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独⽴纪念⽇假期，休市一日。
-UID:fx678-20260703-3c9db5f8
-CATEGORIES:国际假期预告
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;VALUE=DATE-TIME:20260703T090000
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:🏖️ 美国独⽴纪念⽇假期，休市一日。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260703
-LOCATION:芝商所
-SUMMARY:🏖️ 美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
-DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
-UID:fx678-20260703-69a749e3
-CATEGORIES:国际假期预告
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;VALUE=DATE-TIME:20260703T090000
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:🏖️ 美国独立纪念日，旗下贵金属、美国原油、外汇、股指期货合约交易提前于北京时间4日01:00结束。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260703
-LOCATION:洲际交易所
-SUMMARY:🏖️ 美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
-DESCRIPTION:🏖️ 国际假期\n区域: 美国\n重要性: ★★★\n美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
-UID:fx678-20260703-025928d6
-CATEGORIES:国际假期预告
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;VALUE=DATE-TIME:20260703T090000
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:🏖️ 美国独⽴纪念⽇，旗下布伦特原油期货合约交易提前于北京时间04日01:30结束。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260706T220000
-DTEND;TZID=Asia/Shanghai:20260706T220000
-LOCATION:美国
-SUMMARY:📊 美国6月ISM非制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: 54.1 | 公布: -
-UID:fx678-20260706-287230fe
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国6月ISM非制造业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260707T201500
 DTEND;TZID=Asia/Shanghai:20260707T201500
 LOCATION:美国
-SUMMARY:📊 美国截至6月20日当周ADP就业周度发布变动(万人)
+SUMMARY:📊 美国                                截至6月20日当周                                ADP就业周度发布变动                                                                    (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.08 | 预测: - | 公布: -
-UID:fx678-20260707-2c794133
+UID:fx678-20260707-55894891
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国截至6月20日当周ADP就业周度发布变动(万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260708T230000
-DTEND;TZID=Asia/Shanghai:20260708T230000
-LOCATION:美国
-SUMMARY:📊 美国7月IPSOS主要消费者情绪指数PCSI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.14 | 预测: - | 公布: -
-UID:fx678-20260708-33d26306
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国7月IPSOS主要消费者情绪指数PCSI
+DESCRIPTION:📊 美国                                截至6月20日当周                                ADP就业周度发布变动                                                                    (万人)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260709T203000
 DTEND;TZID=Asia/Shanghai:20260709T203000
 LOCATION:美国
-SUMMARY:📊 美国截至7月4日当周初请失业金人数(万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国截至7月4日当周续请失业金人数(万) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260709-734ccb14
+SUMMARY:📊 美国                                截至7月4日当周                                初请失业金人数                                                                    (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 22 | 公布: -
+UID:fx678-20260709-576947a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国截至7月4日当周初请失业金人数(万)
+DESCRIPTION:📊 美国                                截至7月4日当周                                初请失业金人数                                                                    (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260709T203000
+DTEND;TZID=Asia/Shanghai:20260709T203000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                截至6月27日当周                                续请失业金人数                                                                    (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 181.4 | 预测: 181 | 公布: -
+UID:fx678-20260709-58c64f4d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                截至6月27日当周                                续请失业金人数                                                                    (万)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

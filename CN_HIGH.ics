@@ -16,369 +16,339 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260701T094500
-DTEND;TZID=Asia/Shanghai:20260701T094500
+DTSTART;TZID=Asia/Shanghai:20260706T151000
+DTEND;TZID=Asia/Shanghai:20260706T151000
 LOCATION:中国
-SUMMARY:📊 中国6月SPGI制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.8 | 预测: 51.6 | 公布: 51.7
-UID:fx678-20260701-2818df48
+SUMMARY:📊 --                                中国                                7月6日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 0
+UID:fx678-20260706-4feadfa3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月SPGI制造业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260701T151000
-DTEND;TZID=Asia/Shanghai:20260701T151000
-LOCATION:中国
-SUMMARY:📊 中国7月1日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 0\n-- 中国7月1日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260701-52b197ba
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月1日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260701T151000
-DTEND;TZID=Asia/Shanghai:20260701T151000
-LOCATION:中国
-SUMMARY:📊 中国7月1日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1328 | 预测: - | 公布: -1048
-UID:fx678-20260701-119d2ab5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月1日上期所每日仓单变动-铜(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260701
-LOCATION:香港交易所
-SUMMARY:🏖️ 香港特别行政区成立纪念日 休市一日，南、北向交易关闭。
-DESCRIPTION:🏖️ 国际假期\n区域: 中国\n重要性: ★★★\n香港特别行政区成立纪念日 休市一日，南、北向交易关闭。
-UID:fx678-20260701-758b9600
-CATEGORIES:国际假期预告
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;VALUE=DATE-TIME:20260701T090000
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:🏖️ 香港特别行政区成立纪念日 休市一日，南、北向交易关闭。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T144000
-DTEND;TZID=Asia/Shanghai:20260702T144000
-LOCATION:中国
-SUMMARY:📊 中国5月全社会用电量年率-每月(%)(不定时）
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -\n-- 中国5月全社会用电量-每月(亿千瓦时) ★★★: 前值: 8205 | 预测: - | 公布: -
-UID:fx678-20260702-60a96ddb
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国5月全社会用电量年率-每月(%)(不定时）
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T151000
-DTEND;TZID=Asia/Shanghai:20260702T151000
-LOCATION:中国
-SUMMARY:📊 中国7月2日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: -\n-- 中国7月2日上期所每日仓单变动-原油(桶) ★★★: 前值: 0 | 预测: - | 公布: -
-UID:fx678-20260702-294e033d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月2日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T151000
-DTEND;TZID=Asia/Shanghai:20260702T151000
-LOCATION:中国
-SUMMARY:📊 中国7月2日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -1048 | 预测: - | 公布: -
-UID:fx678-20260702-643ea585
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月2日上期所每日仓单变动-铜(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260702T150000
-DTEND;TZID=Asia/Shanghai:20260702T150000
-SUMMARY:📰 商务部召开7月第1次例行新闻发布会。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★★★\n商务部召开7月第1次例行新闻发布会。
-UID:fx678-20260702-39439d97
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 商务部召开7月第1次例行新闻发布会。
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260703T094500
-DTEND;TZID=Asia/Shanghai:20260703T094500
-LOCATION:中国
-SUMMARY:📊 中国6月SPGI服务业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 54.4 | 预测: - | 公布: -
-UID:fx678-20260703-0e606551
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月SPGI服务业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260703T151000
-DTEND;TZID=Asia/Shanghai:20260703T151000
-LOCATION:中国
-SUMMARY:📊 中国7月3日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月3日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260703-7c1657f8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月3日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260703T151000
-DTEND;TZID=Asia/Shanghai:20260703T151000
-LOCATION:中国
-SUMMARY:📊 中国7月3日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260703-41983256
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月3日上期所每日仓单变动-铜(吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260703
-SUMMARY:📰 国内成品油将开启新一轮调价窗口。
-DESCRIPTION:📰 财经事件\n区域: 中国\n重要性: ★★★\n国内成品油将开启新一轮调价窗口。
-UID:fx678-20260703-4c693d68
-CATEGORIES:财经大事件
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;VALUE=DATE-TIME:20260703T090000
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📰 国内成品油将开启新一轮调价窗口。
+DESCRIPTION:📊 --                                中国                                7月6日                                上期所每日仓单变动-原油                                                                    (桶)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260706T151000
 DTEND;TZID=Asia/Shanghai:20260706T151000
 LOCATION:中国
-SUMMARY:📊 中国7月6日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月6日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260706-212e8873
+SUMMARY:📊 中国                                7月6日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -1607 | 预测: - | 公布: -4300
+UID:fx678-20260706-79669384
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月6日上期所每日仓单变动-黄金(千克)
+DESCRIPTION:📊 中国                                7月6日                                上期所每日仓单变动-铜                                                                    (吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260706T151000
-DTEND;TZID=Asia/Shanghai:20260706T151000
+DTSTART;TZID=Asia/Shanghai:20260707T144000
+DTEND;TZID=Asia/Shanghai:20260707T144000
 LOCATION:中国
-SUMMARY:📊 中国7月6日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260706-4bdd2e0c
+SUMMARY:📊 中国                                5月                                全社会用电量年率-每月                                                                    (%)\n                                                                (不定时）
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -
+UID:fx678-20260707-50523b48
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月6日上期所每日仓单变动-铜(吨)
+DESCRIPTION:📊 中国                                5月                                全社会用电量年率-每月                                                                    (%)\n                                                                (不定时）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260707T144000
+DTEND;TZID=Asia/Shanghai:20260707T144000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                5月                                全社会用电量-每月                                                                    (亿千瓦时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8205 | 预测: - | 公布: -
+UID:fx678-20260707-62a2bd64
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                5月                                全社会用电量-每月                                                                    (亿千瓦时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260707T151000
 DTEND;TZID=Asia/Shanghai:20260707T151000
 LOCATION:中国
-SUMMARY:📊 中国7月7日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月7日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260707-667faf74
+SUMMARY:📊 --                                中国                                7月7日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: -
+UID:fx678-20260707-554921db
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月7日上期所每日仓单变动-黄金(千克)
+DESCRIPTION:📊 --                                中国                                7月7日                                上期所每日仓单变动-原油                                                                    (桶)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260707T151000
 DTEND;TZID=Asia/Shanghai:20260707T151000
 LOCATION:中国
-SUMMARY:📊 中国7月7日上期所每日仓单变动-铜(吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260707-7458bbf9
+SUMMARY:📊 中国                                7月7日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -4300 | 预测: - | 公布: -
+UID:fx678-20260707-3b5064a9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月7日上期所每日仓单变动-铜(吨)
+DESCRIPTION:📊 中国                                7月7日                                上期所每日仓单变动-铜                                                                    (吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260707T160000
 DTEND;TZID=Asia/Shanghai:20260707T160000
 LOCATION:中国
-SUMMARY:📊 中国6月外汇储备(亿美元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34422.4 | 预测: - | 公布: -\n-- 中国6月黄金储备量(万盎司) ★★★: 前值: 7496 | 预测: - | 公布: -
-UID:fx678-20260707-0f244a38
+SUMMARY:📊 中国                                6月                                外汇储备                                                                    (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34422.4 | 预测: 34320 | 公布: -
+UID:fx678-20260707-7c9cfef0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月外汇储备(亿美元)
+DESCRIPTION:📊 中国                                6月                                外汇储备                                                                    (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260707T160000
+DTEND;TZID=Asia/Shanghai:20260707T160000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                黄金储备量                                                                    (万盎司)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7496 | 预测: - | 公布: -
+UID:fx678-20260707-2e3d9813
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                黄金储备量                                                                    (万盎司)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260708T151000
 DTEND;TZID=Asia/Shanghai:20260708T151000
 LOCATION:中国
-SUMMARY:📊 中国7月8日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月8日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260708-3d1df62e
+SUMMARY:📊 --                                中国                                7月8日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260708-251f22bb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月8日上期所每日仓单变动-黄金(千克)
+DESCRIPTION:📊 --                                中国                                7月8日                                上期所每日仓单变动-原油                                                                    (桶)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260708T151000
 DTEND;TZID=Asia/Shanghai:20260708T151000
 LOCATION:中国
-SUMMARY:📊 中国7月8日上期所每日仓单变动-铜(吨)
+SUMMARY:📊 中国                                7月8日                                上期所每日仓单变动-铜                                                                    (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260708-1128e166
+UID:fx678-20260708-6859760d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月8日上期所每日仓单变动-铜(吨)
+DESCRIPTION:📊 中国                                7月8日                                上期所每日仓单变动-铜                                                                    (吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260709T093000
 DTEND;TZID=Asia/Shanghai:20260709T093000
 LOCATION:中国
-SUMMARY:📊 中国6月PPI年率(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.9 | 预测: - | 公布: -
-UID:fx678-20260709-0246a34a
+SUMMARY:📊 中国                                6月                                PPI年率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.9 | 预测: 4.1 | 公布: -
+UID:fx678-20260709-2eecdffc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月PPI年率(%)
+DESCRIPTION:📊 中国                                6月                                PPI年率                                                                    (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260709T093000
 DTEND;TZID=Asia/Shanghai:20260709T093000
 LOCATION:中国
-SUMMARY:📊 中国6月CPI年率(%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -
-UID:fx678-20260709-0bbcea4b
+SUMMARY:📊 中国                                6月                                CPI年率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: 1.1 | 公布: -
+UID:fx678-20260709-5613a50a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国6月CPI年率(%)
+DESCRIPTION:📊 中国                                6月                                CPI年率                                                                    (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260709T151000
 DTEND;TZID=Asia/Shanghai:20260709T151000
 LOCATION:中国
-SUMMARY:📊 中国7月9日上期所每日仓单变动-黄金(千克)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国7月9日上期所每日仓单变动-原油(桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260709-4a7c6f0d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月9日上期所每日仓单变动-黄金(千克)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260709T151000
-DTEND;TZID=Asia/Shanghai:20260709T151000
-LOCATION:中国
-SUMMARY:📊 中国7月9日上期所每日仓单变动-铜(吨)
+SUMMARY:📊 --                                中国                                7月9日                                上期所每日仓单变动-原油                                                                    (桶)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260709-561a5268
+UID:fx678-20260709-1336550b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国7月9日上期所每日仓单变动-铜(吨)
+DESCRIPTION:📊 --                                中国                                7月9日                                上期所每日仓单变动-原油                                                                    (桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260709T151000
+DTEND;TZID=Asia/Shanghai:20260709T151000
+LOCATION:中国
+SUMMARY:📊 中国                                7月9日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260709-5b273cdc
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                7月9日                                上期所每日仓单变动-铜                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260710T151000
+DTEND;TZID=Asia/Shanghai:20260710T151000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                7月10日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260710-5b760735
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                7月10日                                上期所每日仓单变动-原油                                                                    (桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260710T151000
+DTEND;TZID=Asia/Shanghai:20260710T151000
+LOCATION:中国
+SUMMARY:📊 中国                                7月10日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260710-5d08d7dc
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                7月10日                                上期所每日仓单变动-铜                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260710T160000
+DTEND;TZID=Asia/Shanghai:20260710T160000
+LOCATION:中国
+SUMMARY:📊 中国                                6月                                M2货币供应年率                                                                    (%)\n                                                                (0710-0717)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8.6 | 预测: 8.5 | 公布: -
+UID:fx678-20260710-67fe404c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                6月                                M2货币供应年率                                                                    (%)\n                                                                (0710-0717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260710T160000
+DTEND;TZID=Asia/Shanghai:20260710T160000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                社会融资规模-年初至今                                                                    (亿元)\n                                                                (0710-0717)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 174800 | 预测: - | 公布: -
+UID:fx678-20260710-6b3e3fcb
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                社会融资规模-年初至今                                                                    (亿元)\n                                                                (0710-0717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260710T160000
+DTEND;TZID=Asia/Shanghai:20260710T160000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                新增人民币贷款-年初至今                                                                    (亿元)\n                                                                (0710-0717)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 91100 | 预测: 20000 | 公布: -
+UID:fx678-20260710-07120974
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                新增人民币贷款-年初至今                                                                    (亿元)\n                                                                (0710-0717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260713T151000
+DTEND;TZID=Asia/Shanghai:20260713T151000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                7月13日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260713-03be4972
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                7月13日                                上期所每日仓单变动-原油                                                                    (桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260713T151000
+DTEND;TZID=Asia/Shanghai:20260713T151000
+LOCATION:中国
+SUMMARY:📊 中国                                7月13日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260713-3045d156
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                7月13日                                上期所每日仓单变动-铜                                                                    (吨)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
