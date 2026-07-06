@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260706T220000
 DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
 SUMMARY:📊 美国                                6月                                ISM非制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: 54 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: 54 | 公布: 54
 UID:fx678-20260706-7909c472
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260707T063000
 DTEND;TZID=Asia/Shanghai:20260707T063000
 LOCATION:美国
 SUMMARY:📊 美国                                7月2日                                COMEX黄金库存-每日更新                                                                    (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 274609.53 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 274609.53 | 预测: - | 公布: 273630.53
 UID:fx678-20260707-478b82a2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -733,6 +733,134 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 --                                美国                                6月                                纽约联储1年黄金涨幅预期                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T063000
+DTEND;TZID=Asia/Shanghai:20260714T063000
+LOCATION:美国
+SUMMARY:📊 美国                                7月13日                                SPDR黄金持仓-每日更新                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-44217fd5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                7月13日                                SPDR黄金持仓-每日更新                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T063000
+DTEND;TZID=Asia/Shanghai:20260714T063000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                7月13日                                iShares白银持仓-每日更新                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-2c614d86
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                7月13日                                iShares白银持仓-每日更新                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T063000
+DTEND;TZID=Asia/Shanghai:20260714T063000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                7月13日                                iShares黄金持仓-每日更新                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-62a53515
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                7月13日                                iShares黄金持仓-每日更新                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T063000
+DTEND;TZID=Asia/Shanghai:20260714T063000
+LOCATION:美国
+SUMMARY:📊 美国                                7月10日                                COMEX黄金库存-每日更新                                                                    (百盎司)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-60c5183c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                7月10日                                COMEX黄金库存-每日更新                                                                    (百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T201500
+DTEND;TZID=Asia/Shanghai:20260714T201500
+LOCATION:美国
+SUMMARY:📊 美国                                截至6月27日当周                                ADP就业周度发布变动                                                                    (万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-0d6e3144
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                截至6月27日当周                                ADP就业周度发布变动                                                                    (万人)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 美国                                6月                                CPI年率未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: - | 公布: -
+UID:fx678-20260714-2aa85082
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                6月                                CPI年率未季调                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                6月                                核心CPI年率未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.9 | 预测: - | 公布: -
+UID:fx678-20260714-43f428ba
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                6月                                核心CPI年率未季调                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                6月                                能源CPI年率-未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 23.5 | 预测: - | 公布: -
+UID:fx678-20260714-57b647ef
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                6月                                能源CPI年率-未季调                                                                    (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

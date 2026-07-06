@@ -527,4 +527,180 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本                                第三季度                                整体全面风险评分
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 日本                                5月                                季调后工业产出月率修正值                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-11edf2c5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本                                5月                                季调后工业产出月率修正值                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                未季调工业产出年率修正值                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2 | 预测: - | 公布: -
+UID:fx678-20260714-76856764
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                未季调工业产出年率修正值                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                库存月率修正值                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-1ba1bb2f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                库存月率修正值                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                库存装船比月率修正值                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-2757282e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                库存装船比月率修正值                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                装船月率修正值                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-20ee8057
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                装船月率修正值                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 日本                                5月                                设备利用率指数月率-季调后                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-7ada8ae4
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本                                5月                                设备利用率指数月率-季调后                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                设备利用率指数-季调后
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-40cd92ed
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                设备利用率指数-季调后
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                设备利用率指数年率-未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-08be3d1f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                设备利用率指数年率-未季调                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                生产能力指数
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-5f42edc8
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                生产能力指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                生产能力指数月率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-5fc24d80
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                生产能力指数月率                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T123000
+DTEND;TZID=Asia/Shanghai:20260714T123000
+LOCATION:日本
+SUMMARY:📊 --                                日本                                5月                                生产能力指数年率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-371351eb
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                日本                                5月                                生产能力指数年率                                                                    (%)
+END:VALARM
+END:VEVENT
 END:VCALENDAR

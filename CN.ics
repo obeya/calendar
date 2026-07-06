@@ -767,4 +767,244 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国                                7月13日                                上期所每日仓单变动-铜                                                                    (吨)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 中国                                6月                                贸易帐-美元计价                                                                    (亿美元)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1054.3 | 预测: - | 公布: -
+UID:fx678-20260714-15a4bb01
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                6月                                贸易帐-美元计价                                                                    (亿美元)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                出口年率-美元计价                                                                    (%)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 19.4 | 预测: - | 公布: -
+UID:fx678-20260714-67d233f5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                出口年率-美元计价                                                                    (%)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                进口年率-美元计价                                                                    (%)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 27.4 | 预测: - | 公布: -
+UID:fx678-20260714-7d051978
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                进口年率-美元计价                                                                    (%)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                进口总额-美元计价                                                                    (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 2713.5 | 预测: - | 公布: -
+UID:fx678-20260714-5d3105a0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                进口总额-美元计价                                                                    (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                出口总额-美元计价                                                                    (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3767.8 | 预测: - | 公布: -
+UID:fx678-20260714-050c2444
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                出口总额-美元计价                                                                    (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 中国                                6月                                贸易帐-人民币计价                                                                    (亿元)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7239.8 | 预测: - | 公布: -
+UID:fx678-20260714-1b308c66
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                6月                                贸易帐-人民币计价                                                                    (亿元)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                出口年率-人民币计价                                                                    (%)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 21.5 | 预测: - | 公布: -
+UID:fx678-20260714-620cd9d9
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                出口年率-人民币计价                                                                    (%)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                进口年率-人民币计价                                                                    (%)\n                                                                (0714当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 13.8 | 预测: - | 公布: -
+UID:fx678-20260714-3c767b04
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                进口年率-人民币计价                                                                    (%)\n                                                                (0714当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                进口总额-人民币计价                                                                    (亿元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 18638 | 预测: - | 公布: -
+UID:fx678-20260714-5edaaab5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                进口总额-人民币计价                                                                    (亿元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T093000
+DTEND;TZID=Asia/Shanghai:20260714T093000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                6月                                出口总额-人民币计价                                                                    (亿元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 25877.8 | 预测: - | 公布: -
+UID:fx678-20260714-3bea9d1c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                6月                                出口总额-人民币计价                                                                    (亿元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T151000
+DTEND;TZID=Asia/Shanghai:20260714T151000
+LOCATION:中国
+SUMMARY:📊 中国                                7月14日                                上期所每日仓单变动-黄金                                                                    (千克)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-51be4c47
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                7月14日                                上期所每日仓单变动-黄金                                                                    (千克)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T151000
+DTEND;TZID=Asia/Shanghai:20260714T151000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                7月14日                                上期所每日仓单变动-白银                                                                    (千克)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-59ff398f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                7月14日                                上期所每日仓单变动-白银                                                                    (千克)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T151000
+DTEND;TZID=Asia/Shanghai:20260714T151000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                7月14日                                上期所每日仓单变动-燃料油                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-4097ba30
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                7月14日                                上期所每日仓单变动-燃料油                                                                    (吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T151000
+DTEND;TZID=Asia/Shanghai:20260714T151000
+LOCATION:中国
+SUMMARY:📊 --                                中国                                7月14日                                上期所每日仓单变动-原油                                                                    (桶)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-30cd22cd
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                中国                                7月14日                                上期所每日仓单变动-原油                                                                    (桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T151000
+DTEND;TZID=Asia/Shanghai:20260714T151000
+LOCATION:中国
+SUMMARY:📊 中国                                7月14日                                上期所每日仓单变动-铜                                                                    (吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-40668a78
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国                                7月14日                                上期所每日仓单变动-铜                                                                    (吨)
+END:VALARM
+END:VEVENT
 END:VCALENDAR

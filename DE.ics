@@ -319,4 +319,36 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国                                5月                                未季调经常帐                                                                    (亿欧元)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T140000
+DTEND;TZID=Asia/Shanghai:20260714T140000
+LOCATION:德国
+SUMMARY:📊 德国                                6月                                批发物价指数年率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 5.9 | 预测: - | 公布: -
+UID:fx678-20260714-70bc67aa
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国                                6月                                批发物价指数年率                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T140000
+DTEND;TZID=Asia/Shanghai:20260714T140000
+LOCATION:德国
+SUMMARY:📊 --                                德国                                6月                                批发物价指数月率                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.6 | 预测: - | 公布: -
+UID:fx678-20260714-77a8bdfc
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                德国                                6月                                批发物价指数月率                                                                    (%)
+END:VALARM
+END:VEVENT
 END:VCALENDAR

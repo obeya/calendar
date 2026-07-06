@@ -63,4 +63,68 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 --                                美国                                截至6月27日当周                                续请失业金人数                                                                    (万)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T201500
+DTEND;TZID=Asia/Shanghai:20260714T201500
+LOCATION:美国
+SUMMARY:📊 美国                                截至6月27日当周                                ADP就业周度发布变动                                                                    (万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260714-0d6e3144
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                截至6月27日当周                                ADP就业周度发布变动                                                                    (万人)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 美国                                6月                                CPI年率未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: - | 公布: -
+UID:fx678-20260714-2aa85082
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国                                6月                                CPI年率未季调                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                6月                                核心CPI年率未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.9 | 预测: - | 公布: -
+UID:fx678-20260714-43f428ba
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                6月                                核心CPI年率未季调                                                                    (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260714T203000
+DTEND;TZID=Asia/Shanghai:20260714T203000
+LOCATION:美国
+SUMMARY:📊 --                                美国                                6月                                能源CPI年率-未季调                                                                    (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 23.5 | 预测: - | 公布: -
+UID:fx678-20260714-57b647ef
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 --                                美国                                6月                                能源CPI年率-未季调                                                                    (%)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
