@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260706T153000
 LOCATION:欧元区
 SUMMARY:📊 欧元区                                6月                                SPGI建筑业PMI
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 43.7 | 预测: - | 公布: 42.8
-UID:fx678-20260706-7d02e805
+UID:fx678-20260706-768dddf0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260706T163000
 LOCATION:欧元区
 SUMMARY:📊 欧元区                                7月                                Sentix投资者信心指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -13.4 | 预测: -10 | 公布: -3.1
-UID:fx678-20260706-2c94d14b
+UID:fx678-20260706-0efa88f4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260706T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区                                5月                                PPI年率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 4.9 | 预测: 5.7 | 公布: -
-UID:fx678-20260706-4d16790d
+UID:fx678-20260706-7ecb9791
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260706T170000
 LOCATION:欧元区
 SUMMARY:📊 --                                欧元区                                5月                                PPI月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.6 | 预测: 0.2 | 公布: -
-UID:fx678-20260706-74843c7d
+UID:fx678-20260706-36cf8b3f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260706T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区                                5月                                零售销售月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.4 | 预测: 0.3 | 公布: -
-UID:fx678-20260706-15eb351e
+UID:fx678-20260706-337740e1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260706T170000
 LOCATION:欧元区
 SUMMARY:📊 --                                欧元区                                5月                                零售销售年率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 1 | 预测: 1.6 | 公布: -
-UID:fx678-20260706-3cbb5d25
+UID:fx678-20260706-1ff420f3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
