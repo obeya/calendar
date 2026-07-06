@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260706T140000
 LOCATION:德国
 SUMMARY:📊 德国                                5月                                工业订单月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -3.8 | 预测: 1.5 | 公布: 1.9
-UID:fx678-20260706-5f30dcfb
+UID:fx678-20260706-6b914562
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260706T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                工作日调整后制造业订单年率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.6 | 预测: - | 公布: 6.2
-UID:fx678-20260706-438c7b87
+UID:fx678-20260706-10e7519b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260706T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                季调后制造业订单月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -3.8 | 预测: 1.5 | 公布: 1.9
-UID:fx678-20260706-64eb96b0
+UID:fx678-20260706-1307ce11
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260706T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                制造业产出当前价格年率-季调后                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 3.8 | 预测: - | 公布: 7.7
-UID:fx678-20260706-1f998adb
+UID:fx678-20260706-572fb1ed
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260706T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                季调后消费品指数-制造业分项
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 113.7 | 预测: - | 公布: 115.6
-UID:fx678-20260706-41cfaf66
+UID:fx678-20260706-0bfb3f12
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260706T153000
 LOCATION:德国
 SUMMARY:📊 德国                                6月                                SPGI建筑业PMI
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 42.4 | 预测: - | 公布: 44.8
-UID:fx678-20260706-719936a8
+UID:fx678-20260706-1caf867f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260707T140000
 LOCATION:德国
 SUMMARY:📊 德国                                5月                                季调后工业产出月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.4 | 预测: 0.2 | 公布: -
-UID:fx678-20260707-72c4d441
+UID:fx678-20260707-1859fac5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260707T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                工作日调整后工业产出年率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.5 | 预测: - | 公布: -
-UID:fx678-20260707-52971bbf
+UID:fx678-20260707-55019d86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260709T140000
 LOCATION:德国
 SUMMARY:📊 德国                                5月                                季调后出口月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.9 | 预测: -0.5 | 公布: -
-UID:fx678-20260709-2ce14741
+UID:fx678-20260709-4c2fd0e8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20260709T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                季调后贸易帐                                                                    (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 145 | 预测: 150 | 公布: -
-UID:fx678-20260709-5651dabc
+UID:fx678-20260709-71abb6cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260709T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                季调后进口月率                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.2 | 预测: 0.1 | 公布: -
-UID:fx678-20260709-173db054
+UID:fx678-20260709-53f40a14
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260709T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                5月                                未季调贸易帐                                                                    (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 142 | 预测: - | 公布: -
-UID:fx678-20260709-1562dffa
+UID:fx678-20260709-5fc62122
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20260709T170000
 LOCATION:德国
 SUMMARY:📊 德国                                第三季度                                整体全面风险评分
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 9.32 | 预测: - | 公布: -
-UID:fx678-20260709-341bf49f
+UID:fx678-20260709-3d7ea760
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -229,7 +229,7 @@ DTEND;TZID=Asia/Shanghai:20260710T140000
 LOCATION:德国
 SUMMARY:📊 德国                                6月                                CPI年率终值                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.3 | 预测: 2.3 | 公布: -
-UID:fx678-20260710-4d8e9238
+UID:fx678-20260710-5722711d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -245,7 +245,7 @@ DTEND;TZID=Asia/Shanghai:20260710T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                6月                                CPI月率终值                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.3 | 预测: -0.3 | 公布: -
-UID:fx678-20260710-39fab01f
+UID:fx678-20260710-2678f8e2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -261,7 +261,7 @@ DTEND;TZID=Asia/Shanghai:20260710T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                6月                                调和CPI月率终值                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: -0.2 | 公布: -
-UID:fx678-20260710-1e6f65bf
+UID:fx678-20260710-31ff12bb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -277,7 +277,7 @@ DTEND;TZID=Asia/Shanghai:20260710T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                6月                                调和CPI年率终值                                                                    (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.4 | 预测: 2.4 | 公布: -
-UID:fx678-20260710-2a970a12
+UID:fx678-20260710-474f1c80
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -293,7 +293,7 @@ DTEND;TZID=Asia/Shanghai:20260710T140000
 LOCATION:德国
 SUMMARY:📊 --                                德国                                6月                                未季调CPI读数终值
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 125 | 预测: - | 公布: -
-UID:fx678-20260710-559ca55a
+UID:fx678-20260710-723414cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -309,7 +309,7 @@ DTEND;TZID=Asia/Shanghai:20260713T200000
 LOCATION:德国
 SUMMARY:📊 德国                                5月                                未季调经常帐                                                                    (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 138 | 预测: - | 公布: -
-UID:fx678-20260713-4d171a00
+UID:fx678-20260713-6f8f8a27
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
