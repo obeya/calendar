@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260706T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月6日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 0\n-- 中国 7月6日 上期所每日仓单变动-白银 (千克): 前值: 6812 | 预测: - | 公布: -1195\n-- 中国 7月6日 上期所每日仓单变动-燃料油 (吨): 前值: -17500 | 预测: - | 公布: 0\n-- 中国 7月6日 上期所每日仓单变动-原油 (桶) ★★★: 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260706-4395a835
+UID:fx678-20260706-4d6171d5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260706T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月6日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -1607 | 预测: - | 公布: -4300
-UID:fx678-20260706-1769dd48
+UID:fx678-20260706-1060608b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260707T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月7日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: 0\n-- 中国 7月7日 上期所每日仓单变动-白银 (千克): 前值: -1195 | 预测: - | 公布: 10494\n-- 中国 7月7日 上期所每日仓单变动-燃料油 (吨): 前值: 0 | 预测: - | 公布: 0\n-- 中国 7月7日 上期所每日仓单变动-原油 (桶) ★★★: 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260707-7ea608fd
+UID:fx678-20260707-47a8c60c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260707T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月7日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -4300 | 预测: - | 公布: -3801
-UID:fx678-20260707-17dbb8e5
+UID:fx678-20260707-118289a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260707T160000
 LOCATION:中国
 SUMMARY:📊 中国 6月 外汇储备 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34422.4 | 预测: 34320 | 公布: 34160\n-- 中国 6月 黄金储备量 (万盎司) ★★★: 前值: 7496 | 预测: - | 公布: 7544\n-- 中国 6月 黄金储备-美元计价 (亿美元): 前值: 3407.52 | 预测: - | 公布: 3037
-UID:fx678-20260707-71edc8b0
+UID:fx678-20260707-2429f3a6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260708T144000
 LOCATION:中国
 SUMMARY:📊 中国 5月 全社会用电量年率-每月 (%) (不定时）
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6 | 预测: - | 公布: -\n-- 中国 5月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8205 | 预测: - | 公布: -
-UID:fx678-20260708-712a59a0
+UID:fx678-20260708-17eac0f6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260708T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月8日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0 | 预测: - | 公布: -\n-- 中国 7月8日 上期所每日仓单变动-白银 (千克): 前值: 10494 | 预测: - | 公布: -\n-- 中国 7月8日 上期所每日仓单变动-燃料油 (吨): 前值: 0 | 预测: - | 公布: -\n-- 中国 7月8日 上期所每日仓单变动-原油 (桶) ★★★: 前值: 0 | 预测: - | 公布: -
-UID:fx678-20260708-2812e3ee
+UID:fx678-20260708-4a10308c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260708T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月8日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -3801 | 预测: - | 公布: -
-UID:fx678-20260708-56d7543d
+UID:fx678-20260708-593532dc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260709T093000
 LOCATION:中国
 SUMMARY:📊 中国 6月 PPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.9 | 预测: 4.1 | 公布: -
-UID:fx678-20260709-0a86da38
+UID:fx678-20260709-26aefa5a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20260709T093000
 LOCATION:中国
 SUMMARY:📊 中国 6月 CPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: 1.1 | 公布: -\n-- 中国 6月 CPI月率 (%): 前值: -0.1 | 预测: -0.2 | 公布: -
-UID:fx678-20260709-60b23cfa
+UID:fx678-20260709-182eca9c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260709T093000
 LOCATION:中国
 SUMMARY:📊 中国 6月 PPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 0.5 | 预测: - | 公布: -
-UID:fx678-20260709-77ac1a57
+UID:fx678-20260709-095afa2c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260709T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月9日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 7月9日 上期所每日仓单变动-白银 (千克): 前值:  | 预测: - | 公布: -\n-- 中国 7月9日 上期所每日仓单变动-燃料油 (吨): 前值:  | 预测: - | 公布: -\n-- 中国 7月9日 上期所每日仓单变动-原油 (桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260709-5bc5f648
+UID:fx678-20260709-218dd458
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20260709T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月9日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260709-66e52a6d
+UID:fx678-20260709-40821356
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -229,7 +229,7 @@ DTEND;TZID=Asia/Shanghai:20260710T090000
 LOCATION:中国
 SUMMARY:📊 中国 6月 Swift人民币在全球支付中占比 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 2.75 | 预测: - | 公布: -
-UID:fx678-20260710-308a8aa9
+UID:fx678-20260710-25ecd942
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -245,7 +245,7 @@ DTEND;TZID=Asia/Shanghai:20260710T150000
 LOCATION:中国
 SUMMARY:📊 中国 6月 实际外商直接投资年率CNY-年初至今 (%) (0710-0717几点不定)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -8.6 | 预测: 8.5 | 公布: -
-UID:fx678-20260710-7a0b3a2a
+UID:fx678-20260710-08b4ad4d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -261,7 +261,7 @@ DTEND;TZID=Asia/Shanghai:20260710T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月10日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 7月10日 上期所每日仓单变动-白银 (千克): 前值:  | 预测: - | 公布: -\n-- 中国 7月10日 上期所每日仓单变动-燃料油 (吨): 前值:  | 预测: - | 公布: -\n-- 中国 7月10日 上期所每日仓单变动-原油 (桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260710-7791ad1d
+UID:fx678-20260710-6d46dea7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -277,7 +277,7 @@ DTEND;TZID=Asia/Shanghai:20260710T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月10日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260710-76de7f42
+UID:fx678-20260710-0bcf2df9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -293,7 +293,7 @@ DTEND;TZID=Asia/Shanghai:20260710T160000
 LOCATION:中国
 SUMMARY:📊 中国 6月 M2货币供应年率 (%) (0710-0717)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8.6 | 预测: 8.5 | 公布: -\n-- 中国 6月 M0货币供应年率 (%): 前值: 11.9 | 预测: - | 公布: -\n-- 中国 6月 M1货币供应年率 (%): 前值: 5.5 | 预测: - | 公布: -
-UID:fx678-20260710-35cd15a5
+UID:fx678-20260710-7be6d536
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -309,7 +309,7 @@ DTEND;TZID=Asia/Shanghai:20260710T160000
 LOCATION:中国
 SUMMARY:📊 中国 6月 人民币各项贷款余额年率 (%) (0710-0717)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.5 | 预测: 5.4 | 公布: -\n-- 中国 6月 社会融资规模-年初至今 (亿元) (0710-0717) ★★★: 前值: 174800 | 预测: - | 公布: -\n-- 中国 6月 新增人民币贷款-年初至今 (亿元) (0710-0717) ★★★: 前值: 91100 | 预测: 20000 | 公布: -
-UID:fx678-20260710-0a8a072f
+UID:fx678-20260710-5bf6058d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -325,7 +325,7 @@ DTEND;TZID=Asia/Shanghai:20260713T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月13日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 7月13日 上期所每日仓单变动-白银 (千克): 前值:  | 预测: - | 公布: -\n-- 中国 7月13日 上期所每日仓单变动-燃料油 (吨): 前值:  | 预测: - | 公布: -\n-- 中国 7月13日 上期所每日仓单变动-原油 (桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260713-72ed4187
+UID:fx678-20260713-1d4dd23b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -341,7 +341,7 @@ DTEND;TZID=Asia/Shanghai:20260713T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月13日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260713-53257336
+UID:fx678-20260713-768b7769
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -357,7 +357,7 @@ DTEND;TZID=Asia/Shanghai:20260714T093000
 LOCATION:中国
 SUMMARY:📊 中国 6月 贸易帐-美元计价 (亿美元) (0714当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1054.3 | 预测: - | 公布: -\n-- 中国 6月 出口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 19.4 | 预测: - | 公布: -\n-- 中国 6月 进口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 27.4 | 预测: - | 公布: -\n-- 中国 6月 进口总额-美元计价 (亿美元): 前值: 2713.5 | 预测: - | 公布: -\n-- 中国 6月 出口总额-美元计价 (亿美元): 前值: 3767.8 | 预测: - | 公布: -
-UID:fx678-20260714-6bc7eb0b
+UID:fx678-20260714-57a12826
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -373,7 +373,7 @@ DTEND;TZID=Asia/Shanghai:20260714T093000
 LOCATION:中国
 SUMMARY:📊 中国 6月 贸易帐-人民币计价 (亿元) (0714当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7239.8 | 预测: - | 公布: -\n-- 中国 6月 出口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 21.5 | 预测: - | 公布: -\n-- 中国 6月 进口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 13.8 | 预测: - | 公布: -\n-- 中国 6月 进口总额-人民币计价 (亿元): 前值: 18638 | 预测: - | 公布: -\n-- 中国 6月 出口总额-人民币计价 (亿元): 前值: 25877.8 | 预测: - | 公布: -
-UID:fx678-20260714-00f07ebb
+UID:fx678-20260714-5801f573
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -389,7 +389,7 @@ DTEND;TZID=Asia/Shanghai:20260714T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月14日 上期所每日仓单变动-黄金 (千克)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 7月14日 上期所每日仓单变动-白银 (千克): 前值:  | 预测: - | 公布: -\n-- 中国 7月14日 上期所每日仓单变动-燃料油 (吨): 前值:  | 预测: - | 公布: -\n-- 中国 7月14日 上期所每日仓单变动-原油 (桶) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260714-47e51344
+UID:fx678-20260714-45a3e333
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -405,7 +405,7 @@ DTEND;TZID=Asia/Shanghai:20260714T151000
 LOCATION:中国
 SUMMARY:📊 中国 7月14日 上期所每日仓单变动-铜 (吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260714-58a5c358
+UID:fx678-20260714-0e926d8b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
