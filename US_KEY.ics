@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260706T220000
 LOCATION:美国
 SUMMARY:📊 美国 6月 ISM非制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.5 | 预测: 54 | 公布: 54
-UID:fx678-20260706-52c02979
+UID:fx678-20260706-3919e0de
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260707T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至6月20日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.08 | 预测: - | 公布: -
-UID:fx678-20260707-1d324a8d
+UID:fx678-20260707-73256994
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260709T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月4日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 21.8 | 公布: -\n-- 美国 截至6月27日当周 续请失业金人数 (万) ★★★: 前值: 181.4 | 预测: 181.5 | 公布: -
-UID:fx678-20260709-36ebd569
+UID:fx678-20260709-31c0eda2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260714T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至6月27日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260714-2d80eb9a
+UID:fx678-20260714-4f339b87
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260714T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 CPI年率未季调 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: - | 公布: -\n-- 美国 6月 核心CPI年率未季调 (%) ★★★: 前值: 2.9 | 预测: - | 公布: -\n-- 美国 6月 能源CPI年率-未季调 (%) ★★★: 前值: 23.5 | 预测: - | 公布: -
-UID:fx678-20260714-6f216775
+UID:fx678-20260714-4e232f37
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
