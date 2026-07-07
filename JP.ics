@@ -239,4 +239,68 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 5月 设备利用率指数月率-季调后 (%)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260715T075000
+DTEND;TZID=Asia/Shanghai:20260715T075000
+LOCATION:日本
+SUMMARY:📊 日本 5月 核心机械订单月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 8.7 | 预测: - | 公布: -
+UID:fx678-20260715-5775c807
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 5月 核心机械订单月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260715T075000
+DTEND;TZID=Asia/Shanghai:20260715T075000
+LOCATION:日本
+SUMMARY:📊 日本 5月 核心机械订单年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 15.6 | 预测: - | 公布: -
+UID:fx678-20260715-1ffc3533
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 5月 核心机械订单年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260715T110000
+DTEND;TZID=Asia/Shanghai:20260715T110000
+LOCATION:日本
+SUMMARY:📊 日本 截至7月11日当周 PAJ商业原油库存变动 (万千升)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260715-73361bc7
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至7月11日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260715T123000
+DTEND;TZID=Asia/Shanghai:20260715T123000
+LOCATION:日本
+SUMMARY:📊 日本 5月 第三产业活动月率-未季调 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -10.6 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动月率-季调后 (%): 前值: 1.3 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动年率 (%): 前值: 2.2 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动指数-未季调: 前值: 106.7 | 预测: - | 公布: -
+UID:fx678-20260715-0beb6480
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 5月 第三产业活动月率-未季调 (%)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
