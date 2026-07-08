@@ -16,75 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260707T073000
-DTEND;TZID=Asia/Shanghai:20260707T073000
-LOCATION:日本
-SUMMARY:📊 日本 5月 所有家庭支出年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -0.5 | 预测: -2.5 | 公布: -0.3\n-- 日本 5月 所有家庭支出月率 (%): 前值: 1.6 | 预测: 1.4 | 公布: 3.7
-UID:fx678-20260707-4697716e
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 所有家庭支出年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260707T073000
-DTEND;TZID=Asia/Shanghai:20260707T073000
-LOCATION:日本
-SUMMARY:📊 日本 5月 劳动现金收入年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.5 | 预测: 3.4 | 公布: 3.2\n-- 日本 5月 加班工资年率 (%): 前值: 4.2 | 预测: - | 公布: 2.9\n-- 日本 5月 实际薪资收入年率 (%): 前值: 1.9 | 预测: - | 公布: 1.4
-UID:fx678-20260707-7d169a2b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 劳动现金收入年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260707T075000
-DTEND;TZID=Asia/Shanghai:20260707T075000
-LOCATION:日本
-SUMMARY:📊 日本 6月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 13059 | 预测: - | 公布: 12875
-UID:fx678-20260707-7f88d996
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 外汇储备 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260707T130000
-DTEND;TZID=Asia/Shanghai:20260707T130000
-LOCATION:日本
-SUMMARY:📊 日本 5月 领先指标读数变动初值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.7 | 预测: - | 公布: 0.7\n-- 日本 5月 同步指标读数变动初值: 前值: 1.3 | 预测: - | 公布: 0.4\n-- 日本 5月 同步指标初值: 前值: 118.1 | 预测: 118.4 | 公布: 118.5\n-- 日本 5月 领先指标初值: 前值: 116.1 | 预测: 116.9 | 公布: 116.8
-UID:fx678-20260707-0026afd4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 领先指标读数变动初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260708T075000
 DTEND;TZID=Asia/Shanghai:20260708T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 季调后银行贷款年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 5.7 | 预测: - | 公布: -\n-- 日本 6月 季调后除信金外银行贷款年率 (%): 前值: 6.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 5.7 | 预测: - | 公布: 5.7\n-- 日本 6月 季调后除信金外银行贷款年率 (%): 前值: 6.3 | 预测: - | 公布: 6.3
 UID:fx678-20260708-597903b1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260708T075000
 DTEND;TZID=Asia/Shanghai:20260708T075000
 LOCATION:日本
 SUMMARY:📊 日本 5月 未季调经常帐 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 39078 | 预测: 41213 | 公布: -\n-- 日本 5月 季调后经常帐 (亿日元): 前值: 42111 | 预测: 41213 | 公布: -\n-- 日本 5月 经常帐分项-商品 (亿日元): 前值: 3957 | 预测: -2152 | 公布: -\n-- 日本 5月 贸易收支-央行基于海关数据季调后 (亿日元) ★★★: 前值: 46.96 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 39078 | 预测: 41213 | 公布: 39683\n-- 日本 5月 季调后经常帐 (亿日元): 前值: 42111 | 预测: 41213 | 公布: 30645\n-- 日本 5月 经常帐分项-商品 (亿日元): 前值: 3957 | 预测: -2152 | 公布: 68.75\n-- 日本 5月 贸易收支-央行基于海关数据季调后 (亿日元) ★★★: 前值: 46.96 | 预测: - | 公布: 20.45
 UID:fx678-20260708-2d51c272
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -115,16 +51,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260708T123000
 DTEND;TZID=Asia/Shanghai:20260708T123000
 LOCATION:日本
-SUMMARY:📊 日本 6月 企业破产年率 (%) （8-10日）
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -8.9 | 预测: - | 公布: -\n-- 日本 6月 企业破产件数 (件): 前值: 780 | 预测: - | 公布: -
-UID:fx678-20260708-0db49aa6
+SUMMARY:📊 日本 6月 企业破产年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -8.9 | 预测: - | 公布: 20.4\n-- 日本 6月 企业破产件数 (件): 前值: 780 | 预测: - | 公布: 1021
+UID:fx678-20260708-448745d6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 企业破产年率 (%) （8-10日）
+DESCRIPTION:📊 日本 6月 企业破产年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -132,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260708T130000
 DTEND;TZID=Asia/Shanghai:20260708T130000
 LOCATION:日本
 SUMMARY:📊 日本 6月 经济观察家现况指数
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 43.6 | 预测: 44.5 | 公布: -\n-- 日本 6月 经济观察家前景指数: 前值: 40.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 43.6 | 预测: 44.5 | 公布: 44\n-- 日本 6月 经济观察家前景指数: 前值: 40.7 | 预测: - | 公布: 45.7
 UID:fx678-20260708-33b5c0d4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -301,6 +237,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 5月 第三产业活动月率-未季调 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260716T075000
+DTEND;TZID=Asia/Shanghai:20260716T075000
+LOCATION:日本
+SUMMARY:📊 日本 截至7月6日当周 买进外国债券 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月6日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月6日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月6日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260716-5199f264
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至7月6日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260716T130000
+DTEND;TZID=Asia/Shanghai:20260716T130000
+LOCATION:日本
+SUMMARY:📊 日本 6月 超市销售年率 (%) (0716-0722)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -
+UID:fx678-20260716-73e4528f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 超市销售年率 (%) (0716-0722)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
