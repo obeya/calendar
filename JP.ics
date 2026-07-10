@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260709T075000
-DTEND;TZID=Asia/Shanghai:20260709T075000
-LOCATION:日本
-SUMMARY:📊 日本 截至7月2日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -2801 | 预测: - | 公布: -2181\n-- 日本 截至7月2日当周 买进外国股票 (亿日元): 前值: 1477 | 预测: - | 公布: 8245\n-- 日本 截至7月2日当周 外资买进日债 (亿日元): 前值: -4937 | 预测: - | 公布: -59\n-- 日本 截至7月2日当周 外资买进日股 (亿日元): 前值: -18165 | 预测: - | 公布: -222
-UID:fx678-20260709-2b5399bc
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至7月2日当周 买进外国债券 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260709T075000
-DTEND;TZID=Asia/Shanghai:20260709T075000
-LOCATION:日本
-SUMMARY:📊 日本 截至7月2日当周 季调后L广义货币 (万亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2328.6 | 预测: - | 公布: 2327.9\n-- 日本 截至7月2日当周 M2货币供应量 (万亿日元): 前值: 129245.07 | 预测: - | 公布: 129180.97\n-- 日本 截至7月2日当周 M2货币供应年率 (%): 前值: 2.5 | 预测: - | 公布: 2.2\n-- 日本 截至7月2日当周 M3货币供应年率 (%): 前值: 1.7 | 预测: - | 公布: 1.5\n-- 日本 截至7月2日当周 广义货币流动性年率 (%): 前值: 4.7 | 预测: - | 公布: 4.5
-UID:fx678-20260709-05190be9
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至7月2日当周 季调后L广义货币 (万亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260710T075000
 DTEND;TZID=Asia/Shanghai:20260710T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 PPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.9 | 预测: 0.3 | 公布: -\n-- 日本 6月 PPI年率 (%): 前值: 6.3 | 预测: 6.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.9 | 预测: 0.3 | 公布: 0.4\n-- 日本 6月 PPI年率 (%): 前值: 6.3 | 预测: 6.8 | 公布: 7.1
 UID:fx678-20260710-26fb4100
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260715T075000
 DTEND;TZID=Asia/Shanghai:20260715T075000
 LOCATION:日本
 SUMMARY:📊 日本 5月 核心机械订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 8.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 8.7 | 预测: -4.2 | 公布: -
 UID:fx678-20260715-5775c807
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260715T075000
 DTEND;TZID=Asia/Shanghai:20260715T075000
 LOCATION:日本
 SUMMARY:📊 日本 5月 核心机械订单年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 15.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 15.6 | 预测: 12.9 | 公布: -
 UID:fx678-20260715-1ffc3533
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -128,27 +96,11 @@ DESCRIPTION:📊 日本 5月 核心机械订单年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T110000
-DTEND;TZID=Asia/Shanghai:20260715T110000
-LOCATION:日本
-SUMMARY:📊 日本 截至7月11日当周 PAJ商业原油库存变动 (万千升)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月11日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260715-73361bc7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至7月11日当周 PAJ商业原油库存变动 (万千升)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260715T123000
 DTEND;TZID=Asia/Shanghai:20260715T123000
 LOCATION:日本
 SUMMARY:📊 日本 5月 第三产业活动月率-未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -10.6 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动月率-季调后 (%): 前值: 1.3 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动年率 (%): 前值: 2.2 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动指数-未季调: 前值: 106.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -10.6 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动月率-季调后 (%): 前值: 1.3 | 预测: 0.4 | 公布: -\n-- 日本 5月 第三产业活动年率 (%): 前值: 2.2 | 预测: - | 公布: -\n-- 日本 5月 第三产业活动指数-未季调: 前值: 106.7 | 预测: - | 公布: -
 UID:fx678-20260715-0beb6480
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
