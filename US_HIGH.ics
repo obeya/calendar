@@ -16,54 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T043000
-DTEND;TZID=Asia/Shanghai:20260710T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月8日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.73 | 预测: - | 公布: 674
-UID:fx678-20260710-7b96eb7c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月8日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T063000
-DTEND;TZID=Asia/Shanghai:20260710T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1002.51 | 预测: - | 公布: 1005.65\n-- 美国 7月9日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14899.63 | 预测: - | 公布: 14871.51\n-- 美国 7月9日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 463.43 | 预测: - | 公布: 462.85
-UID:fx678-20260710-368c8bf0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T063000
-DTEND;TZID=Asia/Shanghai:20260710T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月8日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271156.23 | 预测: - | 公布: 271243.53
-UID:fx678-20260710-68f3e8f5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月8日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260711T010000
 DTEND;TZID=Asia/Shanghai:20260711T010000
 LOCATION:美国
@@ -84,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260711T063000
 DTEND;TZID=Asia/Shanghai:20260711T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月10日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.65 | 预测: - | 公布: -\n-- 美国 7月10日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: -\n-- 美国 7月10日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.85 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.65 | 预测: - | 公布: 1002.45\n-- 美国 7月10日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: 14871.51\n-- 美国 7月10日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.85 | 预测: - | 公布: 462.47
 UID:fx678-20260711-0a9cd930
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260711T063000
 DTEND;TZID=Asia/Shanghai:20260711T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月9日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: 271243.53
 UID:fx678-20260711-6a8bb382
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

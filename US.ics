@@ -16,118 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T010000
-DTEND;TZID=Asia/Shanghai:20260710T010000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 30年期国债竞拍-总金额 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 220 | 预测: - | 公布: 220\n-- 美国 7月9日 30年期国债竞拍-高收益率 (%): 前值: 5.02 | 预测: - | 公布: 5.06\n-- 美国 7月9日 30年期国债竞拍-投标倍数 (倍): 前值: 2.33 | 预测: - | 公布: 2.44
-UID:fx678-20260710-4139b5de
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 30年期国债竞拍-总金额 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T010000
-DTEND;TZID=Asia/Shanghai:20260710T010000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 30年期国债竞拍-高配置百分比 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 32.36 | 预测: - | 公布: 7.13
-UID:fx678-20260710-30c8bfc8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 30年期国债竞拍-高配置百分比 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T043000
-DTEND;TZID=Asia/Shanghai:20260710T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月8日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.73 | 预测: - | 公布: 674
-UID:fx678-20260710-7b96eb7c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月8日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T043000
-DTEND;TZID=Asia/Shanghai:20260710T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月4日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -110.64 | 预测: - | 公布: -286.05
-UID:fx678-20260710-2f1e25c6
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月4日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T063000
-DTEND;TZID=Asia/Shanghai:20260710T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1002.51 | 预测: - | 公布: 1005.65\n-- 美国 7月9日 SPDR黄金持仓变动-每日 (吨): 前值: 0 | 预测: - | 公布: 3.14\n-- 美国 7月9日 iShares白银持仓变动-每日 (吨): 前值: -15.47 | 预测: - | 公布: -28.12\n-- 美国 7月9日 iShares黄金持仓变动-每日 (吨): 前值: 0 | 预测: - | 公布: -0.58\n-- 美国 7月9日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14899.63 | 预测: - | 公布: 14871.51\n-- 美国 7月9日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 463.43 | 预测: - | 公布: 462.85
-UID:fx678-20260710-368c8bf0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T063000
-DTEND;TZID=Asia/Shanghai:20260710T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月8日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271156.23 | 预测: - | 公布: 271243.53\n-- 美国 7月8日 COMEX黄金库存变动-每日 (百盎司): 前值: -670.99 | 预测: - | 公布: 87.3\n-- 美国 7月8日 COMEX白银库存-每日更新 (百盎司): 前值: 3262406 | 预测: - | 公布: 3265781.38\n-- 美国 7月8日 COMEX白银库存变动-每日 (百盎司): 前值: 2238.96 | 预测: - | 公布: 3375.36
-UID:fx678-20260710-68f3e8f5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月8日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260710T063000
-DTEND;TZID=Asia/Shanghai:20260710T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月8日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 4089.93 | 预测: - | 公布: 3949.25\n-- 美国 7月8日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -140.67\n-- 美国 7月8日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2364.21 | 预测: - | 公布: 2364.21\n-- 美国 7月8日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260710-4d2dacf9
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月8日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260711T010000
 DTEND;TZID=Asia/Shanghai:20260711T010000
 LOCATION:美国
@@ -148,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260711T063000
 DTEND;TZID=Asia/Shanghai:20260711T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月10日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.65 | 预测: - | 公布: -\n-- 美国 7月10日 SPDR黄金持仓变动-每日 (吨): 前值: 3.14 | 预测: - | 公布: -\n-- 美国 7月10日 iShares白银持仓变动-每日 (吨): 前值: -28.12 | 预测: - | 公布: -\n-- 美国 7月10日 iShares黄金持仓变动-每日 (吨): 前值: -0.58 | 预测: - | 公布: -\n-- 美国 7月10日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: -\n-- 美国 7月10日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.85 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.65 | 预测: - | 公布: 1002.45\n-- 美国 7月10日 SPDR黄金持仓变动-每日 (吨): 前值: 3.14 | 预测: - | 公布: -3.2\n-- 美国 7月10日 iShares白银持仓变动-每日 (吨): 前值: -28.12 | 预测: - | 公布: 0\n-- 美国 7月10日 iShares黄金持仓变动-每日 (吨): 前值: -0.58 | 预测: - | 公布: -0.38\n-- 美国 7月10日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: 14871.51\n-- 美国 7月10日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.85 | 预测: - | 公布: 462.47
 UID:fx678-20260711-0a9cd930
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260711T063000
 DTEND;TZID=Asia/Shanghai:20260711T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月9日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: -\n-- 美国 7月9日 COMEX黄金库存变动-每日 (百盎司): 前值: 87.3 | 预测: - | 公布: -\n-- 美国 7月9日 COMEX白银库存-每日更新 (百盎司): 前值: 3265781.38 | 预测: - | 公布: -\n-- 美国 7月9日 COMEX白银库存变动-每日 (百盎司): 前值: 3375.36 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: 271243.53\n-- 美国 7月9日 COMEX黄金库存变动-每日 (百盎司): 前值: 87.3 | 预测: - | 公布: 0\n-- 美国 7月9日 COMEX白银库存-每日更新 (百盎司): 前值: 3265781.38 | 预测: - | 公布: 3266106.82\n-- 美国 7月9日 COMEX白银库存变动-每日 (百盎司): 前值: 3375.36 | 预测: - | 公布: 325.44
 UID:fx678-20260711-6a8bb382
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -180,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260711T063000
 DTEND;TZID=Asia/Shanghai:20260711T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月9日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3949.25 | 预测: - | 公布: -\n-- 美国 7月9日 NYMEX铂金库存变动-每日 (百盎司): 前值: -140.67 | 预测: - | 公布: -\n-- 美国 7月9日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2364.21 | 预测: - | 公布: -\n-- 美国 7月9日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3949.25 | 预测: - | 公布: 3949.25\n-- 美国 7月9日 NYMEX铂金库存变动-每日 (百盎司): 前值: -140.67 | 预测: - | 公布: 0\n-- 美国 7月9日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2364.21 | 预测: - | 公布: 2364.21\n-- 美国 7月9日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260711-1367f3a0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
