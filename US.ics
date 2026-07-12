@@ -16,70 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260711T010000
-DTEND;TZID=Asia/Shanghai:20260711T010000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月10日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 580 | 预测: - | 公布: 581\n-- 美国 截至7月10日当周 天然气钻井总数 (口): 前值: 126 | 预测: - | 公布: 126\n-- 美国 截至7月10日当周 石油钻井总数 (口) ★★★: 前值: 445 | 预测: - | 公布: 445\n-- 美国 截至7月10日当周 混杂钻井总数 (口): 前值: 9 | 预测: - | 公布: 10\n-- 北美洲 截至7月10日当周 总钻井总数 (口): 前值: 770 | 预测: - | 公布: 760\n-- 北美洲 截至7月10日当周 墨西哥湾总钻井总数 (口): 前值: 9 | 预测: - | 公布: 12\n-- 加拿大 截至7月10日当周 总钻井数量 (口): 前值: 190 | 预测: - | 公布: 179
-UID:fx678-20260711-5019d9e8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月10日当周 全美钻井总数 (口)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260711T063000
-DTEND;TZID=Asia/Shanghai:20260711T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月10日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1005.65 | 预测: - | 公布: 1002.45\n-- 美国 7月10日 SPDR黄金持仓变动-每日 (吨): 前值: 3.14 | 预测: - | 公布: -3.2\n-- 美国 7月10日 iShares白银持仓变动-每日 (吨): 前值: -28.12 | 预测: - | 公布: 0\n-- 美国 7月10日 iShares黄金持仓变动-每日 (吨): 前值: -0.58 | 预测: - | 公布: -0.38\n-- 美国 7月10日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: 14871.51\n-- 美国 7月10日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.85 | 预测: - | 公布: 462.47
-UID:fx678-20260711-0a9cd930
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月10日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260711T063000
-DTEND;TZID=Asia/Shanghai:20260711T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: 271243.53\n-- 美国 7月9日 COMEX黄金库存变动-每日 (百盎司): 前值: 87.3 | 预测: - | 公布: 0\n-- 美国 7月9日 COMEX白银库存-每日更新 (百盎司): 前值: 3265781.38 | 预测: - | 公布: 3266106.82\n-- 美国 7月9日 COMEX白银库存变动-每日 (百盎司): 前值: 3375.36 | 预测: - | 公布: 325.44
-UID:fx678-20260711-6a8bb382
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260711T063000
-DTEND;TZID=Asia/Shanghai:20260711T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月9日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3949.25 | 预测: - | 公布: 3949.25\n-- 美国 7月9日 NYMEX铂金库存变动-每日 (百盎司): 前值: -140.67 | 预测: - | 公布: 0\n-- 美国 7月9日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2364.21 | 预测: - | 公布: 2364.21\n-- 美国 7月9日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260711-1367f3a0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月9日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260713T230000
 DTEND;TZID=Asia/Shanghai:20260713T230000
 LOCATION:美国
@@ -893,6 +829,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 7月16日 NYMEX铂金库存-每日更新 (百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260720T220000
+DTEND;TZID=Asia/Shanghai:20260720T220000
+LOCATION:美国
+SUMMARY:📊 美国 6月 谘商会领先指标月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.1 | 预测: - | 公布: -\n-- 美国 6月 谘商会滞后指标月率 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 美国 6月 谘商会同步指标月率 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 美国 6月 谘商会领先指标: 前值: 99.3 | 预测: - | 公布: -
+UID:fx678-20260720-4412c35b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 6月 谘商会领先指标月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260720T233000
+DTEND;TZID=Asia/Shanghai:20260720T233000
+LOCATION:美国
+SUMMARY:📊 美国 7月20日 6个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260720-76700559
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月20日 6个月期国债竞拍-总金额 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260720T233000
+DTEND;TZID=Asia/Shanghai:20260720T233000
+LOCATION:美国
+SUMMARY:📊 美国 7月20日 3个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260720-550fb137
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月20日 3个月期国债竞拍-总金额 (亿美元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
