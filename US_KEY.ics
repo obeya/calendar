@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260714T201500
 DTEND;TZID=Asia/Shanghai:20260714T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至6月27日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.1 | 预测: - | 公布: 1.98
 UID:fx678-20260714-4f339b87
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260714T203000
 DTEND;TZID=Asia/Shanghai:20260714T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 CPI年率未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: 3.8 | 公布: -\n-- 美国 6月 核心CPI年率未季调 (%) ★★★: 前值: 2.9 | 预测: 2.9 | 公布: -\n-- 美国 6月 能源CPI年率-未季调 (%) ★★★: 前值: 23.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: 3.8 | 公布: 3.5\n-- 美国 6月 核心CPI年率未季调 (%) ★★★: 前值: 2.9 | 预测: 2.8 | 公布: 2.6\n-- 美国 6月 能源CPI年率-未季调 (%) ★★★: 前值: 23.5 | 预测: - | 公布: 15.7
 UID:fx678-20260714-4e232f37
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260715T203000
 DTEND;TZID=Asia/Shanghai:20260715T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 纽约联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.7 | 预测: 8.9 | 公布: -\n-- 美国 7月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 30.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.7 | 预测: 8.8 | 公布: -\n-- 美国 7月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 30.1 | 预测: - | 公布: -
 UID:fx678-20260715-082ed014
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260716T203000
 DTEND;TZID=Asia/Shanghai:20260716T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月6日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 21.8 | 公布: -\n-- 美国 截至6月29日当周 续请失业金人数 (万) ★★★: 前值: 181.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 21.7 | 公布: -\n-- 美国 截至6月29日当周 续请失业金人数 (万) ★★★: 前值: 181.4 | 预测: 181.5 | 公布: -
 UID:fx678-20260716-571a7049
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260716T203000
 DTEND;TZID=Asia/Shanghai:20260716T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 费城联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 10.3 | 预测: 13.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 10.3 | 预测: 13 | 公布: -
 UID:fx678-20260716-434189d5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260717T220000
 DTEND;TZID=Asia/Shanghai:20260717T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51 | 公布: -
 UID:fx678-20260717-235415e3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

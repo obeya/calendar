@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260715T170000
 DTEND;TZID=Asia/Shanghai:20260715T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: 0.3 | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: 0.3 | 预测: 0.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: 0.3 | 预测: -0.5 | 公布: -
 UID:fx678-20260715-5b2665b0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260716T170000
 DTEND;TZID=Asia/Shanghai:20260716T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 5月 季调后贸易帐 (亿欧元)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 13 | 预测: - | 公布: -\n-- 欧元区 5月 未季调贸易帐 (亿欧元): 前值: -10 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 13 | 预测: - | 公布: -\n-- 欧元区 5月 未季调贸易帐 (亿欧元): 前值: -10 | 预测: -16 | 公布: -
 UID:fx678-20260716-2e296502
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260717T170000
 DTEND;TZID=Asia/Shanghai:20260717T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 调和CPI年率-未季调终值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: -\n-- 欧元区 6月 调和CPI月率终值 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 欧元区 6月 核心调和CPI年率-未季调终值 (%) ★★★: 前值: 2.2 | 预测: - | 公布: -\n-- 欧元区 6月 核心调和CPI月率终值 (%): 前值: 0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 未季调CPI读数终值: 前值: 103.07 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: -\n-- 欧元区 6月 调和CPI月率终值 (%): 前值: -0.1 | 预测: -0.1 | 公布: -\n-- 欧元区 6月 核心调和CPI年率-未季调终值 (%) ★★★: 前值: 2.2 | 预测: - | 公布: -\n-- 欧元区 6月 核心调和CPI月率终值 (%): 前值: 0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 未季调CPI读数终值: 前值: 103.07 | 预测: - | 公布: -
 UID:fx678-20260717-528e833a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
