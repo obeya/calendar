@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260714T020000
 LOCATION:美国
 SUMMARY:📊 美国 6月 政府预算 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -2930 | 预测: -138 | 公布: -1200
-UID:fx678-20260714-6d57681a
+UID:fx678-20260714-518799d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -35,41 +35,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260714T063000
 DTEND;TZID=Asia/Shanghai:20260714T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月13日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1002.45 | 预测: - | 公布: 1002.45\n-- 美国 7月13日 SPDR黄金持仓变动-每日 (吨): 前值: -3.2 | 预测: - | 公布: 0\n-- 美国 7月13日 iShares白银持仓变动-每日 (吨): 前值: 0 | 预测: - | 公布: -16.87\n-- 美国 7月13日 iShares黄金持仓变动-每日 (吨): 前值: -0.38 | 预测: - | 公布: -0.53\n-- 美国 7月13日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14871.51 | 预测: - | 公布: 14854.64\n-- 美国 7月13日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 462.47 | 预测: - | 公布: 461.94
-UID:fx678-20260714-1b657697
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月13日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260714T063000
-DTEND;TZID=Asia/Shanghai:20260714T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月10日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271243.53 | 预测: - | 公布: 271028.94\n-- 美国 7月10日 COMEX黄金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -214.59\n-- 美国 7月10日 COMEX白银库存-每日更新 (百盎司): 前值: 3266106.82 | 预测: - | 公布: 3277896.7\n-- 美国 7月10日 COMEX白银库存变动-每日 (百盎司): 前值: 325.44 | 预测: - | 公布: 5768.4
-UID:fx678-20260714-44060aa5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月10日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260714T063000
-DTEND;TZID=Asia/Shanghai:20260714T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月10日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3949.25 | 预测: - | 公布: 3943.7\n-- 美国 7月10日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -5.56\n-- 美国 7月10日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2364.21 | 预测: - | 公布: 2333.02\n-- 美国 7月10日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -31.19
-UID:fx678-20260714-4b0b8fe5
+UID:fx678-20260714-4761780a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260714T180000
 LOCATION:美国
 SUMMARY:📊 美国 6月 NFIB小型企业信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 95.3 | 预测: 95.5 | 公布: 97.4
-UID:fx678-20260714-488bcaf6
+UID:fx678-20260714-309e6664
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260714T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至6月27日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.1 | 预测: - | 公布: 1.98
-UID:fx678-20260714-4f339b87
+UID:fx678-20260714-063462d1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260714T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 CPI年率未季调 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.2 | 预测: 3.8 | 公布: 3.5\n-- 美国 6月 核心CPI年率未季调 (%) ★★★: 前值: 2.9 | 预测: 2.8 | 公布: 2.6\n-- 美国 6月 CPI月率季调后 (%): 前值: 0.5 | 预测: -0.1 | 公布: -0.4\n-- 美国 6月 核心CPI月率季调后 (%): 前值: 0.2 | 预测: 0.2 | 公布: 0\n-- 美国 6月 CPI月率未季调 (%): 前值: 0.63 | 预测: - | 公布: -0.35\n-- 美国 6月 住房CPI年率-未季调 (%): 前值: 3.4 | 预测: - | 公布: 3.3\n-- 美国 6月 二手车和卡车CPI年率-未季调 (%): 前值: -2 | 预测: - | 公布: -1.8\n-- 美国 6月 新车CPI年率-未季调 (%): 前值: 0.2 | 预测: - | 公布: 0.5\n-- 美国 6月 能源CPI年率-未季调 (%) ★★★: 前值: 23.5 | 预测: - | 公布: 15.7\n-- 美国 6月 食品CPI年率-未季调 (%): 前值: 3.1 | 预测: - | 公布: 3
-UID:fx678-20260714-4e232f37
+UID:fx678-20260714-7c8b69ba
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260714T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 CPI读数未季调
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 335.12 | 预测: 334.7 | 公布: 333.95\n-- 美国 6月 核心CPI读数季调后: 前值: 336.12 | 预测: - | 公布: 336.07\n-- 美国 6月 CPI读数季调后: 前值: 333.98 | 预测: - | 公布: 332.57\n-- 美国 6月 CPI总指数: 前值: 328.83 | 预测: - | 公布: 327.08
-UID:fx678-20260714-25da8bd5
+UID:fx678-20260714-3ce75f1f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260714T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 实际周薪月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -0.2 | 预测: - | 公布: 0.8\n-- 美国 6月 实际周薪年率 (%): 前值: -0.4 | 预测: - | 公布: 0.3
-UID:fx678-20260714-6c58dbe3
+UID:fx678-20260714-3328693c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260714T205500
 LOCATION:美国
 SUMMARY:📊 美国 7月6日 红皮书商业零售销售年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 11.5 | 预测: - | 公布: 8.2
-UID:fx678-20260714-5ce53c08
+UID:fx678-20260714-51546a51
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260714T230000
 LOCATION:美国
 SUMMARY:📊 美国 6月 克里夫兰联储CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.3 | 预测: - | 公布: 0.2
-UID:fx678-20260714-3e99e279
+UID:fx678-20260714-7d6e4a80
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20260715T040000
 LOCATION:美国
 SUMMARY:📊 美国 5月 国际资本净流入 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 261 | 预测: - | 公布: 1322\n-- 美国 5月 长期资本净流入 (亿美元): 前值: 1031 | 预测: - | 公布: 2327\n-- 美国 5月 外资净买入美国公债 (亿美元): 前值: 505 | 预测: - | 公布: 566\n-- 美国 5月 外资净买入长期证券 (亿美元) ★★★: 前值: 1031 | 预测: - | 公布: 2327
-UID:fx678-20260715-5bb657d9
+UID:fx678-20260715-71c3268e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260715T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月10日当周 API原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -39.9 | 预测: -273.6 | 公布: -56.4\n-- 美国 截至7月10日当周 API馏分油库存变动 (万桶): 前值: -180.1 | 预测: 106 | 公布: 225.9\n-- 美国 截至7月10日当周 API汽油库存变动 (万桶) ★★★: 前值: -292.9 | 预测: 60 | 公布: -166.4\n-- 美国 截至7月10日当周 API库欣原油库存变动 (万桶): 前值: -6.9 | 预测: - | 公布: 23.8\n-- 美国 截至7月10日当周 API每周取暖油库存 (万桶): 前值: -43.4 | 预测: - | 公布: -7.3\n-- 美国 截至7月10日当周 API每周原油进口 (万桶): 前值: 15.9 | 预测: - | 公布: -11.9\n-- 美国 截至7月10日当周 API每周成品油进口 (万桶): 前值: -32.5 | 预测: - | 公布: -18.8\n-- 美国 截至7月10日当周 API每周投产原油量 (万桶): 前值: 3.4 | 预测: - | 公布: 5.6
-UID:fx678-20260715-24f86d75
+UID:fx678-20260715-64725b95
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -227,41 +195,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260715T063000
 DTEND;TZID=Asia/Shanghai:20260715T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月14日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1002.45 | 预测: - | 公布: -\n-- 美国 7月14日 SPDR黄金持仓变动-每日 (吨): 前值: 0 | 预测: - | 公布: -\n-- 美国 7月14日 iShares白银持仓变动-每日 (吨): 前值: -16.87 | 预测: - | 公布: -\n-- 美国 7月14日 iShares黄金持仓变动-每日 (吨): 前值: -0.53 | 预测: - | 公布: -\n-- 美国 7月14日 iShares白银持仓-每日更新 (吨) ★★★: 前值: 14854.64 | 预测: - | 公布: -\n-- 美国 7月14日 iShares黄金持仓-每日更新 (吨) ★★★: 前值: 461.94 | 预测: - | 公布: -
-UID:fx678-20260715-2e09c189
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月14日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T063000
-DTEND;TZID=Asia/Shanghai:20260715T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月13日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 271028.94 | 预测: - | 公布: 271028.94\n-- 美国 7月13日 COMEX黄金库存变动-每日 (百盎司): 前值: -214.59 | 预测: - | 公布: 0\n-- 美国 7月13日 COMEX白银库存-每日更新 (百盎司): 前值: 3277896.7 | 预测: - | 公布: 3280481.56\n-- 美国 7月13日 COMEX白银库存变动-每日 (百盎司): 前值: 5768.4 | 预测: - | 公布: 2584.85
-UID:fx678-20260715-488eb149
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月13日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T063000
-DTEND;TZID=Asia/Shanghai:20260715T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月13日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: 3943.7\n-- 美国 7月13日 NYMEX铂金库存变动-每日 (百盎司): 前值: -5.56 | 预测: - | 公布: 0\n-- 美国 7月13日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2333.02 | 预测: - | 公布: 2336\n-- 美国 7月13日 NYMEX钯金库存变动-每日 (百盎司): 前值: -31.19 | 预测: - | 公布: 2.98
-UID:fx678-20260715-5598e9b3
+UID:fx678-20260715-11b71252
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -276,8 +212,8 @@ DTSTART;TZID=Asia/Shanghai:20260715T190000
 DTEND;TZID=Asia/Shanghai:20260715T190000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月6日当周 MBA抵押贷款申请活动指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 266.3 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 MBA抵押贷款申请活动指数周环比 (%): 前值: -2.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 MBA抵押贷款购买指数: 前值: 169.5 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 MBA抵押贷款再融资活动指数: 前值: 794.4 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 MBA30年期固定抵押贷款利率 (%): 前值: 6.58 | 预测: - | 公布: -
-UID:fx678-20260715-02ecebcf
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 266.3 | 预测: - | 公布: 259.1\n-- 美国 截至7月6日当周 MBA抵押贷款申请活动指数周环比 (%): 前值: -2.2 | 预测: - | 公布: -2.7\n-- 美国 截至7月6日当周 MBA抵押贷款购买指数: 前值: 169.5 | 预测: - | 公布: 157.2\n-- 美国 截至7月6日当周 MBA抵押贷款再融资活动指数: 前值: 794.4 | 预测: - | 公布: 821.9\n-- 美国 截至7月6日当周 MBA30年期固定抵押贷款利率 (%): 前值: 6.58 | 预测: - | 公布: 6.65
+UID:fx678-20260715-627ecedc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -292,8 +228,8 @@ DTSTART;TZID=Asia/Shanghai:20260715T203000
 DTEND;TZID=Asia/Shanghai:20260715T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 纽约联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.7 | 预测: 8.8 | 公布: -\n-- 美国 7月 纽约联储制造业新订单指数: 前值: 3.5 | 预测: - | 公布: -\n-- 美国 7月 纽约联储制造业价格获得指数: 前值: 31.4 | 预测: - | 公布: -\n-- 美国 7月 纽约联储制造业就业指数: 前值: 9.6 | 预测: - | 公布: -\n-- 美国 7月 纽约联储制造业价格支付指数: 前值: 61 | 预测: - | 公布: -\n-- 美国 7月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 30.1 | 预测: - | 公布: -
-UID:fx678-20260715-082ed014
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.7 | 预测: 8.8 | 公布: 15.6\n-- 美国 7月 纽约联储制造业新订单指数: 前值: 3.5 | 预测: - | 公布: 22.2\n-- 美国 7月 纽约联储制造业价格获得指数: 前值: 31.4 | 预测: - | 公布: 27.6\n-- 美国 7月 纽约联储制造业就业指数: 前值: 9.6 | 预测: - | 公布: 11.4\n-- 美国 7月 纽约联储制造业价格支付指数: 前值: 61 | 预测: - | 公布: 52.3\n-- 美国 7月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 30.1 | 预测: - | 公布: 27.9
+UID:fx678-20260715-194c98f0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -308,8 +244,8 @@ DTSTART;TZID=Asia/Shanghai:20260715T203000
 DTEND;TZID=Asia/Shanghai:20260715T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.5 | 预测: 6.2 | 公布: -\n-- 美国 6月 机械制造PPI: 前值: 197.4 | 预测: - | 公布: -\n-- 美国 6月 PPI月率 (%): 前值: 1.1 | 预测: 0 | 公布: -\n-- 美国 6月 核心PPI月率 (%): 前值: 0.4 | 预测: 0.4 | 公布: -\n-- 美国 6月 核心PPI年率 (%) ★★★: 前值: 4.9 | 预测: 5.2 | 公布: -\n-- 美国 6月 扣除食品能源和贸易的最终需求PPI年率 (%): 前值: 5.1 | 预测: - | 公布: -\n-- 美国 6月 扣除食品能源和贸易的最终需求PPI月率 (%): 前值: 0.8 | 预测: - | 公布: -
-UID:fx678-20260715-2c156703
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.5 | 预测: 6.2 | 公布: 5.5\n-- 美国 6月 机械制造PPI: 前值: 197.4 | 预测: - | 公布: 198.2\n-- 美国 6月 PPI月率 (%): 前值: 1.1 | 预测: 0 | 公布: -0.3\n-- 美国 6月 核心PPI月率 (%): 前值: 0.4 | 预测: 0.4 | 公布: 0.2\n-- 美国 6月 核心PPI年率 (%) ★★★: 前值: 4.9 | 预测: 5.2 | 公布: 4.7\n-- 美国 6月 扣除食品能源和贸易的最终需求PPI年率 (%): 前值: 5.1 | 预测: - | 公布: 5.1\n-- 美国 6月 扣除食品能源和贸易的最终需求PPI月率 (%): 前值: 0.8 | 预测: - | 公布: 0.1
+UID:fx678-20260715-3a240c12
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -324,8 +260,8 @@ DTSTART;TZID=Asia/Shanghai:20260715T223000
 DTEND;TZID=Asia/Shanghai:20260715T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月6日当周 EIA原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 299.8 | 预测: -273.6 | 公布: -\n-- 美国 截至7月6日当周 DOE燃料乙醇库存 (万桶): 前值: 2392.8 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE燃料乙醇总产量 (万桶/日): 前值: 109.3 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA精炼厂设备利用率 (%): 前值: 95.8 | 预测: 95.6 | 公布: -\n-- 美国 截至7月6日当周 EIA汽油库存变动 (万桶) ★★★: 前值: -190.4 | 预测: 60 | 公布: -\n-- 美国 截至7月6日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -498 | 预测: 106 | 公布: -\n-- 美国 截至7月6日当周 DOE原油引伸需求 (万桶/日): 前值: 1906.1 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE汽油引伸需求 (万桶/日): 前值: 987.09 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE蒸馏油引伸需求 (万桶/日): 前值: 598.54 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -5.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA精炼厂设备利用率变动 (%): 前值: -0.8 | 预测: -0.2 | 公布: -\n-- 美国 截至7月6日当周 EIA原油总产量 (万桶/日): 前值: 1386 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 109.6 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周新配方汽油库存变动 (万桶): 前值: 0 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周取暖油库存 (万桶): 前值: -42.7 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周成品油进口变动 (万桶): 前值: -27.4 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周馏分油产量变动 (万桶): 前值: -0.1 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周投产原油量变动 (万桶): 前值: -17.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周汽油产量变动 (万桶): 前值: -23.3 | 预测: - | 公布: -
-UID:fx678-20260715-03675755
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 299.8 | 预测: -259.4 | 公布: -\n-- 美国 截至7月6日当周 DOE燃料乙醇库存 (万桶): 前值: 2392.8 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE燃料乙醇总产量 (万桶/日): 前值: 109.3 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA精炼厂设备利用率 (%): 前值: 95.8 | 预测: 95.6 | 公布: -\n-- 美国 截至7月6日当周 EIA汽油库存变动 (万桶) ★★★: 前值: -190.4 | 预测: -76 | 公布: -\n-- 美国 截至7月6日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -498 | 预测: 8.4 | 公布: -\n-- 美国 截至7月6日当周 DOE原油引伸需求 (万桶/日): 前值: 1906.1 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE汽油引伸需求 (万桶/日): 前值: 987.09 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 DOE蒸馏油引伸需求 (万桶/日): 前值: 598.54 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -5.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA精炼厂设备利用率变动 (%): 前值: -0.8 | 预测: -0.2 | 公布: -\n-- 美国 截至7月6日当周 EIA原油总产量 (万桶/日): 前值: 1386 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 109.6 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周新配方汽油库存变动 (万桶): 前值: 0 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周取暖油库存 (万桶): 前值: -42.7 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周成品油进口变动 (万桶): 前值: -27.4 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周馏分油产量变动 (万桶): 前值: -0.1 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周投产原油量变动 (万桶): 前值: -17.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA每周汽油产量变动 (万桶): 前值: -23.3 | 预测: - | 公布: -
+UID:fx678-20260715-3588765b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -339,41 +275,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260716T063000
 DTEND;TZID=Asia/Shanghai:20260716T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月15日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月15日 SPDR黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 iShares白银持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 iShares黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 iShares白银持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 iShares黄金持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260716-78e34b86
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月15日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T063000
-DTEND;TZID=Asia/Shanghai:20260716T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月14日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月14日 COMEX黄金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月14日 COMEX白银库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月14日 COMEX白银库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260716-2d5ce4d2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月14日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T063000
-DTEND;TZID=Asia/Shanghai:20260716T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月14日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260716-1d8dd5b0
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2336 | 预测: - | 公布: -\n-- 美国 7月14日 NYMEX钯金库存变动-每日 (百盎司): 前值: 2.98 | 预测: - | 公布: -
+UID:fx678-20260716-477f1fe3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -389,7 +293,7 @@ DTEND;TZID=Asia/Shanghai:20260716T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月6日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 21.7 | 公布: -\n-- 美国 截至6月29日当周 续请失业金人数 (万) ★★★: 前值: 181.4 | 预测: 181.5 | 公布: -\n-- 美国 截至7月6日当周 初请失业金人数四周均值 (万): 前值: 21.88 | 预测: - | 公布: -
-UID:fx678-20260716-571a7049
+UID:fx678-20260716-4fc83d1e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -405,7 +309,7 @@ DTEND;TZID=Asia/Shanghai:20260716T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 费城联储制造业指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 10.3 | 预测: 13 | 公布: -\n-- 美国 7月 费城联储制造业装船指数: 前值: 14.9 | 预测: - | 公布: -\n-- 美国 7月 费城联储制造业新订单指数: 前值: 27.3 | 预测: - | 公布: -\n-- 美国 7月 费城联储制造业就业指数: 前值: 7.9 | 预测: - | 公布: -\n-- 美国 7月 费城联储制造业物价支付指数: 前值: 53.2 | 预测: - | 公布: -\n-- 美国 7月 费城联储制造业物价获得指数: 前值: 20.3 | 预测: - | 公布: -\n-- 美国 7月 费城联储6个月制造业商业状况预期: 前值: 50.2 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 费城联储资本支出指数: 前值: 41.2 | 预测: - | 公布: -
-UID:fx678-20260716-434189d5
+UID:fx678-20260716-09501f4f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -421,7 +325,7 @@ DTEND;TZID=Asia/Shanghai:20260716T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 零售销售月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.9 | 预测: 0.2 | 公布: -\n-- 美国 6月 核心零售销售月率 (%) ★★★: 前值: 0.8 | 预测: -0.1 | 公布: -\n-- 美国 6月 核心零售销售 (亿美元): 前值: 6234.44 | 预测: - | 公布: -\n-- 美国 6月 零售销售 (亿美元): 前值: 7637.05 | 预测: - | 公布: -\n-- 美国 6月 零售销售年率 (%) ★★★: 前值: 6.88 | 预测: - | 公布: -\n-- 美国 6月 剔除汽车及汽油零售额月率-季调后 (%): 前值: 0.5 | 预测: - | 公布: -\n-- 美国 6月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.7 | 预测: 0.5 | 公布: -
-UID:fx678-20260716-1c86f37a
+UID:fx678-20260716-547218a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -437,7 +341,7 @@ DTEND;TZID=Asia/Shanghai:20260716T220000
 LOCATION:美国
 SUMMARY:📊 美国 5月 企业库存月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.5 | 预测: 0.3 | 公布: -
-UID:fx678-20260716-416f0f48
+UID:fx678-20260716-6454a637
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -453,7 +357,7 @@ DTEND;TZID=Asia/Shanghai:20260716T220000
 LOCATION:美国
 SUMMARY:📊 美国 5月 零售库存季调后月率-不含汽车修正值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20260716-50d5c6fa
+UID:fx678-20260716-5e67b623
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -469,7 +373,7 @@ DTEND;TZID=Asia/Shanghai:20260716T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 NAHB房产市场指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 35 | 预测: 35 | 公布: -
-UID:fx678-20260716-27ac9213
+UID:fx678-20260716-57d6eae5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -485,7 +389,7 @@ DTEND;TZID=Asia/Shanghai:20260716T220000
 LOCATION:美国
 SUMMARY:📊 美国 6月 季调后成屋签约销售指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: -0.5 | 公布: -\n-- 美国 6月 季调后成屋签约销售指数: 前值: 76.8 | 预测: - | 公布: -\n-- 美国 6月 季调后成屋签约销售指数年率 (%): 前值: 2.1 | 预测: - | 公布: -
-UID:fx678-20260716-4bc66c46
+UID:fx678-20260716-01ae368f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -501,7 +405,7 @@ DTEND;TZID=Asia/Shanghai:20260716T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月6日当周 EIA天然气库存变动 (亿立方英尺)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 610 | 预测: - | 公布: -\n-- 美国 截至7月6日当周 EIA天然气隐含流量 (亿立方英尺): 前值: 610 | 预测: - | 公布: -
-UID:fx678-20260716-701bf887
+UID:fx678-20260716-3f3390bb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -517,7 +421,7 @@ DTEND;TZID=Asia/Shanghai:20260716T233000
 LOCATION:美国
 SUMMARY:📊 美国 7月16日 8周国债竞拍-投标倍数 (倍)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 2.95 | 预测: - | 公布: -\n-- 美国 7月16日 8周国债竞拍-中标利率 (%): 前值: 3.63 | 预测: - | 公布: -
-UID:fx678-20260716-31ca67a7
+UID:fx678-20260716-4ce965fa
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -533,7 +437,7 @@ DTEND;TZID=Asia/Shanghai:20260716T233000
 LOCATION:美国
 SUMMARY:📊 美国 7月16日 4星期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 1061.87 | 预测: - | 公布: -\n-- 美国 7月16日 4星期国债竞拍-中标利率 (%): 前值: 3.63 | 预测: - | 公布: -\n-- 美国 7月16日 4星期国债竞拍-高配置百分比 (%): 前值: 26.29 | 预测: - | 公布: -
-UID:fx678-20260716-2ca559ab
+UID:fx678-20260716-6001d3c7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -549,7 +453,7 @@ DTEND;TZID=Asia/Shanghai:20260716T233000
 LOCATION:美国
 SUMMARY:📊 美国 7月16日 4星期国债竞拍-投标倍数 (倍)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 2.64 | 预测: - | 公布: -
-UID:fx678-20260716-4b91f232
+UID:fx678-20260716-0e2ca99c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -565,7 +469,7 @@ DTEND;TZID=Asia/Shanghai:20260717T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月15日 美联储资产负债表 (万亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 674 | 预测: - | 公布: -
-UID:fx678-20260717-20f2fcdc
+UID:fx678-20260717-26c30863
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -581,7 +485,7 @@ DTEND;TZID=Asia/Shanghai:20260717T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月11日当周 外国央行持有美国国债 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -286.05 | 预测: - | 公布: -
-UID:fx678-20260717-114af512
+UID:fx678-20260717-5411990b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -595,41 +499,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260717T063000
 DTEND;TZID=Asia/Shanghai:20260717T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月16日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月16日 SPDR黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 iShares白银持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 iShares黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 iShares白银持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 iShares黄金持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260717-7754ed8a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月16日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T063000
-DTEND;TZID=Asia/Shanghai:20260717T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月15日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月15日 COMEX黄金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 COMEX白银库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 COMEX白银库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260717-00181d5f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月15日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T063000
-DTEND;TZID=Asia/Shanghai:20260717T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月15日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月15日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月15日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260717-099d8229
+UID:fx678-20260717-001dd9df
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -645,7 +517,7 @@ DTEND;TZID=Asia/Shanghai:20260717T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 营建许可月率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.9 | 预测: - | 公布: -\n-- 美国 6月 营建许可年化总数初值 (万户) ★★★: 前值: 141 | 预测: 140 | 公布: -
-UID:fx678-20260717-357c9ca0
+UID:fx678-20260717-4461c4ce
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -661,7 +533,7 @@ DTEND;TZID=Asia/Shanghai:20260717T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 进口物价指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.9 | 预测: -0.7 | 公布: -\n-- 美国 6月 进口物价指数年率 (%) ★★★: 前值: 6.7 | 预测: - | 公布: -\n-- 美国 6月 出口物价指数年率 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 美国 6月 出口物价指数月率 (%): 前值: 1.3 | 预测: -0.4 | 公布: -
-UID:fx678-20260717-0a418ccc
+UID:fx678-20260717-00a5121e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -677,7 +549,7 @@ DTEND;TZID=Asia/Shanghai:20260717T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 新屋开工年化月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -15.4 | 预测: 11.5 | 公布: -\n-- 美国 6月 新屋开工年化总数 (万户) ★★★: 前值: 117.7 | 预测: 131 | 公布: -
-UID:fx678-20260717-50891291
+UID:fx678-20260717-793d18ab
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -693,7 +565,7 @@ DTEND;TZID=Asia/Shanghai:20260717T211500
 LOCATION:美国
 SUMMARY:📊 美国 6月 工业产出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: 0.2 | 公布: -\n-- 美国 6月 产能利用率 (%) ★★★: 前值: 76.2 | 预测: 76.2 | 公布: -\n-- 美国 6月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: 0.1 | 公布: -\n-- 美国 6月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: -\n-- 美国 6月 工业产出年率-季调后 (%) ★★★: 前值: 1.67 | 预测: - | 公布: -
-UID:fx678-20260717-02fdd894
+UID:fx678-20260717-40f9de03
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -709,7 +581,7 @@ DTEND;TZID=Asia/Shanghai:20260717T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 密歇根大学消费者信心指数初值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51 | 公布: -\n-- 美国 7月 密歇根大学消费者预期初值: 前值: 50.7 | 预测: 51.7 | 公布: -\n-- 美国 7月 密歇根大学经济现况初值: 前值: 47.7 | 预测: 48.7 | 公布: -\n-- 美国 7月 密歇根大学1年期通胀率预期初值 (%): 前值: 4.6 | 预测: - | 公布: -\n-- 美国 7月 密歇根大学5年期通胀率预期初值 (%): 前值: 3.3 | 预测: - | 公布: -
-UID:fx678-20260717-235415e3
+UID:fx678-20260717-3253a535
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -725,7 +597,7 @@ DTEND;TZID=Asia/Shanghai:20260718T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月17日当周 全美钻井总数 (口)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 581 | 预测: - | 公布: -\n-- 美国 截至7月17日当周 天然气钻井总数 (口): 前值: 126 | 预测: - | 公布: -\n-- 美国 截至7月17日当周 石油钻井总数 (口) ★★★: 前值: 445 | 预测: - | 公布: -\n-- 美国 截至7月17日当周 混杂钻井总数 (口): 前值: 10 | 预测: - | 公布: -\n-- 北美洲 截至7月17日当周 总钻井总数 (口): 前值: 760 | 预测: - | 公布: -\n-- 北美洲 截至7月17日当周 墨西哥湾总钻井总数 (口): 前值: 12 | 预测: - | 公布: -\n-- 加拿大 截至7月17日当周 总钻井数量 (口): 前值: 179 | 预测: - | 公布: -
-UID:fx678-20260718-4d55b800
+UID:fx678-20260718-1bef7f7b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -739,41 +611,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260718T063000
 DTEND;TZID=Asia/Shanghai:20260718T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月17日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月17日 SPDR黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 iShares白银持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 iShares黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 iShares白银持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 iShares黄金持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260718-4dddeeda
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月17日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260718T063000
-DTEND;TZID=Asia/Shanghai:20260718T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月16日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月16日 COMEX黄金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 COMEX白银库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 COMEX白银库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260718-7833c246
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月16日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260718T063000
-DTEND;TZID=Asia/Shanghai:20260718T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月16日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260718-55af20ab
+UID:fx678-20260718-2c3b504a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -789,7 +629,7 @@ DTEND;TZID=Asia/Shanghai:20260720T220000
 LOCATION:美国
 SUMMARY:📊 美国 6月 谘商会领先指标月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.1 | 预测: - | 公布: -\n-- 美国 6月 谘商会滞后指标月率 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 美国 6月 谘商会同步指标月率 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 美国 6月 谘商会领先指标: 前值: 99.3 | 预测: - | 公布: -
-UID:fx678-20260720-4412c35b
+UID:fx678-20260720-49dcea73
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -805,7 +645,7 @@ DTEND;TZID=Asia/Shanghai:20260720T233000
 LOCATION:美国
 SUMMARY:📊 美国 7月20日 6个月期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 822.03 | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-中标利率 (%): 前值: 3.86 | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-投标倍数 (亿美元): 前值: 3.11 | 预测: - | 公布: -\n-- 美国 7月20日 6个月期国债竞拍-高配置百分比 (%): 前值: 54.42 | 预测: - | 公布: -
-UID:fx678-20260720-76700559
+UID:fx678-20260720-3ce0aa77
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -821,7 +661,7 @@ DTEND;TZID=Asia/Shanghai:20260720T233000
 LOCATION:美国
 SUMMARY:📊 美国 7月20日 3个月期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 957.3 | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-中标利率 (%): 前值: 3.76 | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-投标倍数 (亿美元): 前值: 2.84 | 预测: - | 公布: -\n-- 美国 7月20日 3个月期国债竞拍-高配置百分比 (%): 前值: 8.47 | 预测: - | 公布: -
-UID:fx678-20260720-550fb137
+UID:fx678-20260720-6166d1d3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -835,41 +675,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260721T063000
 DTEND;TZID=Asia/Shanghai:20260721T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月20日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月20日 SPDR黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 iShares白银持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 iShares黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 iShares白银持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 iShares黄金持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260721-3344a728
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月20日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260721T063000
-DTEND;TZID=Asia/Shanghai:20260721T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月17日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月17日 COMEX黄金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 COMEX白银库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 COMEX白银库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260721-01e95bc0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月17日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260721T063000
-DTEND;TZID=Asia/Shanghai:20260721T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月17日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月17日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月17日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260721-26c71931
+UID:fx678-20260721-5ec1da89
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -885,7 +693,7 @@ DTEND;TZID=Asia/Shanghai:20260721T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至7月4日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20260721-1336269e
+UID:fx678-20260721-223df0c1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -901,7 +709,7 @@ DTEND;TZID=Asia/Shanghai:20260721T205500
 LOCATION:美国
 SUMMARY:📊 美国 截至7月13日当周 红皮书商业零售销售年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -
-UID:fx678-20260721-49df249c
+UID:fx678-20260721-16c2f302
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -917,7 +725,7 @@ DTEND;TZID=Asia/Shanghai:20260722T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月17日当周 API原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API馏分油库存变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API库欣原油库存变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API每周取暖油库存 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API每周原油进口 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API每周成品油进口 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 API每周投产原油量 (万桶): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-6e0bc318
+UID:fx678-20260722-0e186277
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -931,41 +739,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260722T063000
 DTEND;TZID=Asia/Shanghai:20260722T063000
 LOCATION:美国
-SUMMARY:📊 美国 7月21日 SPDR黄金持仓-每日更新 (吨)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月21日 SPDR黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月21日 iShares白银持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月21日 iShares黄金持仓变动-每日 (吨): 前值:  | 预测: - | 公布: -\n-- 美国 7月21日 iShares白银持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 7月21日 iShares黄金持仓-每日更新 (吨) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-349c56f7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月21日 SPDR黄金持仓-每日更新 (吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260722T063000
-DTEND;TZID=Asia/Shanghai:20260722T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月20日 COMEX黄金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月20日 COMEX黄金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 COMEX白银库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 COMEX白银库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-14945e4c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月20日 COMEX黄金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260722T063000
-DTEND;TZID=Asia/Shanghai:20260722T063000
-LOCATION:美国
 SUMMARY:📊 美国 7月20日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月20日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 7月20日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-35d4de4d
+UID:fx678-20260722-457bd6bb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -981,7 +757,7 @@ DTEND;TZID=Asia/Shanghai:20260722T190000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月17日当周 MBA抵押贷款申请活动指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 MBA抵押贷款申请活动指数周环比 (%): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 MBA抵押贷款购买指数: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 MBA抵押贷款再融资活动指数: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 MBA30年期固定抵押贷款利率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-778bbe33
+UID:fx678-20260722-29563676
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -997,7 +773,7 @@ DTEND;TZID=Asia/Shanghai:20260722T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月17日当周 EIA原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 DOE燃料乙醇库存 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 DOE燃料乙醇总产量 (万桶/日): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA精炼厂设备利用率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA精炼油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 DOE原油引伸需求 (万桶/日): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 DOE汽油引伸需求 (万桶/日): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 DOE蒸馏油引伸需求 (万桶/日): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA精炼厂设备利用率变动 (%): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA原油总产量 (万桶/日): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周原油进口变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周新配方汽油库存变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周取暖油库存 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周成品油进口变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周馏分油产量变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周投产原油量变动 (万桶): 前值:  | 预测: - | 公布: -\n-- 美国 截至7月17日当周 EIA每周汽油产量变动 (万桶): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-50ce2380
+UID:fx678-20260722-2ed1b2b6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
