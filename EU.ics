@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260715T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 季调后工业产出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: 0.2 | 公布: -0.2\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: 0.3 | 预测: -0.5 | 公布: -1.2
-UID:fx678-20260715-24a3a954
+UID:fx678-20260715-2b9e82f2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260715T180000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 储备资产总额 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 18728.2 | 预测: - | 公布: 17554.5
-UID:fx678-20260715-14f02afc
+UID:fx678-20260715-1c5c9cfb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260716T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 5月 季调后贸易帐 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 13 | 预测: - | 公布: -\n-- 欧元区 5月 未季调贸易帐 (亿欧元): 前值: -10 | 预测: -16 | 公布: -
-UID:fx678-20260716-25d126ea
+UID:fx678-20260716-0f21b977
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260717T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 5月 未季调经常帐 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 149 | 预测: - | 公布: -\n-- 欧元区 5月 季调后经常帐 (亿欧元): 前值: 157 | 预测: - | 公布: -
-UID:fx678-20260717-74e2dbfd
+UID:fx678-20260717-5c56206d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260717T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 调和CPI年率-未季调终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: -\n-- 欧元区 6月 调和CPI月率终值 (%): 前值: -0.1 | 预测: -0.1 | 公布: -\n-- 欧元区 6月 核心调和CPI年率-未季调终值 (%) ★★★: 前值: 2.2 | 预测: - | 公布: -\n-- 欧元区 6月 核心调和CPI月率终值 (%): 前值: 0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 未季调CPI读数终值: 前值: 103.07 | 预测: - | 公布: -
-UID:fx678-20260717-61326229
+UID:fx678-20260717-35e56f4f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260717T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 扣除烟草的调和CPI月率终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: - | 公布: -\n-- 欧元区 6月 扣除烟草的调和CPI年率终值 (%): 前值: 3.1 | 预测: - | 公布: -\n-- 欧元区 6月 扣除食品能源烟酒的调和CPI年率终值 (%): 前值: 2.4 | 预测: 2.4 | 公布: -\n-- 欧元区 6月 不含烟草的CPI读数: 前值: 103.1 | 预测: - | 公布: -\n-- 欧元区 6月 不含烟草的调和CPI读数: 前值: 103.1 | 预测: - | 公布: -\n-- 欧元区 6月 扣除食品能源烟酒的调和CPI月率终值 (%): 前值: 0.3 | 预测: - | 公布: -
-UID:fx678-20260717-48b7b5dd
+UID:fx678-20260717-30d65f75
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260720T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 5月 建筑业产出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.6 | 预测: - | 公布: -\n-- 欧元区 5月 建筑业产出年率 (%): 前值: 0.9 | 预测: - | 公布: -
-UID:fx678-20260720-64dd96e8
+UID:fx678-20260720-6e345cad
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260721T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 ZEW经济景气指数
 DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 9.5 | 预测: - | 公布: -\n-- 欧元区 7月 ZEW经济现况指数: 前值: -43.4 | 预测: - | 公布: -
-UID:fx678-20260721-7c9d7d28
+UID:fx678-20260721-62af189f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

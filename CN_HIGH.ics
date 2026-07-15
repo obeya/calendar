@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260714T103000
 LOCATION:中国
 SUMMARY:📊 中国 6月 贸易帐-美元计价 (亿美元) (0714当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1054.3 | 预测: 1206 | 公布: 1256.2\n-- 中国 6月 出口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 19.4 | 预测: 18.2 | 公布: 27\n-- 中国 6月 进口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 27.4 | 预测: 24 | 公布: 36
-UID:fx678-20260714-6207afcc
+UID:fx678-20260714-653ffded
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260714T103000
 LOCATION:中国
 SUMMARY:📊 中国 6月 贸易帐-人民币计价 (亿元) (0714当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7239.8 | 预测: - | 公布: 8590.5\n-- 中国 6月 出口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 21.5 | 预测: - | 公布: 29.4\n-- 中国 6月 进口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 13.8 | 预测: - | 公布: 20.8
-UID:fx678-20260714-768cd003
+UID:fx678-20260714-6a6f2647
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260714T110000
 LOCATION:中国
 SUMMARY:📊 中国 6月 原油进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3308.1 | 预测: - | 公布: 2927.2\n-- 中国 6月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 130.4 | 预测: - | 公布: 173.7
-UID:fx678-20260714-3929dc8d
+UID:fx678-20260714-18bbeffb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
 SUMMARY:📊 中国 6月 城镇固定资产投资年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -4.1 | 预测: -4.9 | 公布: -5.7
-UID:fx678-20260715-2c0d77aa
+UID:fx678-20260715-0b8b1bfe
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
 SUMMARY:📊 中国 6月 规模以上工业增加值年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.4 | 预测: - | 公布: 5.4\n-- 中国 6月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 4.5 | 预测: 4.7 | 公布: 5.3
-UID:fx678-20260715-19ab9a75
+UID:fx678-20260715-5268c371
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
 SUMMARY:📊 中国 6月 社会消费品零售总额年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -0.6 | 预测: -0.1 | 公布: 1\n-- 中国 6月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.4 | 预测: - | 公布: 1.33\n-- 中国 6月 社会消费品零售总额月率 (%) ★★★: 前值: -0.6 | 预测: - | 公布: 0.38
-UID:fx678-20260715-5bad1690
+UID:fx678-20260715-20239aed
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
 SUMMARY:📊 中国 二季度 GDP年率-单季度 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5 | 预测: 4.5 | 公布: 4.3\n-- 中国 二季度 GDP季率-单季度 (%) ★★★: 前值: 1.3 | 预测: 0.9 | 公布: 0.9\n-- 中国 二季度 GDP总量-单季度 (亿元) ★★★: 前值: 334193 | 预测: - | 公布: 361511
-UID:fx678-20260715-43b429b7
+UID:fx678-20260715-6794b727
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
 SUMMARY:📊 中国 6月 GDP年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5 | 预测: - | 公布: 4.7
-UID:fx678-20260715-0c82859e
+UID:fx678-20260715-2b8564a0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260715T150300
 LOCATION:中国
 SUMMARY:📊 中国 6月 M2货币供应年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8.6 | 预测: 8.5 | 公布: 8
-UID:fx678-20260715-1e154526
+UID:fx678-20260715-4a9dbedf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20260715T150300
 LOCATION:中国
 SUMMARY:📊 中国 6月 人民币各项贷款余额年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.5 | 预测: 5.4 | 公布: 5.3\n-- 中国 6月 社会融资规模-年初至今 (亿元) ★★★: 前值: 174800 | 预测: 212000 | 公布: 208400\n-- 中国 6月 新增人民币贷款-年初至今 (亿元) ★★★: 前值: 91100 | 预测: 20000 | 公布: 107200
-UID:fx678-20260715-65610f89
+UID:fx678-20260715-3f4e0b9d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260715T153500
 LOCATION:中国
 SUMMARY:📊 中国 6月 全社会用电量年率-每月 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 6.9 | 预测: - | 公布: 3.7\n-- 中国 6月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8671 | 预测: - | 公布: 8981
-UID:fx678-20260715-48bcf592
+UID:fx678-20260715-2b49ffa9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260717T110000
 LOCATION:中国
 SUMMARY:📊 中国 6月 液化天然气进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: -\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20260717-66a25c82
+UID:fx678-20260717-4b48c9bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
