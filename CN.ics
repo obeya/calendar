@@ -16,54 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260714T103000
-DTEND;TZID=Asia/Shanghai:20260714T103000
-LOCATION:中国
-SUMMARY:📊 中国 6月 贸易帐-美元计价 (亿美元) (0714当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1054.3 | 预测: 1206 | 公布: 1256.2\n-- 中国 6月 出口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 19.4 | 预测: 18.2 | 公布: 27\n-- 中国 6月 进口年率-美元计价 (%) (0714当天不定时) ★★★: 前值: 27.4 | 预测: 24 | 公布: 36\n-- 中国 6月 进口总额-美元计价 (亿美元): 前值: 2713.5 | 预测: - | 公布: 2867.6\n-- 中国 6月 出口总额-美元计价 (亿美元): 前值: 3767.8 | 预测: - | 公布: 4123.9
-UID:fx678-20260714-653ffded
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 贸易帐-美元计价 (亿美元) (0714当天不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260714T103000
-DTEND;TZID=Asia/Shanghai:20260714T103000
-LOCATION:中国
-SUMMARY:📊 中国 6月 贸易帐-人民币计价 (亿元) (0714当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7239.8 | 预测: - | 公布: 8590.5\n-- 中国 6月 出口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 21.5 | 预测: - | 公布: 29.4\n-- 中国 6月 进口年率-人民币计价 (%) (0714当天不定时) ★★★: 前值: 13.8 | 预测: - | 公布: 20.8\n-- 中国 6月 进口总额-人民币计价 (亿元): 前值: 18638 | 预测: - | 公布: 19616.2\n-- 中国 6月 出口总额-人民币计价 (亿元): 前值: 25877.8 | 预测: - | 公布: 28206.7
-UID:fx678-20260714-6a6f2647
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 贸易帐-人民币计价 (亿元) (0714当天不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260714T110000
-DTEND;TZID=Asia/Shanghai:20260714T110000
-LOCATION:中国
-SUMMARY:📊 中国 6月 原油进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3308.1 | 预测: - | 公布: 2927.2\n-- 中国 6月 成品油出口量-精炼石油产品-能源 (万吨): 前值: 336.8 | 预测: - | 公布: 4536.1\n-- 中国 6月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 130.4 | 预测: - | 公布: 173.7\n-- 中国 6月 天然气进口-能源 (万吨): 前值: 1010.8 | 预测: - | 公布: 1093.1
-UID:fx678-20260714-18bbeffb
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 原油进口量-能源 (万吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260715T100000
 DTEND;TZID=Asia/Shanghai:20260715T100000
 LOCATION:中国
