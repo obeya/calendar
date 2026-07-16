@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T170000
-DTEND;TZID=Asia/Shanghai:20260715T170000
-LOCATION:欧元区
-SUMMARY:📊 欧元区 6月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: 0.2 | 公布: -0.2\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: 0.3 | 预测: -0.5 | 公布: -1.2
-UID:fx678-20260715-2b9e82f2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 欧元区 6月 季调后工业产出月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T180000
-DTEND;TZID=Asia/Shanghai:20260715T180000
-LOCATION:欧元区
-SUMMARY:📊 欧元区 6月 储备资产总额 (亿欧元)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 18728.2 | 预测: - | 公布: 17554.5
-UID:fx678-20260715-1c5c9cfb
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 欧元区 6月 储备资产总额 (亿欧元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260716T170000
 DTEND;TZID=Asia/Shanghai:20260716T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 5月 季调后贸易帐 (亿欧元)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 13 | 预测: - | 公布: -\n-- 欧元区 5月 未季调贸易帐 (亿欧元): 前值: -10 | 预测: -16 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 13 | 预测: - | 公布: -50\n-- 欧元区 5月 未季调贸易帐 (亿欧元): 前值: -10 | 预测: -16 | 公布: -78
 UID:fx678-20260716-0f21b977
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T201500
 DTEND;TZID=Asia/Shanghai:20260723T201500
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 欧洲央行主要再融资利率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.4 | 预测: 2.4 | 公布: -\n-- 欧元区 7月 欧洲央行存款机制利率 (%) ★★★: 前值: 2.25 | 预测: - | 公布: -\n-- 欧元区 7月 欧洲央行边际贷款利率 (%) ★★★: 前值: 2.65 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.4 | 预测: 2.4 | 公布: -\n-- 欧元区 7月 欧洲央行存款机制利率 (%) ★★★: 前值: 2.25 | 预测: 2.25 | 公布: -\n-- 欧元区 7月 欧洲央行边际贷款利率 (%) ★★★: 前值: 2.65 | 预测: 2.65 | 公布: -
 UID:fx678-20260723-72fc1961
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -173,6 +141,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 欧元区 7月 消费者信心指数初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T160000
+DTEND;TZID=Asia/Shanghai:20260724T160000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 SPGI制造业PMI初值
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.4 | 预测: - | 公布: -
+UID:fx678-20260724-3d090a25
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 SPGI制造业PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T160000
+DTEND;TZID=Asia/Shanghai:20260724T160000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 SPGI综合PMI初值
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 50 | 预测: - | 公布: -\n-- 欧元区 7月 SPGI服务业PMI初值: 前值: 49.4 | 预测: - | 公布: -
+UID:fx678-20260724-7a5a8c46
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 SPGI综合PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T160000
+DTEND;TZID=Asia/Shanghai:20260724T160000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 6月 欧洲央行1年期CPI预期 (%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.5 | 预测: - | 公布: -\n-- 欧元区 6月 欧洲央行3年期CPI预期 (%) ★★★: 前值: 2.9 | 预测: - | 公布: -
+UID:fx678-20260724-72be24cf
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 6月 欧洲央行1年期CPI预期 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

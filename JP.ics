@@ -16,59 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T075000
-DTEND;TZID=Asia/Shanghai:20260715T075000
-LOCATION:日本
-SUMMARY:📊 日本 5月 核心机械订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 8.7 | 预测: -4.2 | 公布: -12.4
-UID:fx678-20260715-13e700c5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 核心机械订单月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T075000
-DTEND;TZID=Asia/Shanghai:20260715T075000
-LOCATION:日本
-SUMMARY:📊 日本 5月 核心机械订单年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 15.6 | 预测: 12.9 | 公布: -1.9
-UID:fx678-20260715-47e7b91d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 核心机械订单年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260715T123000
-DTEND;TZID=Asia/Shanghai:20260715T123000
-LOCATION:日本
-SUMMARY:📊 日本 5月 第三产业活动月率-未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -10.6 | 预测: - | 公布: -1.4\n-- 日本 5月 第三产业活动月率-季调后 (%): 前值: 1.3 | 预测: 0.4 | 公布: 1.1\n-- 日本 5月 第三产业活动年率 (%): 前值: 2.2 | 预测: - | 公布: 1.5\n-- 日本 5月 第三产业活动指数-未季调: 前值: 106.7 | 预测: - | 公布: 107.3
-UID:fx678-20260715-7a5b8895
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 5月 第三产业活动月率-未季调 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260716T075000
 DTEND;TZID=Asia/Shanghai:20260716T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至7月6日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -2181 | 预测: - | 公布: -\n-- 日本 截至7月6日当周 买进外国股票 (亿日元): 前值: 8245 | 预测: - | 公布: -\n-- 日本 截至7月6日当周 外资买进日债 (亿日元): 前值: -59 | 预测: - | 公布: -\n-- 日本 截至7月6日当周 外资买进日股 (亿日元): 前值: -222 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -2181 | 预测: - | 公布: 10901\n-- 日本 截至7月6日当周 买进外国股票 (亿日元): 前值: 8245 | 预测: - | 公布: 1962\n-- 日本 截至7月6日当周 外资买进日债 (亿日元): 前值: -59 | 预测: - | 公布: 4998\n-- 日本 截至7月6日当周 外资买进日股 (亿日元): 前值: -222 | 预测: - | 公布: 7456
 UID:fx678-20260716-26a285b6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -77,22 +29,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至7月6日当周 买进外国债券 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T130000
-DTEND;TZID=Asia/Shanghai:20260716T130000
-LOCATION:日本
-SUMMARY:📊 日本 6月 超市销售年率 (%) (0716-0722)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -
-UID:fx678-20260716-434faaa3
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 超市销售年率 (%) (0716-0722)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -112,28 +48,60 @@ DESCRIPTION:📊 日本 6月 商品贸易帐-未季调 (亿日元)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260722T110000
-DTEND;TZID=Asia/Shanghai:20260722T110000
+DTSTART;TZID=Asia/Shanghai:20260722T130000
+DTEND;TZID=Asia/Shanghai:20260722T130000
 LOCATION:日本
-SUMMARY:📊 日本 截至7月18日当周 PAJ商业原油库存变动 (万千升)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月18日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月18日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月18日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月18日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260722-5ea3cf48
+SUMMARY:📊 日本 6月 超市销售年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -
+UID:fx678-20260722-5ccc573f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至7月18日当周 PAJ商业原油库存变动 (万千升)
+DESCRIPTION:📊 日本 6月 超市销售年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260723T075000
-DTEND;TZID=Asia/Shanghai:20260723T075000
+DTSTART;TZID=Asia/Shanghai:20260724T073000
+DTEND;TZID=Asia/Shanghai:20260724T073000
+LOCATION:日本
+SUMMARY:📊 日本 6月 全国CPI年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.5 | 预测: - | 公布: -\n-- 日本 6月 全国核心CPI年率 (%) ★★★: 前值: 1.4 | 预测: - | 公布: -\n-- 日本 6月 全国核心-核心CPI年率 (%): 前值: 1.8 | 预测: - | 公布: -\n-- 日本 6月 全国CPI月率 (%): 前值: 0.5 | 预测: - | 公布: -\n-- 日本 6月 全国核心-核心CPI月率 (%): 前值: 0.2 | 预测: - | 公布: -
+UID:fx678-20260724-3c5d7374
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 全国CPI年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T073000
+DTEND;TZID=Asia/Shanghai:20260724T073000
+LOCATION:日本
+SUMMARY:📊 日本 6月 未季调CPI读数
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 113.5 | 预测: - | 公布: -\n-- 日本 6月 不含食品与能源的CPI年率 (%): 前值: 1.1 | 预测: - | 公布: -\n-- 日本 6月 不含新鲜食品的CPI读数: 前值: 113 | 预测: - | 公布: -\n-- 日本 6月 扣除食品与能源的季调后CPI读数: 前值: 112 | 预测: - | 公布: -
+UID:fx678-20260724-7367cde2
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 未季调CPI读数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T075000
+DTEND;TZID=Asia/Shanghai:20260724T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至7月17日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月17日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月17日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月17日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
-UID:fx678-20260723-2fa36145
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 10901 | 预测: - | 公布: -\n-- 日本 截至7月17日当周 买进外国股票 (亿日元): 前值: 1962 | 预测: - | 公布: -\n-- 日本 截至7月17日当周 外资买进日债 (亿日元): 前值: 4998 | 预测: - | 公布: -\n-- 日本 截至7月17日当周 外资买进日股 (亿日元): 前值: 7456 | 预测: - | 公布: -
+UID:fx678-20260724-2fa36145
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -141,6 +109,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至7月17日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260724T083000
+DTEND;TZID=Asia/Shanghai:20260724T083000
+LOCATION:日本
+SUMMARY:📊 日本 7月 Jibun制造业PMI初值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.8 | 预测: - | 公布: -\n-- 日本 7月 Jibun服务业PMI初值: 前值: 52.2 | 预测: - | 公布: -\n-- 日本 7月 Jibun综合PMI初值: 前值: 52.8 | 预测: - | 公布: -
+UID:fx678-20260724-6065748f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 Jibun制造业PMI初值
 END:VALARM
 END:VEVENT
 END:VCALENDAR
