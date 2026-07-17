@@ -16,12 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T110000
-DTEND;TZID=Asia/Shanghai:20260717T110000
+DTSTART;TZID=Asia/Shanghai:20260718T110000
+DTEND;TZID=Asia/Shanghai:20260718T110000
 LOCATION:中国
 SUMMARY:📊 中国 6月 液化天然气进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: -\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20260717-4b48c9bd
+UID:fx678-20260718-4b48c9bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260720T090000
 DTEND;TZID=Asia/Shanghai:20260720T090000
 LOCATION:中国
 SUMMARY:📊 中国 7月 一年期贷款市场报价利率LPR (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: - | 公布: -\n-- 中国 7月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 7月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
 UID:fx678-20260720-21e9bdc6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

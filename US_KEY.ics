@@ -16,59 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T203000
-DTEND;TZID=Asia/Shanghai:20260716T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月11日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 21.5 | 预测: 21.7 | 公布: 20.8\n-- 美国 截至7月4日当周 续请失业金人数 (万) ★★★: 前值: 181.4 | 预测: 181.5 | 公布: 180.5
-UID:fx678-20260716-6a7a5898
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月11日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T203000
-DTEND;TZID=Asia/Shanghai:20260716T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 费城联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 10.3 | 预测: 13 | 公布: 41.4
-UID:fx678-20260716-20307ab0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 费城联储制造业指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260716T203000
-DTEND;TZID=Asia/Shanghai:20260716T203000
-LOCATION:美国
-SUMMARY:📊 美国 6月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.9 | 预测: 0.2 | 公布: 0.2\n-- 美国 6月 核心零售销售月率 (%) ★★★: 前值: 0.8 | 预测: -0.1 | 公布: -0.2\n-- 美国 6月 零售销售年率 (%) ★★★: 前值: 6.88 | 预测: - | 公布: 6.72\n-- 美国 6月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.7 | 预测: 0.5 | 公布: 0.5
-UID:fx678-20260716-32a5602a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 零售销售月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260717T220000
 DTEND;TZID=Asia/Shanghai:20260717T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51 | 公布: 54.4
 UID:fx678-20260717-0a12fc31
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T203000
 DTEND;TZID=Asia/Shanghai:20260723T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月18日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至7月18日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.8 | 预测: - | 公布: -\n-- 美国 截至7月11日当周 续请失业金人数 (万) ★★★: 前值: 180.5 | 预测: - | 公布: -
 UID:fx678-20260723-0a2c1b01
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

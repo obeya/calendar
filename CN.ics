@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T110000
-DTEND;TZID=Asia/Shanghai:20260717T110000
-LOCATION:中国
-SUMMARY:📊 中国 6月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: -\n-- 中国 6月 柴油出口量-能源 (万吨): 前值: 35 | 预测: - | 公布: -\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20260717-4b48c9bd
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 液化天然气进口量-能源 (万吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T142600
-DTEND;TZID=Asia/Shanghai:20260717T142600
+DTSTART;TZID=Asia/Shanghai:20260717T100800
+DTEND;TZID=Asia/Shanghai:20260717T100800
 LOCATION:中国
 SUMMARY:📊 中国 6月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 2850 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 2850 | 预测: - | 公布: 3913
 UID:fx678-20260717-201cdb60
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -48,19 +32,19 @@ DESCRIPTION:📊 中国 6月 商业银行结售汇-银行代客 (亿元人民币
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T150000
-DTEND;TZID=Asia/Shanghai:20260717T150000
+DTSTART;TZID=Asia/Shanghai:20260718T110000
+DTEND;TZID=Asia/Shanghai:20260718T110000
 LOCATION:中国
-SUMMARY:📊 中国 6月 实际外商直接投资年率CNY-年初至今 (%) (几点不定)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -8.6 | 预测: 8.5 | 公布: -
-UID:fx678-20260717-5c291704
+SUMMARY:📊 中国 6月 液化天然气进口量-能源 (万吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: -\n-- 中国 6月 柴油出口量-能源 (万吨): 前值: 35 | 预测: - | 公布: -\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
+UID:fx678-20260718-4b48c9bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 实际外商直接投资年率CNY-年初至今 (%) (几点不定)
+DESCRIPTION:📊 中国 6月 液化天然气进口量-能源 (万吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260720T090000
 DTEND;TZID=Asia/Shanghai:20260720T090000
 LOCATION:中国
 SUMMARY:📊 中国 7月 一年期贷款市场报价利率LPR (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: - | 公布: -\n-- 中国 7月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 7月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
 UID:fx678-20260720-21e9bdc6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -109,6 +93,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 1-6月 全国供电量年率-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260720T150000
+DTEND;TZID=Asia/Shanghai:20260720T150000
+LOCATION:中国
+SUMMARY:📊 中国 6月 实际外商直接投资年率CNY-年初至今 (%) (几点不定)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -8.6 | 预测: 8.5 | 公布: -
+UID:fx678-20260720-5c291704
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 6月 实际外商直接投资年率CNY-年初至今 (%) (几点不定)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

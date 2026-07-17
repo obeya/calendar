@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260720T140000
 DTEND;TZID=Asia/Shanghai:20260720T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.2 | 预测: - | 公布: -\n-- 德国 6月 PPI月率 (%): 前值: 0.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.2 | 预测: 1.8 | 公布: -\n-- 德国 6月 PPI月率 (%): 前值: 0.3 | 预测: -0.2 | 公布: -
 UID:fx678-20260720-7ad647fc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260721T170000
 DTEND;TZID=Asia/Shanghai:20260721T170000
 LOCATION:德国
 SUMMARY:📊 德国 7月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 10.5 | 预测: - | 公布: -\n-- 德国 7月 ZEW经济现况指数: 前值: -81 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 10.5 | 预测: 18 | 公布: -\n-- 德国 7月 ZEW经济现况指数: 前值: -81 | 预测: -77.8 | 公布: -
 UID:fx678-20260721-2709da67
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -64,11 +64,11 @@ DESCRIPTION:📊 德国 6月 新车登记年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260724T140000
-DTEND;TZID=Asia/Shanghai:20260724T140000
+DTSTART;TZID=Asia/Shanghai:20260724T150000
+DTEND;TZID=Asia/Shanghai:20260724T150000
 LOCATION:德国
 SUMMARY:📊 德国 8月 Gfk消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.2 | 预测: -28.5 | 公布: -
 UID:fx678-20260724-5c628290
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260724T153000
 DTEND;TZID=Asia/Shanghai:20260724T153000
 LOCATION:德国
 SUMMARY:📊 德国 7月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 50.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 50.3 | 预测: 50.5 | 公布: -
 UID:fx678-20260724-1a5764cd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260724T153000
 DTEND;TZID=Asia/Shanghai:20260724T153000
 LOCATION:德国
 SUMMARY:📊 德国 7月 SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.6 | 预测: - | 公布: -\n-- 德国 7月 SPGI综合PMI初值: 前值: 49.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.6 | 预测: 49.2 | 公布: -\n-- 德国 7月 SPGI综合PMI初值: 前值: 49.5 | 预测: - | 公布: -
 UID:fx678-20260724-340cc9e1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
