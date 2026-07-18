@@ -16,134 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T043000
-DTEND;TZID=Asia/Shanghai:20260717T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月15日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 674 | 预测: - | 公布: 674.3
-UID:fx678-20260717-659b4176
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月15日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T043000
-DTEND;TZID=Asia/Shanghai:20260717T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月11日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -286.05 | 预测: - | 公布: 6.39
-UID:fx678-20260717-0f2abb73
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月11日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T063000
-DTEND;TZID=Asia/Shanghai:20260717T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月15日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: 3943.7\n-- 美国 7月15日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 7月15日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2336 | 预测: - | 公布: 2336\n-- 美国 7月15日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260717-69d20dae
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月15日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T203000
-DTEND;TZID=Asia/Shanghai:20260717T203000
-LOCATION:美国
-SUMMARY:📊 美国 6月 营建许可月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.9 | 预测: - | 公布: -3\n-- 美国 6月 营建许可年化总数初值 (万户) ★★★: 前值: 141 | 预测: 140 | 公布: 136.7
-UID:fx678-20260717-6981f55d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 营建许可月率初值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T203000
-DTEND;TZID=Asia/Shanghai:20260717T203000
-LOCATION:美国
-SUMMARY:📊 美国 6月 进口物价指数月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.9 | 预测: -0.7 | 公布: 0.3\n-- 美国 6月 进口物价指数年率 (%) ★★★: 前值: 6.7 | 预测: - | 公布: 7.1\n-- 美国 6月 出口物价指数年率 (%): 前值: 11.2 | 预测: - | 公布: 10.6\n-- 美国 6月 出口物价指数月率 (%): 前值: 1.3 | 预测: -0.4 | 公布: -0.6
-UID:fx678-20260717-2904b567
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 进口物价指数月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T203000
-DTEND;TZID=Asia/Shanghai:20260717T203000
-LOCATION:美国
-SUMMARY:📊 美国 6月 新屋开工年化月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -15.4 | 预测: 11.5 | 公布: 19\n-- 美国 6月 新屋开工年化总数 (万户) ★★★: 前值: 117.7 | 预测: 131 | 公布: 142.7
-UID:fx678-20260717-28dc97f1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 新屋开工年化月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T211500
-DTEND;TZID=Asia/Shanghai:20260717T211500
-LOCATION:美国
-SUMMARY:📊 美国 6月 工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: 0.2 | 公布: 0.1\n-- 美国 6月 产能利用率 (%) ★★★: 前值: 76.2 | 预测: 76.2 | 公布: 76.1\n-- 美国 6月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: 0.1 | 公布: 0\n-- 美国 6月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: 75.7\n-- 美国 6月 工业产出年率-季调后 (%) ★★★: 前值: 1.67 | 预测: - | 公布: 1.14
-UID:fx678-20260717-7c9caab4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 工业产出月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T220000
-DTEND;TZID=Asia/Shanghai:20260717T220000
-LOCATION:美国
-SUMMARY:📊 美国 7月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 49.5 | 预测: 51 | 公布: 54.4\n-- 美国 7月 密歇根大学消费者预期初值: 前值: 50.7 | 预测: 51.7 | 公布: 54\n-- 美国 7月 密歇根大学经济现况初值: 前值: 47.7 | 预测: 48.7 | 公布: 54.9\n-- 美国 7月 密歇根大学1年期通胀率预期初值 (%): 前值: 4.6 | 预测: 4.5 | 公布: 4.2\n-- 美国 7月 密歇根大学5年期通胀率预期初值 (%): 前值: 3.3 | 预测: 3.3 | 公布: 3.3
-UID:fx678-20260717-0a12fc31
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 密歇根大学消费者信心指数初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260718T010000
 DTEND;TZID=Asia/Shanghai:20260718T010000
 LOCATION:美国
@@ -164,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260718T063000
 DTEND;TZID=Asia/Shanghai:20260718T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月16日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2336 | 预测: - | 公布: -\n-- 美国 7月16日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: 3943.7\n-- 美国 7月16日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 7月16日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2336 | 预测: - | 公布: 2336\n-- 美国 7月16日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260718-507bc8e0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

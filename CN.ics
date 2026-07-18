@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260717T100800
-DTEND;TZID=Asia/Shanghai:20260717T100800
-LOCATION:中国
-SUMMARY:📊 中国 6月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 2850 | 预测: - | 公布: 3913
-UID:fx678-20260717-201cdb60
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 6月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260718T110000
 DTEND;TZID=Asia/Shanghai:20260718T110000
 LOCATION:中国
 SUMMARY:📊 中国 6月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: -\n-- 中国 6月 柴油出口量-能源 (万吨): 前值: 35 | 预测: - | 公布: -\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 486 | 预测: - | 公布: 568\n-- 中国 6月 柴油出口量-能源 (万吨): 前值: 35 | 预测: - | 公布: 43\n-- 中国 6月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: 525
 UID:fx678-20260718-4b48c9bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
