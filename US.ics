@@ -16,38 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260718T010000
-DTEND;TZID=Asia/Shanghai:20260718T010000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月17日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 581 | 预测: - | 公布: 588\n-- 美国 截至7月17日当周 天然气钻井总数 (口): 前值: 126 | 预测: - | 公布: 126\n-- 美国 截至7月17日当周 石油钻井总数 (口) ★★★: 前值: 445 | 预测: - | 公布: 452\n-- 美国 截至7月17日当周 混杂钻井总数 (口): 前值: 10 | 预测: - | 公布: 10\n-- 北美洲 截至7月17日当周 总钻井总数 (口): 前值: 760 | 预测: - | 公布: 786\n-- 北美洲 截至7月17日当周 墨西哥湾总钻井总数 (口): 前值: 12 | 预测: - | 公布: 11\n-- 加拿大 截至7月17日当周 总钻井数量 (口): 前值: 179 | 预测: - | 公布: 198
-UID:fx678-20260718-5e34913d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月17日当周 全美钻井总数 (口)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260718T063000
-DTEND;TZID=Asia/Shanghai:20260718T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月16日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3943.7 | 预测: - | 公布: 3943.7\n-- 美国 7月16日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 7月16日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2336 | 预测: - | 公布: 2336\n-- 美国 7月16日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260718-507bc8e0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月16日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260720T220000
 DTEND;TZID=Asia/Shanghai:20260720T220000
 LOCATION:美国
@@ -525,6 +493,70 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 7月23日 NYMEX铂金库存-每日更新 (百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T203000
+DTEND;TZID=Asia/Shanghai:20260727T203000
+LOCATION:美国
+SUMMARY:📊 美国 6月 耐用品订单月率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 6月 扣除飞机非国防资本品订单月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 6月 扣除运输耐用品订单月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 6月 扣除飞机非国防资本品出货月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 6月 扣除国防耐用品订单月率初值 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260727-52cf9bd5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 6月 耐用品订单月率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T223000
+DTEND;TZID=Asia/Shanghai:20260727T223000
+LOCATION:美国
+SUMMARY:📊 美国 7月 达拉斯联储制造业活动指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储制造业产出指数: 前值: 4.1 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储制造业装船指数: 前值: 7.1 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储制造业原材料支付价格指数: 前值: 42.4 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储制成品价格指数: 前值: 28.6 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储制造业就业指数: 前值: 13.9 | 预测: - | 公布: -\n-- 美国 7月 达拉斯联储新订单指数: 前值: 2.3 | 预测: - | 公布: -
+UID:fx678-20260727-691ae4c0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 达拉斯联储制造业活动指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T233000
+DTEND;TZID=Asia/Shanghai:20260727T233000
+LOCATION:美国
+SUMMARY:📊 美国 7月27日 6个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月27日 6个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 7月27日 6个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 7月27日 6个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260727-1780ee5a
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月27日 6个月期国债竞拍-总金额 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T233000
+DTEND;TZID=Asia/Shanghai:20260727T233000
+LOCATION:美国
+SUMMARY:📊 美国 7月27日 3个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 7月27日 3个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 7月27日 3个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 7月27日 3个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260727-141e4216
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月27日 3个月期国债竞拍-总金额 (亿美元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -111,4 +111,36 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 Jibun制造业PMI初值
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T075000
+DTEND;TZID=Asia/Shanghai:20260727T075000
+LOCATION:日本
+SUMMARY:📊 日本 6月 企业服务价格指数年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.3 | 预测: - | 公布: -\n-- 日本 6月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: -
+UID:fx678-20260727-47775d65
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 企业服务价格指数年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260727T130000
+DTEND;TZID=Asia/Shanghai:20260727T130000
+LOCATION:日本
+SUMMARY:📊 日本 5月 领先指标读数变动修正值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 5月 同步指标修正值: 前值:  | 预测: - | 公布: -\n-- 日本 5月 领先指标修正值: 前值:  | 预测: - | 公布: -\n-- 日本 5月 同步指标读数变动修正值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260727-0449b08d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 5月 领先指标读数变动修正值
+END:VALARM
+END:VEVENT
 END:VCALENDAR
