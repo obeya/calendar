@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260720T140000
-DTEND;TZID=Asia/Shanghai:20260720T140000
-LOCATION:德国
-SUMMARY:📊 德国 6月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.2 | 预测: 1.9 | 公布: 1.8\n-- 德国 6月 PPI月率 (%): 前值: 0.3 | 预测: -0.2 | 公布: -0.3
-UID:fx678-20260720-7ad647fc
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 6月 PPI年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260721T170000
 DTEND;TZID=Asia/Shanghai:20260721T170000
 LOCATION:德国
 SUMMARY:📊 德国 7月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 10.5 | 预测: 18 | 公布: -\n-- 德国 7月 ZEW经济现况指数: 前值: -81 | 预测: -77.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 10.5 | 预测: 17.5 | 公布: 26.3\n-- 德国 7月 ZEW经济现况指数: 前值: -81 | 预测: -77.8 | 公布: -77.6
 UID:fx678-20260721-2709da67
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260724T153000
 DTEND;TZID=Asia/Shanghai:20260724T153000
 LOCATION:德国
 SUMMARY:📊 德国 7月 SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.6 | 预测: 49 | 公布: -\n-- 德国 7月 SPGI综合PMI初值: 前值: 49.5 | 预测: 49.6 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.6 | 预测: 49 | 公布: -\n-- 德国 7月 SPGI综合PMI初值: 前值: 49.5 | 预测: 49.8 | 公布: -
 UID:fx678-20260724-340cc9e1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

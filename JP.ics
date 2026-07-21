@@ -143,4 +143,20 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 5月 领先指标读数变动修正值
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260729T110000
+DTEND;TZID=Asia/Shanghai:20260729T110000
+LOCATION:日本
+SUMMARY:📊 日本 截至7月25日当周 PAJ商业原油库存变动 (万千升)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月25日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月25日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月25日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月25日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260729-07a3e6be
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至7月25日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
 END:VCALENDAR

@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260721T201500
 DTEND;TZID=Asia/Shanghai:20260721T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至7月4日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.98 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.98 | 预测: - | 公布: 1.65
 UID:fx678-20260721-328a7c4e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T203000
 DTEND;TZID=Asia/Shanghai:20260723T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月18日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.8 | 预测: 21.2 | 公布: -\n-- 美国 截至7月11日当周 续请失业金人数 (万) ★★★: 前值: 180.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.8 | 预测: 21.2 | 公布: -\n-- 美国 截至7月11日当周 续请失业金人数 (万) ★★★: 前值: 180.5 | 预测: 180.7 | 公布: -
 UID:fx678-20260723-0a2c1b01
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260728T220000
 DTEND;TZID=Asia/Shanghai:20260728T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 91.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 91.2 | 预测: 91.9 | 公布: -
 UID:fx678-20260728-50dcc4d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
