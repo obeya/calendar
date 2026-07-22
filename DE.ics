@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260721T170000
-DTEND;TZID=Asia/Shanghai:20260721T170000
-LOCATION:德国
-SUMMARY:📊 德国 7月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 10.5 | 预测: 17.5 | 公布: 26.3\n-- 德国 7月 ZEW经济现况指数: 前值: -81 | 预测: -77.8 | 公布: -77.6
-UID:fx678-20260721-2709da67
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 7月 ZEW经济景气指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260723T120000
 DTEND;TZID=Asia/Shanghai:20260723T120000
 LOCATION:德国
@@ -109,6 +93,70 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 7月 IFO商业景气指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T140000
+DTEND;TZID=Asia/Shanghai:20260730T140000
+LOCATION:德国
+SUMMARY:📊 德国 第二季度 季调后GDP季率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 第二季度 未季调季度GDP年率初值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 德国 第二季度 工作日调整后GDP年率初值 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260730-63d2a52c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 第二季度 季调后GDP季率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T160000
+DTEND;TZID=Asia/Shanghai:20260730T160000
+LOCATION:德国
+SUMMARY:📊 德国 7月 BB勃兰登堡州CPI月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: - | 公布: -\n-- 德国 7月 SN萨克森州CPI月率 (%): 前值: -0.3 | 预测: - | 公布: -\n-- 德国 7月 SN萨克森州CPI年率 (%): 前值: 2.3 | 预测: - | 公布: -\n-- 德国 7月 BY巴伐利亚州CPI月率 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 7月 BY巴伐利亚州CPI年率 (%): 前值: 2.5 | 预测: - | 公布: -\n-- 德国 7月 BB勃兰登堡州CPI年率 (%): 前值: 2.4 | 预测: - | 公布: -\n-- 德国 7月 BW巴登符腾堡州CPI月率 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 7月 BW巴登符腾堡州CPI年率 (%): 前值: 2.1 | 预测: - | 公布: -\n-- 德国 7月 HE黑森州CPI月率 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 德国 7月 HE黑森州CPI年率 (%): 前值: 2.3 | 预测: - | 公布: -
+UID:fx678-20260730-718aa397
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 BB勃兰登堡州CPI月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T160000
+DTEND;TZID=Asia/Shanghai:20260730T160000
+LOCATION:德国
+SUMMARY:📊 德国 7月 NW北莱茵威斯特法伦州CPI月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: - | 公布: -\n-- 德国 7月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 2.1 | 预测: - | 公布: -
+UID:fx678-20260730-5ef3e850
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 NW北莱茵威斯特法伦州CPI月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T200000
+DTEND;TZID=Asia/Shanghai:20260730T200000
+LOCATION:德国
+SUMMARY:📊 德国 7月 CPI年率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 7月 CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 调和CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 调和CPI年率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260730-2f7424f2
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 CPI年率初值 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

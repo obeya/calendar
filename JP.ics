@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260722T075000
 DTEND;TZID=Asia/Shanghai:20260722T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 商品贸易帐-未季调 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: -3787 | 预测: -1200 | 公布: -\n-- 日本 6月 商品出口年率-未季调 (%): 前值: 17 | 预测: 18.6 | 公布: -\n-- 日本 6月 商品进口年率-未季调 (%): 前值: 12.5 | 预测: 21 | 公布: -\n-- 日本 6月 季调后商品贸易帐 (亿日元) ★★★: 前值: -904.01 | 预测: -5021 | 公布: -\n-- 日本 6月 商品进口-未季调 (亿日元): 前值: 98902.28 | 预测: - | 公布: -\n-- 日本 6月 商品出口-未季调 (亿日元) ★★★: 前值: 95115.55 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: -3787 | 预测: -1200 | 公布: -4069\n-- 日本 6月 商品出口年率-未季调 (%): 前值: 17 | 预测: 18.6 | 公布: 19.3\n-- 日本 6月 商品进口年率-未季调 (%): 前值: 12.5 | 预测: 21 | 公布: 25.4\n-- 日本 6月 季调后商品贸易帐 (亿日元) ★★★: 前值: -904.01 | 预测: -5021 | 公布: -8819.32\n-- 日本 6月 商品进口-未季调 (亿日元): 前值: 98902.28 | 预测: - | 公布: 113359.18\n-- 日本 6月 商品出口-未季调 (亿日元) ★★★: 前值: 95115.55 | 预测: - | 公布: 109290.12
 UID:fx678-20260722-73c96173
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260722T130000
 DTEND;TZID=Asia/Shanghai:20260722T130000
 LOCATION:日本
 SUMMARY:📊 日本 6月 超市销售年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -1.7
 UID:fx678-20260722-5ccc573f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -157,6 +157,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至7月25日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T075000
+DTEND;TZID=Asia/Shanghai:20260730T075000
+LOCATION:日本
+SUMMARY:📊 日本 截至7月24日当周 买进外国债券 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月24日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月24日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月24日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260730-34356a2d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至7月24日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260730T130000
+DTEND;TZID=Asia/Shanghai:20260730T130000
+LOCATION:日本
+SUMMARY:📊 日本 7月 家庭消费者信心指数
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.8 | 预测: - | 公布: -
+UID:fx678-20260730-64711500
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 家庭消费者信心指数
 END:VALARM
 END:VEVENT
 END:VCALENDAR
