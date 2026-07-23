@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T120000
 DTEND;TZID=Asia/Shanghai:20260723T120000
 LOCATION:德国
 SUMMARY:📊 德国 6月 新车登记年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 3.6 | 预测: - | 公布: -\n-- 德国 6月 新车登记月率 (%): 前值: 0.1 | 预测: - | 公布: -\n-- 欧盟 6月 新车登记年率 (%): 前值: 4 | 预测: - | 公布: -\n-- 欧盟 6月 新车登记数量 (辆): 前值: 955013 | 预测: - | 公布: -\n-- 欧盟 6月 新车登记月率 (%): 前值: 3.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 3.6 | 预测: - | 公布: 5.8\n-- 德国 6月 新车登记月率 (%): 前值: 0.1 | 预测: - | 公布: 15.7\n-- 欧盟 6月 新车登记年率 (%): 前值: 4 | 预测: - | 公布: 5.7\n-- 欧盟 6月 新车登记数量 (辆): 前值: 955013 | 预测: - | 公布: 1147962\n-- 欧盟 6月 新车登记月率 (%): 前值: 3.2 | 预测: - | 公布: 13.6
 UID:fx678-20260723-3cf206a8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T140000
 DTEND;TZID=Asia/Shanghai:20260730T140000
 LOCATION:德国
 SUMMARY:📊 德国 第二季度 季调后GDP季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 第二季度 未季调季度GDP年率初值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 德国 第二季度 工作日调整后GDP年率初值 (%): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.3 | 预测: - | 公布: -\n-- 德国 第二季度 未季调季度GDP年率初值 (%) ★★★: 前值: 0.5 | 预测: - | 公布: -\n-- 德国 第二季度 工作日调整后GDP年率初值 (%): 前值: 0.4 | 预测: - | 公布: -
 UID:fx678-20260730-63d2a52c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T200000
 DTEND;TZID=Asia/Shanghai:20260730T200000
 LOCATION:德国
 SUMMARY:📊 德国 7月 CPI年率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 7月 CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 调和CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 调和CPI年率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 7月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.3 | 预测: - | 公布: -\n-- 德国 7月 CPI月率初值 (%): 前值: -0.3 | 预测: - | 公布: -\n-- 德国 7月 调和CPI月率初值 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 7月 调和CPI年率初值 (%): 前值: 2.4 | 预测: - | 公布: -\n-- 德国 7月 未季调CPI读数初值: 前值: 124.6 | 预测: - | 公布: -
 UID:fx678-20260730-2f7424f2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -157,6 +157,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 7月 CPI年率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T140000
+DTEND;TZID=Asia/Shanghai:20260731T140000
+LOCATION:德国
+SUMMARY:📊 德国 6月 进口物价指数月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.7 | 预测: - | 公布: -\n-- 德国 6月 进口物价指数年率 (%): 前值: 6.8 | 预测: - | 公布: -\n-- 德国 6月 出口物价指数年率 (%): 前值: 3.4 | 预测: - | 公布: -\n-- 德国 6月 出口物价指数月率 (%): 前值: 0.5 | 预测: - | 公布: -
+UID:fx678-20260731-1cc3732b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 6月 进口物价指数月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T155500
+DTEND;TZID=Asia/Shanghai:20260731T155500
+LOCATION:德国
+SUMMARY:📊 德国 7月 季调后失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.3 | 预测: - | 公布: -\n-- 德国 7月 季调后失业人数变动 (万人) ★★★: 前值: -0.1 | 预测: - | 公布: -\n-- 德国 7月 未季调失业总人数 (万人): 前值: 29.36 | 预测: - | 公布: -\n-- 德国 7月 季调后失业总人数 (万人): 前值: 298.4 | 预测: - | 公布: -
+UID:fx678-20260731-52f6e7bb
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 季调后失业率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

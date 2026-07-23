@@ -16,38 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260722T075000
-DTEND;TZID=Asia/Shanghai:20260722T075000
-LOCATION:日本
-SUMMARY:📊 日本 6月 商品贸易帐-未季调 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: -3787 | 预测: -1200 | 公布: -4069\n-- 日本 6月 商品出口年率-未季调 (%): 前值: 17 | 预测: 18.6 | 公布: 19.3\n-- 日本 6月 商品进口年率-未季调 (%): 前值: 12.5 | 预测: 21 | 公布: 25.4\n-- 日本 6月 季调后商品贸易帐 (亿日元) ★★★: 前值: -904.01 | 预测: -5021 | 公布: -8819.32\n-- 日本 6月 商品进口-未季调 (亿日元): 前值: 98902.28 | 预测: - | 公布: 113359.18\n-- 日本 6月 商品出口-未季调 (亿日元) ★★★: 前值: 95115.55 | 预测: - | 公布: 109290.12
-UID:fx678-20260722-73c96173
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 商品贸易帐-未季调 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260722T130000
-DTEND;TZID=Asia/Shanghai:20260722T130000
-LOCATION:日本
-SUMMARY:📊 日本 6月 超市销售年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2.9 | 预测: - | 公布: -1.7
-UID:fx678-20260722-5ccc573f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 超市销售年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260724T073000
 DTEND;TZID=Asia/Shanghai:20260724T073000
 LOCATION:日本
@@ -189,6 +157,134 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 家庭消费者信心指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T073000
+DTEND;TZID=Asia/Shanghai:20260731T073000
+LOCATION:日本
+SUMMARY:📊 日本 7月 东京CPI年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: -\n-- 日本 7月 东京核心CPI年率 (%): 前值: 1.6 | 预测: - | 公布: -\n-- 日本 7月 东京核心-核心CPI年率 (%): 前值: 1.9 | 预测: - | 公布: -\n-- 日本 7月 东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本 7月 不含食品与能源的东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 日本 7月 不含食品与能源的东京CPI年率 (%): 前值: 1.9 | 预测: - | 公布: -
+UID:fx678-20260731-7d6584f6
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 东京CPI年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T073000
+DTEND;TZID=Asia/Shanghai:20260731T073000
+LOCATION:日本
+SUMMARY:📊 日本 6月 失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: - | 公布: -\n-- 日本 6月 求才求职比: 前值: 1.17 | 预测: - | 公布: -
+UID:fx678-20260731-0df7a369
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 失业率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T075000
+DTEND;TZID=Asia/Shanghai:20260731T075000
+LOCATION:日本
+SUMMARY:📊 日本 6月 季调后工业产出月率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.1 | 预测: - | 公布: -\n-- 日本 6月 未季调工业产出年率初值 (%): 前值: -2.6 | 预测: - | 公布: -\n-- 日本 6月 库存月率初值 (%): 前值: -1.1 | 预测: - | 公布: -\n-- 日本 6月 库存装船比月率初值 (%): 前值: 0.7 | 预测: - | 公布: -\n-- 日本 6月 装船月率初值 (%): 前值: 0.5 | 预测: - | 公布: -
+UID:fx678-20260731-2cc53241
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 季调后工业产出月率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T075000
+DTEND;TZID=Asia/Shanghai:20260731T075000
+LOCATION:日本
+SUMMARY:📊 日本 6月 未季调零售销售年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 5.3 | 预测: - | 公布: -\n-- 日本 6月 季调后零售销售月率 (%): 前值: 1.9 | 预测: - | 公布: -\n-- 日本 6月 大型零售企业销售额年率 (%): 前值: 5 | 预测: - | 公布: -\n-- 日本 6月 零售销售 (万亿日元): 前值: 13.44 | 预测: - | 公布: -
+UID:fx678-20260731-524dc901
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 未季调零售销售年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T075000
+DTEND;TZID=Asia/Shanghai:20260731T075000
+LOCATION:日本
+SUMMARY:📊 日本 7月 工业生产未来1个月月率预估 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.7 | 预测: - | 公布: -\n-- 日本 7月 工业生产未来2个月月率预估 (%): 前值: 0 | 预测: - | 公布: -
+UID:fx678-20260731-37c0775a
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 工业生产未来1个月月率预估 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T110000
+DTEND;TZID=Asia/Shanghai:20260731T110000
+LOCATION:日本
+SUMMARY:📊 日本 7月31日 央行政策基准利率 (%) (0731当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1 | 预测: 1 | 公布: -
+UID:fx678-20260731-76a27717
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月31日 央行政策基准利率 (%) (0731当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T123000
+DTEND;TZID=Asia/Shanghai:20260731T123000
+LOCATION:日本
+SUMMARY:📊 日本 6月 METI原油进口年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -38.4 | 预测: - | 公布: -\n-- 日本 6月 METI总油品销售年率 (%): 前值: -5.2 | 预测: - | 公布: -\n-- 日本 6月 METI汽油销售年率 (%): 前值: -0.9 | 预测: - | 公布: -\n-- 日本 6月 METI煤油销售年率 (%): 前值: 10.6 | 预测: - | 公布: -
+UID:fx678-20260731-0b1b96df
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 METI原油进口年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T130000
+DTEND;TZID=Asia/Shanghai:20260731T130000
+LOCATION:日本
+SUMMARY:📊 日本 6月 新屋开工年率-未季调 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.9 | 预测: - | 公布: -\n-- 日本 6月 营建订单年率 (%): 前值: -6.7 | 预测: - | 公布: -\n-- 日本 6月 新屋开工单月总数-未季调 (万户): 前值: 5.79 | 预测: - | 公布: -\n-- 日本 6月 新屋开工年化总数-季调后 (万户): 前值: 75.7 | 预测: - | 公布: -
+UID:fx678-20260731-3a314799
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 新屋开工年率-未季调 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

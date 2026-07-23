@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T201500
 DTEND;TZID=Asia/Shanghai:20260723T201500
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 欧洲央行主要再融资利率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.4 | 预测: 2.4 | 公布: -\n-- 欧元区 7月 欧洲央行存款机制利率 (%) ★★★: 前值: 2.25 | 预测: 2.25 | 公布: -\n-- 欧元区 7月 欧洲央行边际贷款利率 (%) ★★★: 前值: 2.65 | 预测: 2.65 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.4 | 预测: 2.4 | 公布: 2.4\n-- 欧元区 7月 欧洲央行存款机制利率 (%) ★★★: 前值: 2.25 | 预测: 2.25 | 公布: 2.25\n-- 欧元区 7月 欧洲央行边际贷款利率 (%) ★★★: 前值: 2.65 | 预测: 2.65 | 公布: 2.65
 UID:fx678-20260723-72fc1961
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T220000
 DTEND;TZID=Asia/Shanghai:20260723T220000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -17.7 | 预测: -17 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -17.7 | 预测: -17 | 公布: -15.9
 UID:fx678-20260723-6f4553d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 第二季度 季调后GDP季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.2 | 预测: - | 公布: -\n-- 欧元区 第二季度 季调后GDP年率初值 (%) ★★★: 前值: 0.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 第二季度 季调后GDP年率初值 (%) ★★★: 前值: 0.3 | 预测: - | 公布: -
 UID:fx678-20260730-1fd925a8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -212,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 6.2 | 预测: - | 公布: -
 UID:fx678-20260730-04060bd1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -221,6 +221,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 欧元区 6月 失业率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T170000
+DTEND;TZID=Asia/Shanghai:20260731T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 调和CPI年率-未季调初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.8 | 预测: - | 公布: -\n-- 欧元区 7月 核心调和CPI年率-未季调初值 (%) ★★★: 前值: 2.1 | 预测: - | 公布: -\n-- 欧元区 7月 调和CPI月率初值 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 欧元区 7月 核心调和CPI月率初值 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 欧元区 7月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260731-4f8a603d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 调和CPI年率-未季调初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T170000
+DTEND;TZID=Asia/Shanghai:20260731T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 扣除食品能源烟酒的调和CPI年率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 2.4 | 预测: - | 公布: -
+UID:fx678-20260731-3d040c4b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 扣除食品能源烟酒的调和CPI年率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T170000
+DTEND;TZID=Asia/Shanghai:20260731T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 扣除食品能源烟酒的调和CPI月率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.2 | 预测: - | 公布: -
+UID:fx678-20260731-6019fd96
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 扣除食品能源烟酒的调和CPI月率初值 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

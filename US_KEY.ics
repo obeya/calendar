@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260723T203000
 DTEND;TZID=Asia/Shanghai:20260723T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月18日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.8 | 预测: 21.2 | 公布: -\n-- 美国 截至7月11日当周 续请失业金人数 (万) ★★★: 前值: 180.5 | 预测: 180.7 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.8 | 预测: 21.2 | 公布: 18.7\n-- 美国 截至7月11日当周 续请失业金人数 (万) ★★★: 前值: 180.5 | 预测: 180.7 | 公布: 179.6
 UID:fx678-20260723-0a2c1b01
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T203000
 DTEND;TZID=Asia/Shanghai:20260730T203000
 LOCATION:美国
 SUMMARY:📊 美国 6月 PCE物价指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.1 | 预测: - | 公布: -\n-- 美国 6月 核心PCE物价指数年率 (%) ★★★: 前值: 3.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.1 | 预测: - | 公布: -\n-- 美国 6月 核心PCE物价指数年率 (%) ★★★: 前值: 3.4 | 预测: 3.2 | 公布: -
 UID:fx678-20260730-195b346f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T203000
 DTEND;TZID=Asia/Shanghai:20260730T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 实际GDP年化季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.1 | 预测: - | 公布: -\n-- 美国 第二季度 GDP价格指数季率初值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率初值 (%) ★★★: 前值: 4.4 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率初值 (%) ★★★: 前值: 0.5 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后初值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.1 | 预测: 2 | 公布: -\n-- 美国 第二季度 GDP价格指数季率初值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率初值 (%) ★★★: 前值: 4.4 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率初值 (%) ★★★: 前值: 0.5 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后初值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -
 UID:fx678-20260730-40eda427
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -125,6 +125,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 截至7月25日当周 初请失业金人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260731T220000
+DTEND;TZID=Asia/Shanghai:20260731T220000
+LOCATION:美国
+SUMMARY:📊 美国 7月 密歇根大学消费者信心指数终值
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.4 | 预测: - | 公布: -
+UID:fx678-20260731-577a0d4b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 密歇根大学消费者信心指数终值
 END:VALARM
 END:VEVENT
 END:VCALENDAR
