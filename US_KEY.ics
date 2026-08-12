@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260811T201500
-DTEND;TZID=Asia/Shanghai:20260811T201500
-LOCATION:美国
-SUMMARY:📊 美国 截至7月25日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: - | 公布: 0.82
-UID:fx678-20260811-5587b443
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月25日当周 ADP就业周度发布变动 (万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260812T203000
 DTEND;TZID=Asia/Shanghai:20260812T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 CPI年率未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.5 | 预测: 3.4 | 公布: -\n-- 美国 7月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: 2.5 | 公布: -\n-- 美国 7月 能源CPI年率-未季调 (%) ★★★: 前值: 15.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.5 | 预测: 3.4 | 公布: 3.4\n-- 美国 7月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: 2.5 | 公布: 2.5\n-- 美国 7月 能源CPI年率-未季调 (%) ★★★: 前值: 15.7 | 预测: - | 公布: 14.7
 UID:fx678-20260812-35cc18da
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T203000
 DTEND;TZID=Asia/Shanghai:20260814T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: 0.2 | 公布: -\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: -\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: 0.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.1 | 公布: -\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: 0.2 | 公布: -\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: -\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: 0.3 | 公布: -
 UID:fx678-20260814-2f60a675
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -141,6 +125,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 截至8月1日当周 ADP就业周度发布变动 (万人)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260820T203000
+DTEND;TZID=Asia/Shanghai:20260820T203000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月15日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月15日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260820-3d11382e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月15日当周 初请失业金人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260820T203000
+DTEND;TZID=Asia/Shanghai:20260820T203000
+LOCATION:美国
+SUMMARY:📊 美国 8月 费城联储制造业指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 41.4 | 预测: - | 公布: -
+UID:fx678-20260820-0352ec04
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 费城联储制造业指数
 END:VALARM
 END:VEVENT
 END:VCALENDAR
