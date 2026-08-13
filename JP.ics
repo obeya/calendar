@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260812T075000
-DTEND;TZID=Asia/Shanghai:20260812T075000
-LOCATION:日本
-SUMMARY:📊 日本 7月 季调后L广义货币 (万亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2327.9 | 预测: - | 公布: 2330.6\n-- 日本 7月 M2货币供应量 (万亿日元): 前值: 129180.97 | 预测: - | 公布: 129358.83\n-- 日本 7月 M2货币供应年率 (%): 前值: 2.2 | 预测: - | 公布: 2.2\n-- 日本 7月 M3货币供应年率 (%): 前值: 1.5 | 预测: - | 公布: 1.4\n-- 日本 7月 广义货币流动性年率 (%): 前值: 4.5 | 预测: - | 公布: 4.4
-UID:fx678-20260812-50195540
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 7月 季调后L广义货币 (万亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260813T075000
 DTEND;TZID=Asia/Shanghai:20260813T075000
 LOCATION:日本
@@ -221,6 +205,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 商品贸易帐-未季调 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260821T073000
+DTEND;TZID=Asia/Shanghai:20260821T073000
+LOCATION:日本
+SUMMARY:📊 日本 7月 全国CPI年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: -\n-- 日本 7月 全国核心CPI年率 (%) ★★★: 前值: 1.6 | 预测: - | 公布: -\n-- 日本 7月 全国核心-核心CPI年率 (%): 前值: 1.7 | 预测: - | 公布: -\n-- 日本 7月 全国CPI月率 (%): 前值: 0 | 预测: - | 公布: -\n-- 日本 7月 全国核心-核心CPI月率 (%): 前值: 0.1 | 预测: - | 公布: -
+UID:fx678-20260821-6174e370
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 全国CPI年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260821T073000
+DTEND;TZID=Asia/Shanghai:20260821T073000
+LOCATION:日本
+SUMMARY:📊 日本 7月 未季调CPI读数
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 113.6 | 预测: - | 公布: -\n-- 日本 7月 不含食品与能源的CPI年率 (%): 前值: 1.2 | 预测: - | 公布: -\n-- 日本 7月 不含新鲜食品的CPI读数: 前值: 113.1 | 预测: - | 公布: -\n-- 日本 7月 扣除食品与能源的季调后CPI读数: 前值: 112.2 | 预测: - | 公布: -
+UID:fx678-20260821-50fc9784
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 未季调CPI读数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260821T083000
+DTEND;TZID=Asia/Shanghai:20260821T083000
+LOCATION:日本
+SUMMARY:📊 日本 8月 Jibun制造业PMI初值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.5 | 预测: - | 公布: -\n-- 日本 8月 Jibun服务业PMI初值: 前值: 51.2 | 预测: - | 公布: -\n-- 日本 8月 Jibun综合PMI初值: 前值: 52.7 | 预测: - | 公布: -
+UID:fx678-20260821-207085b9
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 8月 Jibun制造业PMI初值
 END:VALARM
 END:VEVENT
 END:VCALENDAR

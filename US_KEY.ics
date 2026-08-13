@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260812T203000
-DTEND;TZID=Asia/Shanghai:20260812T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 CPI年率未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.5 | 预测: 3.4 | 公布: 3.4\n-- 美国 7月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: 2.5 | 公布: 2.5\n-- 美国 7月 能源CPI年率-未季调 (%) ★★★: 前值: 15.7 | 预测: - | 公布: 14.7
-UID:fx678-20260812-725c9a2a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 CPI年率未季调 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260813T203000
 DTEND;TZID=Asia/Shanghai:20260813T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.5 | 预测: 4.9 | 公布: -\n-- 美国 7月 核心PPI年率 (%) ★★★: 前值: 4.7 | 预测: 4.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.5 | 预测: 4.9 | 公布: 4.7\n-- 美国 7月 核心PPI年率 (%) ★★★: 前值: 4.7 | 预测: 4.2 | 公布: 4.2
 UID:fx678-20260813-22a4f9a4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260813T203000
 DTEND;TZID=Asia/Shanghai:20260813T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月8日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: 20.2 | 公布: -\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: 179.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: 20.2 | 公布: 20.9\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: 179.5 | 公布: 177.7
 UID:fx678-20260813-05d67443
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
