@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260812T140000
 LOCATION:德国
 SUMMARY:📊 德国 7月 CPI年率终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: 2.8\n-- 德国 7月 CPI月率终值 (%): 前值: 0.8 | 预测: 0.8 | 公布: 0.8\n-- 德国 7月 调和CPI月率终值 (%): 前值: 0.9 | 预测: 0.9 | 公布: 0.9\n-- 德国 7月 调和CPI年率终值 (%): 前值: 2.8 | 预测: 2.8 | 公布: 2.8\n-- 德国 7月 未季调CPI读数终值: 前值: 124.6 | 预测: - | 公布: 125.6
-UID:fx678-20260812-290bcc3d
+UID:fx678-20260812-780ad40c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260812T184200
 LOCATION:德国
 SUMMARY:📊 德国 6月 未季调经常帐 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 103.68 | 预测: - | 公布: 190
-UID:fx678-20260812-1d22e511
+UID:fx678-20260812-6fbda3d3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260814T140000
 LOCATION:德国
 SUMMARY:📊 德国 7月 批发物价指数年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 4.9 | 预测: - | 公布: -\n-- 德国 7月 批发物价指数月率 (%): 前值: -0.7 | 预测: - | 公布: -
-UID:fx678-20260814-4282dd2d
+UID:fx678-20260814-23c28215
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260818T170000
 LOCATION:德国
 SUMMARY:📊 德国 8月 ZEW经济景气指数
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 26.3 | 预测: - | 公布: -\n-- 德国 8月 ZEW经济现况指数: 前值: -77.6 | 预测: - | 公布: -
-UID:fx678-20260818-40891a1a
+UID:fx678-20260818-690141cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260820T140000
 LOCATION:德国
 SUMMARY:📊 德国 7月 PPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.8 | 预测: - | 公布: -\n-- 德国 7月 PPI月率 (%): 前值: -0.3 | 预测: - | 公布: -
-UID:fx678-20260820-74143792
+UID:fx678-20260820-6d80fe05
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
