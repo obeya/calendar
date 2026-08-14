@@ -16,70 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260813T010000
-DTEND;TZID=Asia/Shanghai:20260813T010000
-LOCATION:美国
-SUMMARY:📊 美国 8月12日 10年期国债竞拍-总金额 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 390 | 预测: - | 公布: 526.36\n-- 美国 8月12日 10年期国债竞拍-中标利率 (%) ★★★: 前值: 4.58 | 预测: - | 公布: 4.68
-UID:fx678-20260813-0a5d6674
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月12日 10年期国债竞拍-总金额 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260813T010000
-DTEND;TZID=Asia/Shanghai:20260813T010000
-LOCATION:美国
-SUMMARY:📊 美国 8月12日 10年期国债竞拍-高收益率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.58 | 预测: - | 公布: 4.68
-UID:fx678-20260813-0c4263ad
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月12日 10年期国债竞拍-高收益率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260813T203000
-DTEND;TZID=Asia/Shanghai:20260813T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.5 | 预测: 4.9 | 公布: 4.7\n-- 美国 7月 核心PPI年率 (%) ★★★: 前值: 4.7 | 预测: 4.2 | 公布: 4.2
-UID:fx678-20260813-22a4f9a4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 PPI年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260813T203000
-DTEND;TZID=Asia/Shanghai:20260813T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月8日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: 20.2 | 公布: 20.9\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: 179.5 | 公布: 177.7
-UID:fx678-20260813-05d67443
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月8日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260814T043000
 DTEND;TZID=Asia/Shanghai:20260814T043000
 LOCATION:美国
@@ -100,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T203000
 DTEND;TZID=Asia/Shanghai:20260814T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.1 | 公布: -\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: 0.2 | 公布: -\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: -\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: 0.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.1 | 公布: -0.6\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: 0.2 | 公布: -0.3\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: 5.01\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: 0.3 | 公布: -0.4
 UID:fx678-20260814-63692f55
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T220000
 DTEND;TZID=Asia/Shanghai:20260814T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: 54.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: 54.5 | 公布: 51
 UID:fx678-20260814-5fd0a944
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260815T010000
 DTEND;TZID=Asia/Shanghai:20260815T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月14日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 588 | 预测: - | 公布: -\n-- 美国 截至8月14日当周 石油钻井总数 (口) ★★★: 前值: 454 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 588 | 预测: - | 公布: 593\n-- 美国 截至8月14日当周 石油钻井总数 (口) ★★★: 前值: 454 | 预测: - | 公布: 455
 UID:fx678-20260815-0eb867a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T203000
 DTEND;TZID=Asia/Shanghai:20260817T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 纽约联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 15.6 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 27.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 15.6 | 预测: 10 | 公布: -\n-- 美国 8月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 27.9 | 预测: - | 公布: -
 UID:fx678-20260817-68a20d44
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -196,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T203000
 DTEND;TZID=Asia/Shanghai:20260818T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 营建许可月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.6 | 预测: - | 公布: -\n-- 美国 7月 营建许可年化总数初值 (万户) ★★★: 前值: 137.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.6 | 预测: - | 公布: -\n-- 美国 7月 营建许可年化总数初值 (万户) ★★★: 前值: 137.4 | 预测: 136.9 | 公布: -
 UID:fx678-20260818-178e4c00
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -212,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T203000
 DTEND;TZID=Asia/Shanghai:20260818T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 进口物价指数月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.3 | 预测: - | 公布: -\n-- 美国 7月 进口物价指数年率 (%) ★★★: 前值: 7.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.3 | 预测: 0.1 | 公布: -\n-- 美国 7月 进口物价指数年率 (%) ★★★: 前值: 7.1 | 预测: - | 公布: -
 UID:fx678-20260818-589cd3d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -228,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T211500
 DTEND;TZID=Asia/Shanghai:20260818T211500
 LOCATION:美国
 SUMMARY:📊 美国 7月 工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: 0.3 | 公布: -\n-- 美国 7月 产能利用率 (%) ★★★: 前值: 76.1 | 预测: 76.3 | 公布: -\n-- 美国 7月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: - | 公布: -\n-- 美国 7月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: -\n-- 美国 7月 工业产出年率-季调后 (%) ★★★: 前值: 1.14 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: 0.3 | 公布: -\n-- 美国 7月 产能利用率 (%) ★★★: 前值: 76.1 | 预测: 76.3 | 公布: -\n-- 美国 7月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: 0.3 | 公布: -\n-- 美国 7月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: -\n-- 美国 7月 工业产出年率-季调后 (%) ★★★: 前值: 1.14 | 预测: - | 公布: -
 UID:fx678-20260818-6fb284f7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -244,7 +180,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T220000
 DTEND;TZID=Asia/Shanghai:20260818T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 季调后成屋签约销售指数月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -5.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -5.4 | 预测: 0.5 | 公布: -
 UID:fx678-20260818-71e34318
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -292,7 +228,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T203000
 DTEND;TZID=Asia/Shanghai:20260820T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月15日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月15日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.9 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 续请失业金人数 (万) ★★★: 前值: 177.7 | 预测: - | 公布: -
 UID:fx678-20260820-35c0e3ae
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -308,7 +244,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T203000
 DTEND;TZID=Asia/Shanghai:20260820T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 费城联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 41.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 41.4 | 预测: 25 | 公布: -
 UID:fx678-20260820-0e59752f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -324,7 +260,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T043000
 DTEND;TZID=Asia/Shanghai:20260821T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月19日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.76 | 预测: - | 公布: -
 UID:fx678-20260821-3f0c7f2a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -340,7 +276,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T214500
 DTEND;TZID=Asia/Shanghai:20260821T214500
 LOCATION:美国
 SUMMARY:📊 美国 8月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.9 | 预测: 53.5 | 公布: -
 UID:fx678-20260821-5feace28
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -349,6 +285,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月 SPGI制造业PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260822T010000
+DTEND;TZID=Asia/Shanghai:20260822T010000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月21日当周 全美钻井总数 (口)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月21日当周 石油钻井总数 (口) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260822-1520f294
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月21日当周 全美钻井总数 (口)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

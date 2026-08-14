@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T160000
 DTEND;TZID=Asia/Shanghai:20260814T160000
 LOCATION:中国
 SUMMARY:📊 中国 7月 M2货币供应年率 (%) (0814-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8 | 预测: 7.9 | 公布: -\n-- 中国 7月 M0货币供应年率 (%): 前值: 11.8 | 预测: - | 公布: -\n-- 中国 7月 M1货币供应年率 (%): 前值: 4 | 预测: 3.9 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8 | 预测: 7.9 | 公布: 7.7\n-- 中国 7月 M0货币供应年率 (%): 前值: 11.8 | 预测: - | 公布: 11.6\n-- 中国 7月 M1货币供应年率 (%): 前值: 4 | 预测: 3.9 | 公布: 4
 UID:fx678-20260814-3a7459d3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T160000
 DTEND;TZID=Asia/Shanghai:20260814T160000
 LOCATION:中国
 SUMMARY:📊 中国 7月 人民币各项贷款余额年率 (%) (0814-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: 5.3 | 公布: -\n-- 中国 7月 社会融资规模-年初至今 (亿元) (0814-0817) ★★★: 前值: 208400 | 预测: 219250 | 公布: -\n-- 中国 7月 新增人民币贷款-年初至今 (亿元) (0814-0817) ★★★: 前值: 107200 | 预测: 106200 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: 5.3 | 公布: 5.1\n-- 中国 7月 社会融资规模-年初至今 (亿元) (0814-0817) ★★★: 前值: 208400 | 预测: 219250 | 公布: 222500\n-- 中国 7月 新增人民币贷款-年初至今 (亿元) (0814-0817) ★★★: 前值: 107200 | 预测: 106200 | 公布: 103800
 UID:fx678-20260814-3125291e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -45,38 +45,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 7月 人民币各项贷款余额年率 (%) (0814-0817)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260814T160000
-DTEND;TZID=Asia/Shanghai:20260814T160000
-LOCATION:中国
-SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0814-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
-UID:fx678-20260814-4ac9358d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0814-0817)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260817T092000
-DTEND;TZID=Asia/Shanghai:20260817T092000
-LOCATION:中国
-SUMMARY:📊 中国 8月17日 中期借贷便利MLF操作规模 (亿元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 8月17日 中期借贷便利MLF中标利率 (%) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260817-4515c3d8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月17日 中期借贷便利MLF操作规模 (亿元)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T100000
 DTEND;TZID=Asia/Shanghai:20260817T100000
 LOCATION:中国
 SUMMARY:📊 中国 7月 社会消费品零售总额年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 1.6 | 公布: -\n-- 中国 7月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.33 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额月率 (%) ★★★: 前值: 0.38 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 1.5 | 公布: -\n-- 中国 7月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.33 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额月率 (%) ★★★: 前值: 0.38 | 预测: - | 公布: -
 UID:fx678-20260817-0a1b27fd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T100000
 DTEND;TZID=Asia/Shanghai:20260817T100000
 LOCATION:中国
 SUMMARY:📊 中国 7月 城镇调查失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5 | 预测: 5.1 | 公布: -
 UID:fx678-20260817-6b5af891
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -163,16 +131,16 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260817T141000
 DTEND;TZID=Asia/Shanghai:20260817T141000
 LOCATION:中国
-SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (15-20日不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (15-20日不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
-UID:fx678-20260817-7c425b49
+SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (17-20日不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (17-20日不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
+UID:fx678-20260817-76d40ee9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (15-20日不定时)
+DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (17-20日不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -189,6 +157,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 7月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T160000
+DTEND;TZID=Asia/Shanghai:20260817T160000
+LOCATION:中国
+SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
+UID:fx678-20260817-265cdec1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -212,7 +196,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T090000
 DTEND;TZID=Asia/Shanghai:20260820T090000
 LOCATION:中国
 SUMMARY:📊 中国 8月 一年期贷款市场报价利率LPR (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: - | 公布: -\n-- 中国 8月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 8月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
 UID:fx678-20260820-66c6ca29
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -237,22 +221,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 1-7月 全国发电装机容量-年初至今 (万千瓦) (0820-0828不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260820T110800
-DTEND;TZID=Asia/Shanghai:20260820T110800
-LOCATION:中国
-SUMMARY:📊 中国 1-7月 全国供电量年率-年初至今 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
-UID:fx678-20260820-380f1634
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 1-7月 全国供电量年率-年初至今 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
