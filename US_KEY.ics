@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T203000
 DTEND;TZID=Asia/Shanghai:20260817T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 纽约联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 15.6 | 预测: 10 | 公布: -\n-- 美国 8月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 27.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 15.6 | 预测: 11 | 公布: 20.6\n-- 美国 8月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 27.9 | 预测: - | 公布: 32.1
 UID:fx678-20260817-68a20d44
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T203000
 DTEND;TZID=Asia/Shanghai:20260820T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月15日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.9 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 续请失业金人数 (万) ★★★: 前值: 177.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.9 | 预测: 21.2 | 公布: -\n-- 美国 截至8月7日当周 续请失业金人数 (万) ★★★: 前值: 177.7 | 预测: - | 公布: -
 UID:fx678-20260820-35c0e3ae
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -77,6 +77,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月 费城联储制造业指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260825T201500
+DTEND;TZID=Asia/Shanghai:20260825T201500
+LOCATION:美国
+SUMMARY:📊 美国 截至8月8日当周 ADP就业周度发布变动 (万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260825-30a8d859
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月8日当周 ADP就业周度发布变动 (万人)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260825T220000
+DTEND;TZID=Asia/Shanghai:20260825T220000
+LOCATION:美国
+SUMMARY:📊 美国 8月 谘商会消费者信心指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 90.8 | 预测: - | 公布: -
+UID:fx678-20260825-5bd5e4b1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 谘商会消费者信心指数
 END:VALARM
 END:VEVENT
 END:VCALENDAR

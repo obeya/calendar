@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T160000
 DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.9 | 预测: 52 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.9 | 预测: 51.9 | 公布: -
 UID:fx678-20260821-0d397aaf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T160000
 DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI综合PMI初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 52 | 预测: 51.7 | 公布: -\n-- 欧元区 8月 SPGI服务业PMI初值: 前值: 51.7 | 预测: 51.7 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 52 | 预测: 51.7 | 公布: -\n-- 欧元区 8月 SPGI服务业PMI初值: 前值: 51.7 | 预测: 51.5 | 公布: -
 UID:fx678-20260821-16d3881a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T220000
 DTEND;TZID=Asia/Shanghai:20260821T220000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -16.4 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -16.3 | 公布: -
 UID:fx678-20260821-241b75fc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
