@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T170000
 DTEND;TZID=Asia/Shanghai:20260818T170000
 LOCATION:德国
 SUMMARY:📊 德国 8月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 26.3 | 预测: 30 | 公布: -\n-- 德国 8月 ZEW经济现况指数: 前值: -77.6 | 预测: -68.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 26.3 | 预测: 30 | 公布: 34.2\n-- 德国 8月 ZEW经济现况指数: 前值: -77.6 | 预测: -69.5 | 公布: -61.1
 UID:fx678-20260818-690141cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T140000
 DTEND;TZID=Asia/Shanghai:20260820T140000
 LOCATION:德国
 SUMMARY:📊 德国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.8 | 预测: 2.2 | 公布: -\n-- 德国 7月 PPI月率 (%): 前值: -0.3 | 预测: 0.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.8 | 预测: 2.7 | 公布: -\n-- 德国 7月 PPI月率 (%): 前值: -0.3 | 预测: 0.7 | 公布: -
 UID:fx678-20260820-6d80fe05
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T153000
 DTEND;TZID=Asia/Shanghai:20260821T153000
 LOCATION:德国
 SUMMARY:📊 德国 8月 SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 49.8 | 预测: 50.2 | 公布: -\n-- 德国 8月 SPGI综合PMI初值: 前值: 51.3 | 预测: 51.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 49.8 | 预测: 50.1 | 公布: -\n-- 德国 8月 SPGI综合PMI初值: 前值: 51.3 | 预测: 51.3 | 公布: -
 UID:fx678-20260821-29a9d383
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260825T140000
 DTEND;TZID=Asia/Shanghai:20260825T140000
 LOCATION:德国
 SUMMARY:📊 德国 第二季度 季调后GDP季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 第二季度 未季调季度GDP年率修正值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 德国 第二季度 工作日调整后GDP年率修正值 (%): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.2 | 预测: - | 公布: -\n-- 德国 第二季度 未季调季度GDP年率修正值 (%) ★★★: 前值: 0.9 | 预测: - | 公布: -\n-- 德国 第二季度 工作日调整后GDP年率修正值 (%): 前值: 0.9 | 预测: - | 公布: -
 UID:fx678-20260825-5de64483
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
