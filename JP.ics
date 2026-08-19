@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260819T075000
 DTEND;TZID=Asia/Shanghai:20260819T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 核心机械订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -12.4 | 预测: 7.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -12.4 | 预测: 7.8 | 公布: 9.7
 UID:fx678-20260819-0f48a400
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260819T075000
 DTEND;TZID=Asia/Shanghai:20260819T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 核心机械订单年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -1.9 | 预测: 10.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -1.9 | 预测: 10.8 | 公布: 16.9
 UID:fx678-20260819-65896dae
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -189,6 +189,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月22日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260827T075000
+DTEND;TZID=Asia/Shanghai:20260827T075000
+LOCATION:日本
+SUMMARY:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260827-378ba453
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

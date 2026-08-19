@@ -16,70 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260818T110000
-DTEND;TZID=Asia/Shanghai:20260818T110000
-LOCATION:中国
-SUMMARY:📊 中国 7月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 568 | 预测: - | 公布: 550\n-- 中国 7月 柴油出口量-能源 (万吨): 前值: 43 | 预测: - | 公布: 81\n-- 中国 7月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: 510
-UID:fx678-20260818-6fae1c03
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 液化天然气进口量-能源 (万吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260819T101000
-DTEND;TZID=Asia/Shanghai:20260819T101000
-LOCATION:中国
-SUMMARY:📊 中国 2025年 非洲贸易指数 (不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1056.53 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易规模指标: 前值: 1960.51 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易密切指标: 前值: 294.98 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易结构指标: 前值: 149.14 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易潜力指标: 前值: 795.57 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易活力指标: 前值: 939.69 | 预测: - | 公布: -
-UID:fx678-20260819-55fa91ea
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 2025年 非洲贸易指数 (不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260819T141000
-DTEND;TZID=Asia/Shanghai:20260819T141000
-LOCATION:中国
-SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (19-20日不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (19-20日不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
-UID:fx678-20260819-338826ee
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (19-20日不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260819T160000
-DTEND;TZID=Asia/Shanghai:20260819T160000
-LOCATION:中国
-SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
-UID:fx678-20260819-265cdec1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260820T090000
 DTEND;TZID=Asia/Shanghai:20260820T090000
 LOCATION:中国
@@ -96,6 +32,22 @@ DESCRIPTION:📊 中国 8月 一年期贷款市场报价利率LPR (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260820T101000
+DTEND;TZID=Asia/Shanghai:20260820T101000
+LOCATION:中国
+SUMMARY:📊 中国 2025年 非洲贸易指数 (不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1056.53 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易规模指标: 前值: 1960.51 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易密切指标: 前值: 294.98 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易结构指标: 前值: 149.14 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易潜力指标: 前值: 795.57 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易活力指标: 前值: 939.69 | 预测: - | 公布: -
+UID:fx678-20260820-55fa91ea
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 2025年 非洲贸易指数 (不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260820T110800
 DTEND;TZID=Asia/Shanghai:20260820T110800
 LOCATION:中国
@@ -109,6 +61,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 1-7月 全国发电装机容量-年初至今 (万千瓦) (0820-0828不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260820T141000
+DTEND;TZID=Asia/Shanghai:20260820T141000
+LOCATION:中国
+SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
+UID:fx678-20260820-6b24ed6d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260820T160000
+DTEND;TZID=Asia/Shanghai:20260820T160000
+LOCATION:中国
+SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
+UID:fx678-20260820-265cdec1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260827T093000
+DTEND;TZID=Asia/Shanghai:20260827T093000
+LOCATION:中国
+SUMMARY:📊 中国 7月 规模以上工业企业利润年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 18.7 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业企业利润金额-年初至今 (亿元): 前值: 39479.9 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 15.1 | 预测: - | 公布: -
+UID:fx678-20260827-5d257f69
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 规模以上工业企业利润年率-年初至今 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

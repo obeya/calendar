@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260818T201500
-DTEND;TZID=Asia/Shanghai:20260818T201500
-LOCATION:美国
-SUMMARY:📊 美国 截至8月1日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.82 | 预测: - | 公布: 0.95
-UID:fx678-20260818-061aa9db
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月1日当周 ADP就业周度发布变动 (万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260820T203000
 DTEND;TZID=Asia/Shanghai:20260820T203000
 LOCATION:美国
@@ -100,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 个人支出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.3 | 预测: 0.2 | 公布: -
 UID:fx678-20260826-59b68fd1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 PCE物价指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 7月 核心PCE物价指数年率 (%) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 7月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: 3.3 | 公布: -
 UID:fx678-20260826-34eb31d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 实际GDP年化季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 第二季度 GDP价格指数季率修正值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率修正值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.5 | 公布: -\n-- 美国 第二季度 GDP价格指数季率修正值 (%) ★★★: 前值: 6.2 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.2 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 6.3 | 预测: 6.2 | 公布: -
 UID:fx678-20260826-398b22eb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -141,6 +125,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 第二季度 实际GDP年化季率修正值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260827T203000
+DTEND;TZID=Asia/Shanghai:20260827T203000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月22日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月15日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260827-293342ca
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月22日当周 初请失业金人数 (万)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
