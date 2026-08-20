@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260819T075000
-DTEND;TZID=Asia/Shanghai:20260819T075000
-LOCATION:日本
-SUMMARY:📊 日本 6月 核心机械订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -12.4 | 预测: 7.8 | 公布: 9.7
-UID:fx678-20260819-0f48a400
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 核心机械订单月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260819T075000
-DTEND;TZID=Asia/Shanghai:20260819T075000
-LOCATION:日本
-SUMMARY:📊 日本 6月 核心机械订单年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -1.9 | 预测: 10.8 | 公布: 16.9
-UID:fx678-20260819-65896dae
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 核心机械订单年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260820T075000
 DTEND;TZID=Asia/Shanghai:20260820T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至8月14日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 16294 | 预测: - | 公布: -\n-- 日本 截至8月14日当周 买进外国股票 (亿日元): 前值: 9635 | 预测: - | 公布: -\n-- 日本 截至8月14日当周 外资买进日债 (亿日元): 前值: -587 | 预测: - | 公布: -\n-- 日本 截至8月14日当周 外资买进日股 (亿日元): 前值: -3685 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 16294 | 预测: - | 公布: 11351\n-- 日本 截至8月14日当周 买进外国股票 (亿日元): 前值: 9635 | 预测: - | 公布: 13913\n-- 日本 截至8月14日当周 外资买进日债 (亿日元): 前值: -587 | 预测: - | 公布: -12499\n-- 日本 截至8月14日当周 外资买进日股 (亿日元): 前值: -3685 | 预测: - | 公布: 6212
 UID:fx678-20260820-771faacd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260820T075000
 DTEND;TZID=Asia/Shanghai:20260820T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 商品贸易帐-未季调 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: -4069 | 预测: -6800 | 公布: -\n-- 日本 7月 商品出口年率-未季调 (%): 前值: 19.3 | 预测: 19.9 | 公布: -\n-- 日本 7月 商品进口年率-未季调 (%): 前值: 25.4 | 预测: 26.5 | 公布: -\n-- 日本 7月 季调后商品贸易帐 (亿日元) ★★★: 前值: -8819.32 | 预测: -4076 | 公布: -\n-- 日本 7月 商品进口-未季调 (亿日元): 前值: 113359.18 | 预测: - | 公布: -\n-- 日本 7月 商品出口-未季调 (亿日元) ★★★: 前值: 109290.12 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: -4069 | 预测: -6800 | 公布: -6345\n-- 日本 7月 商品出口年率-未季调 (%): 前值: 19.3 | 预测: 19.9 | 公布: 23.2\n-- 日本 7月 商品进口年率-未季调 (%): 前值: 25.4 | 预测: 26.5 | 公布: 27.8\n-- 日本 7月 季调后商品贸易帐 (亿日元) ★★★: 前值: -8819.32 | 预测: -4076 | 公布: -6860.09\n-- 日本 7月 商品进口-未季调 (亿日元): 前值: 113359.18 | 预测: - | 公布: 121462.98\n-- 日本 7月 商品出口-未季调 (亿日元) ★★★: 前值: 109290.12 | 预测: - | 公布: 115117.98
 UID:fx678-20260820-43407c31
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -196,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260827T075000
 DTEND;TZID=Asia/Shanghai:20260827T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11351 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值: 13913 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值: -12499 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值: 6212 | 预测: - | 公布: -
 UID:fx678-20260827-378ba453
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -205,6 +173,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260828T073000
+DTEND;TZID=Asia/Shanghai:20260828T073000
+LOCATION:日本
+SUMMARY:📊 日本 8月 东京CPI年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2 | 预测: - | 公布: -\n-- 日本 8月 东京核心CPI年率 (%): 前值: 1.9 | 预测: - | 公布: -\n-- 日本 8月 东京核心-核心CPI年率 (%): 前值: 2 | 预测: - | 公布: -\n-- 日本 8月 东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI年率 (%): 前值: 2 | 预测: - | 公布: -
+UID:fx678-20260828-1100ad31
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 8月 东京CPI年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260828T073000
+DTEND;TZID=Asia/Shanghai:20260828T073000
+LOCATION:日本
+SUMMARY:📊 日本 7月 失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: - | 公布: -\n-- 日本 7月 求才求职比: 前值: 1.18 | 预测: - | 公布: -
+UID:fx678-20260828-6bc52f22
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 失业率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
