@@ -16,43 +16,27 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260820T090000
-DTEND;TZID=Asia/Shanghai:20260820T090000
+DTSTART;TZID=Asia/Shanghai:20260821T094000
+DTEND;TZID=Asia/Shanghai:20260821T094000
 LOCATION:中国
-SUMMARY:📊 中国 8月 一年期贷款市场报价利率LPR (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: 3\n-- 中国 8月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.5
-UID:fx678-20260820-66c6ca29
+SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: 1.7\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (不定时) ★★★: 前值: 8981 | 预测: - | 公布: 10400
+UID:fx678-20260821-6b24ed6d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 一年期贷款市场报价利率LPR (%)
+DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260820T090000
-DTEND;TZID=Asia/Shanghai:20260820T090000
-LOCATION:中国
-SUMMARY:📊 中国 7月 Swift人民币在全球支付中占比 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.1 | 预测: - | 公布: 3.1
-UID:fx678-20260820-4df1aff7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 Swift人民币在全球支付中占比 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260821T100000
-DTEND;TZID=Asia/Shanghai:20260821T100000
+DTSTART;TZID=Asia/Shanghai:20260821T160000
+DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:中国
 SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -6.2
 UID:fx678-20260821-265cdec1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -64,12 +48,12 @@ DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260821T101000
-DTEND;TZID=Asia/Shanghai:20260821T101000
+DTSTART;TZID=Asia/Shanghai:20260824T101000
+DTEND;TZID=Asia/Shanghai:20260824T101000
 LOCATION:中国
 SUMMARY:📊 中国 2025年 非洲贸易指数 (不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1056.53 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易规模指标: 前值: 1960.51 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易密切指标: 前值: 294.98 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易结构指标: 前值: 149.14 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易潜力指标: 前值: 795.57 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易活力指标: 前值: 939.69 | 预测: - | 公布: -
-UID:fx678-20260821-55fa91ea
+UID:fx678-20260824-55fa91ea
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -80,12 +64,12 @@ DESCRIPTION:📊 中国 2025年 非洲贸易指数 (不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260821T110800
-DTEND;TZID=Asia/Shanghai:20260821T110800
+DTSTART;TZID=Asia/Shanghai:20260824T160800
+DTEND;TZID=Asia/Shanghai:20260824T160800
 LOCATION:中国
 SUMMARY:📊 中国 1-7月 全国发电装机容量-年初至今 (万千瓦) (0821-0828不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 404252 | 预测: - | 公布: -\n-- 中国 1-7月 全国发电装机容量年率-年初至今 (%): 前值: 10.8 | 预测: - | 公布: -\n-- 中国 1-7月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 247354 | 预测: - | 公布: -
-UID:fx678-20260821-4ba727e3
+UID:fx678-20260824-4ba727e3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -93,22 +77,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 1-7月 全国发电装机容量-年初至今 (万千瓦) (0821-0828不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260821T141000
-DTEND;TZID=Asia/Shanghai:20260821T141000
-LOCATION:中国
-SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
-UID:fx678-20260821-6b24ed6d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT

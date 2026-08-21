@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260820T170000
-DTEND;TZID=Asia/Shanghai:20260820T170000
-LOCATION:欧元区
-SUMMARY:📊 欧元区 6月 建筑业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.4 | 预测: - | 公布: -1.34\n-- 欧元区 6月 建筑业产出年率 (%): 前值: 1.2 | 预测: - | 公布: -0.7
-UID:fx678-20260820-069a956d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 欧元区 6月 建筑业产出月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260821T160000
 DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.9 | 预测: 51.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 51.9 | 预测: 51.8 | 公布: 52.8
 UID:fx678-20260821-0d397aaf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T160000
 DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI综合PMI初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 52 | 预测: 51.7 | 公布: -\n-- 欧元区 8月 SPGI服务业PMI初值: 前值: 51.7 | 预测: 51.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 52 | 预测: 51.7 | 公布: 52.1\n-- 欧元区 8月 SPGI服务业PMI初值: 前值: 51.7 | 预测: 51.5 | 公布: 51.7
 UID:fx678-20260821-16d3881a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T160000
 DTEND;TZID=Asia/Shanghai:20260821T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 欧洲央行1年期CPI预期 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3 | 预测: - | 公布: -\n-- 欧元区 7月 欧洲央行3年期CPI预期 (%) ★★★: 前值: 2.8 | 预测: 2.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3 | 预测: - | 公布: 2.9\n-- 欧元区 7月 欧洲央行3年期CPI预期 (%) ★★★: 前值: 2.8 | 预测: 2.8 | 公布: 2.7
 UID:fx678-20260821-170cb4e3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260821T220000
 DTEND;TZID=Asia/Shanghai:20260821T220000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -16.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -16.3 | 公布: -15.5
 UID:fx678-20260821-241b75fc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260827T160000
 DTEND;TZID=Asia/Shanghai:20260827T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 季调后货币供应M3年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.3 | 预测: - | 公布: -\n-- 欧元区 7月 三个月货币供应M3年率 (%): 前值: 3 | 预测: - | 公布: -\n-- 欧元区 7月 M3广义货币季调后 (亿欧元): 前值: 176108.63 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.3 | 预测: 3.3 | 公布: -\n-- 欧元区 7月 三个月货币供应M3年率 (%): 前值: 3 | 预测: - | 公布: -\n-- 欧元区 7月 M3广义货币季调后 (亿欧元): 前值: 176108.63 | 预测: - | 公布: -
 UID:fx678-20260827-666061d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260828T170000
 DTEND;TZID=Asia/Shanghai:20260828T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: - | 公布: -
 UID:fx678-20260828-2bf2f096
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
