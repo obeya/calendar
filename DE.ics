@@ -95,4 +95,68 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 8月 季调后失业率 (%)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260831T140000
+DTEND;TZID=Asia/Shanghai:20260831T140000
+LOCATION:德国
+SUMMARY:📊 德国 7月 进口物价指数月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.7 | 预测: - | 公布: -\n-- 德国 7月 进口物价指数年率 (%): 前值: 6.1 | 预测: - | 公布: -\n-- 德国 7月 出口物价指数年率 (%): 前值: 3.5 | 预测: - | 公布: -\n-- 德国 7月 出口物价指数月率 (%): 前值: 0.1 | 预测: - | 公布: -
+UID:fx678-20260831-208d6c9d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 进口物价指数月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260831T160000
+DTEND;TZID=Asia/Shanghai:20260831T160000
+LOCATION:德国
+SUMMARY:📊 德国 8月 BB勃兰登堡州CPI月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1 | 预测: - | 公布: -\n-- 德国 8月 SN萨克森州CPI月率 (%): 前值: 0.7 | 预测: - | 公布: -\n-- 德国 8月 SN萨克森州CPI年率 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 8月 BY巴伐利亚州CPI月率 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 8月 BY巴伐利亚州CPI年率 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 8月 BB勃兰登堡州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 8月 BW巴登符腾堡州CPI月率 (%): 前值: 0.8 | 预测: - | 公布: -\n-- 德国 8月 BW巴登符腾堡州CPI年率 (%): 前值: 2.5 | 预测: - | 公布: -\n-- 德国 8月 HE黑森州CPI月率 (%): 前值: 0.7 | 预测: - | 公布: -\n-- 德国 8月 HE黑森州CPI年率 (%): 前值: 2.7 | 预测: - | 公布: -
+UID:fx678-20260831-32ab3f26
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 8月 BB勃兰登堡州CPI月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260831T160000
+DTEND;TZID=Asia/Shanghai:20260831T160000
+LOCATION:德国
+SUMMARY:📊 德国 8月 NW北莱茵威斯特法伦州CPI月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.9 | 预测: - | 公布: -\n-- 德国 8月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 2.7 | 预测: - | 公布: -
+UID:fx678-20260831-0f718ee4
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 8月 NW北莱茵威斯特法伦州CPI月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260831T200000
+DTEND;TZID=Asia/Shanghai:20260831T200000
+LOCATION:德国
+SUMMARY:📊 德国 8月 CPI年率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 8月 CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 8月 调和CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 8月 调和CPI年率初值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 8月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260831-0843be0c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 8月 CPI年率初值 (%)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
