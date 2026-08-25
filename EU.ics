@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260828T170000
 DTEND;TZID=Asia/Shanghai:20260828T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 96.9 | 预测: 97.5 | 公布: -\n-- 欧元区 8月 工业景气指数 ★★★: 前值: -6.1 | 预测: -5.8 | 公布: -\n-- 欧元区 8月 服务业景气指数: 前值: 4.7 | 预测: 5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 96.9 | 预测: 97.5 | 公布: -\n-- 欧元区 8月 工业景气指数 ★★★: 前值: -6.1 | 预测: -5.2 | 公布: -\n-- 欧元区 8月 服务业景气指数: 前值: 4.7 | 预测: 4.9 | 公布: -
 UID:fx678-20260828-5e9e2eb7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260828T170000
 DTEND;TZID=Asia/Shanghai:20260828T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -15.5 | 公布: -
 UID:fx678-20260828-2bf2f096
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260901T160000
 DTEND;TZID=Asia/Shanghai:20260901T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 52.8 | 预测: - | 公布: -
 UID:fx678-20260901-26a9e153
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260901T170000
 DTEND;TZID=Asia/Shanghai:20260901T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 调和CPI年率-未季调初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 欧元区 8月 核心调和CPI年率-未季调初值 (%) ★★★: 前值:  | 预测: - | 公布: -\n-- 欧元区 8月 调和CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 欧元区 8月 核心调和CPI月率初值 (%): 前值:  | 预测: - | 公布: -\n-- 欧元区 8月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 2.9 | 预测: 3.3 | 公布: -\n-- 欧元区 8月 核心调和CPI年率-未季调初值 (%) ★★★: 前值: 2.2 | 预测: - | 公布: -\n-- 欧元区 8月 调和CPI月率初值 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 欧元区 8月 核心调和CPI月率初值 (%): 前值: 0 | 预测: - | 公布: -\n-- 欧元区 8月 未季调CPI读数初值: 前值:  | 预测: - | 公布: -
 UID:fx678-20260901-0b53cc64
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260901T170000
 DTEND;TZID=Asia/Shanghai:20260901T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 扣除食品能源烟酒的调和CPI年率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 2.5 | 预测: - | 公布: -
 UID:fx678-20260901-7edbe2a5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260901T170000
 DTEND;TZID=Asia/Shanghai:20260901T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 扣除食品能源烟酒的调和CPI月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0 | 预测: - | 公布: -
 UID:fx678-20260901-1f17cb23
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
