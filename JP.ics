@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T130000
-DTEND;TZID=Asia/Shanghai:20260825T130000
-LOCATION:日本
-SUMMARY:📊 日本 7月 超市销售年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -1.7 | 预测: - | 公布: 0.1
-UID:fx678-20260825-32498bc3
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 7月 超市销售年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T130000
-DTEND;TZID=Asia/Shanghai:20260825T130000
-LOCATION:日本
-SUMMARY:📊 日本 6月 领先指标读数变动修正值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0 | 预测: - | 公布: 0\n-- 日本 6月 同步指标修正值: 前值: 118.2 | 预测: - | 公布: 118.5\n-- 日本 6月 领先指标修正值: 前值: 116.4 | 预测: - | 公布: 116.5\n-- 日本 6月 同步指标读数变动修正值: 前值: 0.3 | 预测: - | 公布: 0.6
-UID:fx678-20260825-2fbb8db8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 6月 领先指标读数变动修正值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260826T075000
 DTEND;TZID=Asia/Shanghai:20260826T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 企业服务价格指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.2 | 预测: - | 公布: -\n-- 日本 7月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.2 | 预测: - | 公布: 3.6\n-- 日本 7月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: 0.4
 UID:fx678-20260826-77cd03a9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260828T073000
 DTEND;TZID=Asia/Shanghai:20260828T073000
 LOCATION:日本
 SUMMARY:📊 日本 8月 东京CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2 | 预测: 1.9 | 公布: -\n-- 日本 8月 东京核心CPI年率 (%): 前值: 1.9 | 预测: 1.7 | 公布: -\n-- 日本 8月 东京核心-核心CPI年率 (%): 前值: 2 | 预测: - | 公布: -\n-- 日本 8月 东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI年率 (%): 前值: 2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2 | 预测: 1.9 | 公布: -\n-- 日本 8月 东京核心CPI年率 (%): 前值: 1.9 | 预测: 1.7 | 公布: -\n-- 日本 8月 东京核心-核心CPI年率 (%): 前值: 2 | 预测: - | 公布: -\n-- 日本 8月 东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI年率 (%): 前值: 2 | 预测: 1.9 | 公布: -
 UID:fx678-20260828-1100ad31
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -285,6 +253,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月29日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T075000
+DTEND;TZID=Asia/Shanghai:20260903T075000
+LOCATION:日本
+SUMMARY:📊 日本 截至8月28日当周 买进外国债券 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260903-3a79add1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至8月28日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T083000
+DTEND;TZID=Asia/Shanghai:20260903T083000
+LOCATION:日本
+SUMMARY:📊 日本 8月 Jibun综合PMI终值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260903-3be1d809
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 8月 Jibun综合PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T083000
+DTEND;TZID=Asia/Shanghai:20260903T083000
+LOCATION:日本
+SUMMARY:📊 日本 8月 Jibun服务业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+UID:fx678-20260903-5cb3c126
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 8月 Jibun服务业PMI终值
 END:VALARM
 END:VEVENT
 END:VCALENDAR

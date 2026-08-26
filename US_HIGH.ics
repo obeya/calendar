@@ -16,70 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T200000
-DTEND;TZID=Asia/Shanghai:20260825T200000
-LOCATION:美国
-SUMMARY:📊 美国 7月 营建许可月率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5 | 预测: - | 公布: 4.3\n-- 美国 7月 营建许可年化总数修正值 (万户) ★★★: 前值: 144.3 | 预测: - | 公布: 143.3
-UID:fx678-20260825-7296d04b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 营建许可月率修正值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T201500
-DTEND;TZID=Asia/Shanghai:20260825T201500
-LOCATION:美国
-SUMMARY:📊 美国 截至8月8日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.95 | 预测: - | 公布: 1.18
-UID:fx678-20260825-30a8d859
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月8日当周 ADP就业周度发布变动 (万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T220000
-DTEND;TZID=Asia/Shanghai:20260825T220000
-LOCATION:美国
-SUMMARY:📊 美国 8月 谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 90.8 | 预测: 90.2 | 公布: 89.4
-UID:fx678-20260825-5bd5e4b1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月 谘商会消费者信心指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260825T220000
-DTEND;TZID=Asia/Shanghai:20260825T220000
-LOCATION:美国
-SUMMARY:📊 美国 7月 季调后新屋销售年化总数 (万户)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 62.8 | 预测: 62 | 公布: 60.7
-UID:fx678-20260825-1e6649f2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 季调后新屋销售年化总数 (万户)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260826T043000
 DTEND;TZID=Asia/Shanghai:20260826T043000
 LOCATION:美国
@@ -100,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 个人支出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.3 | 预测: 0.1 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.3 | 预测: 0.1 | 公布: 0.2
 UID:fx678-20260826-59b68fd1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 PCE物价指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: 3.6 | 公布: -\n-- 美国 7月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: 3.3 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: 3.6 | 公布: 3.7\n-- 美国 7月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: 3.3 | 公布: 3.3
 UID:fx678-20260826-34eb31d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 实际GDP年化季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.5 | 公布: -\n-- 美国 第二季度 GDP价格指数季率修正值 (%) ★★★: 前值: 6.2 | 预测: 6.2 | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 3.4 | 预测: 3.4 | 公布: -\n-- 美国 第二季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.2 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 6.3 | 预测: 6.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.5 | 公布: 1.5\n-- 美国 第二季度 GDP价格指数季率修正值 (%) ★★★: 前值: 6.2 | 预测: 6.2 | 公布: 6.4\n-- 美国 第二季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 3.4 | 预测: 3.4 | 公布: 3.6\n-- 美国 第二季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.2 | 预测: - | 公布: 3.4\n-- 美国 第二季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 6.3 | 预测: 6.2 | 公布: 6.4
 UID:fx678-20260826-398b22eb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T203000
 DTEND;TZID=Asia/Shanghai:20260826T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 耐用品订单月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.5 | 预测: 0.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.5 | 预测: 0.5 | 公布: 1.1
 UID:fx678-20260826-462c8882
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260826T223000
 DTEND;TZID=Asia/Shanghai:20260826T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月21日当周 EIA原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 440.5 | 预测: 186 | 公布: -\n-- 美国 截至8月21日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 68.8 | 预测: -100 | 公布: -\n-- 美国 截至8月21日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -153 | 预测: -167.4 | 公布: -\n-- 美国 截至8月21日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -131.4 | 预测: - | 公布: -\n-- 美国 截至8月21日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: -175.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 440.5 | 预测: 59.7 | 公布: 9.5\n-- 美国 截至8月21日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 68.8 | 预测: -67 | 公布: -253.6\n-- 美国 截至8月21日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -153 | 预测: -157 | 公布: -222.8\n-- 美国 截至8月21日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -131.4 | 预测: - | 公布: 117.6\n-- 美国 截至8月21日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: -175.4 | 预测: - | 公布: -16.1
 UID:fx678-20260826-722543c0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -397,6 +333,70 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 截至8月28日当周 EIA原油库存变动 (万桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T173000
+DTEND;TZID=Asia/Shanghai:20260903T173000
+LOCATION:美国
+SUMMARY:📊 美国 8月 挑战者企业裁员人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260903-70b4b230
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 挑战者企业裁员人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T203000
+DTEND;TZID=Asia/Shanghai:20260903T203000
+LOCATION:美国
+SUMMARY:📊 美国 7月 贸易帐 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -733 | 预测: - | 公布: -
+UID:fx678-20260903-7f4f420f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 贸易帐 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T203000
+DTEND;TZID=Asia/Shanghai:20260903T203000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月29日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月22日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260903-4796f77f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月29日当周 初请失业金人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260903T220000
+DTEND;TZID=Asia/Shanghai:20260903T220000
+LOCATION:美国
+SUMMARY:📊 美国 8月 ISM非制造业PMI
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260903-1de5d6e4
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 ISM非制造业PMI
 END:VALARM
 END:VEVENT
 END:VCALENDAR
