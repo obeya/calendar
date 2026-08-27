@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260827T140000
 DTEND;TZID=Asia/Shanghai:20260827T140000
 LOCATION:德国
 SUMMARY:📊 德国 9月 Gfk消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.6 | 预测: -29.6 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -29.6 | 预测: -29.6 | 公布: -26.6
 UID:fx678-20260827-2f331d18
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +148,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T155500
 DTEND;TZID=Asia/Shanghai:20260903T155500
 LOCATION:德国
 SUMMARY:📊 德国 8月 SPGI服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值:  | 预测: - | 公布: -\n-- 德国 8月 SPGI综合PMI终值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.5 | 预测: - | 公布: -\n-- 德国 8月 SPGI综合PMI终值: 前值: 51 | 预测: - | 公布: -
 UID:fx678-20260903-7b506e86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -157,6 +157,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 8月 SPGI服务业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260904T140000
+DTEND;TZID=Asia/Shanghai:20260904T140000
+LOCATION:德国
+SUMMARY:📊 德国 7月 工业订单月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 3.1 | 预测: - | 公布: -\n-- 德国 7月 工作日调整后制造业订单年率 (%): 前值: 6.5 | 预测: - | 公布: -\n-- 德国 7月 季调后制造业订单月率 (%): 前值: 3.1 | 预测: - | 公布: -\n-- 德国 7月 制造业产出当前价格年率-季调后 (%): 前值: 9.9 | 预测: - | 公布: -\n-- 德国 7月 季调后消费品指数-制造业分项: 前值: 121.8 | 预测: - | 公布: -
+UID:fx678-20260904-1cfd19b1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 工业订单月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260904T153000
+DTEND;TZID=Asia/Shanghai:20260904T153000
+LOCATION:德国
+SUMMARY:📊 德国 8月 SPGI建筑业PMI
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 42.1 | 预测: - | 公布: -
+UID:fx678-20260904-3ca0331d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 8月 SPGI建筑业PMI
 END:VALARM
 END:VEVENT
 END:VCALENDAR

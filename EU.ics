@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260827T160000
 DTEND;TZID=Asia/Shanghai:20260827T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 季调后货币供应M3年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.3 | 预测: 3.4 | 公布: -\n-- 欧元区 7月 三个月货币供应M3年率 (%): 前值: 3 | 预测: - | 公布: -\n-- 欧元区 7月 M3广义货币季调后 (亿欧元): 前值: 176108.63 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 3.3 | 预测: 3.4 | 公布: 3.4\n-- 欧元区 7月 三个月货币供应M3年率 (%): 前值: 3 | 预测: - | 公布: 3.2\n-- 欧元区 7月 M3广义货币季调后 (亿欧元): 前值: 176108.63 | 预测: - | 公布: 176139.83
 UID:fx678-20260827-666061d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260827T160000
 DTEND;TZID=Asia/Shanghai:20260827T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 对非金融企业贷款年率-季调后 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 4 | 预测: - | 公布: -\n-- 欧元区 7月 家庭贷款年率 (%): 前值: 3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 4 | 预测: - | 公布: 4.4\n-- 欧元区 7月 家庭贷款年率 (%): 前值: 3 | 预测: - | 公布: 3.1
 UID:fx678-20260827-679a48a8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -196,7 +196,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T160000
 DTEND;TZID=Asia/Shanghai:20260903T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 SPGI综合PMI终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -\n-- 欧元区 8月 SPGI服务业PMI终值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 52.1 | 预测: - | 公布: -\n-- 欧元区 8月 SPGI服务业PMI终值: 前值: 51.7 | 预测: - | 公布: -
 UID:fx678-20260903-6dfd4dd7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -212,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T170000
 DTEND;TZID=Asia/Shanghai:20260903T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值:  | 预测: - | 公布: -\n-- 欧元区 7月 PPI月率 (%): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 4.6 | 预测: - | 公布: -\n-- 欧元区 7月 PPI月率 (%): 前值: -0.3 | 预测: - | 公布: -
 UID:fx678-20260903-5f9abc24
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -221,6 +221,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 欧元区 7月 PPI年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260904T153000
+DTEND;TZID=Asia/Shanghai:20260904T153000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 8月 SPGI建筑业PMI
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 44.3 | 预测: - | 公布: -
+UID:fx678-20260904-5bbb1fd1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 8月 SPGI建筑业PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260904T170000
+DTEND;TZID=Asia/Shanghai:20260904T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 7月 零售销售月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.3 | 预测: - | 公布: -\n-- 欧元区 7月 零售销售年率 (%) ★★★: 前值: 0.7 | 预测: - | 公布: -
+UID:fx678-20260904-5a576f85
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 7月 零售销售月率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

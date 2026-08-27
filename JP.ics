@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260826T075000
-DTEND;TZID=Asia/Shanghai:20260826T075000
-LOCATION:日本
-SUMMARY:📊 日本 7月 企业服务价格指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.2 | 预测: - | 公布: 3.6\n-- 日本 7月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: 0.4
-UID:fx678-20260826-77cd03a9
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 7月 企业服务价格指数年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260827T075000
 DTEND;TZID=Asia/Shanghai:20260827T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11351 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值: 13913 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值: -12499 | 预测: - | 公布: -\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值: 6212 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11351 | 预测: - | 公布: -19784\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值: 13913 | 预测: - | 公布: -8690\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值: -12499 | 预测: - | 公布: 4352\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值: 6212 | 预测: - | 公布: -7641
 UID:fx678-20260827-378ba453
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -260,7 +244,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T075000
 DTEND;TZID=Asia/Shanghai:20260903T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至8月28日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -19784 | 预测: - | 公布: -\n-- 日本 截至8月28日当周 买进外国股票 (亿日元): 前值: -8690 | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日债 (亿日元): 前值: 4352 | 预测: - | 公布: -\n-- 日本 截至8月28日当周 外资买进日股 (亿日元): 前值: -7641 | 预测: - | 公布: -
 UID:fx678-20260903-3a79add1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -301,6 +285,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 8月 Jibun服务业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260904T073000
+DTEND;TZID=Asia/Shanghai:20260904T073000
+LOCATION:日本
+SUMMARY:📊 日本 7月 所有家庭支出年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -3.3 | 预测: - | 公布: -\n-- 日本 7月 所有家庭支出月率 (%): 前值: -6.4 | 预测: - | 公布: -
+UID:fx678-20260904-328256e5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 所有家庭支出年率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
