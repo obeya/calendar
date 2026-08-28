@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260827T075000
-DTEND;TZID=Asia/Shanghai:20260827T075000
-LOCATION:日本
-SUMMARY:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 11351 | 预测: - | 公布: -19784\n-- 日本 截至8月21日当周 买进外国股票 (亿日元): 前值: 13913 | 预测: - | 公布: -8690\n-- 日本 截至8月21日当周 外资买进日债 (亿日元): 前值: -12499 | 预测: - | 公布: 4352\n-- 日本 截至8月21日当周 外资买进日股 (亿日元): 前值: 6212 | 预测: - | 公布: -7641
-UID:fx678-20260827-378ba453
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至8月21日当周 买进外国债券 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260828T073000
 DTEND;TZID=Asia/Shanghai:20260828T073000
 LOCATION:日本
 SUMMARY:📊 日本 8月 东京CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2 | 预测: 1.9 | 公布: -\n-- 日本 8月 东京核心CPI年率 (%): 前值: 1.9 | 预测: 1.7 | 公布: -\n-- 日本 8月 东京核心-核心CPI年率 (%): 前值: 2 | 预测: - | 公布: -\n-- 日本 8月 东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 日本 8月 不含食品与能源的东京CPI年率 (%): 前值: 2 | 预测: 1.9 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2 | 预测: 1.9 | 公布: 1.9\n-- 日本 8月 东京核心CPI年率 (%): 前值: 1.9 | 预测: 1.7 | 公布: 1.8\n-- 日本 8月 东京核心-核心CPI年率 (%): 前值: 2 | 预测: - | 公布: 2\n-- 日本 8月 东京CPI月率 (%): 前值: 0.4 | 预测: - | 公布: 0.4\n-- 日本 8月 不含食品与能源的东京CPI月率 (%): 前值: 0.3 | 预测: - | 公布: 0.1\n-- 日本 8月 不含食品与能源的东京CPI年率 (%): 前值: 2 | 预测: 1.9 | 公布: 1.8
 UID:fx678-20260828-1100ad31
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260828T073000
 DTEND;TZID=Asia/Shanghai:20260828T073000
 LOCATION:日本
 SUMMARY:📊 日本 7月 失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: 2.5 | 公布: -\n-- 日本 7月 求才求职比: 前值: 1.18 | 预测: 1.19 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 2.5 | 预测: 2.5 | 公布: 2.4\n-- 日本 7月 求才求职比: 前值: 1.18 | 预测: 1.19 | 公布: 1.18
 UID:fx678-20260828-6bc52f22
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260831T075000
 DTEND;TZID=Asia/Shanghai:20260831T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 季调后工业产出月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 1.9 | 预测: - | 公布: -\n-- 日本 7月 未季调工业产出年率初值 (%): 前值: 4.9 | 预测: - | 公布: -\n-- 日本 7月 库存月率初值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 日本 7月 库存装船比月率初值 (%): 前值: 4.1 | 预测: - | 公布: -\n-- 日本 7月 装船月率初值 (%): 前值: -0.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 1.9 | 预测: -0.7 | 公布: -\n-- 日本 7月 未季调工业产出年率初值 (%): 前值: 4.9 | 预测: 3.4 | 公布: -\n-- 日本 7月 库存月率初值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 日本 7月 库存装船比月率初值 (%): 前值: 4.1 | 预测: - | 公布: -\n-- 日本 7月 装船月率初值 (%): 前值: -0.2 | 预测: - | 公布: -
 UID:fx678-20260831-5cb4c0e3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260831T075000
 DTEND;TZID=Asia/Shanghai:20260831T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 未季调零售销售年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: - | 公布: -\n-- 日本 7月 季调后零售销售月率 (%): 前值: -4.1 | 预测: - | 公布: -\n-- 日本 7月 大型零售企业销售额年率 (%): 前值: -1 | 预测: - | 公布: -\n-- 日本 7月 零售销售 (万亿日元): 前值: 13.02 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.5 | 预测: 2.9 | 公布: -\n-- 日本 7月 季调后零售销售月率 (%): 前值: -4.1 | 预测: 1.7 | 公布: -\n-- 日本 7月 大型零售企业销售额年率 (%): 前值: -1 | 预测: - | 公布: -\n-- 日本 7月 零售销售 (万亿日元): 前值: 13.02 | 预测: - | 公布: -
 UID:fx678-20260831-0a55d2a9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260831T130000
 DTEND;TZID=Asia/Shanghai:20260831T130000
 LOCATION:日本
 SUMMARY:📊 日本 7月 新屋开工年率-未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 18.57 | 预测: - | 公布: -\n-- 日本 7月 营建订单年率 (%): 前值: 2.3 | 预测: - | 公布: -\n-- 日本 7月 新屋开工单月总数-未季调 (万户): 前值: 3.04 | 预测: - | 公布: -\n-- 日本 7月 新屋开工年化总数-季调后 (万户): 前值: 83.79 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 18.57 | 预测: 7.8 | 公布: -\n-- 日本 7月 营建订单年率 (%): 前值: 2.3 | 预测: - | 公布: -\n-- 日本 7月 新屋开工单月总数-未季调 (万户): 前值: 3.04 | 预测: - | 公布: -\n-- 日本 7月 新屋开工年化总数-季调后 (万户): 前值: 83.79 | 预测: - | 公布: -
 UID:fx678-20260831-3af41949
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -180,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260901T083000
 DTEND;TZID=Asia/Shanghai:20260901T083000
 LOCATION:日本
 SUMMARY:📊 日本 8月 Jibun制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 55.1 | 预测: - | 公布: -\n-- 日本 8月 Jibun服务业PMI终值: 前值: 52.3 | 预测: - | 公布: -\n-- 日本 8月 Jibun综合PMI终值: 前值: 53.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 55.1 | 预测: - | 公布: -
 UID:fx678-20260901-4513fdec
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -224,22 +208,6 @@ DESCRIPTION:📊 日本 8月 基础货币年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260902T110000
-DTEND;TZID=Asia/Shanghai:20260902T110000
-LOCATION:日本
-SUMMARY:📊 日本 截至8月29日当周 PAJ商业原油库存变动 (万千升)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月29日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月29日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月29日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月29日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260902-1e61158a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至8月29日当周 PAJ商业原油库存变动 (万千升)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260903T075000
 DTEND;TZID=Asia/Shanghai:20260903T075000
 LOCATION:日本
@@ -260,7 +228,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T083000
 DTEND;TZID=Asia/Shanghai:20260903T083000
 LOCATION:日本
 SUMMARY:📊 日本 8月 Jibun综合PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 53.4 | 预测: - | 公布: -
 UID:fx678-20260903-3be1d809
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -276,7 +244,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T083000
 DTEND;TZID=Asia/Shanghai:20260903T083000
 LOCATION:日本
 SUMMARY:📊 日本 8月 Jibun服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 52.3 | 预测: - | 公布: -
 UID:fx678-20260903-5cb3c126
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -292,7 +260,7 @@ DTSTART;TZID=Asia/Shanghai:20260904T073000
 DTEND;TZID=Asia/Shanghai:20260904T073000
 LOCATION:日本
 SUMMARY:📊 日本 7月 所有家庭支出年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -3.3 | 预测: - | 公布: -\n-- 日本 7月 所有家庭支出月率 (%): 前值: -6.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -3.3 | 预测: -1.6 | 公布: -\n-- 日本 7月 所有家庭支出月率 (%): 前值: -6.4 | 预测: 2.6 | 公布: -
 UID:fx678-20260904-328256e5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

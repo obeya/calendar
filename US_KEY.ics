@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260827T203000
-DTEND;TZID=Asia/Shanghai:20260827T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月22日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: 20.8 | 公布: 20.3\n-- 美国 截至8月15日当周 续请失业金人数 (万) ★★★: 前值: 179.9 | 预测: 179 | 公布: 177.8
-UID:fx678-20260827-293342ca
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月22日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260828T220000
 DTEND;TZID=Asia/Shanghai:20260828T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 51 | 预测: 51 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 51 | 预测: 51 | 公布: 51.7
 UID:fx678-20260828-55ab52ae
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -45,6 +29,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月 密歇根大学消费者信心指数终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260828T220000
+DTEND;TZID=Asia/Shanghai:20260828T220000
+LOCATION:美国
+SUMMARY:📊 美国 2026年 非农就业基准年度变动-未季调初值 (万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -86.2 | 预测: 18.5 | 公布: -7.9
+UID:fx678-20260828-358187e0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 2026年 非农就业基准年度变动-未季调初值 (万人)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260902T201500
 DTEND;TZID=Asia/Shanghai:20260902T201500
 LOCATION:美国
 SUMMARY:📊 美国 8月 ADP就业人数变动 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.4 | 预测: 3.9 | 公布: -
 UID:fx678-20260902-42780fd3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260903T203000
 DTEND;TZID=Asia/Shanghai:20260903T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月29日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月22日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.3 | 预测: - | 公布: -\n-- 美国 截至8月22日当周 续请失业金人数 (万) ★★★: 前值: 177.8 | 预测: - | 公布: -
 UID:fx678-20260903-4796f77f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260904T203000
 DTEND;TZID=Asia/Shanghai:20260904T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.3 | 预测: 4.5 | 公布: -\n-- 美国 8月 平均每小时工资年率 (%) ★★★: 前值: 3.2 | 预测: - | 公布: -\n-- 美国 8月 私营企业非农就业人数变动 (万) ★★★: 前值: 3 | 预测: 5 | 公布: -\n-- 美国 8月 劳动参与率 (%) ★★★: 前值: 61.4 | 预测: - | 公布: -\n-- 美国 8月 制造业就业人口变动季调后 (万) ★★★: 前值: 0.5 | 预测: - | 公布: -\n-- 美国 8月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.3 | 预测: 4.5 | 公布: -\n-- 美国 8月 平均每小时工资年率 (%) ★★★: 前值: 3.2 | 预测: 3.2 | 公布: -\n-- 美国 8月 私营企业非农就业人数变动 (万) ★★★: 前值: 3 | 预测: 5 | 公布: -\n-- 美国 8月 劳动参与率 (%) ★★★: 前值: 61.4 | 预测: 61.4 | 公布: -\n-- 美国 8月 制造业就业人口变动季调后 (万) ★★★: 前值: 0.5 | 预测: - | 公布: -\n-- 美国 8月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.2 | 公布: -
 UID:fx678-20260904-6302e3b7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
