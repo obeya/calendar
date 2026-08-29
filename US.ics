@@ -16,102 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T010000
-DTEND;TZID=Asia/Shanghai:20260828T010000
-LOCATION:美国
-SUMMARY:📊 美国 8月27日 7年期国债竞拍-总金额 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 440 | 预测: - | 公布: 440\n-- 美国 8月27日 7年期国债竞拍-高收益率 (%): 前值: 4.47 | 预测: - | 公布: 4.51\n-- 美国 8月27日 7年期国债竞拍-投标倍数 (倍): 前值: 2.49 | 预测: - | 公布: 2.5\n-- 美国 8月27日 7年期国债竞拍-高配置百分比 (%): 前值: 95.17 | 预测: - | 公布: 97.63
-UID:fx678-20260828-30b4fcd8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月27日 7年期国债竞拍-总金额 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T043000
-DTEND;TZID=Asia/Shanghai:20260828T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月26日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.75 | 预测: - | 公布: 6.73
-UID:fx678-20260828-6b8968b5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月26日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T043000
-DTEND;TZID=Asia/Shanghai:20260828T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月22日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -106.71 | 预测: - | 公布: 290.75
-UID:fx678-20260828-450422d8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月22日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T063000
-DTEND;TZID=Asia/Shanghai:20260828T063000
-LOCATION:美国
-SUMMARY:📊 美国 8月26日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3934.54 | 预测: - | 公布: 3934.54\n-- 美国 8月26日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 8月26日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2505.11 | 预测: - | 公布: 2503.73\n-- 美国 8月26日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -1.38
-UID:fx678-20260828-3bdff93b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月26日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T220000
-DTEND;TZID=Asia/Shanghai:20260828T220000
-LOCATION:美国
-SUMMARY:📊 美国 8月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 51 | 预测: 51 | 公布: 51.7\n-- 美国 8月 密歇根大学消费者预期终值: 前值: 50.6 | 预测: - | 公布: 51.5\n-- 美国 8月 密歇根大学经济现况终值: 前值: 51.8 | 预测: 51.8 | 公布: 51.9\n-- 美国 8月 密歇根大学1年期通胀率预期终值 (%): 前值: 4.3 | 预测: - | 公布: 4\n-- 美国 8月 密歇根大学5年期通胀率预期终值 (%): 前值: 3.3 | 预测: - | 公布: 3.3
-UID:fx678-20260828-55ab52ae
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月 密歇根大学消费者信心指数终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260828T220000
-DTEND;TZID=Asia/Shanghai:20260828T220000
-LOCATION:美国
-SUMMARY:📊 美国 2026年 非农就业基准年度变动-未季调初值 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -86.2 | 预测: 18.5 | 公布: -7.9
-UID:fx678-20260828-358187e0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 2026年 非农就业基准年度变动-未季调初值 (万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260829T010000
 DTEND;TZID=Asia/Shanghai:20260829T010000
 LOCATION:美国
@@ -132,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260829T063000
 DTEND;TZID=Asia/Shanghai:20260829T063000
 LOCATION:美国
 SUMMARY:📊 美国 8月27日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3934.54 | 预测: - | 公布: -\n-- 美国 8月27日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国 8月27日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2503.73 | 预测: - | 公布: -\n-- 美国 8月27日 NYMEX钯金库存变动-每日 (百盎司): 前值: -1.38 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3934.54 | 预测: - | 公布: 3934.54\n-- 美国 8月27日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 8月27日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2503.73 | 预测: - | 公布: 2503.73\n-- 美国 8月27日 NYMEX钯金库存变动-每日 (百盎司): 前值: -1.38 | 预测: - | 公布: 0
 UID:fx678-20260829-07ab4155
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
