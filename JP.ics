@@ -239,4 +239,20 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 所有家庭支出年率 (%)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260907T130000
+DTEND;TZID=Asia/Shanghai:20260907T130000
+LOCATION:日本
+SUMMARY:📊 日本 7月 领先指标读数变动初值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 7月 同步指标读数变动初值: 前值:  | 预测: - | 公布: -\n-- 日本 7月 同步指标初值: 前值:  | 预测: - | 公布: -\n-- 日本 7月 领先指标初值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260907-5684d128
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 领先指标读数变动初值
+END:VALARM
+END:VEVENT
 END:VCALENDAR

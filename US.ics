@@ -16,38 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260829T010000
-DTEND;TZID=Asia/Shanghai:20260829T010000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月28日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 588 | 预测: - | 公布: 588\n-- 美国 截至8月28日当周 天然气钻井总数 (口): 前值: 127 | 预测: - | 公布: 132\n-- 美国 截至8月28日当周 石油钻井总数 (口) ★★★: 前值: 452 | 预测: - | 公布: 447\n-- 美国 截至8月28日当周 混杂钻井总数 (口): 前值: 9 | 预测: - | 公布: 9\n-- 北美洲 截至8月28日当周 总钻井总数 (口): 前值: 804 | 预测: - | 公布: 799\n-- 北美洲 截至8月28日当周 墨西哥湾总钻井总数 (口): 前值: 8 | 预测: - | 公布: 7\n-- 加拿大 截至8月28日当周 总钻井数量 (口): 前值: 216 | 预测: - | 公布: 211
-UID:fx678-20260829-4d8aa8f8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月28日当周 全美钻井总数 (口)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260829T063000
-DTEND;TZID=Asia/Shanghai:20260829T063000
-LOCATION:美国
-SUMMARY:📊 美国 8月27日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3934.54 | 预测: - | 公布: 3934.54\n-- 美国 8月27日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 8月27日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2503.73 | 预测: - | 公布: 2503.73\n-- 美国 8月27日 NYMEX钯金库存变动-每日 (百盎司): 前值: -1.38 | 预测: - | 公布: 0
-UID:fx678-20260829-07ab4155
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月27日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260831T214500
 DTEND;TZID=Asia/Shanghai:20260831T214500
 LOCATION:美国
