@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260831T093000
 DTEND;TZID=Asia/Shanghai:20260831T093000
 LOCATION:中国
 SUMMARY:📊 中国 8月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.2 | 预测: 49.6 | 公布: -\n-- 中国 8月 官方非制造业PMI: 前值: 49 | 预测: 49.6 | 公布: -\n-- 中国 8月 官方综合PMI: 前值: 49.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.2 | 预测: 49.6 | 公布: 49.8\n-- 中国 8月 官方非制造业PMI: 前值: 49 | 预测: 49.6 | 公布: 49\n-- 中国 8月 官方综合PMI: 前值: 49.3 | 预测: - | 公布: 49.5
 UID:fx678-20260831-1c93e7c2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -29,22 +29,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 8月 官方制造业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260901T094500
-DTEND;TZID=Asia/Shanghai:20260901T094500
-LOCATION:中国
-SUMMARY:📊 中国 8月 SPGI制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.9 | 预测: 51 | 公布: -
-UID:fx678-20260901-0eec28b8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 SPGI制造业PMI
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -93,6 +77,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 8月 外汇储备 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260908T093000
+DTEND;TZID=Asia/Shanghai:20260908T093000
+LOCATION:中国
+SUMMARY:📊 中国 8月 贸易帐-美元计价 (亿美元) (0908当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1125 | 预测: - | 公布: -\n-- 中国 8月 出口年率-美元计价 (%) (0908当天不定时) ★★★: 前值: 23 | 预测: - | 公布: -\n-- 中国 8月 进口年率-美元计价 (%) (0908当天不定时) ★★★: 前值: 27.5 | 预测: - | 公布: -\n-- 中国 8月 进口总额-美元计价 (亿美元): 前值: 2853.5 | 预测: - | 公布: -\n-- 中国 8月 出口总额-美元计价 (亿美元): 前值: 3978.5 | 预测: - | 公布: -
+UID:fx678-20260908-329d6a71
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 贸易帐-美元计价 (亿美元) (0908当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260908T093000
+DTEND;TZID=Asia/Shanghai:20260908T093000
+LOCATION:中国
+SUMMARY:📊 中国 8月 贸易帐-人民币计价 (亿元) (0908当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7670.7 | 预测: - | 公布: -\n-- 中国 8月 出口年率-人民币计价 (%) (0908当天不定时) ★★★: 前值: 17.8 | 预测: - | 公布: -\n-- 中国 8月 进口年率-人民币计价 (%) (0908当天不定时) ★★★: 前值: 21.2 | 预测: - | 公布: -\n-- 中国 8月 进口总额-人民币计价 (亿元): 前值: 19454.4 | 预测: - | 公布: -\n-- 中国 8月 出口总额-人民币计价 (亿元): 前值: 27125.1 | 预测: - | 公布: -
+UID:fx678-20260908-30ae600e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 贸易帐-人民币计价 (亿元) (0908当天不定时)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
