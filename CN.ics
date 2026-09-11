@@ -16,99 +16,195 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260831T093000
-DTEND;TZID=Asia/Shanghai:20260831T093000
+DTSTART;TZID=Asia/Shanghai:20260911T160000
+DTEND;TZID=Asia/Shanghai:20260911T160000
 LOCATION:中国
-SUMMARY:📊 中国 8月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.2 | 预测: 49.6 | 公布: 49.8\n-- 中国 8月 官方非制造业PMI: 前值: 49 | 预测: 49.6 | 公布: 49\n-- 中国 8月 官方综合PMI: 前值: 49.3 | 预测: - | 公布: 49.5
-UID:fx678-20260831-1c93e7c2
+SUMMARY:📊 中国 8月 M2货币供应年率 (%) (0911-0917)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.7 | 预测: 7.6 | 公布: -\n-- 中国 8月 M0货币供应年率 (%): 前值: 11.6 | 预测: - | 公布: -\n-- 中国 8月 M1货币供应年率 (%): 前值: 4 | 预测: - | 公布: -
+UID:fx678-20260911-3cca887e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 官方制造业PMI
+DESCRIPTION:📊 中国 8月 M2货币供应年率 (%) (0911-0917)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260903T094000
-DTEND;TZID=Asia/Shanghai:20260903T094000
+DTSTART;TZID=Asia/Shanghai:20260911T160000
+DTEND;TZID=Asia/Shanghai:20260911T160000
 LOCATION:中国
-SUMMARY:📊 中国 8月 SPGI综合PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 50.8 | 预测: - | 公布: -
-UID:fx678-20260903-1cdebaa5
+SUMMARY:📊 中国 8月 人民币各项贷款余额年率 (%) (0911-0917)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.1 | 预测: 5.1 | 公布: -\n-- 中国 8月 社会融资规模-年初至今 (亿元) (0911-0917) ★★★: 前值: 222500 | 预测: - | 公布: -\n-- 中国 8月 新增人民币贷款-年初至今 (亿元) (0911-0917) ★★★: 前值: 103800 | 预测: - | 公布: -
+UID:fx678-20260911-5c2d935e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 SPGI综合PMI
+DESCRIPTION:📊 中国 8月 人民币各项贷款余额年率 (%) (0911-0917)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260903T094500
-DTEND;TZID=Asia/Shanghai:20260903T094500
+DTSTART;TZID=Asia/Shanghai:20260914T160000
+DTEND;TZID=Asia/Shanghai:20260914T160000
 LOCATION:中国
-SUMMARY:📊 中国 8月 SPGI服务业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.4 | 预测: - | 公布: -
-UID:fx678-20260903-7db11f6e
+SUMMARY:📊 中国 8月 实际外商直接投资年率CNY-年初至今 (%) (0911-0917)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -6.2 | 预测: - | 公布: -
+UID:fx678-20260914-342a2035
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 SPGI服务业PMI
+DESCRIPTION:📊 中国 8月 实际外商直接投资年率CNY-年初至今 (%) (0911-0917)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260907T160000
-DTEND;TZID=Asia/Shanghai:20260907T160000
+DTSTART;TZID=Asia/Shanghai:20260915T100000
+DTEND;TZID=Asia/Shanghai:20260915T100000
 LOCATION:中国
-SUMMARY:📊 中国 8月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34190 | 预测: - | 公布: -\n-- 中国 8月 黄金储备量 (万盎司) ★★★: 前值: 7608 | 预测: - | 公布: -\n-- 中国 8月 黄金储备-美元计价 (亿美元): 前值: 3063 | 预测: - | 公布: -
-UID:fx678-20260907-2dbf81e0
+SUMMARY:📊 中国 8月 城镇固定资产投资年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -6.7 | 预测: -7.1 | 公布: -\n-- 中国 8月 城镇固定资产投资月率 (%): 前值: -1.42 | 预测: - | 公布: -
+UID:fx678-20260915-125dfd84
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 外汇储备 (亿美元)
+DESCRIPTION:📊 中国 8月 城镇固定资产投资年率-年初至今 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260908T093000
-DTEND;TZID=Asia/Shanghai:20260908T093000
+DTSTART;TZID=Asia/Shanghai:20260915T100000
+DTEND;TZID=Asia/Shanghai:20260915T100000
 LOCATION:中国
-SUMMARY:📊 中国 8月 贸易帐-美元计价 (亿美元) (0908当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1125 | 预测: - | 公布: -\n-- 中国 8月 出口年率-美元计价 (%) (0908当天不定时) ★★★: 前值: 23 | 预测: - | 公布: -\n-- 中国 8月 进口年率-美元计价 (%) (0908当天不定时) ★★★: 前值: 27.5 | 预测: - | 公布: -\n-- 中国 8月 进口总额-美元计价 (亿美元): 前值: 2853.5 | 预测: - | 公布: -\n-- 中国 8月 出口总额-美元计价 (亿美元): 前值: 3978.5 | 预测: - | 公布: -
-UID:fx678-20260908-329d6a71
+SUMMARY:📊 中国 8月 规模以上工业增加值年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: - | 公布: -\n-- 中国 8月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 4.5 | 预测: 4.8 | 公布: -\n-- 中国 8月 规模以上工业增加值月率-单月 (%): 前值: 0.11 | 预测: - | 公布: -
+UID:fx678-20260915-55130e6a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 贸易帐-美元计价 (亿美元) (0908当天不定时)
+DESCRIPTION:📊 中国 8月 规模以上工业增加值年率-年初至今 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260908T093000
-DTEND;TZID=Asia/Shanghai:20260908T093000
+DTSTART;TZID=Asia/Shanghai:20260915T100000
+DTEND;TZID=Asia/Shanghai:20260915T100000
 LOCATION:中国
-SUMMARY:📊 中国 8月 贸易帐-人民币计价 (亿元) (0908当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7670.7 | 预测: - | 公布: -\n-- 中国 8月 出口年率-人民币计价 (%) (0908当天不定时) ★★★: 前值: 17.8 | 预测: - | 公布: -\n-- 中国 8月 进口年率-人民币计价 (%) (0908当天不定时) ★★★: 前值: 21.2 | 预测: - | 公布: -\n-- 中国 8月 进口总额-人民币计价 (亿元): 前值: 19454.4 | 预测: - | 公布: -\n-- 中国 8月 出口总额-人民币计价 (亿元): 前值: 27125.1 | 预测: - | 公布: -
-UID:fx678-20260908-30ae600e
+SUMMARY:📊 中国 8月 社会消费品零售总额年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0.6 | 预测: 0.8 | 公布: -\n-- 中国 8月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.23 | 预测: - | 公布: -\n-- 中国 8月 社会消费品零售总额月率 (%) ★★★: 前值: -0.1 | 预测: - | 公布: -
+UID:fx678-20260915-171d17e7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 贸易帐-人民币计价 (亿元) (0908当天不定时)
+DESCRIPTION:📊 中国 8月 社会消费品零售总额年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260915T100000
+DTEND;TZID=Asia/Shanghai:20260915T100000
+LOCATION:中国
+SUMMARY:📊 中国 8月 城镇调查失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5.2 | 预测: - | 公布: -
+UID:fx678-20260915-2e3601f7
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 城镇调查失业率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260915T114000
+DTEND;TZID=Asia/Shanghai:20260915T114000
+LOCATION:中国
+SUMMARY:📊 中国 8月 全社会用电量年率-每月 (%) (15-20日不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: -\n-- 中国 8月 全社会用电量-每月 (亿千瓦时) (15-20日不定时) ★★★: 前值: 10400 | 预测: - | 公布: -
+UID:fx678-20260915-77377531
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 全社会用电量年率-每月 (%) (15-20日不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260915T142600
+DTEND;TZID=Asia/Shanghai:20260915T142600
+LOCATION:中国
+SUMMARY:📊 中国 8月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 1712 | 预测: - | 公布: -
+UID:fx678-20260915-44f53635
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260917T090000
+DTEND;TZID=Asia/Shanghai:20260917T090000
+LOCATION:中国
+SUMMARY:📊 中国 8月 Swift人民币在全球支付中占比 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.1 | 预测: - | 公布: -
+UID:fx678-20260917-76dfbb4c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 Swift人民币在全球支付中占比 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260917T110000
+DTEND;TZID=Asia/Shanghai:20260917T110000
+LOCATION:中国
+SUMMARY:📊 中国 8月 液化天然气进口量-能源 (万吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 550 | 预测: - | 公布: -\n-- 中国 8月 柴油出口量-能源 (万吨): 前值: 81 | 预测: - | 公布: -\n-- 中国 8月 管道天然气进口量-能源 (万吨) ★★★: 前值: 510 | 预测: - | 公布: -
+UID:fx678-20260917-3b9a6906
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月 液化天然气进口量-能源 (万吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260917T160600
+DTEND;TZID=Asia/Shanghai:20260917T160600
+LOCATION:中国
+SUMMARY:📊 中国 2025年 东盟贸易指数 (0917-0926不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 167.87 | 预测: - | 公布: -
+UID:fx678-20260917-4da1df86
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 2025年 东盟贸易指数 (0917-0926不定时)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
