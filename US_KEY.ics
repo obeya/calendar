@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260910T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月5日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: 20.5 | 公布: 20.6\n-- 美国 截至8月29日当周 续请失业金人数 (万) ★★★: 前值: 177.9 | 预测: 178 | 公布: 177.4
-UID:fx678-20260910-40558215
+UID:fx678-20260910-435fb2ae
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260910T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 PPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.7 | 预测: 5.3 | 公布: 5.4\n-- 美国 8月 核心PPI年率 (%) ★★★: 前值: 4.2 | 预测: 4.6 | 公布: 4.6
-UID:fx678-20260910-386116e8
+UID:fx678-20260910-010078fb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260911T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 CPI年率未季调 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.4 | 预测: 3.4 | 公布: -\n-- 美国 8月 核心CPI年率未季调 (%) ★★★: 前值: 2.5 | 预测: 2.4 | 公布: -\n-- 美国 8月 能源CPI年率-未季调 (%) ★★★: 前值: 14.7 | 预测: - | 公布: -
-UID:fx678-20260911-3bb91c99
+UID:fx678-20260911-3448c43e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260911T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 密歇根大学消费者信心指数初值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 51.7 | 预测: 51 | 公布: -
-UID:fx678-20260911-33fb30e0
+UID:fx678-20260911-53348276
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260915T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至8月29日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -
-UID:fx678-20260915-6a78ca32
+UID:fx678-20260915-3ab5213a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260915T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 纽约联储制造业指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: - | 公布: -\n-- 美国 9月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 32.1 | 预测: - | 公布: -
-UID:fx678-20260915-2a28712c
+UID:fx678-20260915-66e1cd2c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260916T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 零售销售月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.6 | 预测: - | 公布: -\n-- 美国 8月 核心零售销售月率 (%) ★★★: 前值: -0.3 | 预测: - | 公布: -\n-- 美国 8月 零售销售年率 (%) ★★★: 前值: 5.01 | 预测: - | 公布: -\n-- 美国 8月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: -0.4 | 预测: - | 公布: -
-UID:fx678-20260916-116096d8
+UID:fx678-20260916-2092fcba
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260917T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月12日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: - | 公布: -\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 177.4 | 预测: - | 公布: -
-UID:fx678-20260917-0aa241d9
+UID:fx678-20260917-7844b38c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260917T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 费城联储制造业指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.4 | 预测: - | 公布: -
-UID:fx678-20260917-02049515
+UID:fx678-20260917-45a22b48
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
