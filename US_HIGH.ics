@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260915T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至8月29日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -
-UID:fx678-20260915-07c33503
+UID:fx678-20260915-20613737
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20260915T203000
 DTEND;TZID=Asia/Shanghai:20260915T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 纽约联储制造业指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: 12.1 | 公布: -\n-- 美国 9月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 32.1 | 预测: - | 公布: -
-UID:fx678-20260915-4180dabc
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: 14.75 | 公布: -\n-- 美国 9月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 32.1 | 预测: - | 公布: -
+UID:fx678-20260915-7062155d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260916T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月11日当周 API原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -32.7 | 预测: - | 公布: -\n-- 美国 截至9月11日当周 API汽油库存变动 (万桶) ★★★: 前值: -186.7 | 预测: - | 公布: -
-UID:fx678-20260916-38bdb499
+UID:fx678-20260916-29b814cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +68,8 @@ DTSTART;TZID=Asia/Shanghai:20260916T203000
 DTEND;TZID=Asia/Shanghai:20260916T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 进口物价指数月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.4 | 预测: - | 公布: -\n-- 美国 8月 进口物价指数年率 (%) ★★★: 前值: 6 | 预测: - | 公布: -
-UID:fx678-20260916-635da0b6
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.4 | 预测: 0.4 | 公布: -\n-- 美国 8月 进口物价指数年率 (%) ★★★: 前值: 6 | 预测: - | 公布: -
+UID:fx678-20260916-26af8c55
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,8 +84,8 @@ DTSTART;TZID=Asia/Shanghai:20260916T203000
 DTEND;TZID=Asia/Shanghai:20260916T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.6 | 预测: 0.8 | 公布: -\n-- 美国 8月 核心零售销售月率 (%) ★★★: 前值: -0.3 | 预测: 0.5 | 公布: -\n-- 美国 8月 零售销售年率 (%) ★★★: 前值: 5.01 | 预测: - | 公布: -\n-- 美国 8月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: -0.4 | 预测: 0.4 | 公布: -
-UID:fx678-20260916-3742ba73
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -0.6 | 预测: 0.9 | 公布: -\n-- 美国 8月 核心零售销售月率 (%) ★★★: 前值: -0.3 | 预测: 0.6 | 公布: -\n-- 美国 8月 零售销售年率 (%) ★★★: 前值: 5.01 | 预测: - | 公布: -\n-- 美国 8月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: -0.4 | 预测: 0.4 | 公布: -
+UID:fx678-20260916-0c06d052
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260916T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月11日当周 EIA原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -39.1 | 预测: - | 公布: -\n-- 美国 截至9月11日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 126.9 | 预测: - | 公布: -\n-- 美国 截至9月11日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: 208.7 | 预测: - | 公布: -\n-- 美国 截至9月11日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -68.4 | 预测: - | 公布: -\n-- 美国 截至9月11日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 112 | 预测: - | 公布: -
-UID:fx678-20260916-22207af1
+UID:fx678-20260916-7c74140f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260917T020000
 LOCATION:美国
 SUMMARY:📊 美国 9月 联邦基金利率目标上限 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.75 | 预测: 3.75 | 公布: -\n-- 美国 9月 联邦基金利率目标下限 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260917-2c89065e
+UID:fx678-20260917-6db190e2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260917T040000
 LOCATION:美国
 SUMMARY:📊 美国 7月 国际资本净流入 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1335 | 预测: - | 公布: -\n-- 美国 7月 外资净买入长期证券 (亿美元) ★★★: 前值: 1727 | 预测: - | 公布: -
-UID:fx678-20260917-4f7f2ade
+UID:fx678-20260917-0bf66864
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -148,8 +148,8 @@ DTSTART;TZID=Asia/Shanghai:20260917T203000
 DTEND;TZID=Asia/Shanghai:20260917T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 营建许可月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.3 | 预测: - | 公布: -\n-- 美国 8月 营建许可年化总数初值 (万户) ★★★: 前值: 143.3 | 预测: 141.8 | 公布: -
-UID:fx678-20260917-13506448
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.3 | 预测: - | 公布: -\n-- 美国 8月 营建许可年化总数初值 (万户) ★★★: 前值: 143.3 | 预测: 141 | 公布: -
+UID:fx678-20260917-161729e5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -164,8 +164,8 @@ DTSTART;TZID=Asia/Shanghai:20260917T203000
 DTEND;TZID=Asia/Shanghai:20260917T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月12日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: - | 公布: -\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 177.4 | 预测: - | 公布: -
-UID:fx678-20260917-04bef002
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.6 | 预测: 20.5 | 公布: -\n-- 美国 截至9月5日当周 续请失业金人数 (万) ★★★: 前值: 177.4 | 预测: - | 公布: -
+UID:fx678-20260917-7c0b2552
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260917T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 费城联储制造业指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.4 | 预测: 32.1 | 公布: -
-UID:fx678-20260917-5184871f
+UID:fx678-20260917-5842bc1a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260917T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 季调后成屋签约销售指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.3 | 预测: - | 公布: -
-UID:fx678-20260917-2af1902c
+UID:fx678-20260917-35e48067
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20260918T010000
 LOCATION:美国
 SUMMARY:📊 美国 9月17日 10年期TIPS竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 210 | 预测: - | 公布: -
-UID:fx678-20260918-605ff483
+UID:fx678-20260918-6f44b297
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -229,7 +229,7 @@ DTEND;TZID=Asia/Shanghai:20260918T010000
 LOCATION:美国
 SUMMARY:📊 美国 9月17日 10年期TIPS竞拍-高收益率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.44 | 预测: - | 公布: -
-UID:fx678-20260918-524c575e
+UID:fx678-20260918-27f4a0ce
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -245,7 +245,7 @@ DTEND;TZID=Asia/Shanghai:20260918T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月16日 美联储资产负债表 (万亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.79 | 预测: - | 公布: -
-UID:fx678-20260918-357322d2
+UID:fx678-20260918-37e7d737
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -260,8 +260,8 @@ DTSTART;TZID=Asia/Shanghai:20260918T211500
 DTEND;TZID=Asia/Shanghai:20260918T211500
 LOCATION:美国
 SUMMARY:📊 美国 8月 工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 8月 产能利用率 (%) ★★★: 前值: 76.3 | 预测: 76.5 | 公布: -\n-- 美国 8月 制造业产出月率 (%) ★★★: 前值: 0.2 | 预测: - | 公布: -\n-- 美国 8月 制造业产能利用率 (%) ★★★: 前值: 76 | 预测: - | 公布: -\n-- 美国 8月 工业产出年率-季调后 (%) ★★★: 前值: 1.08 | 预测: - | 公布: -
-UID:fx678-20260918-43b8ff2f
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 8月 产能利用率 (%) ★★★: 前值: 76.3 | 预测: 76.4 | 公布: -\n-- 美国 8月 制造业产出月率 (%) ★★★: 前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 8月 制造业产能利用率 (%) ★★★: 前值: 76 | 预测: - | 公布: -\n-- 美国 8月 工业产出年率-季调后 (%) ★★★: 前值: 1.08 | 预测: - | 公布: -
+UID:fx678-20260918-5d71d845
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -276,8 +276,8 @@ DTSTART;TZID=Asia/Shanghai:20260919T010000
 DTEND;TZID=Asia/Shanghai:20260919T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月18日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月18日当周 石油钻井总数 (口) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20260919-0a9738cd
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 591 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 石油钻井总数 (口) ★★★: 前值: 450 | 预测: - | 公布: -
+UID:fx678-20260919-4312143b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -285,6 +285,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 截至9月18日当周 全美钻井总数 (口)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260922T201500
+DTEND;TZID=Asia/Shanghai:20260922T201500
+LOCATION:美国
+SUMMARY:📊 美国 截至9月5日当周 ADP就业周度发布变动 (万人)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260922-2d495830
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至9月5日当周 ADP就业周度发布变动 (万人)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
