@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260918T110000
-DTEND;TZID=Asia/Shanghai:20260918T110000
-LOCATION:中国
-SUMMARY:📊 中国 8月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 550 | 预测: - | 公布: 516\n-- 中国 8月 管道天然气进口量-能源 (万吨) ★★★: 前值: 510 | 预测: - | 公布: 517
-UID:fx678-20260918-0561dd4f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 8月 液化天然气进口量-能源 (万吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260921T090000
 DTEND;TZID=Asia/Shanghai:20260921T090000
 LOCATION:中国
 SUMMARY:📊 中国 9月 一年期贷款市场报价利率LPR (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 9月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20260921-1dab05a1
+UID:fx678-20260921-73dc0770
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260921T114000
 LOCATION:中国
 SUMMARY:📊 中国 8月 全社会用电量年率-每月 (%) (不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: -\n-- 中国 8月 全社会用电量-每月 (亿千瓦时) (不定时) ★★★: 前值: 10400 | 预测: - | 公布: -
-UID:fx678-20260921-7d0ece86
+UID:fx678-20260921-26c96136
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

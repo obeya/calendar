@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260918T140000
-DTEND;TZID=Asia/Shanghai:20260918T140000
-LOCATION:德国
-SUMMARY:📊 德国 8月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 3 | 预测: 4.1 | 公布: 4.6\n-- 德国 8月 PPI月率 (%): 前值: 1.1 | 预测: 0.4 | 公布: 1.1
-UID:fx678-20260918-36a6b34f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 8月 PPI年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260923T153000
 DTEND;TZID=Asia/Shanghai:20260923T153000
 LOCATION:德国
 SUMMARY:📊 德国 9月 SPGI制造业PMI初值
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 54.3 | 预测: 54.5 | 公布: -
-UID:fx678-20260923-6759feba
+UID:fx678-20260923-447b562e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260923T153000
 LOCATION:德国
 SUMMARY:📊 德国 9月 SPGI服务业PMI初值
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 49.7 | 预测: 50 | 公布: -\n-- 德国 9月 SPGI综合PMI初值: 前值: 51.8 | 预测: - | 公布: -
-UID:fx678-20260923-216360e1
+UID:fx678-20260923-17263334
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260924T120000
 LOCATION:德国
 SUMMARY:📊 德国 7月 新车登记年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 5.8 | 预测: - | 公布: -\n-- 德国 7月 新车登记月率 (%): 前值: 15.7 | 预测: - | 公布: -\n-- 欧盟 7月 新车登记年率 (%): 前值: 5.7 | 预测: - | 公布: -\n-- 欧盟 7月 新车登记数量 (辆): 前值: 1147962 | 预测: - | 公布: -\n-- 欧盟 7月 新车登记月率 (%): 前值: 13.6 | 预测: - | 公布: -
-UID:fx678-20260924-502b51ca
+UID:fx678-20260924-7f5ede84
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260924T160000
 LOCATION:德国
 SUMMARY:📊 德国 9月 IFO商业景气指数
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 88.8 | 预测: 89.2 | 公布: -\n-- 德国 9月 IFO商业现况指数: 前值: 88.5 | 预测: - | 公布: -\n-- 德国 9月 IFO商业预期指数: 前值: 89.1 | 预测: - | 公布: -
-UID:fx678-20260924-633ca7fa
+UID:fx678-20260924-1642151f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260925T140000
 LOCATION:德国
 SUMMARY:📊 德国 10月 Gfk消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -26.6 | 预测: - | 公布: -
-UID:fx678-20260925-3c9c0ee8
+UID:fx678-20260925-37de742b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

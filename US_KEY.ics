@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20260922T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月5日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.63 | 预测: - | 公布: -
-UID:fx678-20260922-4f990b24
+UID:fx678-20260922-503e5577
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260924T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月19日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.6 | 预测: - | 公布: -\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 173 | 预测: - | 公布: -
-UID:fx678-20260924-05f74625
+UID:fx678-20260924-1e43627d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260925T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 密歇根大学消费者信心指数终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: - | 公布: -
-UID:fx678-20260925-3b73861a
+UID:fx678-20260925-6b1c9c83
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
