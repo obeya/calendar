@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20260922T201500
 DTEND;TZID=Asia/Shanghai:20260922T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月5日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.63 | 预测: - | 公布: -
-UID:fx678-20260922-203a694f
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.63 | 预测: - | 公布: 2
+UID:fx678-20260922-5eff4399
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20260923T043000
 DTEND;TZID=Asia/Shanghai:20260923T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月18日当周 API原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 714.4 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 API汽油库存变动 (万桶) ★★★: 前值: 146.2 | 预测: - | 公布: -
-UID:fx678-20260923-5e229b49
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 714.4 | 预测: -56.3 | 公布: -\n-- 美国 截至9月18日当周 API汽油库存变动 (万桶) ★★★: 前值: 146.2 | 预测: 15.8 | 公布: -
+UID:fx678-20260923-6739ce6b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20260923T214500
 DTEND;TZID=Asia/Shanghai:20260923T214500
 LOCATION:美国
 SUMMARY:📊 美国 9月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.9 | 预测: 53.5 | 公布: -
-UID:fx678-20260923-55e0d5d1
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.9 | 预测: 53.6 | 公布: -
+UID:fx678-20260923-7cc68411
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +68,8 @@ DTSTART;TZID=Asia/Shanghai:20260923T223000
 DTEND;TZID=Asia/Shanghai:20260923T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月18日当周 EIA原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -64 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 79.4 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: 158.5 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -34.2 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: -118 | 预测: - | 公布: -
-UID:fx678-20260923-335e75d7
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -64 | 预测: -56.3 | 公布: -\n-- 美国 截至9月18日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 79.4 | 预测: 15.8 | 公布: -\n-- 美国 截至9月18日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: 158.5 | 预测: -45.9 | 公布: -\n-- 美国 截至9月18日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -34.2 | 预测: - | 公布: -\n-- 美国 截至9月18日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: -118 | 预测: - | 公布: -
+UID:fx678-20260923-4886c4d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260924T200000
 LOCATION:美国
 SUMMARY:📊 美国 8月 营建许可月率修正值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2.7 | 预测: - | 公布: -\n-- 美国 8月 营建许可年化总数修正值 (万户) ★★★: 前值: 139.4 | 预测: - | 公布: -
-UID:fx678-20260924-4cce7f37
+UID:fx678-20260924-0f2e7db4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260924T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 经常帐 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -2268 | 预测: -2550 | 公布: -
-UID:fx678-20260924-3304ee56
+UID:fx678-20260924-3cf5b326
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -116,8 +116,8 @@ DTSTART;TZID=Asia/Shanghai:20260924T203000
 DTEND;TZID=Asia/Shanghai:20260924T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月19日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.6 | 预测: 20.3 | 公布: -\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 173 | 预测: - | 公布: -
-UID:fx678-20260924-4ba81f80
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.6 | 预测: 20.1 | 公布: -\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 173 | 预测: 174.5 | 公布: -
+UID:fx678-20260924-41dbd12e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -132,8 +132,8 @@ DTSTART;TZID=Asia/Shanghai:20260924T220000
 DTEND;TZID=Asia/Shanghai:20260924T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 季调后新屋销售年化总数 (万户)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 60.7 | 预测: 62 | 公布: -
-UID:fx678-20260924-4febe56e
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 60.7 | 预测: 61.5 | 公布: -
+UID:fx678-20260924-62bb45df
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260925T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月23日 美联储资产负债表 (万亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.8 | 预测: - | 公布: -
-UID:fx678-20260925-2d8e5925
+UID:fx678-20260925-3d2f695f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -164,8 +164,8 @@ DTSTART;TZID=Asia/Shanghai:20260925T203000
 DTEND;TZID=Asia/Shanghai:20260925T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 耐用品订单月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.1 | 预测: -0.3 | 公布: -
-UID:fx678-20260925-7334aa30
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.1 | 预测: -0.4 | 公布: -
+UID:fx678-20260925-7bf54858
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -180,8 +180,8 @@ DTSTART;TZID=Asia/Shanghai:20260925T220000
 DTEND;TZID=Asia/Shanghai:20260925T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: 47.5 | 公布: -
-UID:fx678-20260925-5dfa550f
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: 47.6 | 公布: -
+UID:fx678-20260925-163f4559
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260926T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 全美钻井总数 (口)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 595 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 石油钻井总数 (口) ★★★: 前值: 452 | 预测: - | 公布: -
-UID:fx678-20260926-745fe563
+UID:fx678-20260926-5f397c85
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -212,8 +212,8 @@ DTSTART;TZID=Asia/Shanghai:20260929T220000
 DTEND;TZID=Asia/Shanghai:20260929T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 89.4 | 预测: - | 公布: -
-UID:fx678-20260929-28599ab7
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 89.4 | 预测: 90 | 公布: -
+UID:fx678-20260929-41bd5689
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -229,7 +229,7 @@ DTEND;TZID=Asia/Shanghai:20260929T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 JOLTs职位空缺 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 727.1 | 预测: - | 公布: -
-UID:fx678-20260929-317169c4
+UID:fx678-20260929-770564a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -237,6 +237,134 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月 JOLTs职位空缺 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T043000
+DTEND;TZID=Asia/Shanghai:20260930T043000
+LOCATION:美国
+SUMMARY:📊 美国 截至9月25日当周 API原油库存变动 (万桶)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260930-2d58ffd0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至9月25日当周 API原油库存变动 (万桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T201500
+DTEND;TZID=Asia/Shanghai:20260930T201500
+LOCATION:美国
+SUMMARY:📊 美国 9月 ADP就业人数变动 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: - | 公布: -
+UID:fx678-20260930-217b3fa3
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 9月 ADP就业人数变动 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T203000
+DTEND;TZID=Asia/Shanghai:20260930T203000
+LOCATION:美国
+SUMMARY:📊 美国 8月 个人支出月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: - | 公布: -
+UID:fx678-20260930-36a783ed
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 个人支出月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T203000
+DTEND;TZID=Asia/Shanghai:20260930T203000
+LOCATION:美国
+SUMMARY:📊 美国 8月 PCE物价指数年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 8月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: - | 公布: -
+UID:fx678-20260930-29947eb5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 PCE物价指数年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T203000
+DTEND;TZID=Asia/Shanghai:20260930T203000
+LOCATION:美国
+SUMMARY:📊 美国 第二季度 实际GDP年化季率终值 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: - | 公布: -\n-- 美国 第二季度 GDP价格指数季率终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率终值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率终值 (%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -
+UID:fx678-20260930-2a535c15
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 第二季度 实际GDP年化季率终值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T203000
+DTEND;TZID=Asia/Shanghai:20260930T203000
+LOCATION:美国
+SUMMARY:📊 美国 8月 批发库存月率初值 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260930-0934ca25
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 批发库存月率初值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T214500
+DTEND;TZID=Asia/Shanghai:20260930T214500
+LOCATION:美国
+SUMMARY:📊 美国 9月 芝加哥PMI
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.1 | 预测: - | 公布: -
+UID:fx678-20260930-4ffe40a3
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 9月 芝加哥PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260930T223000
+DTEND;TZID=Asia/Shanghai:20260930T223000
+LOCATION:美国
+SUMMARY:📊 美国 截至9月25日当周 EIA原油库存变动 (万桶)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA精炼油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周原油进口变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260930-4b2ac947
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至9月25日当周 EIA原油库存变动 (万桶)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
