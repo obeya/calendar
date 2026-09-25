@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260924T203000
-DTEND;TZID=Asia/Shanghai:20260924T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至9月19日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.6 | 预测: 20.1 | 公布: 19.7\n-- 美国 截至9月12日当周 续请失业金人数 (万) ★★★: 前值: 173 | 预测: 174.5 | 公布: 171.9
-UID:fx678-20260924-7732e909
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至9月19日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260925T220000
 DTEND;TZID=Asia/Shanghai:20260925T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: 47.6 | 公布: -
-UID:fx678-20260925-7aa21b68
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: 47.6 | 公布: 48.1
+UID:fx678-20260925-7ac620db
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260929T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 谘商会消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 89.4 | 预测: 90 | 公布: -
-UID:fx678-20260929-62ee3131
+UID:fx678-20260929-10738901
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260930T201500
 LOCATION:美国
 SUMMARY:📊 美国 9月 ADP就业人数变动 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: - | 公布: -
-UID:fx678-20260930-0f387b62
+UID:fx678-20260930-4acfd38f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 个人支出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.8 | 公布: -
-UID:fx678-20260930-2fd18f6a
+UID:fx678-20260930-19efe630
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 PCE物价指数年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 8月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: 3.4 | 公布: -
-UID:fx678-20260930-1bebdca0
+UID:fx678-20260930-4f2c1c5a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 实际GDP年化季率终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.6 | 公布: -\n-- 美国 第二季度 GDP价格指数季率终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率终值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率终值 (%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -
-UID:fx678-20260930-49c5d679
+UID:fx678-20260930-09cc3096
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261001T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 ISM制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.6 | 预测: 54.8 | 公布: -
-UID:fx678-20261001-03f41531
+UID:fx678-20261001-520d55ec
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261002T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 非农就业人口变动季调后 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 16.2 | 预测: 10 | 公布: -\n-- 美国 9月 平均每小时工资年率 (%) ★★★: 前值: 3.1 | 预测: - | 公布: -\n-- 美国 9月 私营企业非农就业人数变动 (万) ★★★: 前值: 12.7 | 预测: 8.5 | 公布: -\n-- 美国 9月 劳动参与率 (%) ★★★: 前值: 61.6 | 预测: - | 公布: -\n-- 美国 9月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.6 | 预测: - | 公布: -\n-- 美国 9月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.2 | 公布: -
-UID:fx678-20261002-38dffb6e
+UID:fx678-20261002-6359d020
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
