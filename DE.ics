@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T140000
-DTEND;TZID=Asia/Shanghai:20260925T140000
-LOCATION:德国
-SUMMARY:📊 德国 10月 Gfk消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -26.6 | 预测: -27.4 | 公布: -30.6
-UID:fx678-20260925-6fc39f67
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 10月 Gfk消费者信心指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260930T140000
 DTEND;TZID=Asia/Shanghai:20260930T140000
 LOCATION:德国
 SUMMARY:📊 德国 8月 进口物价指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.2 | 预测: - | 公布: -\n-- 德国 8月 进口物价指数年率 (%): 前值: 6.8 | 预测: - | 公布: -\n-- 德国 8月 出口物价指数年率 (%): 前值: 4.2 | 预测: - | 公布: -\n-- 德国 8月 出口物价指数月率 (%): 前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20260930-60d8ac07
+UID:fx678-20260930-73cc05b1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20260930T140000
 LOCATION:德国
 SUMMARY:📊 德国 8月 实际零售销售月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -3.4 | 预测: - | 公布: -\n-- 德国 8月 实际零售销售年率 (%) ★★★: 前值: -2.5 | 预测: - | 公布: -
-UID:fx678-20260930-7c6a17ae
+UID:fx678-20260930-10389eea
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260930T155500
 LOCATION:德国
 SUMMARY:📊 德国 9月 季调后失业率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.4 | 预测: - | 公布: -\n-- 德国 9月 季调后失业人数变动 (万人) ★★★: 前值: 0.4 | 预测: - | 公布: -\n-- 德国 9月 未季调失业总人数 (万人): 前值: 30.61 | 预测: - | 公布: -\n-- 德国 9月 季调后失业总人数 (万人): 前值: 299.6 | 预测: - | 公布: -
-UID:fx678-20260930-3e39ac19
+UID:fx678-20260930-7f359921
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260930T160000
 LOCATION:德国
 SUMMARY:📊 德国 9月 BB勃兰登堡州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值:  | 预测: - | 公布: -\n-- 德国 9月 SN萨克森州CPI月率 (%): 前值: 0.1 | 预测: - | 公布: -\n-- 德国 9月 SN萨克森州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 9月 BY巴伐利亚州CPI月率 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 德国 9月 BY巴伐利亚州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 9月 BB勃兰登堡州CPI年率 (%): 前值:  | 预测: - | 公布: -\n-- 德国 9月 BW巴登符腾堡州CPI月率 (%): 前值: 0.1 | 预测: - | 公布: -\n-- 德国 9月 BW巴登符腾堡州CPI年率 (%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国 9月 HE黑森州CPI月率 (%): 前值: 0.3 | 预测: - | 公布: -\n-- 德国 9月 HE黑森州CPI年率 (%): 前值: 3 | 预测: - | 公布: -
-UID:fx678-20260930-07b763bd
+UID:fx678-20260930-5927ad32
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260930T160000
 LOCATION:德国
 SUMMARY:📊 德国 9月 NW北莱茵威斯特法伦州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.2 | 预测: - | 公布: -\n-- 德国 9月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -
-UID:fx678-20260930-544d4527
+UID:fx678-20260930-2488673e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260930T200000
 LOCATION:德国
 SUMMARY:📊 德国 9月 CPI年率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.9 | 预测: - | 公布: -\n-- 德国 9月 CPI月率初值 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 德国 9月 调和CPI月率初值 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 德国 9月 调和CPI年率初值 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 9月 未季调CPI读数初值: 前值: 125.8 | 预测: - | 公布: -
-UID:fx678-20260930-4871b815
+UID:fx678-20260930-33964162
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261001T155500
 LOCATION:德国
 SUMMARY:📊 德国 9月 SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 53.8 | 预测: - | 公布: -
-UID:fx678-20261001-3f53459e
+UID:fx678-20261001-789cf0a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

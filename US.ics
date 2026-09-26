@@ -16,108 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T010000
-DTEND;TZID=Asia/Shanghai:20260925T010000
-LOCATION:美国
-SUMMARY:📊 美国 9月24日 7年期国债竞拍-总金额 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 440 | 预测: - | 公布: 440\n-- 美国 9月24日 7年期国债竞拍-高收益率 (%): 前值: 4.51 | 预测: - | 公布: 5.09\n-- 美国 9月24日 7年期国债竞拍-投标倍数 (倍): 前值: 2.5 | 预测: - | 公布: 2.42\n-- 美国 9月24日 7年期国债竞拍-高配置百分比 (%): 前值: 97.63 | 预测: - | 公布: 91.11
-UID:fx678-20260925-56eb34c6
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 9月24日 7年期国债竞拍-总金额 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T043000
-DTEND;TZID=Asia/Shanghai:20260925T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至9月23日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.8 | 预测: - | 公布: 6.8
-UID:fx678-20260925-201d9173
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至9月23日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T043000
-DTEND;TZID=Asia/Shanghai:20260925T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至9月19日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 187.26 | 预测: - | 公布: -113.7
-UID:fx678-20260925-6f6a0376
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至9月19日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T063000
-DTEND;TZID=Asia/Shanghai:20260925T063000
-LOCATION:美国
-SUMMARY:📊 美国 9月23日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3874.27 | 预测: - | 公布: 3874.27\n-- 美国 9月23日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 9月23日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2502.47 | 预测: - | 公布: 2502.47\n-- 美国 9月23日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260925-12a30273
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 9月23日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T203000
-DTEND;TZID=Asia/Shanghai:20260925T203000
-LOCATION:美国
-SUMMARY:📊 美国 8月 耐用品订单月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.1 | 预测: -0.4 | 公布: 0\n-- 美国 8月 扣除飞机非国防资本品订单月率初值 (%): 前值: 0 | 预测: 0.5 | 公布: 1.6\n-- 美国 8月 扣除运输耐用品订单月率初值 (%): 前值: 0.4 | 预测: 0.6 | 公布: 0.3\n-- 美国 8月 扣除飞机非国防资本品出货月率初值 (%): 前值: 0 | 预测: 0.5 | 公布: 1.6\n-- 美国 8月 扣除国防耐用品订单月率初值 (%): 前值: 1.3 | 预测: - | 公布: 0.1
-UID:fx678-20260925-6aee0475
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月 耐用品订单月率初值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260925T220000
-DTEND;TZID=Asia/Shanghai:20260925T220000
-LOCATION:美国
-SUMMARY:📊 美国 9月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.8 | 预测: 47.6 | 公布: 48.1\n-- 美国 9月 密歇根大学消费者预期终值: 前值: 45.8 | 预测: - | 公布: 46.3\n-- 美国 9月 密歇根大学经济现况终值: 前值: 50.9 | 预测: 49.5 | 公布: 50.9\n-- 美国 9月 密歇根大学1年期通胀率预期终值 (%): 前值: 4.6 | 预测: - | 公布: 4.6\n-- 美国 9月 密歇根大学5年期通胀率预期终值 (%): 前值: 3.4 | 预测: - | 公布: 3.4
-UID:fx678-20260925-7ac620db
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 9月 密歇根大学消费者信心指数终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260926T010000
 DTEND;TZID=Asia/Shanghai:20260926T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 全美钻井总数 (口)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 595 | 预测: - | 公布: 599\n-- 美国 截至9月25日当周 天然气钻井总数 (口): 前值: 134 | 预测: - | 公布: 135\n-- 美国 截至9月25日当周 石油钻井总数 (口) ★★★: 前值: 452 | 预测: - | 公布: 455\n-- 美国 截至9月25日当周 混杂钻井总数 (口): 前值: 9 | 预测: - | 公布: 9\n-- 北美洲 截至9月25日当周 总钻井总数 (口): 前值: 792 | 预测: - | 公布: 807\n-- 北美洲 截至9月25日当周 墨西哥湾总钻井总数 (口): 前值: 5 | 预测: - | 公布: 6\n-- 加拿大 截至9月25日当周 总钻井数量 (口): 前值: 197 | 预测: - | 公布: 208
-UID:fx678-20260926-19213dce
+UID:fx678-20260926-31e88b0c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -132,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20260926T063000
 DTEND;TZID=Asia/Shanghai:20260926T063000
 LOCATION:美国
 SUMMARY:📊 美国 9月24日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3874.27 | 预测: - | 公布: -\n-- 美国 9月24日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国 9月24日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2502.47 | 预测: - | 公布: -\n-- 美国 9月24日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -
-UID:fx678-20260926-24e67600
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3874.27 | 预测: - | 公布: 3874.27\n-- 美国 9月24日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -27.7\n-- 美国 9月24日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2502.47 | 预测: - | 公布: 2502.47\n-- 美国 9月24日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
+UID:fx678-20260926-53635f83
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20260928T223000
 LOCATION:美国
 SUMMARY:📊 美国 9月 达拉斯联储制造业活动指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 11.6 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储制造业产出指数: 前值: 16.1 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储制造业装船指数: 前值: 14.1 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储制造业原材料支付价格指数: 前值: 44.1 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储制成品价格指数: 前值: 22.7 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储制造业就业指数: 前值: 8 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储新订单指数: 前值: 22 | 预测: - | 公布: -
-UID:fx678-20260928-42b19ad7
+UID:fx678-20260928-5e0cba99
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20260928T233000
 LOCATION:美国
 SUMMARY:📊 美国 9月28日 6个月期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 843.36 | 预测: - | 公布: -\n-- 美国 9月28日 6个月期国债竞拍-中标利率 (%): 前值: 4.16 | 预测: - | 公布: -\n-- 美国 9月28日 6个月期国债竞拍-投标倍数 (亿美元): 前值: 2.62 | 预测: - | 公布: -\n-- 美国 9月28日 6个月期国债竞拍-高配置百分比 (%): 前值: 48.01 | 预测: - | 公布: -
-UID:fx678-20260928-1aca1a35
+UID:fx678-20260928-4044c586
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20260928T233000
 LOCATION:美国
 SUMMARY:📊 美国 9月28日 3个月期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 982.14 | 预测: - | 公布: -\n-- 美国 9月28日 3个月期国债竞拍-中标利率 (%): 前值: 4.01 | 预测: - | 公布: -\n-- 美国 9月28日 3个月期国债竞拍-投标倍数 (亿美元): 前值: 2.77 | 预测: - | 公布: -\n-- 美国 9月28日 3个月期国债竞拍-高配置百分比 (%): 前值: 36.66 | 预测: - | 公布: -
-UID:fx678-20260928-23bebd85
+UID:fx678-20260928-3dc1b234
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20260929T063000
 LOCATION:美国
 SUMMARY:📊 美国 9月25日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 9月25日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月25日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月25日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260929-43ebbc9e
+UID:fx678-20260929-7961821e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20260929T205500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月21日当周 红皮书商业零售销售年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 7.6 | 预测: - | 公布: -
-UID:fx678-20260929-3e97a3a6
+UID:fx678-20260929-18880552
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -229,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20260929T210000
 LOCATION:美国
 SUMMARY:📊 美国 7月 FHFA房价指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0 | 预测: - | 公布: -\n-- 美国 7月 FHFA房价指数年率 (%): 前值: 2.3 | 预测: - | 公布: -\n-- 美国 7月 FHFA房价指数: 前值: 442.5 | 预测: - | 公布: -
-UID:fx678-20260929-4323a7a4
+UID:fx678-20260929-63081d26
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -245,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20260929T210000
 LOCATION:美国
 SUMMARY:📊 美国 7月 S&P/CS20座大城市未季调房价指数年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 2.1 | 预测: - | 公布: -\n-- 美国 7月 S&P/CS20座大城市季调后房价指数月率 (%): 前值: 0.2 | 预测: - | 公布: -\n-- 美国 7月 S&P/CS20座大城市未季调房价指数月率 (%): 前值: 0.4 | 预测: - | 公布: -\n-- 美国 7月 S&P/CS10座大城市未季调房价指数月率 (%): 前值: 0.52 | 预测: - | 公布: -\n-- 美国 7月 S&P/CS10座大城市未季调房价指数年率 (%): 前值: 2.94 | 预测: - | 公布: -\n-- 美国 7月 S&P/CS20座大城市未季调房价指数: 前值: 350.2 | 预测: - | 公布: -
-UID:fx678-20260929-7652d538
+UID:fx678-20260929-48150dbe
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -261,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20260929T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 谘商会消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 89.4 | 预测: 90 | 公布: -\n-- 美国 9月 谘商会消费者预期指数: 前值: 68.2 | 预测: - | 公布: -\n-- 美国 9月 谘商会消费者现况指数: 前值: 121.2 | 预测: - | 公布: -
-UID:fx678-20260929-10738901
+UID:fx678-20260929-38e7d44e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -277,7 +181,7 @@ DTEND;TZID=Asia/Shanghai:20260929T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 JOLTs职位空缺 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 727.1 | 预测: - | 公布: -
-UID:fx678-20260929-755f75d7
+UID:fx678-20260929-3a02a489
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -293,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20260929T223000
 LOCATION:美国
 SUMMARY:📊 美国 9月 达拉斯联储服务业收入指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 6.6 | 预测: - | 公布: -\n-- 美国 9月 达拉斯联储德州服务展望指数: 前值: 4.2 | 预测: - | 公布: -
-UID:fx678-20260929-1c9e0e43
+UID:fx678-20260929-54c32b67
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -309,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20260929T233000
 LOCATION:美国
 SUMMARY:📊 美国 9月29日 12个月期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 551.35 | 预测: - | 公布: -\n-- 美国 9月29日 12个月期国债竞拍-中标利率 (%): 前值: 3.98 | 预测: - | 公布: -\n-- 美国 9月29日 12个月期国债竞拍-投标倍数 (亿美元): 前值: 3.61 | 预测: - | 公布: -\n-- 美国 9月29日 12个月期国债竞拍-高配置百分比 (%): 前值: 34.18 | 预测: - | 公布: -
-UID:fx678-20260929-7919ea4f
+UID:fx678-20260929-361eba42
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -325,7 +229,7 @@ DTEND;TZID=Asia/Shanghai:20260930T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 API原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 178.6 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API馏分油库存变动 (万桶): 前值: -216.4 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API汽油库存变动 (万桶) ★★★: 前值: -216 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API库欣原油库存变动 (万桶): 前值: 208.2 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API每周取暖油库存 (万桶): 前值: 43.5 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API每周原油进口 (万桶): 前值: -73.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API每周成品油进口 (万桶): 前值: -37.3 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 API每周投产原油量 (万桶): 前值: -52.7 | 预测: - | 公布: -
-UID:fx678-20260930-0ae03a5f
+UID:fx678-20260930-3793a736
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -341,7 +245,7 @@ DTEND;TZID=Asia/Shanghai:20260930T063000
 LOCATION:美国
 SUMMARY:📊 美国 9月28日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 9月28日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月28日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月28日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20260930-5132aa52
+UID:fx678-20260930-260dc8c5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -357,7 +261,7 @@ DTEND;TZID=Asia/Shanghai:20260930T190000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 MBA抵押贷款申请活动指数
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 227.3 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 MBA抵押贷款申请活动指数周环比 (%): 前值: -1.5 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 MBA抵押贷款购买指数: 前值: 154.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 MBA抵押贷款再融资活动指数: 前值: 611 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 MBA30年期固定抵押贷款利率 (%): 前值: 7.12 | 预测: - | 公布: -
-UID:fx678-20260930-5df7da3a
+UID:fx678-20260930-5d60dd49
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -373,7 +277,7 @@ DTEND;TZID=Asia/Shanghai:20260930T201500
 LOCATION:美国
 SUMMARY:📊 美国 9月 ADP就业人数变动 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: - | 公布: -
-UID:fx678-20260930-4acfd38f
+UID:fx678-20260930-2516413b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -389,7 +293,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 个人支出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.8 | 公布: -\n-- 美国 8月 个人收入月率 (%): 前值: 0.4 | 预测: 0.4 | 公布: -\n-- 美国 8月 实际个人消费支出月率 (%): 前值: 0 | 预测: - | 公布: -
-UID:fx678-20260930-19efe630
+UID:fx678-20260930-378e451d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -405,7 +309,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 PCE物价指数年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 8月 核心PCE物价指数月率 (%): 前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 8月 核心PCE物价指数年率 (%) ★★★: 前值: 3.3 | 预测: 3.4 | 公布: -\n-- 美国 8月 PCE物价指数月率 (%): 前值: 0.2 | 预测: 0.4 | 公布: -
-UID:fx678-20260930-4f2c1c5a
+UID:fx678-20260930-5e6957ca
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -421,7 +325,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 第二季度 实际GDP年化季率终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.6 | 公布: -\n-- 美国 第二季度 企业获利年化季率修正值 (%): 前值: 8.2 | 预测: - | 公布: -\n-- 美国 第二季度 GDP价格指数季率终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -\n-- 美国 第二季度 核心PCE物价指数年化季率终值 (%) ★★★: 前值: 3.6 | 预测: - | 公布: -\n-- 美国 第二季度 消费者支出年化季率终值 (%) ★★★: 前值: 3.4 | 预测: - | 公布: -\n-- 美国 第二季度 最终销售年化季率终值 (%): 前值: 2.2 | 预测: - | 公布: -\n-- 美国 第二季度 PCE物价指数年化季率终值 (%): 前值: 5.3 | 预测: - | 公布: -\n-- 美国 第二季度 GDP隐性平减指数季率-季调后终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: -
-UID:fx678-20260930-09cc3096
+UID:fx678-20260930-13d7b85f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -437,7 +341,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 商品贸易帐初值 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -1189.4 | 预测: -1085 | 公布: -
-UID:fx678-20260930-0127fcdb
+UID:fx678-20260930-15eadf56
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -453,7 +357,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 批发库存月率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.3 | 预测: - | 公布: -
-UID:fx678-20260930-0b8956ad
+UID:fx678-20260930-4a78d81d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -469,7 +373,7 @@ DTEND;TZID=Asia/Shanghai:20260930T203000
 LOCATION:美国
 SUMMARY:📊 美国 8月 零售库存季调后月率-不含汽车初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.8 | 预测: - | 公布: -
-UID:fx678-20260930-2af669a2
+UID:fx678-20260930-4cbedeb8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -485,7 +389,7 @@ DTEND;TZID=Asia/Shanghai:20260930T214500
 LOCATION:美国
 SUMMARY:📊 美国 9月 芝加哥PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 47.1 | 预测: - | 公布: -
-UID:fx678-20260930-4a59673c
+UID:fx678-20260930-27b76791
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -501,7 +405,7 @@ DTEND;TZID=Asia/Shanghai:20260930T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 达拉斯联储PCE指数 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 2.2 | 预测: - | 公布: -
-UID:fx678-20260930-0d4b99b8
+UID:fx678-20260930-575f9774
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -517,7 +421,7 @@ DTEND;TZID=Asia/Shanghai:20260930T221000
 LOCATION:美国
 SUMMARY:📊 美国 至9月25日四周 公司债市困境指数-市场整体均值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 20 | 预测: - | 公布: -\n-- 美国 至9月25日四周 公司债市困境指数-投资级均值 (%): 前值: 26.75 | 预测: - | 公布: -\n-- 美国 至9月25日四周 公司债市困境指数-高收益均值 (%): 前值: 9.25 | 预测: - | 公布: -
-UID:fx678-20260930-51f74eb4
+UID:fx678-20260930-58541d1c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -533,7 +437,7 @@ DTEND;TZID=Asia/Shanghai:20260930T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 EIA原油库存变动 (万桶)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 296.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 DOE燃料乙醇库存 (万桶): 前值: 2468.3 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 DOE燃料乙醇总产量 (万桶/日): 前值: 102.8 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA精炼厂设备利用率 (%): 前值: 94 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA汽油库存变动 (万桶) ★★★: 前值: -168.6 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -42.8 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 DOE原油引伸需求 (万桶/日): 前值: 1939.2 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 DOE汽油引伸需求 (万桶/日): 前值: 968.5 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 DOE蒸馏油引伸需求 (万桶/日): 前值: 530.51 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: 226.6 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA精炼厂设备利用率变动 (%): 前值: -2.8 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA原油总产量 (万桶/日): 前值: 1393.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 36.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周新配方汽油库存变动 (万桶): 前值: 0.1 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周取暖油库存 (万桶): 前值: 34.6 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周成品油进口变动 (万桶): 前值: -12.1 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周馏分油产量变动 (万桶): 前值: -6.8 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周投产原油量变动 (万桶): 前值: -51.9 | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA每周汽油产量变动 (万桶): 前值: -5.4 | 预测: - | 公布: -
-UID:fx678-20260930-6a6dd4ad
+UID:fx678-20260930-282a13c9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -549,7 +453,7 @@ DTEND;TZID=Asia/Shanghai:20261001T063000
 LOCATION:美国
 SUMMARY:📊 美国 9月29日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 9月29日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月29日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月29日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20261001-69b7e83e
+UID:fx678-20261001-4280d993
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -565,7 +469,7 @@ DTEND;TZID=Asia/Shanghai:20261001T173000
 LOCATION:美国
 SUMMARY:📊 美国 9月 挑战者企业裁员人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.29 | 预测: - | 公布: -\n-- 美国 9月 挑战者企业裁员年率 (%): 前值: -38.5 | 预测: - | 公布: -\n-- 美国 9月 挑战者企业裁员月率 (%): 前值: 58.19 | 预测: - | 公布: -
-UID:fx678-20261001-67ff2574
+UID:fx678-20261001-6ef8d1d5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -581,7 +485,7 @@ DTEND;TZID=Asia/Shanghai:20261001T214500
 LOCATION:美国
 SUMMARY:📊 美国 9月 SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 57 | 预测: - | 公布: -
-UID:fx678-20261001-7c3dc4be
+UID:fx678-20261001-44e40bd7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -597,7 +501,7 @@ DTEND;TZID=Asia/Shanghai:20261001T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 营建支出月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -0.5 | 预测: - | 公布: -
-UID:fx678-20261001-004a9237
+UID:fx678-20261001-1707ea26
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -613,7 +517,7 @@ DTEND;TZID=Asia/Shanghai:20261001T220000
 LOCATION:美国
 SUMMARY:📊 美国 9月 ISM制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.6 | 预测: 54.8 | 公布: -\n-- 美国 9月 ISM制造业物价支付指数: 前值: 71.1 | 预测: - | 公布: -\n-- 美国 9月 ISM制造业产出指数: 前值: 58.3 | 预测: - | 公布: -\n-- 美国 9月 ISM制造业就业指数: 前值: 51.2 | 预测: - | 公布: -\n-- 美国 9月 ISM制造业库存指数: 前值: 50.6 | 预测: - | 公布: -\n-- 美国 9月 ISM制造业新订单指数: 前值: 53.7 | 预测: - | 公布: -
-UID:fx678-20261001-520d55ec
+UID:fx678-20261001-211657d1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -629,7 +533,7 @@ DTEND;TZID=Asia/Shanghai:20261001T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月25日当周 EIA天然气库存变动 (亿立方英尺)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月25日当周 EIA天然气隐含流量 (亿立方英尺): 前值:  | 预测: - | 公布: -
-UID:fx678-20261001-788d0208
+UID:fx678-20261001-41b63c4b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -645,7 +549,7 @@ DTEND;TZID=Asia/Shanghai:20261001T233000
 LOCATION:美国
 SUMMARY:📊 美国 10月1日 8周国债竞拍-投标倍数 (倍)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 10月1日 8周国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20261001-501b76a1
+UID:fx678-20261001-528225f4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -661,7 +565,7 @@ DTEND;TZID=Asia/Shanghai:20261001T233000
 LOCATION:美国
 SUMMARY:📊 美国 10月1日 4星期国债竞拍-总金额 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 10月1日 4星期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 10月1日 4星期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20261001-15284495
+UID:fx678-20261001-5df7481c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -677,7 +581,7 @@ DTEND;TZID=Asia/Shanghai:20261001T233000
 LOCATION:美国
 SUMMARY:📊 美国 10月1日 4星期国债竞拍-投标倍数 (倍)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -
-UID:fx678-20261001-1aa0b512
+UID:fx678-20261001-2d3b225a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -693,7 +597,7 @@ DTEND;TZID=Asia/Shanghai:20261002T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月30日 美联储资产负债表 (万亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261002-683a1ce5
+UID:fx678-20261002-3d6c6b60
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -709,7 +613,7 @@ DTEND;TZID=Asia/Shanghai:20261002T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月26日当周 外国央行持有美国国债 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -
-UID:fx678-20261002-51a5f130
+UID:fx678-20261002-1fea66c0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -725,7 +629,7 @@ DTEND;TZID=Asia/Shanghai:20261002T063000
 LOCATION:美国
 SUMMARY:📊 美国 9月30日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 9月30日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月30日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 9月30日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20261002-54085d02
+UID:fx678-20261002-79f4f07d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -741,7 +645,7 @@ DTEND;TZID=Asia/Shanghai:20261002T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 非农就业人口变动季调后 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 16.2 | 预测: 10 | 公布: -\n-- 美国 9月 平均每小时工资月率 (%): 前值: 0.3 | 预测: 0.3 | 公布: -\n-- 美国 9月 平均每小时工资年率 (%) ★★★: 前值: 3.1 | 预测: - | 公布: -\n-- 美国 9月 平均每周工时 (小时): 前值: 34.4 | 预测: 34.3 | 公布: -\n-- 美国 9月 私营企业非农就业人数变动 (万) ★★★: 前值: 12.7 | 预测: 8.5 | 公布: -\n-- 美国 9月 劳动参与率 (%) ★★★: 前值: 61.6 | 预测: - | 公布: -\n-- 美国 9月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.6 | 预测: - | 公布: -\n-- 美国 9月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.2 | 公布: -\n-- 美国 9月 U6失业率 (%): 前值: 7.7 | 预测: - | 公布: -\n-- 美国 9月 政府部门岗位变动 (万人): 前值: 3.5 | 预测: - | 公布: -
-UID:fx678-20261002-6359d020
+UID:fx678-20261002-78fbb209
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -757,7 +661,7 @@ DTEND;TZID=Asia/Shanghai:20261002T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 耐用品订单月率修正值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 8月 扣除国防耐用品订单月率修正值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月 扣除飞机非国防资本品订单月率修正值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月 扣除运输耐用品订单月率修正值 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月 扣除飞机非国防资本品出货月率修正值 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20261002-0f6c786e
+UID:fx678-20261002-6bcccdd5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -773,7 +677,7 @@ DTEND;TZID=Asia/Shanghai:20261002T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 工厂订单月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.9 | 预测: - | 公布: -\n-- 美国 8月 扣除运输的工厂订单月率 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 美国 8月 扣除国防的工厂订单月率 (%): 前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20261002-26690e68
+UID:fx678-20261002-6376c3f0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -789,7 +693,7 @@ DTEND;TZID=Asia/Shanghai:20261003T010000
 LOCATION:美国
 SUMMARY:📊 美国 截至10月2日当周 全美钻井总数 (口)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至10月2日当周 天然气钻井总数 (口): 前值:  | 预测: - | 公布: -\n-- 美国 截至10月2日当周 石油钻井总数 (口) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至10月2日当周 混杂钻井总数 (口): 前值:  | 预测: - | 公布: -\n-- 北美洲 截至10月2日当周 总钻井总数 (口): 前值:  | 预测: - | 公布: -\n-- 北美洲 截至10月2日当周 墨西哥湾总钻井总数 (口): 前值:  | 预测: - | 公布: -\n-- 加拿大 截至10月2日当周 总钻井数量 (口): 前值:  | 预测: - | 公布: -
-UID:fx678-20261003-710c6272
+UID:fx678-20261003-57e97464
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -805,7 +709,7 @@ DTEND;TZID=Asia/Shanghai:20261003T063000
 LOCATION:美国
 SUMMARY:📊 美国 10月1日 NYMEX铂金库存-每日更新 (百盎司)
 DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 10月1日 NYMEX铂金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 10月1日 NYMEX钯金库存-每日更新 (百盎司): 前值:  | 预测: - | 公布: -\n-- 美国 10月1日 NYMEX钯金库存变动-每日 (百盎司): 前值:  | 预测: - | 公布: -
-UID:fx678-20261003-3d1a4b26
+UID:fx678-20261003-40102e19
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
