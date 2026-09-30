@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20260930T093000
 DTEND;TZID=Asia/Shanghai:20260930T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.8 | 预测: 50.1 | 公布: -
-UID:fx678-20260930-0f6be0c9
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.8 | 预测: 50.1 | 公布: 50.1
+UID:fx678-20260930-45080257
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20260930T094500
 DTEND;TZID=Asia/Shanghai:20260930T094500
 LOCATION:中国
 SUMMARY:📊 中国 9月 SPGI制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.5 | 预测: 51.6 | 公布: -
-UID:fx678-20260930-064c34a7
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.5 | 预测: 51.6 | 公布: 52.1
+UID:fx678-20260930-7060c136
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20260930T094500
 DTEND;TZID=Asia/Shanghai:20260930T094500
 LOCATION:中国
 SUMMARY:📊 中国 9月 SPGI服务业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.4 | 预测: - | 公布: -
-UID:fx678-20260930-33c642f6
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.4 | 预测: - | 公布: 51.6
+UID:fx678-20260930-1a38d8a2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261007T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 外汇储备 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34380 | 预测: - | 公布: -\n-- 中国 9月 黄金储备量 (万盎司) ★★★: 前值: 7673 | 预测: - | 公布: -
-UID:fx678-20261007-1c60f15f
+UID:fx678-20261007-7d0a6449
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
