@@ -16,44 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260930T201500
-DTEND;TZID=Asia/Shanghai:20260930T201500
-LOCATION:美国
-SUMMARY:📊 美国 9月 ADP就业人数变动 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.8 | 预测: 7 | 公布: 9
-UID:fx678-20260930-751945a1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 9月 ADP就业人数变动 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260930T203000
-DTEND;TZID=Asia/Shanghai:20260930T203000
-LOCATION:美国
-SUMMARY:📊 美国 第二季度 实际GDP年化季率终值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: 1.5 | 公布: 2.2\n-- 美国 第二季度 GDP价格指数季率终值 (%) ★★★: 前值: 6.4 | 预测: 6.4 | 公布: 6.3\n-- 美国 第二季度 核心PCE物价指数年化季率终值 (%) ★★★: 前值: 3.6 | 预测: 3.6 | 公布: 3.3\n-- 美国 第二季度 消费者支出年化季率终值 (%) ★★★: 前值: 3.4 | 预测: - | 公布: 3.8\n-- 美国 第二季度 GDP隐性平减指数季率-季调后终值 (%) ★★★: 前值: 6.4 | 预测: - | 公布: 6.1
-UID:fx678-20260930-3a40ec4f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 第二季度 实际GDP年化季率终值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261001T203000
 DTEND;TZID=Asia/Shanghai:20261001T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至9月26日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20 | 公布: -\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值: 171.9 | 预测: 172.5 | 公布: -
-UID:fx678-20261001-180bb5a7
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20 | 公布: 19.7\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值: 171.9 | 预测: 172.5 | 公布: 170.1
+UID:fx678-20261001-3b13b85b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261002T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 非农就业人口变动季调后 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 16.2 | 预测: 9 | 公布: -\n-- 美国 9月 平均每小时工资年率 (%) ★★★: 前值: 3.1 | 预测: 3.2 | 公布: -\n-- 美国 9月 私营企业非农就业人数变动 (万) ★★★: 前值: 12.7 | 预测: 8.5 | 公布: -\n-- 美国 9月 劳动参与率 (%) ★★★: 前值: 61.6 | 预测: - | 公布: -\n-- 美国 9月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.6 | 预测: 1 | 公布: -\n-- 美国 9月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.1 | 公布: -
-UID:fx678-20261002-2ce70a9c
+UID:fx678-20261002-2988dfb2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261006T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月19日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2 | 预测: - | 公布: -
-UID:fx678-20261006-1c9fa622
+UID:fx678-20261006-14f2933b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261008T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至10月3日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月19日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20261008-21a1acbd
+UID:fx678-20261008-0080a6c6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
