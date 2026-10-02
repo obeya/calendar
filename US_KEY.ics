@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261001T203000
-DTEND;TZID=Asia/Shanghai:20261001T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至9月26日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20 | 公布: 19.7\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值: 171.9 | 预测: 172.5 | 公布: 170.1
-UID:fx678-20261001-3b13b85b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至9月26日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261002T203000
 DTEND;TZID=Asia/Shanghai:20261002T203000
 LOCATION:美国
 SUMMARY:📊 美国 9月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 16.2 | 预测: 9 | 公布: -\n-- 美国 9月 平均每小时工资年率 (%) ★★★: 前值: 3.1 | 预测: 3.2 | 公布: -\n-- 美国 9月 私营企业非农就业人数变动 (万) ★★★: 前值: 12.7 | 预测: 8.5 | 公布: -\n-- 美国 9月 劳动参与率 (%) ★★★: 前值: 61.6 | 预测: - | 公布: -\n-- 美国 9月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.6 | 预测: 1 | 公布: -\n-- 美国 9月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.1 | 公布: -
-UID:fx678-20261002-2988dfb2
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 13.3修正前16.2 | 预测: 9 | 公布: 2.9\n-- 美国 9月 平均每小时工资年率 (%) ★★★: 前值: 3.1 | 预测: 3.2 | 公布: 3\n-- 美国 9月 私营企业非农就业人数变动 (万) ★★★: 前值: 8.9修正前12.7 | 预测: 8.5 | 公布: 4.6\n-- 美国 9月 劳动参与率 (%) ★★★: 前值: 61.6 | 预测: - | 公布: 61.8\n-- 美国 9月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.5修正前1.6 | 预测: 1 | 公布: 0.9\n-- 美国 9月 失业率 (%) ★★★: 前值: 4.1 | 预测: 4.1 | 公布: 4.2
+UID:fx678-20261002-7b1022af
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261006T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月19日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2 | 预测: - | 公布: -
-UID:fx678-20261006-14f2933b
+UID:fx678-20261006-57c5980b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261008T203000
 DTEND;TZID=Asia/Shanghai:20261008T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至10月3日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月19日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20261008-0080a6c6
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20261008-33757c4f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
