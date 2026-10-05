@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261007T160000
 DTEND;TZID=Asia/Shanghai:20261007T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34380 | 预测: - | 公布: -\n-- 中国 9月 黄金储备量 (万盎司) ★★★: 前值: 7673 | 预测: - | 公布: -\n-- 中国 9月 黄金储备-美元计价 (亿美元): 前值: 3500 | 预测: - | 公布: -
-UID:fx678-20261007-26319446
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34380 | 预测: 34230 | 公布: -\n-- 中国 9月 黄金储备量 (万盎司) ★★★: 前值: 7673 | 预测: - | 公布: -\n-- 中国 9月 黄金储备-美元计价 (亿美元): 前值: 3500 | 预测: - | 公布: -
+UID:fx678-20261007-57c6b874
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261012T085800
 LOCATION:中国
 SUMMARY:📊 中国 9月 实际外商直接投资年率CNY-年初至今 (%) (1012-1019几点不定)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5.3 | 预测: - | 公布: -
-UID:fx678-20261012-1d3f3d3a
+UID:fx678-20261012-4fb33bda
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261012T160000
 DTEND;TZID=Asia/Shanghai:20261012T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 M2货币供应年率 (%) (1012-1019)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.5 | 预测: - | 公布: -\n-- 中国 9月 M0货币供应年率 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 9月 M1货币供应年率 (%): 前值: 4.1 | 预测: - | 公布: -
-UID:fx678-20261012-359352c0
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.5 | 预测: 7.5 | 公布: -\n-- 中国 9月 M0货币供应年率 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 9月 M1货币供应年率 (%): 前值: 4.1 | 预测: - | 公布: -
+UID:fx678-20261012-2c586215
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261012T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 人民币各项贷款余额年率 (%) (1012-1019)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.9 | 预测: - | 公布: -\n-- 中国 9月 社会融资规模-年初至今 (亿元) (1012-1019) ★★★: 前值: 239100 | 预测: - | 公布: -\n-- 中国 9月 新增人民币贷款-年初至今 (亿元) (1012-1019) ★★★: 前值: 104400 | 预测: - | 公布: -
-UID:fx678-20261012-08995bc8
+UID:fx678-20261012-6fb075d0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

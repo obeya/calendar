@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261005T155500
 DTEND;TZID=Asia/Shanghai:20261005T155500
 LOCATION:德国
 SUMMARY:📊 德国 9月 SPGI服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 52.9 | 预测: - | 公布: -\n-- 德国 9月 SPGI综合PMI终值: 前值: 53.8 | 预测: - | 公布: -
-UID:fx678-20261005-690b05dc
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 52.9 | 预测: 52.9 | 公布: 52.9\n-- 德国 9月 SPGI综合PMI终值: 前值: 53.8 | 预测: 53.8 | 公布: 53.8
+UID:fx678-20261005-64dfa330
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261006T140000
 DTEND;TZID=Asia/Shanghai:20261006T140000
 LOCATION:德国
 SUMMARY:📊 德国 8月 工业订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.5 | 预测: - | 公布: -\n-- 德国 8月 工作日调整后制造业订单年率 (%): 前值: 13.1 | 预测: - | 公布: -\n-- 德国 8月 季调后制造业订单月率 (%): 前值: 2.5 | 预测: - | 公布: -\n-- 德国 8月 制造业产出当前价格年率-季调后 (%): 前值: 16.8 | 预测: - | 公布: -\n-- 德国 8月 季调后消费品指数-制造业分项: 前值: 115.3 | 预测: - | 公布: -
-UID:fx678-20261006-429c5b7e
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.5 | 预测: -1 | 公布: -\n-- 德国 8月 工作日调整后制造业订单年率 (%): 前值: 13.1 | 预测: - | 公布: -\n-- 德国 8月 季调后制造业订单月率 (%): 前值: 2.5 | 预测: - | 公布: -\n-- 德国 8月 制造业产出当前价格年率-季调后 (%): 前值: 16.8 | 预测: - | 公布: -\n-- 德国 8月 季调后消费品指数-制造业分项: 前值: 115.3 | 预测: - | 公布: -
+UID:fx678-20261006-530de3d8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261006T153000
 LOCATION:德国
 SUMMARY:📊 德国 9月 SPGI建筑业PMI
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 48.7 | 预测: - | 公布: -
-UID:fx678-20261006-75d8e8dd
+UID:fx678-20261006-4499049d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +68,8 @@ DTSTART;TZID=Asia/Shanghai:20261007T140000
 DTEND;TZID=Asia/Shanghai:20261007T140000
 LOCATION:德国
 SUMMARY:📊 德国 8月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -1.1 | 预测: - | 公布: -\n-- 德国 8月 工作日调整后工业产出年率 (%) ★★★: 前值: -1.6 | 预测: - | 公布: -
-UID:fx678-20261007-778dcc8a
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -1.1 | 预测: 0.5 | 公布: -\n-- 德国 8月 工作日调整后工业产出年率 (%) ★★★: 前值: -1.6 | 预测: - | 公布: -
+UID:fx678-20261007-28c31774
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,8 +84,8 @@ DTSTART;TZID=Asia/Shanghai:20261008T140000
 DTEND;TZID=Asia/Shanghai:20261008T140000
 LOCATION:德国
 SUMMARY:📊 德国 8月 季调后出口月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.8 | 预测: - | 公布: -\n-- 德国 8月 季调后进口月率 (%): 前值: -5.7 | 预测: - | 公布: -\n-- 德国 8月 未季调贸易帐 (亿欧元): 前值: 222 | 预测: - | 公布: -\n-- 德国 8月 季调后贸易帐 (亿欧元): 前值: 213 | 预测: - | 公布: -
-UID:fx678-20261008-7f067078
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.8 | 预测: 0.8 | 公布: -\n-- 德国 8月 季调后进口月率 (%): 前值: -5.7 | 预测: 2.8 | 公布: -\n-- 德国 8月 未季调贸易帐 (亿欧元): 前值: 222 | 预测: - | 公布: -\n-- 德国 8月 季调后贸易帐 (亿欧元): 前值: 213 | 预测: 190 | 公布: -
+UID:fx678-20261008-642fb26d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -93,6 +93,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 8月 季调后出口月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261013T140000
+DTEND;TZID=Asia/Shanghai:20261013T140000
+LOCATION:德国
+SUMMARY:📊 德国 9月 CPI年率终值 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 德国 9月 CPI月率终值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 9月 调和CPI月率终值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 9月 调和CPI年率终值 (%): 前值:  | 预测: - | 公布: -\n-- 德国 9月 未季调CPI读数终值: 前值:  | 预测: - | 公布: -
+UID:fx678-20261013-0cf34e52
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 9月 CPI年率终值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261013T200000
+DTEND;TZID=Asia/Shanghai:20261013T200000
+LOCATION:德国
+SUMMARY:📊 德国 8月 未季调经常帐 (亿欧元)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 211.54 | 预测: - | 公布: -
+UID:fx678-20261013-4966d9a5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 8月 未季调经常帐 (亿欧元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
