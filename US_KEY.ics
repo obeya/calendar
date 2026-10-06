@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261006T201500
 DTEND;TZID=Asia/Shanghai:20261006T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月19日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2 | 预测: - | 公布: -
-UID:fx678-20261006-7e370a5b
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2 | 预测: - | 公布: 2.38
+UID:fx678-20261006-101c0eed
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261008T203000
 DTEND;TZID=Asia/Shanghai:20261008T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至10月3日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20 | 公布: -\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值: 170.1 | 预测: 170.5 | 公布: -
-UID:fx678-20261008-00514c72
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20 | 公布: -\n-- 美国 截至9月26日当周 续请失业金人数 (万) ★★★: 前值: 170.1 | 预测: 170.8 | 公布: -
+UID:fx678-20261008-012e1029
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261013T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至9月26日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261013-316d78cd
+UID:fx678-20261013-48bf7df0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
