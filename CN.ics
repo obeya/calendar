@@ -16,12 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261012T085800
-DTEND;TZID=Asia/Shanghai:20261012T085800
+DTSTART;TZID=Asia/Shanghai:20261012T150000
+DTEND;TZID=Asia/Shanghai:20261012T150000
 LOCATION:中国
 SUMMARY:📊 中国 9月 实际外商直接投资年率CNY-年初至今 (%) (1012-1019几点不定)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5.3 | 预测: - | 公布: -
-UID:fx678-20261012-4cb93722
+UID:fx678-20261012-1e2a8d74
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261012T160000
 DTEND;TZID=Asia/Shanghai:20261012T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 M2货币供应年率 (%) (1012-1019)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.5 | 预测: 7.5 | 公布: -\n-- 中国 9月 M0货币供应年率 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 9月 M1货币供应年率 (%): 前值: 4.1 | 预测: - | 公布: -
-UID:fx678-20261012-026e3ba9
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.5 | 预测: 7.4 | 公布: -\n-- 中国 9月 M0货币供应年率 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 9月 M1货币供应年率 (%): 前值: 4.1 | 预测: - | 公布: -
+UID:fx678-20261012-587682e0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261012T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 人民币各项贷款余额年率 (%) (1012-1019)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.9 | 预测: 4.8 | 公布: -\n-- 中国 9月 社会融资规模-年初至今 (亿元) (1012-1019) ★★★: 前值: 239100 | 预测: - | 公布: -\n-- 中国 9月 新增人民币贷款-年初至今 (亿元) (1012-1019) ★★★: 前值: 104400 | 预测: - | 公布: -
-UID:fx678-20261012-5cced340
+UID:fx678-20261012-420857fe
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +68,8 @@ DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.8 | 预测: 4.4 | 公布: -
-UID:fx678-20261014-3705c1fa
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.8 | 预测: 4.5 | 公布: -
+UID:fx678-20261014-53f3ecb3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,8 +84,8 @@ DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0.8 | 预测: 1.1 | 公布: -\n-- 中国 9月 CPI月率 (%): 前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20261014-29a84585
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0.8 | 预测: 1 | 公布: -\n-- 中国 9月 CPI月率 (%): 前值: 0.4 | 预测: 0.3 | 公布: -
+UID:fx678-20261014-0acca6c8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -99,41 +99,9 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261014T093000
 DTEND;TZID=Asia/Shanghai:20261014T093000
 LOCATION:中国
-SUMMARY:📊 中国 9月 贸易帐-美元计价 (亿美元) (1014当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1190.9 | 预测: 1145.5 | 公布: -\n-- 中国 9月 出口年率-美元计价 (%) (1014当天不定时) ★★★: 前值: 25 | 预测: 25.3 | 公布: -\n-- 中国 9月 进口年率-美元计价 (%) (1014当天不定时) ★★★: 前值: 28.2 | 预测: 23.5 | 公布: -\n-- 中国 9月 进口总额-美元计价 (亿美元): 前值: 2823.6 | 预测: - | 公布: -\n-- 中国 9月 出口总额-美元计价 (亿美元): 前值: 4014.4 | 预测: - | 公布: -
-UID:fx678-20261014-0682c152
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 9月 贸易帐-美元计价 (亿美元) (1014当天不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261014T093000
-DTEND;TZID=Asia/Shanghai:20261014T093000
-LOCATION:中国
-SUMMARY:📊 中国 9月 贸易帐-人民币计价 (亿元) (1014当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8093 | 预测: - | 公布: -\n-- 中国 9月 出口年率-人民币计价 (%) (1014当天不定时) ★★★: 前值: 18.6 | 预测: - | 公布: -\n-- 中国 9月 进口年率-人民币计价 (%) (1014当天不定时) ★★★: 前值: 21.7 | 预测: - | 公布: -\n-- 中国 9月 进口总额-人民币计价 (亿元): 前值: 19181.1 | 预测: - | 公布: -\n-- 中国 9月 出口总额-人民币计价 (亿元): 前值: 27274.1 | 预测: - | 公布: -
-UID:fx678-20261014-6818d51f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 9月 贸易帐-人民币计价 (亿元) (1014当天不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261014T093000
-DTEND;TZID=Asia/Shanghai:20261014T093000
-LOCATION:中国
 SUMMARY:📊 中国 9月 PPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20261014-609eccfa
+UID:fx678-20261014-743d4797
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -144,28 +112,76 @@ DESCRIPTION:📊 中国 9月 PPI月率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261015T092000
-DTEND;TZID=Asia/Shanghai:20261015T092000
+DTSTART;TZID=Asia/Shanghai:20261014T103000
+DTEND;TZID=Asia/Shanghai:20261014T103000
 LOCATION:中国
-SUMMARY:📊 中国 10月15日 中期借贷便利MLF操作规模 (亿元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 10月15日 中期借贷便利MLF中标利率 (%) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20261015-6c251699
+SUMMARY:📊 中国 9月 贸易帐-美元计价 (亿美元) (1014当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1190.9 | 预测: 1143 | 公布: -\n-- 中国 9月 出口年率-美元计价 (%) (1014当天不定时) ★★★: 前值: 25 | 预测: 25.3 | 公布: -\n-- 中国 9月 进口年率-美元计价 (%) (1014当天不定时) ★★★: 前值: 28.2 | 预测: 23.5 | 公布: -\n-- 中国 9月 进口总额-美元计价 (亿美元): 前值: 2823.6 | 预测: - | 公布: -\n-- 中国 9月 出口总额-美元计价 (亿美元): 前值: 4014.4 | 预测: - | 公布: -
+UID:fx678-20261014-0d68dbd7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月15日 中期借贷便利MLF操作规模 (亿元)
+DESCRIPTION:📊 中国 9月 贸易帐-美元计价 (亿美元) (1014当天不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261015T132000
-DTEND;TZID=Asia/Shanghai:20261015T132000
+DTSTART;TZID=Asia/Shanghai:20261014T103000
+DTEND;TZID=Asia/Shanghai:20261014T103000
+LOCATION:中国
+SUMMARY:📊 中国 9月 贸易帐-人民币计价 (亿元) (1014当天不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8093 | 预测: - | 公布: -\n-- 中国 9月 出口年率-人民币计价 (%) (1014当天不定时) ★★★: 前值: 18.6 | 预测: - | 公布: -\n-- 中国 9月 进口年率-人民币计价 (%) (1014当天不定时) ★★★: 前值: 21.7 | 预测: - | 公布: -\n-- 中国 9月 进口总额-人民币计价 (亿元): 前值: 19181.1 | 预测: - | 公布: -\n-- 中国 9月 出口总额-人民币计价 (亿元): 前值: 27274.1 | 预测: - | 公布: -
+UID:fx678-20261014-266a8adb
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 9月 贸易帐-人民币计价 (亿元) (1014当天不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261014T110000
+DTEND;TZID=Asia/Shanghai:20261014T110000
+LOCATION:中国
+SUMMARY:📊 中国 9月 原油进口量-能源 (万吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3792.8 | 预测: - | 公布: -\n-- 中国 9月 成品油出口量-精炼石油产品-能源 (万吨): 前值: 601 | 预测: - | 公布: -\n-- 中国 9月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 224.6 | 预测: - | 公布: -\n-- 中国 9月 天然气进口-能源 (万吨): 前值: 1032.7 | 预测: - | 公布: -
+UID:fx678-20261014-3b52a5db
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 9月 原油进口量-能源 (万吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261014T110000
+DTEND;TZID=Asia/Shanghai:20261014T110000
+LOCATION:中国
+SUMMARY:📊 中国 9月 液化天然气进口量-能源 (万吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 516 | 预测: - | 公布: -\n-- 中国 9月 柴油出口量-能源 (万吨): 前值: 133 | 预测: - | 公布: -\n-- 中国 9月 管道天然气进口量-能源 (万吨) ★★★: 前值: 517 | 预测: - | 公布: -
+UID:fx678-20261014-3702143b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 9月 液化天然气进口量-能源 (万吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261015T140000
+DTEND;TZID=Asia/Shanghai:20261015T140000
 LOCATION:中国
 SUMMARY:📊 中国 9月 全社会用电量年率-每月 (%) (15-20日不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: -\n-- 中国 9月 全社会用电量-每月 (亿千瓦时) (15-20日不定时) ★★★: 前值: 10332 | 预测: - | 公布: -
-UID:fx678-20261015-4646a9bc
+UID:fx678-20261015-6bdc91fc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +197,7 @@ DTEND;TZID=Asia/Shanghai:20261015T142600
 LOCATION:中国
 SUMMARY:📊 中国 9月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3524 | 预测: - | 公布: -
-UID:fx678-20261015-53743665
+UID:fx678-20261015-5c24b52c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20261016T161800
 LOCATION:中国
 SUMMARY:📊 中国 2025年 与共建一带一路国家贸易指数 （不定时）
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 198 | 预测: - | 公布: -
-UID:fx678-20261016-3b5aef4c
+UID:fx678-20261016-1d3d63f6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
