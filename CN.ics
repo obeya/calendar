@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261021T110000
-DTEND;TZID=Asia/Shanghai:20261021T110000
-LOCATION:中国
-SUMMARY:📊 中国 9月 全社会用电量年率-每月 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.7 | 预测: - | 公布: 1.2\n-- 中国 9月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 10332 | 预测: - | 公布: 8997
-UID:fx678-20261021-0aa730ad
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 9月 全社会用电量年率-每月 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261022T090000
 DTEND;TZID=Asia/Shanghai:20261022T090000
 LOCATION:中国
 SUMMARY:📊 中国 9月 Swift人民币在全球支付中占比 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.26 | 预测: - | 公布: -
-UID:fx678-20261022-09d46a9e
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.26 | 预测: - | 公布: 3.33
+UID:fx678-20261022-178009a2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -48,28 +32,12 @@ DESCRIPTION:📊 中国 9月 Swift人民币在全球支付中占比 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261022T140800
-DTEND;TZID=Asia/Shanghai:20261022T140800
-LOCATION:中国
-SUMMARY:📊 中国 1-9月 全国发电装机容量-年初至今 (万千瓦) (1022-1028不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 410302 | 预测: - | 公布: -\n-- 中国 1-9月 全国发电装机容量年率-年初至今 (%): 前值: 11.1 | 预测: - | 公布: -\n-- 中国 1-9月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 251552 | 预测: - | 公布: -
-UID:fx678-20261022-40473b0f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 1-9月 全国发电装机容量-年初至今 (万千瓦) (1022-1028不定时)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261022T160000
 DTEND;TZID=Asia/Shanghai:20261022T160000
 LOCATION:中国
 SUMMARY:📊 中国 9月 实际外商直接投资年率CNY-年初至今 (%) (1022-1026几点不定)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5.3 | 预测: - | 公布: -
-UID:fx678-20261022-7502c01d
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5.3 | 预测: - | 公布: -4.3
+UID:fx678-20261022-30738f07
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -80,12 +48,28 @@ DESCRIPTION:📊 中国 9月 实际外商直接投资年率CNY-年初至今 (%) 
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261023T140800
+DTEND;TZID=Asia/Shanghai:20261023T140800
+LOCATION:中国
+SUMMARY:📊 中国 1-9月 全国发电装机容量-年初至今 (万千瓦) (1023-1028不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 410302 | 预测: - | 公布: -\n-- 中国 1-9月 全国发电装机容量年率-年初至今 (%): 前值: 11.1 | 预测: - | 公布: -\n-- 中国 1-9月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 251552 | 预测: - | 公布: -
+UID:fx678-20261023-1e5252b0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 1-9月 全国发电装机容量-年初至今 (万千瓦) (1023-1028不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261027T093000
 DTEND;TZID=Asia/Shanghai:20261027T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 规模以上工业企业利润年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 15.7 | 预测: - | 公布: -\n-- 中国 9月 规模以上工业企业利润金额-年初至今 (亿元): 前值: 52719.8 | 预测: - | 公布: -\n-- 中国 9月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 4.2 | 预测: - | 公布: -
-UID:fx678-20261027-274dfba0
+UID:fx678-20261027-6a54212b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
