@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20261027T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 规模以上工业企业利润年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 15.7 | 预测: - | 公布: -\n-- 中国 9月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 4.2 | 预测: - | 公布: -
-UID:fx678-20261027-7c4319c3
+UID:fx678-20261027-223247c6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261031T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 官方制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.1 | 预测: - | 公布: -
-UID:fx678-20261031-0744f3a7
+UID:fx678-20261031-5ec0dd35
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

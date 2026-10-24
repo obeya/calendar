@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20261027T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至10月10日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.85 | 预测: - | 公布: -
-UID:fx678-20261027-0db9d5ce
+UID:fx678-20261027-3f70f269
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261029T020000
 LOCATION:美国
 SUMMARY:📊 美国 10月 联邦基金利率目标上限 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4 | 预测: 4 | 公布: -\n-- 美国 10月 联邦基金利率目标下限 (%) ★★★: 前值: 3.75 | 预测: 3.75 | 公布: -
-UID:fx678-20261029-02e3f3fb
+UID:fx678-20261029-0cf80c57
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261029T203000
 LOCATION:美国
 SUMMARY:📊 美国 第三季度 实际GDP年化季率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.2 | 预测: 3.2 | 公布: -\n-- 美国 第三季度 GDP价格指数季率初值 (%) ★★★: 前值: 6.3 | 预测: - | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率初值 (%) ★★★: 前值: 3.3 | 预测: - | 公布: -\n-- 美国 第三季度 消费者支出年化季率初值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后初值 (%) ★★★: 前值: 6.1 | 预测: - | 公布: -
-UID:fx678-20261029-7f7b07a9
+UID:fx678-20261029-377f3871
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261029T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至10月24日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: - | 公布: -\n-- 美国 截至10月24日当周 续请失业金人数 (万) ★★★: 前值: 172.8 | 预测: - | 公布: -
-UID:fx678-20261029-7e2cf5d6
+UID:fx678-20261029-739f6b31
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
