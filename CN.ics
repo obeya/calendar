@@ -16,12 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261025T140800
-DTEND;TZID=Asia/Shanghai:20261025T140800
+DTSTART;TZID=Asia/Shanghai:20261026T140800
+DTEND;TZID=Asia/Shanghai:20261026T140800
 LOCATION:中国
 SUMMARY:📊 中国 1-9月 全国发电装机容量-年初至今 (万千瓦) (1025-1028不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 410302 | 预测: - | 公布: -\n-- 中国 1-9月 全国发电装机容量年率-年初至今 (%): 前值: 11.1 | 预测: - | 公布: -\n-- 中国 1-9月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 251552 | 预测: - | 公布: -
-UID:fx678-20261025-598cc4d6
+UID:fx678-20261026-52f373bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261027T093000
 LOCATION:中国
 SUMMARY:📊 中国 9月 规模以上工业企业利润年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 15.7 | 预测: - | 公布: -\n-- 中国 9月 规模以上工业企业利润金额-年初至今 (亿元): 前值: 52719.8 | 预测: - | 公布: -\n-- 中国 9月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 4.2 | 预测: - | 公布: -
-UID:fx678-20261027-223247c6
+UID:fx678-20261027-2cbbd4a7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261031T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 官方制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.1 | 预测: - | 公布: -\n-- 中国 10月 官方非制造业PMI: 前值: 50.2 | 预测: - | 公布: -\n-- 中国 10月 官方综合PMI: 前值: 50.7 | 预测: - | 公布: -
-UID:fx678-20261031-5ec0dd35
+UID:fx678-20261031-2cac52e7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -61,6 +61,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 10月 官方制造业PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261102T094500
+DTEND;TZID=Asia/Shanghai:20261102T094500
+LOCATION:中国
+SUMMARY:📊 中国 10月 SPGI制造业PMI
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 52.1 | 预测: - | 公布: -
+UID:fx678-20261102-64cf39b0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 SPGI制造业PMI
 END:VALARM
 END:VEVENT
 END:VCALENDAR
