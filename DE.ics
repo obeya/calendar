@@ -16,12 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261026T160000
-DTEND;TZID=Asia/Shanghai:20261026T160000
+DTSTART;TZID=Asia/Shanghai:20261026T170000
+DTEND;TZID=Asia/Shanghai:20261026T170000
 LOCATION:德国
 SUMMARY:📊 德国 10月 IFO商业景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 89.9 | 预测: 89.9 | 公布: -\n-- 德国 10月 IFO商业现况指数: 前值: 89.5 | 预测: - | 公布: -\n-- 德国 10月 IFO商业预期指数: 前值: 90.4 | 预测: - | 公布: -
-UID:fx678-20261026-3fb4f3d5
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 89.9 | 预测: 90 | 公布: 90.2\n-- 德国 10月 IFO商业现况指数: 前值: 89.5 | 预测: 89.9 | 公布: 88.8\n-- 德国 10月 IFO商业预期指数: 前值: 90.4 | 预测: 90 | 公布: 91.6
+UID:fx678-20261026-22fdc9cf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261030T150000
 LOCATION:德国
 SUMMARY:📊 德国 9月 进口物价指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1 | 预测: - | 公布: -\n-- 德国 9月 进口物价指数年率 (%): 前值: 8.3 | 预测: - | 公布: -\n-- 德国 9月 出口物价指数年率 (%): 前值: 4.7 | 预测: - | 公布: -\n-- 德国 9月 出口物价指数月率 (%): 前值: 0.4 | 预测: - | 公布: -
-UID:fx678-20261030-1c0034d7
+UID:fx678-20261030-1b4f6fb7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261030T165500
 LOCATION:德国
 SUMMARY:📊 德国 10月 季调后失业率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.4 | 预测: - | 公布: -\n-- 德国 10月 季调后失业人数变动 (万人) ★★★: 前值: 1.2 | 预测: - | 公布: -\n-- 德国 10月 未季调失业总人数 (万人): 前值: 299.4 | 预测: - | 公布: -\n-- 德国 10月 季调后失业总人数 (万人): 前值: 301.2 | 预测: - | 公布: -
-UID:fx678-20261030-3ff485c4
+UID:fx678-20261030-612b720c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261030T170000
 LOCATION:德国
 SUMMARY:📊 德国 第三季度 季调后GDP季率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.3 | 预测: 0.1 | 公布: -\n-- 德国 第三季度 未季调季度GDP年率初值 (%) ★★★: 前值: 1 | 预测: - | 公布: -\n-- 德国 第三季度 工作日调整后GDP年率初值 (%): 前值: 1 | 预测: - | 公布: -
-UID:fx678-20261030-1629c931
+UID:fx678-20261030-76a7f350
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20261030T170000
 LOCATION:德国
 SUMMARY:📊 德国 10月 BB勃兰登堡州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.5 | 预测: - | 公布: -\n-- 德国 10月 SN萨克森州CPI月率 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 SN萨克森州CPI年率 (%): 前值: 3.4 | 预测: - | 公布: -\n-- 德国 10月 BY巴伐利亚州CPI月率 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 BY巴伐利亚州CPI年率 (%): 前值: 3.2 | 预测: - | 公布: -\n-- 德国 10月 BB勃兰登堡州CPI年率 (%): 前值: 3.6 | 预测: - | 公布: -\n-- 德国 10月 BW巴登符腾堡州CPI月率 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 BW巴登符腾堡州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 10月 HE黑森州CPI月率 (%): 前值: 0.5 | 预测: - | 公布: -\n-- 德国 10月 HE黑森州CPI年率 (%): 前值: 3.4 | 预测: - | 公布: -
-UID:fx678-20261030-489eae02
+UID:fx678-20261030-2e9c3a47
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261030T170000
 LOCATION:德国
 SUMMARY:📊 德国 10月 NW北莱茵威斯特法伦州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 3.3 | 预测: - | 公布: -
-UID:fx678-20261030-1634e2cc
+UID:fx678-20261030-2224c4c1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261030T210000
 LOCATION:德国
 SUMMARY:📊 德国 10月 CPI年率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 3.3 | 预测: - | 公布: -\n-- 德国 10月 CPI月率初值 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 调和CPI月率初值 (%): 前值: 0.6 | 预测: - | 公布: -\n-- 德国 10月 调和CPI年率初值 (%): 前值: 3.3 | 预测: - | 公布: -\n-- 德国 10月 未季调CPI读数初值: 前值: 126.6 | 预测: - | 公布: -
-UID:fx678-20261030-4a09dc8d
+UID:fx678-20261030-7c3f9419
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261102T150000
 LOCATION:德国
 SUMMARY:📊 德国 9月 实际零售销售月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 1.3 | 预测: - | 公布: -\n-- 德国 9月 实际零售销售年率 (%) ★★★: 前值: -0.4 | 预测: - | 公布: -
-UID:fx678-20261102-43e2fede
+UID:fx678-20261102-44caaa42
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20261102T165500
 LOCATION:德国
 SUMMARY:📊 德国 10月 SPGI制造业PMI终值
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261102-62b3c0ec
+UID:fx678-20261102-7cb1767f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
