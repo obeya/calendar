@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261031T093000
 DTEND;TZID=Asia/Shanghai:20261031T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.1 | 预测: 50 | 公布: -\n-- 中国 10月 官方非制造业PMI: 前值: 50.2 | 预测: - | 公布: -\n-- 中国 10月 官方综合PMI: 前值: 50.7 | 预测: - | 公布: -
-UID:fx678-20261031-0165706e
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.1 | 预测: 50 | 公布: 49.3\n-- 中国 10月 官方非制造业PMI: 前值: 50.2 | 预测: - | 公布: 49.7\n-- 中国 10月 官方综合PMI: 前值: 50.7 | 预测: - | 公布: 49.7
+UID:fx678-20261031-6fb9b448
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261102T094500
 LOCATION:中国
 SUMMARY:📊 中国 10月 SPGI制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 52.1 | 预测: 51.5 | 公布: -
-UID:fx678-20261102-0272ee16
+UID:fx678-20261102-54e427d6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261104T094500
 LOCATION:中国
 SUMMARY:📊 中国 10月 SPGI服务业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.6 | 预测: - | 公布: -
-UID:fx678-20261104-2971ab6f
+UID:fx678-20261104-77f113be
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261107T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 外汇储备 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34002.51 | 预测: - | 公布: -\n-- 中国 10月 黄金储备量 (万盎司) ★★★: 前值: 7747 | 预测: - | 公布: -\n-- 中国 10月 黄金储备-美元计价 (亿美元): 前值: 3235 | 预测: - | 公布: -
-UID:fx678-20261107-2aebdff3
+UID:fx678-20261107-66db251f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
