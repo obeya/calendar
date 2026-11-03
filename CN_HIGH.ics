@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261102T094500
-DTEND;TZID=Asia/Shanghai:20261102T094500
-LOCATION:中国
-SUMMARY:📊 中国 10月 SPGI制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 52.1 | 预测: 51.6 | 公布: 52
-UID:fx678-20261102-683bd7f5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 SPGI制造业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261104T094500
 DTEND;TZID=Asia/Shanghai:20261104T094500
 LOCATION:中国
 SUMMARY:📊 中国 10月 SPGI服务业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.6 | 预测: 51.7 | 公布: -
-UID:fx678-20261104-1bba1cef
+UID:fx678-20261104-249d6b64
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261107T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 外汇储备 (亿美元)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34002.51 | 预测: - | 公布: -\n-- 中国 10月 黄金储备量 (万盎司) ★★★: 前值: 7747 | 预测: - | 公布: -
-UID:fx678-20261107-4d862109
+UID:fx678-20261107-7dcda531
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261109T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 PPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5 | 预测: - | 公布: -
-UID:fx678-20261109-5fc46b0e
+UID:fx678-20261109-0c468462
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261109T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 CPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0.9 | 预测: - | 公布: -
-UID:fx678-20261109-2190386c
+UID:fx678-20261109-756f3dc6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20261110T103000
 LOCATION:中国
 SUMMARY:📊 中国 10月 贸易帐-美元计价 (亿美元) (1110当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1335.3 | 预测: - | 公布: -\n-- 中国 10月 出口年率-美元计价 (%) (1110当天不定时) ★★★: 前值: 36.3 | 预测: - | 公布: -\n-- 中国 10月 进口年率-美元计价 (%) (1110当天不定时) ★★★: 前值: 31 | 预测: - | 公布: -
-UID:fx678-20261110-40876735
+UID:fx678-20261110-79e5ba07
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261110T103000
 LOCATION:中国
 SUMMARY:📊 中国 10月 贸易帐-人民币计价 (亿元) (1110当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 9059.7 | 预测: - | 公布: -\n-- 中国 10月 出口年率-人民币计价 (%) (1110当天不定时) ★★★: 前值: 29.6 | 预测: - | 公布: -\n-- 中国 10月 进口年率-人民币计价 (%) (1110当天不定时) ★★★: 前值: 24.6 | 预测: - | 公布: -
-UID:fx678-20261110-58d87617
+UID:fx678-20261110-4bc857c2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261110T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 原油进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3709.6 | 预测: - | 公布: -\n-- 中国 10月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 184.9 | 预测: - | 公布: -
-UID:fx678-20261110-66b784f8
+UID:fx678-20261110-157f5954
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261110T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 液化天然气进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: -\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20261110-432e4fcf
+UID:fx678-20261110-2c0319a3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20261110T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 M2货币供应年率 (%) (1110-1117)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.2 | 预测: - | 公布: -
-UID:fx678-20261110-074b3675
+UID:fx678-20261110-12a4afee
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20261110T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 人民币各项贷款余额年率 (%) (1110-1117)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: -\n-- 中国 10月 社会融资规模-年初至今 (亿元) (1110-1117) ★★★: 前值: 274600 | 预测: - | 公布: -\n-- 中国 10月 新增人民币贷款-年初至今 (亿元) (1110-1117) ★★★: 前值: 115200 | 预测: - | 公布: -
-UID:fx678-20261110-61deb6c5
+UID:fx678-20261110-7ed2cd69
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
