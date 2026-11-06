@@ -16,60 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261104T165500
-DTEND;TZID=Asia/Shanghai:20261104T165500
-LOCATION:德国
-SUMMARY:📊 德国 10月 SPGI服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 51.7 | 预测: 51.7 | 公布: 52.5\n-- 德国 10月 SPGI综合PMI终值: 前值: 52.8 | 预测: 52.8 | 公布: 53.4
-UID:fx678-20261104-5f34802a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 10月 SPGI服务业PMI终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261105T150000
-DTEND;TZID=Asia/Shanghai:20261105T150000
-LOCATION:德国
-SUMMARY:📊 德国 9月 工业订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -10.6 | 预测: - | 公布: -\n-- 德国 9月 工作日调整后制造业订单年率 (%): 前值: 2.7 | 预测: - | 公布: -\n-- 德国 9月 季调后制造业订单月率 (%): 前值: -10.6 | 预测: - | 公布: -\n-- 德国 9月 制造业产出当前价格年率-季调后 (%): 前值: 7.1 | 预测: - | 公布: -\n-- 德国 9月 季调后消费品指数-制造业分项: 前值: 106.6 | 预测: - | 公布: -
-UID:fx678-20261105-25e5f654
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 9月 工业订单月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261105T163000
-DTEND;TZID=Asia/Shanghai:20261105T163000
-LOCATION:德国
-SUMMARY:📊 德国 10月 SPGI建筑业PMI
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 43.5 | 预测: - | 公布: -
-UID:fx678-20261105-3107abbc
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 10月 SPGI建筑业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261106T150000
 DTEND;TZID=Asia/Shanghai:20261106T150000
 LOCATION:德国
 SUMMARY:📊 德国 9月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2 | 预测: 0.5 | 公布: -\n-- 德国 9月 工作日调整后工业产出年率 (%) ★★★: 前值: 2.3 | 预测: - | 公布: -
-UID:fx678-20261106-481de074
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2 | 预测: 0 | 公布: 0.7\n-- 德国 9月 工作日调整后工业产出年率 (%) ★★★: 前值: 2.3 | 预测: - | 公布: 0.4
+UID:fx678-20261106-057fb564
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261109T150000
 DTEND;TZID=Asia/Shanghai:20261109T150000
 LOCATION:德国
 SUMMARY:📊 德国 9月 季调后出口月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.8 | 预测: - | 公布: -\n-- 德国 9月 季调后进口月率 (%): 前值: 0.9 | 预测: - | 公布: -\n-- 德国 9月 未季调贸易帐 (亿欧元): 前值: 150 | 预测: - | 公布: -\n-- 德国 9月 季调后贸易帐 (亿欧元): 前值: 195 | 预测: - | 公布: -
-UID:fx678-20261109-41447afb
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.8 | 预测: - | 公布: -\n-- 德国 9月 季调后进口月率 (%): 前值: 0.9 | 预测: - | 公布: -\n-- 德国 9月 未季调贸易帐 (亿欧元): 前值: 150 | 预测: - | 公布: -\n-- 德国 9月 季调后贸易帐 (亿欧元): 前值: 195 | 预测: 194 | 公布: -
+UID:fx678-20261109-1f57e3db
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -100,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261111T150000
 DTEND;TZID=Asia/Shanghai:20261111T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 CPI年率终值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.8 | 预测: - | 公布: -\n-- 德国 10月 CPI月率终值 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 10月 调和CPI月率终值 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国 10月 调和CPI年率终值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 10月 未季调CPI读数终值: 前值: 126.6 | 预测: - | 公布: -
-UID:fx678-20261111-15246d20
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: -\n-- 德国 10月 CPI月率终值 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 10月 调和CPI月率终值 (%): 前值: -0.1 | 预测: -0.1 | 公布: -\n-- 德国 10月 调和CPI年率终值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 10月 未季调CPI读数终值: 前值: 126.6 | 预测: - | 公布: -
+UID:fx678-20261111-0c03305a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261112T200000
 LOCATION:德国
 SUMMARY:📊 德国 9月 未季调经常帐 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 103.2 | 预测: - | 公布: -
-UID:fx678-20261112-4f2d9e7f
+UID:fx678-20261112-359a598b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -125,6 +77,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 9月 未季调经常帐 (亿欧元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261113T150000
+DTEND;TZID=Asia/Shanghai:20261113T150000
+LOCATION:德国
+SUMMARY:📊 德国 10月 批发物价指数年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 8.7 | 预测: - | 公布: -\n-- 德国 10月 批发物价指数月率 (%): 前值: 1.9 | 预测: - | 公布: -
+UID:fx678-20261113-7c46e64f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 10月 批发物价指数年率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
