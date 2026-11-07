@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261106T213000
-DTEND;TZID=Asia/Shanghai:20261106T213000
-LOCATION:美国
-SUMMARY:📊 美国 10月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.0修正前2.9 | 预测: 6.5 | 公布: 16.5\n-- 美国 10月 平均每小时工资年率 (%) ★★★: 前值: 3.2修正前3 | 预测: 2.9 | 公布: 3.1\n-- 美国 10月 私营企业非农就业人数变动 (万) ★★★: 前值: 7.8修正前4.6 | 预测: 6.4 | 公布: 15.9\n-- 美国 10月 劳动参与率 (%) ★★★: 前值: 61.8 | 预测: - | 公布: 61.9\n-- 美国 10月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.3修正前0.9 | 预测: 0.5 | 公布: 1.9\n-- 美国 10月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: 4.1
-UID:fx678-20261106-28f79d10
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 10月 非农就业人口变动季调后 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261110T211500
 DTEND;TZID=Asia/Shanghai:20261110T211500
 LOCATION:美国
 SUMMARY:📊 美国 截至10月24日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.68 | 预测: - | 公布: -
-UID:fx678-20261110-01f597a7
+UID:fx678-20261110-00d48b8d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261110T213000
 LOCATION:美国
 SUMMARY:📊 美国 10月 CPI年率未季调 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 10月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: - | 公布: -\n-- 美国 10月 能源CPI年率-未季调 (%) ★★★: 前值: 20.4 | 预测: - | 公布: -
-UID:fx678-20261110-6f3c74f9
+UID:fx678-20261110-738db7ee
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261112T213000
 LOCATION:美国
 SUMMARY:📊 美国 截至11月2日当周 初请失业金人数 (万)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.9 | 预测: 19.6 | 公布: -\n-- 美国 截至11月2日当周 续请失业金人数 (万) ★★★: 前值: 171.8 | 预测: - | 公布: -
-UID:fx678-20261112-362cc216
+UID:fx678-20261112-2635efbd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
