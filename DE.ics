@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20261109T150000
 LOCATION:德国
 SUMMARY:📊 德国 9月 季调后出口月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -0.8 | 预测: - | 公布: -\n-- 德国 9月 季调后进口月率 (%): 前值: 0.9 | 预测: - | 公布: -\n-- 德国 9月 未季调贸易帐 (亿欧元): 前值: 150 | 预测: - | 公布: -\n-- 德国 9月 季调后贸易帐 (亿欧元): 前值: 195 | 预测: 194 | 公布: -
-UID:fx678-20261109-389930df
+UID:fx678-20261109-286181d6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261111T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 CPI年率终值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.8 | 预测: 2.8 | 公布: -\n-- 德国 10月 CPI月率终值 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 10月 调和CPI月率终值 (%): 前值: -0.1 | 预测: -0.1 | 公布: -\n-- 德国 10月 调和CPI年率终值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 10月 未季调CPI读数终值: 前值: 126.6 | 预测: - | 公布: -
-UID:fx678-20261111-61ae7ab3
+UID:fx678-20261111-22b68ec8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261112T200000
 LOCATION:德国
 SUMMARY:📊 德国 9月 未季调经常帐 (亿欧元)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 103.2 | 预测: - | 公布: -
-UID:fx678-20261112-2b37d905
+UID:fx678-20261112-36fb82a1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261113T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 批发物价指数年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 8.7 | 预测: - | 公布: -\n-- 德国 10月 批发物价指数月率 (%): 前值: 1.9 | 预测: - | 公布: -
-UID:fx678-20261113-46021d3b
+UID:fx678-20261113-5b3d226a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

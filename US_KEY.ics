@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20261110T211500
 LOCATION:美国
 SUMMARY:📊 美国 截至10月24日当周 ADP就业周度发布变动 (万人)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.68 | 预测: - | 公布: -
-UID:fx678-20261110-00d48b8d
+UID:fx678-20261110-550c3870
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -37,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261110T213000
 LOCATION:美国
 SUMMARY:📊 美国 10月 CPI年率未季调 (%)
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 10月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: - | 公布: -\n-- 美国 10月 能源CPI年率-未季调 (%) ★★★: 前值: 20.4 | 预测: - | 公布: -
-UID:fx678-20261110-738db7ee
+UID:fx678-20261110-153e99ce
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261112T213000
 DTEND;TZID=Asia/Shanghai:20261112T213000
 LOCATION:美国
 SUMMARY:📊 美国 截至11月2日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.9 | 预测: 19.6 | 公布: -\n-- 美国 截至11月2日当周 续请失业金人数 (万) ★★★: 前值: 171.8 | 预测: - | 公布: -
-UID:fx678-20261112-2635efbd
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.9 | 预测: 19.6 | 公布: -\n-- 美国 截至10月26日当周 续请失业金人数 (万) ★★★: 前值: 171.8 | 预测: - | 公布: -
+UID:fx678-20261112-0c0609ac
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

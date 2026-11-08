@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261107T100000
-DTEND;TZID=Asia/Shanghai:20261107T100000
-LOCATION:中国
-SUMMARY:📊 中国 10月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34002.51 | 预测: - | 公布: 34051.8\n-- 中国 10月 黄金储备量 (万盎司) ★★★: 前值: 7747 | 预测: - | 公布: 7830\n-- 中国 10月 黄金储备-美元计价 (亿美元): 前值: 3235 | 预测: - | 公布: 3064
-UID:fx678-20261107-7aa8f2cd
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 外汇储备 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261109T093000
 DTEND;TZID=Asia/Shanghai:20261109T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 PPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5 | 预测: 5.3 | 公布: -
-UID:fx678-20261109-3e4f3765
+UID:fx678-20261109-40a87a2c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261109T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 CPI年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 0.9 | 预测: 0.8 | 公布: -\n-- 中国 10月 CPI月率 (%): 前值: 0.2 | 预测: 0 | 公布: -
-UID:fx678-20261109-1ca05c30
+UID:fx678-20261109-66fbc999
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261109T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 PPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 1.2 | 预测: - | 公布: -
-UID:fx678-20261109-2615468b
+UID:fx678-20261109-7e9d0dcc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261110T103000
 LOCATION:中国
 SUMMARY:📊 中国 10月 贸易帐-美元计价 (亿美元) (1110当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1335.3 | 预测: 1240 | 公布: -\n-- 中国 10月 出口年率-美元计价 (%) (1110当天不定时) ★★★: 前值: 36.3 | 预测: 33 | 公布: -\n-- 中国 10月 进口年率-美元计价 (%) (1110当天不定时) ★★★: 前值: 31 | 预测: 33.5 | 公布: -\n-- 中国 10月 进口总额-美元计价 (亿美元): 前值: 3136.5 | 预测: - | 公布: -\n-- 中国 10月 出口总额-美元计价 (亿美元): 前值: 4471.8 | 预测: - | 公布: -
-UID:fx678-20261110-7d212ef4
+UID:fx678-20261110-5d636337
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20261110T103000
 LOCATION:中国
 SUMMARY:📊 中国 10月 贸易帐-人民币计价 (亿元) (1110当天不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 9059.7 | 预测: - | 公布: -\n-- 中国 10月 出口年率-人民币计价 (%) (1110当天不定时) ★★★: 前值: 29.6 | 预测: - | 公布: -\n-- 中国 10月 进口年率-人民币计价 (%) (1110当天不定时) ★★★: 前值: 24.6 | 预测: - | 公布: -\n-- 中国 10月 进口总额-人民币计价 (亿元): 前值: 21284.2 | 预测: - | 公布: -\n-- 中国 10月 出口总额-人民币计价 (亿元): 前值: 30343.9 | 预测: - | 公布: -
-UID:fx678-20261110-5b40edda
+UID:fx678-20261110-22e3b3bd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -117,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261110T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 原油进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3709.6 | 预测: - | 公布: -\n-- 中国 10月 成品油出口量-精炼石油产品-能源 (万吨): 前值: 716.2 | 预测: - | 公布: -\n-- 中国 10月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 184.9 | 预测: - | 公布: -\n-- 中国 10月 天然气进口-能源 (万吨): 前值: 1086.3 | 预测: - | 公布: -
-UID:fx678-20261110-165496fc
+UID:fx678-20261110-5a69aec4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261110T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 液化天然气进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: -\n-- 中国 10月 柴油出口量-能源 (万吨): 前值: 185 | 预测: - | 公布: -\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20261110-200c2e09
+UID:fx678-20261110-57498a56
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261110T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 M2货币供应年率 (%) (1110-1117)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.2 | 预测: 7.2 | 公布: -\n-- 中国 10月 M0货币供应年率 (%): 前值: 10.6 | 预测: - | 公布: -\n-- 中国 10月 M1货币供应年率 (%): 前值: 3.2 | 预测: 3.3 | 公布: -
-UID:fx678-20261110-16775ceb
+UID:fx678-20261110-636648ca
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20261110T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 人民币各项贷款余额年率 (%) (1110-1117)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: -\n-- 中国 10月 社会融资规模-年初至今 (亿元) (1110-1117) ★★★: 前值: 274600 | 预测: - | 公布: -\n-- 中国 10月 新增人民币贷款-年初至今 (亿元) (1110-1117) ★★★: 前值: 115200 | 预测: - | 公布: -
-UID:fx678-20261110-3ae397f3
+UID:fx678-20261110-18447de7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20261113T141000
 LOCATION:中国
 SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
-UID:fx678-20261113-133130b8
+UID:fx678-20261113-16970714
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -189,6 +173,102 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T100000
+DTEND;TZID=Asia/Shanghai:20261116T100000
+LOCATION:中国
+SUMMARY:📊 中国 10月 城镇固定资产投资年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -7.2 | 预测: -7 | 公布: -\n-- 中国 10月 城镇固定资产投资月率 (%): 前值: 0.07 | 预测: - | 公布: -
+UID:fx678-20261116-167c682d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 城镇固定资产投资年率-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T100000
+DTEND;TZID=Asia/Shanghai:20261116T100000
+LOCATION:中国
+SUMMARY:📊 中国 10月 规模以上工业增加值年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: - | 公布: -\n-- 中国 10月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 5.5 | 预测: 5.2 | 公布: -\n-- 中国 10月 规模以上工业增加值月率-单月 (%): 前值: 0.61 | 预测: - | 公布: -
+UID:fx678-20261116-62c9fdd8
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 规模以上工业增加值年率-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T100000
+DTEND;TZID=Asia/Shanghai:20261116T100000
+LOCATION:中国
+SUMMARY:📊 中国 10月 社会消费品零售总额年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.1 | 预测: 0.8 | 公布: -\n-- 中国 10月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.13 | 预测: - | 公布: -\n-- 中国 10月 社会消费品零售总额月率 (%) ★★★: 前值: 0.35 | 预测: - | 公布: -
+UID:fx678-20261116-1a053a77
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 社会消费品零售总额年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T100000
+DTEND;TZID=Asia/Shanghai:20261116T100000
+LOCATION:中国
+SUMMARY:📊 中国 10月 城镇调查失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5.2 | 预测: - | 公布: -
+UID:fx678-20261116-7d4e8972
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 城镇调查失业率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T142600
+DTEND;TZID=Asia/Shanghai:20261116T142600
+LOCATION:中国
+SUMMARY:📊 中国 10月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 4256 | 预测: - | 公布: -
+UID:fx678-20261116-70e81195
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261116T150000
+DTEND;TZID=Asia/Shanghai:20261116T150000
+LOCATION:中国
+SUMMARY:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1116-1123几点不定)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -4.3 | 预测: - | 公布: -
+UID:fx678-20261116-50237b9b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1116-1123几点不定)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
