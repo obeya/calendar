@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261113T141000
-DTEND;TZID=Asia/Shanghai:20261113T141000
-LOCATION:中国
-SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
-UID:fx678-20261113-7aeaf232
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261113T160000
 DTEND;TZID=Asia/Shanghai:20261113T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 M2货币供应年率 (%) (1113-1117)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.2 | 预测: 7.2 | 公布: -\n-- 中国 10月 M0货币供应年率 (%): 前值: 10.6 | 预测: - | 公布: -\n-- 中国 10月 M1货币供应年率 (%): 前值: 3.2 | 预测: 3.3 | 公布: -
-UID:fx678-20261113-713e2bfe
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 7.2 | 预测: 7.2 | 公布: 7.1\n-- 中国 10月 M0货币供应年率 (%): 前值: 10.6 | 预测: - | 公布: 10.7\n-- 中国 10月 M1货币供应年率 (%): 前值: 3.2 | 预测: 3.3 | 公布: 4.4
+UID:fx678-20261113-3133cb90
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261113T160000
 DTEND;TZID=Asia/Shanghai:20261113T160000
 LOCATION:中国
 SUMMARY:📊 中国 10月 人民币各项贷款余额年率 (%) (1113-1117)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: -\n-- 中国 10月 社会融资规模-年初至今 (亿元) (1113-1117) ★★★: 前值: 274600 | 预测: 289080 | 公布: -\n-- 中国 10月 新增人民币贷款-年初至今 (亿元) (1113-1117) ★★★: 前值: 115200 | 预测: 116000 | 公布: -
-UID:fx678-20261113-30c21fb9
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.8 | 预测: - | 公布: 4.7\n-- 中国 10月 社会融资规模-年初至今 (亿元) (1113-1117) ★★★: 前值: 274600 | 预测: 289080 | 公布: 286100\n-- 中国 10月 新增人民币贷款-年初至今 (亿元) (1113-1117) ★★★: 前值: 115200 | 预测: 116000 | 公布: 114200
+UID:fx678-20261113-61222021
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -64,12 +48,28 @@ DESCRIPTION:📊 中国 10月 人民币各项贷款余额年率 (%) (1113-1117)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261114T141000
+DTEND;TZID=Asia/Shanghai:20261114T141000
+LOCATION:中国
+SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
+UID:fx678-20261114-06bee045
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261116T100000
 DTEND;TZID=Asia/Shanghai:20261116T100000
 LOCATION:中国
 SUMMARY:📊 中国 10月 城镇固定资产投资年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -7.2 | 预测: -7 | 公布: -\n-- 中国 10月 城镇固定资产投资月率 (%): 前值: 0.07 | 预测: - | 公布: -
-UID:fx678-20261116-4ba65a54
+UID:fx678-20261116-4cdc7f16
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +85,7 @@ DTEND;TZID=Asia/Shanghai:20261116T100000
 LOCATION:中国
 SUMMARY:📊 中国 10月 规模以上工业增加值年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: - | 公布: -\n-- 中国 10月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 5.5 | 预测: 5.3 | 公布: -\n-- 中国 10月 规模以上工业增加值月率-单月 (%): 前值: 0.61 | 预测: - | 公布: -
-UID:fx678-20261116-1df8e728
+UID:fx678-20261116-558c1adb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261116T100000
 LOCATION:中国
 SUMMARY:📊 中国 10月 社会消费品零售总额年率 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.1 | 预测: 0.8 | 公布: -\n-- 中国 10月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.13 | 预测: - | 公布: -\n-- 中国 10月 社会消费品零售总额月率 (%) ★★★: 前值: 0.35 | 预测: - | 公布: -
-UID:fx678-20261116-414f79f4
+UID:fx678-20261116-190e8675
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -116,8 +116,8 @@ DTSTART;TZID=Asia/Shanghai:20261116T100000
 DTEND;TZID=Asia/Shanghai:20261116T100000
 LOCATION:中国
 SUMMARY:📊 中国 10月 城镇调查失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5.2 | 预测: - | 公布: -
-UID:fx678-20261116-51cc8d0a
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5.2 | 预测: 5.2 | 公布: -
+UID:fx678-20261116-36d206e2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261116T142600
 LOCATION:中国
 SUMMARY:📊 中国 10月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 4256 | 预测: - | 公布: -
-UID:fx678-20261116-194afefd
+UID:fx678-20261116-020b6f2b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20261116T150000
 LOCATION:中国
 SUMMARY:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1116-1123几点不定)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -4.3 | 预测: - | 公布: -
-UID:fx678-20261116-0be616ea
+UID:fx678-20261116-25b672b3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20261118T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 液化天然气进口量-能源 (万吨)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: -\n-- 中国 10月 柴油出口量-能源 (万吨): 前值: 185 | 预测: - | 公布: -\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20261118-3f11abce
+UID:fx678-20261118-13fd6e7c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -180,8 +180,8 @@ DTSTART;TZID=Asia/Shanghai:20261119T090000
 DTEND;TZID=Asia/Shanghai:20261119T090000
 LOCATION:中国
 SUMMARY:📊 中国 10月 Swift人民币在全球支付中占比 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
-UID:fx678-20261119-647fe72b
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.33 | 预测: - | 公布: -
+UID:fx678-20261119-3d3575b6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -196,8 +196,8 @@ DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T090000
 LOCATION:中国
 SUMMARY:📊 中国 11月 一年期贷款市场报价利率LPR (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: - | 公布: -\n-- 中国 11月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: - | 公布: -
-UID:fx678-20261120-4133a5ed
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 11月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
+UID:fx678-20261120-7c63b731
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -213,7 +213,7 @@ DTEND;TZID=Asia/Shanghai:20261120T110800
 LOCATION:中国
 SUMMARY:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1120-1128不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 413214 | 预测: - | 公布: -\n-- 中国 1-10月 全国发电装机容量年率-年初至今 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 1-10月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 253871 | 预测: - | 公布: -
-UID:fx678-20261120-7fb1e0e8
+UID:fx678-20261120-418e69e2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

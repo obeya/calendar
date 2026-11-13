@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261112T200000
-DTEND;TZID=Asia/Shanghai:20261112T200000
-LOCATION:德国
-SUMMARY:📊 德国 9月 未季调经常帐 (亿欧元)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 103.2 | 预测: - | 公布: -
-UID:fx678-20261112-3868a4c4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 9月 未季调经常帐 (亿欧元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261113T150000
 DTEND;TZID=Asia/Shanghai:20261113T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 批发物价指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 8.7 | 预测: - | 公布: -\n-- 德国 10月 批发物价指数月率 (%): 前值: 1.9 | 预测: - | 公布: -
-UID:fx678-20261113-13a18cbd
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 8.7 | 预测: - | 公布: 8.8\n-- 德国 10月 批发物价指数月率 (%): 前值: 1.9 | 预测: - | 公布: 0.4
+UID:fx678-20261113-638475c4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261117T180000
 DTEND;TZID=Asia/Shanghai:20261117T180000
 LOCATION:德国
 SUMMARY:📊 德国 11月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 28.1 | 预测: - | 公布: -\n-- 德国 11月 ZEW经济现况指数: 前值: -35.9 | 预测: - | 公布: -
-UID:fx678-20261117-6699a3f6
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 28.1 | 预测: 29 | 公布: -\n-- 德国 11月 ZEW经济现况指数: 前值: -35.9 | 预测: -33.2 | 公布: -
+UID:fx678-20261117-5eba3649
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261120T150000
 DTEND;TZID=Asia/Shanghai:20261120T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 6.7 | 预测: - | 公布: -\n-- 德国 10月 PPI月率 (%): 前值: 1.9 | 预测: - | 公布: -
-UID:fx678-20261120-4260e97c
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 6.7 | 预测: - | 公布: -\n-- 德国 10月 PPI月率 (%): 前值: 1.9 | 预测: 0.5 | 公布: -
+UID:fx678-20261120-653876af
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
