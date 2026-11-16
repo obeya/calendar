@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261117T180000
 DTEND;TZID=Asia/Shanghai:20261117T180000
 LOCATION:德国
 SUMMARY:📊 德国 11月 ZEW经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 28.1 | 预测: 29 | 公布: -\n-- 德国 11月 ZEW经济现况指数: 前值: -35.9 | 预测: -33.2 | 公布: -
-UID:fx678-20261117-0a268c5f
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 28.1 | 预测: 29 | 公布: -\n-- 德国 11月 ZEW经济现况指数: 前值: -35.9 | 预测: -35 | 公布: -
+UID:fx678-20261117-0970c509
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261120T150000
 DTEND;TZID=Asia/Shanghai:20261120T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 6.7 | 预测: - | 公布: -\n-- 德国 10月 PPI月率 (%): 前值: 1.9 | 预测: 0.5 | 公布: -
-UID:fx678-20261120-249eb781
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 6.7 | 预测: 7.2 | 公布: -\n-- 德国 10月 PPI月率 (%): 前值: 1.9 | 预测: 0.9 | 公布: -
+UID:fx678-20261120-00233915
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261123T163000
 DTEND;TZID=Asia/Shanghai:20261123T163000
 LOCATION:德国
 SUMMARY:📊 德国 11月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261123-06f68b13
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 54.2 | 预测: - | 公布: -
+UID:fx678-20261123-4b8cc7e6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +68,8 @@ DTSTART;TZID=Asia/Shanghai:20261123T163000
 DTEND;TZID=Asia/Shanghai:20261123T163000
 LOCATION:德国
 SUMMARY:📊 德国 11月 SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值:  | 预测: - | 公布: -\n-- 德国 11月 SPGI综合PMI初值: 前值:  | 预测: - | 公布: -
-UID:fx678-20261123-0c424ba1
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 52.5 | 预测: - | 公布: -\n-- 德国 11月 SPGI综合PMI初值: 前值: 53.4 | 预测: - | 公布: -
+UID:fx678-20261123-5217e8f5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -77,6 +77,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 11月 SPGI服务业PMI初值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261124T130000
+DTEND;TZID=Asia/Shanghai:20261124T130000
+LOCATION:德国
+SUMMARY:📊 德国 10月 新车登记年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 5.3 | 预测: - | 公布: -\n-- 德国 10月 新车登记月率 (%): 前值: 9 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记年率 (%): 前值: 5.7 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记数量 (辆): 前值: 888529 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记月率 (%): 前值: 9.3 | 预测: - | 公布: -
+UID:fx678-20261124-4a7b51fd
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 10月 新车登记年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261124T170000
+DTEND;TZID=Asia/Shanghai:20261124T170000
+LOCATION:德国
+SUMMARY:📊 德国 11月 IFO商业景气指数
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 90.2 | 预测: - | 公布: -\n-- 德国 11月 IFO商业现况指数: 前值: 88.8 | 预测: - | 公布: -\n-- 德国 11月 IFO商业预期指数: 前值: 91.6 | 预测: - | 公布: -
+UID:fx678-20261124-5cd5540f
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 11月 IFO商业景气指数
 END:VALARM
 END:VEVENT
 END:VCALENDAR
