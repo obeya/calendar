@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261118T110000
 DTEND;TZID=Asia/Shanghai:20261118T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: -\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20261118-5094c168
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: 553\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: 448
+UID:fx678-20261118-38529b9c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -32,12 +32,12 @@ DESCRIPTION:📊 中国 10月 液化天然气进口量-能源 (万吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261118T141000
-DTEND;TZID=Asia/Shanghai:20261118T141000
+DTSTART;TZID=Asia/Shanghai:20261119T141000
+DTEND;TZID=Asia/Shanghai:20261119T141000
 LOCATION:中国
 SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
-UID:fx678-20261118-0708d700
+UID:fx678-20261119-2b3ac75b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261120T090000
 LOCATION:中国
 SUMMARY:📊 中国 11月 一年期贷款市场报价利率LPR (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 11月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20261120-1d07c5b8
+UID:fx678-20261120-57446eb5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

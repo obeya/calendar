@@ -20,8 +20,8 @@ DTSTART;TZID=Asia/Shanghai:20261118T110000
 DTEND;TZID=Asia/Shanghai:20261118T110000
 LOCATION:中国
 SUMMARY:📊 中国 10月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: -\n-- 中国 10月 柴油出口量-能源 (万吨): 前值: 185 | 预测: - | 公布: -\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20261118-5094c168
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 561 | 预测: - | 公布: 553\n-- 中国 10月 柴油出口量-能源 (万吨): 前值: 185 | 预测: - | 公布: 140\n-- 中国 10月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: 448
+UID:fx678-20261118-38529b9c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -32,44 +32,12 @@ DESCRIPTION:📊 中国 10月 液化天然气进口量-能源 (万吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261118T141000
-DTEND;TZID=Asia/Shanghai:20261118T141000
-LOCATION:中国
-SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
-UID:fx678-20261118-0708d700
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261118T160000
-DTEND;TZID=Asia/Shanghai:20261118T160000
-LOCATION:中国
-SUMMARY:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1118-1123几点不定)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -4.3 | 预测: - | 公布: -
-UID:fx678-20261118-6e31173b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1118-1123几点不定)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261119T090000
 DTEND;TZID=Asia/Shanghai:20261119T090000
 LOCATION:中国
 SUMMARY:📊 中国 10月 Swift人民币在全球支付中占比 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3.33 | 预测: - | 公布: -
-UID:fx678-20261119-1c6b983e
+UID:fx678-20261119-227d8e59
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -80,12 +48,44 @@ DESCRIPTION:📊 中国 10月 Swift人民币在全球支付中占比 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261119T141000
+DTEND;TZID=Asia/Shanghai:20261119T141000
+LOCATION:中国
+SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: -\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: -
+UID:fx678-20261119-2b3ac75b
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261119T160000
+DTEND;TZID=Asia/Shanghai:20261119T160000
+LOCATION:中国
+SUMMARY:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1119-1123几点不定)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -4.3 | 预测: - | 公布: -
+UID:fx678-20261119-223fab78
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 10月 实际外商直接投资年率CNY-年初至今 (%) (1119-1123几点不定)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261120T090000
 DTEND;TZID=Asia/Shanghai:20261120T090000
 LOCATION:中国
 SUMMARY:📊 中国 11月 一年期贷款市场报价利率LPR (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3 | 预测: 3 | 公布: -\n-- 中国 11月 五年期贷款市场报价利率LPR (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
-UID:fx678-20261120-1d07c5b8
+UID:fx678-20261120-57446eb5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261120T110800
 LOCATION:中国
 SUMMARY:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1120-1128不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 413214 | 预测: - | 公布: -\n-- 中国 1-10月 全国发电装机容量年率-年初至今 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 1-10月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 253871 | 预测: - | 公布: -
-UID:fx678-20261120-4f6a2dc3
+UID:fx678-20261120-35d4a9cb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
