@@ -16,44 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261123T163000
-DTEND;TZID=Asia/Shanghai:20261123T163000
-LOCATION:德国
-SUMMARY:📊 德国 11月 SPGI制造业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 54.2 | 预测: 54 | 公布: 55
-UID:fx678-20261123-3d575c53
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 11月 SPGI制造业PMI初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261123T163000
-DTEND;TZID=Asia/Shanghai:20261123T163000
-LOCATION:德国
-SUMMARY:📊 德国 11月 SPGI服务业PMI初值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 52.5 | 预测: 52.3 | 公布: 54\n-- 德国 11月 SPGI综合PMI初值: 前值: 53.4 | 预测: 53.3 | 公布: 55
-UID:fx678-20261123-682f29f2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 11月 SPGI服务业PMI初值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261124T130000
 DTEND;TZID=Asia/Shanghai:20261124T130000
 LOCATION:德国
 SUMMARY:📊 德国 10月 新车登记年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 5.3 | 预测: - | 公布: -\n-- 德国 10月 新车登记月率 (%): 前值: 9 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记年率 (%): 前值: 5.7 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记数量 (辆): 前值: 888529 | 预测: - | 公布: -\n-- 欧盟 10月 新车登记月率 (%): 前值: 9.3 | 预测: - | 公布: -
-UID:fx678-20261124-148696f6
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 5.3 | 预测: - | 公布: 4.9\n-- 德国 10月 新车登记月率 (%): 前值: 9 | 预测: - | 公布: 1.7\n-- 欧盟 10月 新车登记年率 (%): 前值: 5.7 | 预测: - | 公布: 5.4\n-- 欧盟 10月 新车登记数量 (辆): 前值: 888529 | 预测: - | 公布: 915704\n-- 欧盟 10月 新车登记月率 (%): 前值: 9.3 | 预测: - | 公布: 2.6
+UID:fx678-20261124-706f5d17
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -68,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261124T170000
 DTEND;TZID=Asia/Shanghai:20261124T170000
 LOCATION:德国
 SUMMARY:📊 德国 11月 IFO商业景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 90.2 | 预测: 90.5 | 公布: -\n-- 德国 11月 IFO商业现况指数: 前值: 88.8 | 预测: 89.1 | 公布: -\n-- 德国 11月 IFO商业预期指数: 前值: 91.6 | 预测: 92 | 公布: -
-UID:fx678-20261124-44904f37
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 90.2 | 预测: 90.5 | 公布: 90.6\n-- 德国 11月 IFO商业现况指数: 前值: 88.8 | 预测: 89.1 | 公布: 89.4\n-- 德国 11月 IFO商业预期指数: 前值: 91.6 | 预测: 92 | 公布: 91.6
+UID:fx678-20261124-3a9ab638
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -84,8 +52,8 @@ DTSTART;TZID=Asia/Shanghai:20261125T150000
 DTEND;TZID=Asia/Shanghai:20261125T150000
 LOCATION:德国
 SUMMARY:📊 德国 第三季度 季调后GDP季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.2 | 预测: 0.2 | 公布: -\n-- 德国 第三季度 未季调季度GDP年率修正值 (%) ★★★: 前值: 1.3 | 预测: - | 公布: -\n-- 德国 第三季度 工作日调整后GDP年率修正值 (%): 前值: 1.2 | 预测: 1.2 | 公布: -
-UID:fx678-20261125-58756b86
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.2 | 预测: 0.2 | 公布: -\n-- 德国 第三季度 未季调季度GDP年率修正值 (%) ★★★: 前值: 1.3 | 预测: 1.3 | 公布: -\n-- 德国 第三季度 工作日调整后GDP年率修正值 (%): 前值: 1.2 | 预测: 1.2 | 公布: -
+UID:fx678-20261125-62caeb3b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -101,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261126T150000
 LOCATION:德国
 SUMMARY:📊 德国 12月 Gfk消费者信心指数
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -30.8 | 预测: -29.9 | 公布: -
-UID:fx678-20261126-6d3a150d
+UID:fx678-20261126-3e45a1f3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -116,8 +84,8 @@ DTSTART;TZID=Asia/Shanghai:20261127T165500
 DTEND;TZID=Asia/Shanghai:20261127T165500
 LOCATION:德国
 SUMMARY:📊 德国 11月 季调后失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.4 | 预测: 6.4 | 公布: -\n-- 德国 11月 季调后失业人数变动 (万人) ★★★: 前值: 0.4 | 预测: 0.5 | 公布: -\n-- 德国 11月 未季调失业总人数 (万人): 前值: 29.55 | 预测: - | 公布: -\n-- 德国 11月 季调后失业总人数 (万人): 前值: 301.6 | 预测: - | 公布: -
-UID:fx678-20261127-16400c92
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.4 | 预测: 6.4 | 公布: -\n-- 德国 11月 季调后失业人数变动 (万人) ★★★: 前值: 0.4 | 预测: 0.4 | 公布: -\n-- 德国 11月 未季调失业总人数 (万人): 前值: 29.55 | 预测: - | 公布: -\n-- 德国 11月 季调后失业总人数 (万人): 前值: 301.6 | 预测: - | 公布: -
+UID:fx678-20261127-6783aa9a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -133,7 +101,7 @@ DTEND;TZID=Asia/Shanghai:20261130T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 进口物价指数月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 2.1 | 预测: - | 公布: -\n-- 德国 10月 进口物价指数年率 (%): 前值: 10.4 | 预测: - | 公布: -\n-- 德国 10月 出口物价指数年率 (%): 前值: 5.3 | 预测: - | 公布: -\n-- 德国 10月 出口物价指数月率 (%): 前值: 0.6 | 预测: - | 公布: -
-UID:fx678-20261130-1bdd2124
+UID:fx678-20261130-137869a6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -149,7 +117,7 @@ DTEND;TZID=Asia/Shanghai:20261130T150000
 LOCATION:德国
 SUMMARY:📊 德国 10月 实际零售销售月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: -2 | 预测: - | 公布: -\n-- 德国 10月 实际零售销售年率 (%) ★★★: 前值: -2.3 | 预测: - | 公布: -
-UID:fx678-20261130-1eef17a9
+UID:fx678-20261130-01db29b6
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,7 +133,7 @@ DTEND;TZID=Asia/Shanghai:20261130T170000
 LOCATION:德国
 SUMMARY:📊 德国 11月 BB勃兰登堡州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.3 | 预测: - | 公布: -\n-- 德国 11月 SN萨克森州CPI月率 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 11月 SN萨克森州CPI年率 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 11月 BY巴伐利亚州CPI月率 (%): 前值: 0 | 预测: - | 公布: -\n-- 德国 11月 BY巴伐利亚州CPI年率 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 11月 BB勃兰登堡州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 德国 11月 BW巴登符腾堡州CPI月率 (%): 前值: 0 | 预测: - | 公布: -\n-- 德国 11月 BW巴登符腾堡州CPI年率 (%): 前值: 2.6 | 预测: - | 公布: -\n-- 德国 11月 HE黑森州CPI月率 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国 11月 HE黑森州CPI年率 (%): 前值: 2.9 | 预测: - | 公布: -
-UID:fx678-20261130-56078759
+UID:fx678-20261130-588befc9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -181,7 +149,7 @@ DTEND;TZID=Asia/Shanghai:20261130T170000
 LOCATION:德国
 SUMMARY:📊 德国 11月 NW北莱茵威斯特法伦州CPI月率 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: - | 公布: -\n-- 德国 11月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 2.7 | 预测: - | 公布: -
-UID:fx678-20261130-059c37aa
+UID:fx678-20261130-68a05cdd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -197,7 +165,7 @@ DTEND;TZID=Asia/Shanghai:20261130T210000
 LOCATION:德国
 SUMMARY:📊 德国 11月 CPI年率初值 (%)
 DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.8 | 预测: - | 公布: -\n-- 德国 11月 CPI月率初值 (%): 前值: -0.2 | 预测: - | 公布: -\n-- 德国 11月 调和CPI月率初值 (%): 前值: -0.1 | 预测: - | 公布: -\n-- 德国 11月 调和CPI年率初值 (%): 前值: 2.8 | 预测: - | 公布: -\n-- 德国 11月 未季调CPI读数初值: 前值: 126.4 | 预测: - | 公布: -
-UID:fx678-20261130-07f7eda5
+UID:fx678-20261130-01bb1be2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -212,8 +180,8 @@ DTSTART;TZID=Asia/Shanghai:20261201T165500
 DTEND;TZID=Asia/Shanghai:20261201T165500
 LOCATION:德国
 SUMMARY:📊 德国 11月 SPGI制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261201-009cc785
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 55 | 预测: - | 公布: -
+UID:fx678-20261201-402bf980
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM

@@ -16,35 +16,19 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261123T141000
-DTEND;TZID=Asia/Shanghai:20261123T141000
+DTSTART;TZID=Asia/Shanghai:20261125T140800
+DTEND;TZID=Asia/Shanghai:20261125T140800
 LOCATION:中国
-SUMMARY:📊 中国 10月 全社会用电量年率-每月 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1.2 | 预测: - | 公布: 1.6\n-- 中国 10月 全社会用电量-每月 (亿千瓦时) ★★★: 前值: 8997 | 预测: - | 公布: 8709
-UID:fx678-20261123-3df94125
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 10月 全社会用电量年率-每月 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261124T140800
-DTEND;TZID=Asia/Shanghai:20261124T140800
-LOCATION:中国
-SUMMARY:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1124-1128不定时)
+SUMMARY:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1125-1128不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 413214 | 预测: - | 公布: -\n-- 中国 1-10月 全国发电装机容量年率-年初至今 (%): 前值: 11.2 | 预测: - | 公布: -\n-- 中国 1-10月 发电装机容量之水核风太阳能-年初至今 (万千瓦): 前值: 253871 | 预测: - | 公布: -
-UID:fx678-20261124-0cb9467b
+UID:fx678-20261125-6fc47020
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1124-1128不定时)
+DESCRIPTION:📊 中国 1-10月 全国发电装机容量-年初至今 (万千瓦) (1125-1128不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +37,7 @@ DTEND;TZID=Asia/Shanghai:20261127T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 规模以上工业企业利润年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 15.5 | 预测: - | 公布: -\n-- 中国 10月 规模以上工业企业利润金额-年初至今 (亿元): 前值: 60337.4 | 预测: - | 公布: -\n-- 中国 10月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 14.4 | 预测: - | 公布: -
-UID:fx678-20261127-33251554
+UID:fx678-20261127-013338d5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261130T093000
 LOCATION:中国
 SUMMARY:📊 中国 11月 官方制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.3 | 预测: - | 公布: -\n-- 中国 11月 官方非制造业PMI: 前值: 49.7 | 预测: - | 公布: -\n-- 中国 11月 官方综合PMI: 前值: 49.7 | 预测: - | 公布: -
-UID:fx678-20261130-20150244
+UID:fx678-20261130-26c8ac66
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -85,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261201T094500
 LOCATION:中国
 SUMMARY:📊 中国 11月 RatingDog制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 52 | 预测: - | 公布: -
-UID:fx678-20261201-640cc569
+UID:fx678-20261201-5b72d520
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
