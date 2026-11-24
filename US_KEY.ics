@@ -16,28 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20261119T213000
-DTEND;TZID=Asia/Shanghai:20261119T213000
-LOCATION:美国
-SUMMARY:📊 美国 截至11月14日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20 | 预测: 19.7 | 公布: -\n-- 美国 截至11月7日当周 续请失业金人数 (万) ★★★: 前值: 169.7 | 预测: 171 | 公布: -
-UID:fx678-20261119-75e3824c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至11月14日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20261124T211500
 DTEND;TZID=Asia/Shanghai:20261124T211500
 LOCATION:美国
 SUMMARY:📊 美国 截至11月7日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261124-055e4ff7
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.38 | 预测: - | 公布: -
+UID:fx678-20261124-4bdc6eee
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -52,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261125T213000
 DTEND;TZID=Asia/Shanghai:20261125T213000
 LOCATION:美国
 SUMMARY:📊 美国 第三季度 实际GDP年化季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.4 | 预测: 3.4 | 公布: -\n-- 美国 第三季度 GDP价格指数季率修正值 (%) ★★★: 前值: 2.3 | 预测: - | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 2.5 | 预测: - | 公布: -\n-- 美国 第三季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 2.1 | 预测: - | 公布: -
-UID:fx678-20261125-7bf50d0d
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.4 | 预测: 3.4 | 公布: -\n-- 美国 第三季度 GDP价格指数季率修正值 (%) ★★★: 前值: 2.3 | 预测: 2.3 | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 2.5 | 预测: 2.5 | 公布: -\n-- 美国 第三季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 2.1 | 预测: - | 公布: -
+UID:fx678-20261125-50218e55
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -61,6 +45,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 第三季度 实际GDP年化季率修正值 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20261125T213000
+DTEND;TZID=Asia/Shanghai:20261125T213000
+LOCATION:美国
+SUMMARY:📊 美国 截至11月21日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.3 | 预测: 20 | 公布: -\n-- 美国 截至11月14日当周 续请失业金人数 (万) ★★★: 前值: 176.3 | 预测: - | 公布: -
+UID:fx678-20261125-086f569d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至11月21日当周 初请失业金人数 (万)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
