@@ -21,7 +21,7 @@ DTEND;TZID=Asia/Shanghai:20261127T093000
 LOCATION:中国
 SUMMARY:📊 中国 10月 规模以上工业企业利润年率-年初至今 (%)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 15.5 | 预测: - | 公布: -\n-- 中国 10月 规模以上工业企业利润年率-单月 (%) ★★★: 前值: 14.4 | 预测: - | 公布: -
-UID:fx678-20261127-499c9abb
+UID:fx678-20261127-35f6152a
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Shanghai:20261130T093000
 DTEND;TZID=Asia/Shanghai:20261130T093000
 LOCATION:中国
 SUMMARY:📊 中国 11月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.3 | 预测: - | 公布: -
-UID:fx678-20261130-58e41d89
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 49.3 | 预测: 49.5 | 公布: -
+UID:fx678-20261130-7215bb24
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DTEND;TZID=Asia/Shanghai:20261201T094500
 LOCATION:中国
 SUMMARY:📊 中国 11月 RatingDog制造业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 52 | 预测: - | 公布: -
-UID:fx678-20261201-7b744b34
+UID:fx678-20261201-59485cf4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Shanghai:20261203T094500
 LOCATION:中国
 SUMMARY:📊 中国 11月 RatingDog服务业PMI
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.8 | 预测: - | 公布: -
-UID:fx678-20261203-7243dc46
+UID:fx678-20261203-17a68a2d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
